@@ -1,0 +1,1 @@
+10;10;2537;0;nameDE=Das ist SPARTA;descriptionDE=Du lieﬂt bla bli blub;nameEN=This is SPARTA;descriptionEN=You read bla bli blub
