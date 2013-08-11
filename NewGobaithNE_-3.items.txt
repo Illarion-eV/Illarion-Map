@@ -2866,7 +2866,6 @@
 377;408;613;333
 377;413;613;333
 378;356;613;333
-378;358;337;333
 378;360;2850;333
 378;361;396;333
 378;361;42;333
@@ -2890,8 +2889,7 @@
 378;413;613;333
 379;356;613;333
 379;357;425;333
-379;358;337;333
-379;358;2039;333
+379;358;337;333;descriptionDe=Entdecker Sam Lorien, möge er seinen Weg niemals verlieren.;descriptionEn=Explorer Sam Lorien, may he never lose his way.
 379;359;75;333
 379;364;613;333
 379;369;613;333
@@ -2911,8 +2909,9 @@
 379;419;613;333
 379;420;613;333
 380;356;613;333
-380;358;337;333
+380;358;337;333;descriptionDe=In Erinnerung an Anthol Geddye, ermordet von seinem Butler. Er war ein tüchtiger und treuer Diener.;descriptionEn=To the memory of Anthol Geddye, killed by his butler. He was a good and faithful servant.
 380;359;3101;333
+380;359;2039;0
 380;361;3101;333
 380;362;63;333
 380;364;613;333
@@ -3289,6 +3288,7 @@
 399;424;613;333
 399;425;613;333
 400;360;613;333
+400;361;417;0
 400;368;613;333
 400;406;613;333
 400;408;3101;333
@@ -3309,6 +3309,7 @@
 401;417;525;333
 401;421;613;333
 402;360;613;333
+402;361;417;0
 402;364;2937;333
 402;368;613;333
 402;406;613;333
@@ -3331,7 +3332,7 @@
 403;417;42;333
 403;421;613;333
 404;360;613;333
-404;361;212;333
+404;361;2907;0;descriptionDe=Zuflucht der Pauldron Siedlung;descriptionEn=Refuge of the Pauldron Settlement
 404;362;2038;333
 404;363;28;333
 404;365;3101;333
@@ -3367,8 +3368,8 @@
 404;421;613;333
 405;360;613;333
 405;361;212;333
-405;362;404;333
-405;362;42;333
+405;362;403;0
+405;365;403;0
 405;368;613;333
 405;377;613;333
 405;392;613;333
@@ -3379,7 +3380,9 @@
 406;361;94;333
 406;362;2805;333
 406;363;3101;333
+406;363;3109;0;descriptionDe=Liebes Tagebuch der 4. Tanos bestätigt unsere Vorahnungen, die gesamte Familie Epphurd hat sich scheinbar geopfert. Was bringt die Zukunft? Als erstes beerdigen wir wohl unsere Freunde...;descriptionEn=Dear diary the 4th of Tanos confirmed our hunches, the whole family Epphurd has sacrificed theirself apparently. What does the future hold? First we will have to bury our friends....;nameDe=Seite eines Tagebuches;nameEn=Page of a diary
 406;365;2805;333
+406;367;410;0
 406;368;613;333
 406;377;613;333
 406;386;3101;333
@@ -3489,6 +3492,7 @@
 412;422;337;333
 412;424;613;333
 413;357;613;333
+413;359;968;0
 413;367;613;333
 413;377;613;333
 413;378;613;333
@@ -3505,7 +3509,7 @@
 413;391;613;333
 413;392;613;333
 413;412;613;333
-413;414;337;333
+413;414;337;333;descriptionDe=Hier liegt Elvis. Ja, er ist wirklich tot.;descriptionEn=Here lies Elvis. Yes, he's really dead.
 413;415;2855;333
 413;415;42;333
 413;416;3101;333
@@ -3513,13 +3517,12 @@
 413;422;337;333
 413;424;613;333
 414;357;613;333
-414;358;402;333
-414;358;42;333
+414;358;401;0
 414;367;613;333
 414;384;613;333
 414;387;613;333
 414;412;613;333
-414;414;337;333
+414;414;337;333;descriptionDe=Rette mich Cherga!;descriptionEn=Save me Cherga!
 414;417;3101;333
 414;421;3101;333
 414;422;337;333
@@ -3531,14 +3534,14 @@
 415;387;613;333
 415;412;613;333
 415;413;2907;333
-415;414;337;333
+415;414;337;333;descriptionDe=Hier liegt Razigemub Rib'kllug, ein Ork, der nie eine Umarmung hatte.;descriptionEn=Here lies Razigemub Rib'kllug, a orc who never had a hug.
 415;415;66;0;markerstone=106
 415;418;2937;333
 415;422;337;333
 415;424;613;333
 416;357;613;333
 416;358;524;333
-416;358;1060;333
+416;358;1060;333;descriptionDe=16. Tanos. Die gesamte Insel scheint von Untoten besiedelt zu sein. Wir werden hier bleiben und hoffen, dass uns die Untoten nicht finden ...;descriptionEn=16th of Tanos. The entire island seems to be inhabited by the undead. We will stay and hope that the undead will not find us here …;nameDe=Tagebuch;nameEn=Diary
 416;359;214;333
 416;360;2937;333
 416;367;613;333
@@ -3563,7 +3566,7 @@
 416;422;337;333
 416;424;613;333
 417;357;613;333
-417;358;2907;333
+417;358;2907;333;descriptionEn=Refuge of the Pauldron Settlement;descriptionDe=Zuflucht der Pauldron Siedlung
 417;363;2937;333
 417;365;3101;333
 417;367;613;333
@@ -3572,12 +3575,12 @@
 417;394;613;333
 417;400;613;333
 417;412;613;333
-417;414;337;333
+417;414;337;333;descriptionDe=*Reserviert für Dich*;descriptionEn=*Reserved for You*
 417;415;2937;333
 417;422;337;333
 417;424;613;333
 418;357;613;333
-418;359;337;333
+418;359;968;0
 418;361;3101;333
 418;367;613;333
 418;384;613;333
@@ -3588,13 +3591,14 @@
 418;400;613;333
 418;412;613;333
 418;413;2907;333
-418;414;337;333
+418;414;337;333;descriptionDe=He, verschwinde von meinem Sarg!;descriptionEn=Hey, get off my coffin!
 418;416;3101;333
 418;419;498;333
 418;424;613;333
 419;357;613;333
 419;358;514;333
 419;360;66;0;markerstone=107
+419;362;3109;0;descriptionDe=Unsere Siedlung ist zerstört, die Golemarmee ist fort, die Opfer blieben. Ist das Überleben nun Geschenk oder Fluch? Eingetragen am 4. Tanos;descriptionEn=Our settlement is destroyed, the golem army is gone, the victims are remaining. Is the survival a gift or a curse? Recorded at the 4th of Tanos;nameEn=Page of a diary;nameDe=Seite eines Tagebuches
 419;367;613;333
 419;384;613;333
 419;385;1361;333
@@ -3621,11 +3625,10 @@
 420;358;1360;333
 420;358;2039;333
 420;359;3101;333
-420;360;404;333
-420;360;42;333
+420;360;403;0
 420;362;3101;333
 420;362;42;333
-420;363;404;333
+420;363;403;0
 420;367;613;333
 420;384;613;333
 420;385;3095;333
@@ -3737,39 +3740,39 @@
 427;391;220;333
 427;400;613;333
 428;360;613;333
+428;364;2850;0
 428;369;613;333
 428;379;613;333
-428;381;337;333
-428;383;337;333
-428;383;2039;333
+428;380;3265;0
+428;381;3265;0
+428;383;337;333;descriptionEn=Richard Epphurd assassinated by the Stone Golems.;descriptionDe=Richard Epphurd ermordet von den Stein Golems.
 428;390;613;333
 428;391;525;333
 428;395;3101;333
 428;400;613;333
 429;360;613;333
-429;362;337;333
-429;363;3101;333
+429;361;967;0
+429;363;2850;0
 429;364;2488;333
 429;365;2850;333
 429;369;613;333
 429;379;613;333
-429;381;337;333
-429;383;337;333
+429;380;3265;0
+429;381;3265;0
+429;383;337;333;descriptionEn=Teresia Epphurd - She found a horrible end at the side of Richard.;descriptionDe=Teresia Epphurd - Sie fand ein grauenhaftes Ende an der Seite von Richard.
 429;385;3101;333
 429;390;613;333
 429;392;2937;333
 429;400;613;333
 430;360;613;333
-430;362;337;333
-430;362;498;333
+430;362;3109;0;descriptionDe=Es ist kaum zu glauben, eine Armee aus Golems ist in den Morgenstunden des 4. Tanos aus dem Meer gekommen. Sie griffen ohne Vorwarnung die Siedlungen an. Zum Glück gibt es die Zuflucht am Friedhofe, doch wie viel schafften es nicht?;descriptionEn=It is hard to believe but an army of golems came out of the sea in the morning of the 4th Tanos. They attacked the settlements without warning. Luckily, there is the refuge at the cemetery, but how many did not make it?;nameDe=Eine blutige Tagebuchseite;nameEn=A bloody Diarypage
 430;364;2850;333
-430;366;396;333
-430;366;42;333
+430;366;395;0
 430;369;613;333
 430;379;613;333
-430;381;337;333
-430;382;513;333
-430;383;513;333
+430;380;3265;0
+430;381;3265;0
+430;383;337;0;descriptionEn=Isabell Epphurd taken away from Golems before her time.;descriptionDe=Isabell Epphurd genommen von Golems bevor die Zeit reif war.
 430;384;2908;333
 430;384;3093;333
 430;385;8;333
@@ -3785,11 +3788,11 @@
 431;360;613;333
 431;361;513;333
 431;362;8;333
-431;362;27;333
+431;362;2856;0
 431;363;8;333
 431;363;221;333
 431;364;522;333
-431;364;1089;333
+431;364;1089;333;descriptionDe=Es wird wohl langsam Zeit für mich die Zuflucht zu verlassen, ich höre nun schon eigenartige Geräusche in der Nacht. --10. Tanos;descriptionEn=It is probably time for me to leave the refuge, I´m already hearing strange noises in the night. --10th of Tanos;nameDe=Sven´s Tagebuch;nameEn=Sven´s Diary
 431;365;8;333
 431;365;221;333
 431;366;516;333

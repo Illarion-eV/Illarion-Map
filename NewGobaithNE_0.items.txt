@@ -15267,7 +15267,7 @@
 83;450;913;333
 83;453;1782;333
 83;457;273;333
-83;478;1783;0
+83;476;300;333
 83;484;273;333
 83;494;1782;333
 83;494;618;333
@@ -15376,7 +15376,6 @@
 84;434;910;333
 84;445;273;333
 84;462;1783;333
-84;471;1783;0
 84;485;1782;333
 84;487;338;333
 84;494;66;0;markerstone=22
@@ -15475,8 +15474,6 @@
 85;462;233;333
 85;464;273;333
 85;468;1245;333
-85;474;387;0
-85;475;301;0
 85;481;14;333
 85;488;338;333
 85;492;203;333
@@ -15600,10 +15597,6 @@
 86;464;3095;333
 86;465;629;333
 86;466;1257;333
-86;468;301;0
-86;474;301;0
-86;475;301;0
-86;476;301;0
 86;485;274;333
 86;492;1783;333
 86;494;301;333
@@ -15713,8 +15706,8 @@
 87;466;386;333
 87;467;629;333
 87;468;520;333
-87;475;301;0
-87;476;301;0
+87;471;1783;333
+87;472;1782;333
 87;477;274;333
 87;483;1783;333
 87;492;915;333
@@ -15824,8 +15817,6 @@
 88;466;287;333
 88;467;622;333
 88;468;3098;333
-88;475;387;0
-88;476;301;0
 88;484;338;333
 88;492;274;333
 88;494;1862;333
@@ -15916,6 +15907,7 @@
 89;466;287;333
 89;467;630;333
 89;468;629;333
+89;473;1817;333
 89;480;338;333
 89;482;1783;333
 90;112;301;333
@@ -15993,8 +15985,7 @@
 90;466;287;333
 90;467;287;333
 90;468;597;333
-90;470;66;0;markerstone=25
-90;476;1783;0
+90;470;1782;333
 91;112;301;333
 91;122;273;333
 91;124;387;333
@@ -16713,6 +16704,7 @@
 96;463;287;333
 96;464;622;333
 96;467;3099;333
+96;468;66;0;markerstone=25
 97;118;273;333
 97;128;300;333
 97;129;387;333
@@ -16874,6 +16866,7 @@
 97;464;630;333
 97;465;629;333
 97;466;507;333
+97;468;1783;333
 97;474;274;333
 98;114;273;333
 98;117;586;333
@@ -41177,7 +41170,6 @@
 307;90;308;333
 307;91;308;333
 307;93;701;333
-307;93;3097;333
 307;95;1782;333
 307;99;700;333
 307;102;308;333
@@ -46712,9 +46704,9 @@
 375;374;273;333
 375;376;932;333
 375;378;273;333
-375;380;520;333
+375;380;520;333;descriptionDe=Adalbero Gohmann - Will jemand die Plätze tauschen?;descriptionEn=Adalbero Gohmann - Anyone wanna switch places?
 375;385;853;333
-375;386;337;333
+375;386;337;333;descriptionDe=Hier liegt Portos. Möge er den Ort namens Paradies finden.;descriptionEn=Here lies Portos. May he find that place called Paradise.
 375;390;2832;333
 375;393;855;333
 375;394;232;333
@@ -46786,7 +46778,7 @@
 376;359;292;333
 376;362;273;333
 376;376;932;333
-376;378;519;333
+376;378;519;333;descriptionDe=~VERKAUFT~;descriptionEn=~SOLD~
 376;380;273;333
 376;385;263;333
 376;385;853;333
@@ -46838,7 +46830,7 @@
 377;373;301;333
 377;376;932;333
 377;385;853;333
-377;386;337;333
+377;386;337;333;descriptionDe=Saliala Berzir - Ruhe in Frieden;descriptionEn=Saliala Berzir - Rest in peace
 377;393;863;333
 377;395;949;333
 377;400;914;333
@@ -46939,7 +46931,7 @@
 379;366;1783;333
 379;370;932;333
 379;385;853;333
-379;386;337;333
+379;386;337;333;descriptionDe=Borlino Crimmak - Gegangen, aber nicht vergessen.;descriptionEn=Borlino Crimmak - Gone, but not forgiven.
 379;393;32;333
 379;393;855;333
 379;394;301;333
@@ -46998,7 +46990,7 @@
 380;368;273;333
 380;370;932;333
 380;371;386;333
-380;373;520;333
+380;373;520;333;descriptionDe=Geh weg!;descriptionEn=Go away!
 380;374;273;333
 380;379;1783;333
 380;385;30;333
@@ -47063,7 +47055,7 @@
 381;371;396;0
 381;371;42;0
 381;374;2567;333
-381;375;521;333
+381;375;521;333;descriptionDe=Hinweis - Es gibt keine wertvollen Gegenstände in diesem Grab.;descriptionEn=Note - there are NO valuable items in this grave.
 381;384;1807;333
 381;385;932;333
 381;386;934;333
@@ -47120,7 +47112,7 @@
 382;346;273;333
 382;348;1783;333
 382;359;1782;333
-382;370;947;333
+382;370;947;333;descriptionEn=The Gate of the Final Rest;descriptionDe=Tor zur letzten Ruhe
 382;375;273;333
 382;379;273;333
 382;381;273;333
@@ -47152,9 +47144,9 @@
 383;244;301;333
 383;245;301;333
 383;246;273;333
-383;370;949;333
-383;379;519;333
-383;381;521;333
+383;370;949;333;descriptionEn=The Gate of the Final Rest;descriptionDe=Tor zur letzten Ruhe
+383;379;519;333;descriptionDe=Disim Andúne war ein Alchemist. Jetzt ist er nicht mehr.;descriptionEn=Disim Andúne was a Alchemist. Now he is no more.
+383;381;521;333;descriptionDe=Der Zwerg Glomar - Er trank gutes Bier und Wein und lebte bis zum reifen Alter von 99 Jahren!;descriptionEn=Dwarf Glomar - He drank good ale, beer and wine, and lived to the ripe age of 99!
 383;383;521;333
 383;385;932;333
 383;388;1782;333
@@ -47229,8 +47221,8 @@
 385;370;932;333
 385;373;273;333
 385;375;273;333
-385;379;519;333
-385;381;521;333
+385;379;519;333;descriptionDe=Fianna Hamakha - Tränen können sie nicht wieder lebendig machen, daher weine ich.;descriptionEn=Fianna Hamakha - Tears cannot restore her, therefore I weep.
+385;381;521;333;descriptionDe=Colo Capicles - Hier liegt der Vater von 29 Kindern, er würde mehr haben, doch hatte nicht genügend Zeit!;descriptionEn=Colo Capicles - Here lies the father of 29, he would have had more but didn't have the time!
 385;385;932;333
 385;386;933;333
 385;387;933;333
@@ -47285,8 +47277,8 @@
 386;344;1782;333
 386;366;1782;333
 386;370;932;333
-386;373;519;333
-386;375;520;333
+386;373;519;333;descriptionDe=Hier liegt ein Mann aus der Pauldron Siedlung. Er wurde von einem Golem angegriffen, was übrig war wurde in einen Eimer gelegt.;descriptionEn=Here lies a man from the Pauldron Settlement. He was attacked by a Golem, what was left was put into a bucket.
+386;375;520;333;descriptionDe=Linda Achir - Sie stab und wir taten nichts...;descriptionEn=Linda Achir - She died and we did nothing...
 386;380;912;333
 386;384;396;0
 386;384;42;0
@@ -47373,8 +47365,8 @@
 388;368;939;333
 388;369;939;333
 388;370;939;333
-388;385;521;333
-388;388;521;333
+388;385;521;333;descriptionDe=Markus Wermann - Applaus mein Freund, die Show is vorbei.;descriptionEn=Markus Wermann - Applaud, my friends, the comedy is finished.
+388;388;521;333;descriptionDe=Franky - Ich bin kein Mensch. Dieser Geist und Körper sind Konstrukte.;descriptionEn=Franky - I am not human. This mind and body are constructs.
 388;392;932;333
 388;394;1783;333
 388;399;1257;333
@@ -47417,12 +47409,12 @@
 389;367;912;333
 389;369;273;333
 389;373;1783;333
-389;376;519;333
-389;377;519;333
-389;378;519;333
+389;376;519;333;descriptionDe=Alma, nie vergessen!;descriptionEn=Alma, never forgotten!
+389;377;519;333;descriptionDe=Ruhe in Frieden Tydor Dragentod, deine Angehörige.;descriptionEn=Rest in Peace Tydor Dragentod, our beloved.
+389;378;519;333;descriptionDe=Hier liegt der Körper von John Werlustil, verloren auf hoher See und niemals gefunden.;descriptionEn=Here lies the body of John Werlustil, lost at sea, and never found.
 389;381;273;333
 389;387;273;333
-389;389;520;333
+389;389;520;333;descriptionDe=Hier liegt Rhagkul Kaid, getötet von dem berühmten Conan.;descriptionEn=Here lies Rhagkul Kaid, killed by touching Conan.
 389;390;1783;333
 389;392;932;333
 389;401;1810;333
@@ -47467,12 +47459,12 @@
 390;352;1782;333
 390;361;273;333
 390;366;932;333
-390;369;519;333
+390;369;519;333;descriptionDe=Bergmann Nog Black - Er ist nun für immer unter Tage.;descriptionEn=Miner Nog Black - He's gone underground for good.
 390;375;273;333
 390;376;273;333
 390;377;273;333
 390;378;273;333
-390;387;521;333
+390;387;521;333;descriptionDe=Hier liegt Kremub Dudrunt, ein Ork.;descriptionEn=Here lies Kremub Dudrunt, a Orc.
 390;389;273;333
 390;392;932;333
 390;395;1782;333
@@ -47520,12 +47512,12 @@
 391;365;939;333
 391;366;939;333
 391;368;273;333
-391;370;520;333
+391;370;520;333;descriptionDe=In Erinnerung an Taluz Vertis.;descriptionEn=Markus Wermann - Applaud, my friends, the comedy is finished.
 391;371;273;333
-391;375;521;333
-391;376;521;333
-391;377;521;333
-391;378;521;333
+391;375;521;333;descriptionDe=Xumosch Firestone - Getötet bei einem Teleporterunfall.;descriptionEn=Xumosch Firestone - Killed in a teleporting accident.
+391;376;521;333;descriptionDe=Franky Demert - Killed by a golden Golem;descriptionDe=Franky Demert - Getötet von einem goldenen Golem.
+391;377;521;333;descriptionDe=Hier liegt Windala, 102 Jahre alt, die Gute starb jung.;descriptionEn=Here lies Windala, Age 102 The good die young.
+391;378;521;333;descriptionDe=Hier liegt Nibelerg Feuerfels, getötet bei einer Explosion.;descriptionEn=Here lies Nibelerg Feuerfels, killed by an exploding.
 391;392;932;333
 391;409;1813;333
 391;420;629;333
@@ -47565,7 +47557,7 @@
 392;361;941;333
 392;362;396;0
 392;362;42;0
-392;368;521;333
+392;368;521;333;descriptionDe=Ich brauche Ruhe...;descriptionEn=I need rest...
 392;370;273;333
 392;370;273;333
 392;372;273;333
@@ -47647,7 +47639,7 @@
 393;347;617;333
 393;352;273;333
 393;357;1783;333
-393;361;947;0
+393;361;947;0;descriptionDe=Mortem Aquilonis;descriptionEn=Mortem Aquilonis
 393;363;1783;333
 393;373;932;333
 393;374;934;333
@@ -47700,16 +47692,16 @@
 394;337;287;333
 394;338;622;333
 394;347;1810;333
-394;361;949;0
+394;361;949;0;descriptionDe=Mortem Aquilonis;descriptionEn=Mortem Aquilonis
 394;370;273;333
 394;373;932;333
 394;378;932;333
 394;385;273;333
 394;387;396;0
 394;387;42;0
-394;388;947;333
+394;388;947;333;descriptionDe=Was ihr jetzt seid, das waren wir. Was wir jetzt sind, das werdet ihr!;descriptionEn=What you are, we were. What we are, you will be!
 394;394;581;333
-394;396;520;333
+394;396;520;333;descriptionDe=Das Grab des Unbekannten.;descriptionEn=The Grave of the Unknown.
 394;400;1813;333
 394;406;287;333
 394;406;287;333
@@ -47782,8 +47774,8 @@
 395;373;932;333
 395;376;125;333
 395;378;932;333
-395;385;519;333
-395;388;949;333
+395;385;519;333;descriptionDe=Hier liegt Tom, getötet von Jerry.;descriptionEn=Here lies Tom killed by Jerry.
+395;388;949;333;descriptionDe=Was ihr jetzt seid, das waren wir. Was wir jetzt sind, das werdet ihr!;descriptionEn=What you are, we were. What we are, you will be!
 395;394;1783;333
 395;396;422;333
 395;399;1247;333
@@ -47865,6 +47857,7 @@
 396;429;1810;333
 396;437;273;333
 396;447;1783;333
+396;460;273;333
 397;15;308;333
 397;27;1782;0
 397;37;308;333
@@ -47924,13 +47917,13 @@
 397;382;404;0
 397;382;42;0
 397;384;912;333
-397;386;520;333
+397;386;520;333;descriptionDe=Hier liegt Georg Robustil, geliebter Ehemann und Vater.;descriptionEn=Here lies Georg Robustil, loving Husband and Father.
 397;387;396;0
 397;387;42;0
 397;388;932;333
-397;392;519;333
+397;392;519;333;descriptionDe=Wir waren nicht sicher, wer das war, aber wir begruben ihn hier trotzdem.;descriptionEn=We weren't sure who this was, but we buried him here anyway.
 397;393;274;333
-397;395;521;333
+397;395;521;333;descriptionDe=Travin Khalfurt wurde durch einen Fehler gehängt.;descriptionEn=Travin Khalfurt was hanged by mistake.
 397;409;287;333
 397;410;622;333
 397;411;912;333
@@ -48027,8 +48020,8 @@
 398;378;932;333
 398;379;30;333
 398;379;33;333
-398;380;481;333
-398;381;483;333
+398;380;481;333;descriptionEn=Family Tomb Epphurd;descriptionDe=Familiengruft Epphurd
+398;381;483;333;descriptionEn=Family Tomb Epphurd;descriptionDe=Familiengruft Epphurd
 398;382;33;333
 398;382;32;333
 398;383;931;333
@@ -48042,12 +48035,13 @@
 398;388;934;333
 398;390;2169;333
 398;396;1782;333
-398;398;911;333
+398;398;587;0
 398;410;628;333
 398;417;1783;333
 398;435;1273;333
 398;444;273;333
 398;459;66;0;markerstone=66
+398;461;1782;333
 398;463;274;333
 399;44;474;333
 399;47;340;333
@@ -48122,7 +48116,8 @@
 399;383;931;333
 399;392;1783;333
 399;394;420;333
-399;395;520;333
+399;395;520;333;descriptionDe=Hier liegt George Finchey, getötet beim Lesen eines Grabsteines.;descriptionEn=Here lies George Finchey, killed while reading a gravestone.
+399;398;593;0
 399;410;274;333
 399;425;387;333
 399;427;273;333
@@ -48201,17 +48196,19 @@
 400;354;273;333
 400;361;932;333
 400;363;386;333
-400;364;520;333
+400;364;520;333;descriptionDe=Geh weg! Ich versuche hier ein Nickerchen zu machen!;descriptionEn=Go away! I'm trying to take a nap in here!
 400;365;2567;333
 400;366;273;333
 400;370;932;333
 400;378;932;333
 400;378;1783;0
 400;379;30;333
+400;379;36;0
+400;379;3109;0;descriptionDe=Zum Gedenken an Richard Epphurd, Gönner, Vorstand der Siedlung und Held bis zum bitteren Ende!;descriptionEn=In memory of Richard Epphurd, Patron, Head of the settlement and hero until the bitter end!;nameDe=Nachruf;nameEn=Necrology
 400;382;32;333
 400;383;931;333
 400;387;1782;333
-400;392;521;333
+400;392;521;333;descriptionDe=Hier liegt Sarrey Wesalt. Sie trank Gift.;descriptionEn=Here lies Sarrey Wesalt. Drank a potion of death.
 400;396;2937;333
 400;402;273;333
 400;404;912;333
@@ -48319,13 +48316,14 @@
 401;361;932;333
 401;361;932;333
 401;362;936;333
-401;366;521;333
+401;366;521;333;descriptionDe=Fred Eastside, machte eine Pause und fiel rücklings ins Grab.;descriptionEn=Fred Eastside, sat down for a spell, and fell backwards into that well.
 401;368;396;0
 401;368;42;0
 401;370;932;333
 401;378;932;333
 401;379;30;333
 401;379;36;333
+401;379;3109;0;descriptionDe=Zum Gedenken an Teresia Epphurd. Hinter jedem erfolgreichen Mann steht eine starke Frau!;descriptionEn=In memory of Teresia Epphurd. Behind every successful man is a strong woman!;nameEn=Necrology;nameDe=Nachruf
 401;382;32;333
 401;383;931;333
 401;389;125;333
@@ -48431,10 +48429,11 @@
 402;378;932;333
 402;379;30;333
 402;379;401;333
+402;379;36;0
 402;382;32;333
 402;383;931;333
 402;387;574;333
-402;394;519;333
+402;394;519;333;descriptionDe=Gus Weldler, ein Opfer der Umstände.;descriptionEn=Gus Weldler, a victim of circumstance.
 402;396;309;333
 402;425;273;333
 402;440;273;333
@@ -48539,8 +48538,8 @@
 403;383;931;333
 403;386;913;333
 403;389;338;333
-403;392;520;333
-403;396;521;333
+403;392;520;333;descriptionDe=Moria Storm - Sie lebte und starb durch Selbstmord.;descriptionEn=Moria Storm - she lived and died by suicide.
+403;396;521;333;descriptionDe=Schaut, Ich habe es euch gesagt! Ich war KRANK!;descriptionEn=See, I told you!! I was SICK!
 403;404;274;333
 403;406;273;333
 403;416;592;333
@@ -48664,11 +48663,10 @@
 404;380;2832;0
 404;382;32;333
 404;383;931;333
-404;389;520;333
+404;389;520;333;descriptionDe=Hier liegt Thunderlin, der zu zahlen vergessen hatte.;descriptionEn=Here lies Thunderlin who forgot to pay.
 404;392;910;333
 404;396;420;333
-404;397;1783;0
-404;400;1783;0
+404;400;911;333
 404;407;1810;333
 404;444;1783;333
 404;449;1783;333
@@ -48778,11 +48776,11 @@
 405;368;1783;333
 405;378;932;333
 405;379;242;0
+405;379;2852;0
 405;379;464;0
 405;380;31;333
 405;381;31;333
-405;381;36;333
-405;381;2852;333
+405;381;2852;0
 405;381;464;0
 405;382;31;333
 405;382;32;333
@@ -48915,12 +48913,12 @@
 406;381;933;333
 406;382;933;333
 406;383;931;333
-406;386;521;333
+406;386;521;333;descriptionDe=Hier liegt der erste Patient!;descriptionEn=Here Lies Patient Zero!
 406;387;274;333
 406;388;1782;333
 406;390;309;333
 406;391;521;333
-406;394;520;333
+406;394;520;333;descriptionDe=Ich sagte, ich bin noch nicht tot!;descriptionEn=I said I'm not dead yet!
 406;395;1782;333
 406;407;1783;333
 406;410;273;333
@@ -49066,7 +49064,7 @@
 407;374;910;333
 407;382;387;333
 407;393;2937;333
-407;398;1783;0
+407;396;2039;333
 407;403;273;333
 407;411;912;333
 407;426;273;333
@@ -49188,6 +49186,9 @@
 408;381;1782;333
 408;388;2038;333
 408;390;274;333
+408;392;1783;0
+408;396;521;333
+408;396;1783;333
 408;437;913;333
 408;450;1782;333
 409;30;308;333
@@ -49303,9 +49304,10 @@
 409;372;1783;333
 409;378;273;333
 409;387;582;333
-409;388;519;333
-409;390;519;333
+409;388;519;333;descriptionDe=Hier liegt der Körper von Magtha Remson, wir machten einen Fehler.;descriptionEn=Here lies the body of Magtha Remson, we made the mistake.
+409;390;519;333;descriptionDe=Draius Verat - Er hat immer gelogen solange er auf der Erde war, nun liegt er in ihr!;descriptionEn=Draius Verat - He always lied while on the earth and now he's lying in it!
 409;391;1783;333
+409;393;519;333;descriptionDe=Achtung! Das Grab enthält giftige Abfälle!;descriptionEn=Caution! This grave contains toxic waste!
 409;394;66;0;markerstone=68
 409;396;421;333
 409;400;1812;333
@@ -49442,7 +49444,7 @@
 410;387;421;333
 410;392;1783;0
 410;394;274;333
-410;396;912;0
+410;396;911;333
 410;415;1251;333
 410;417;910;333
 410;428;273;333
@@ -52117,6 +52119,7 @@
 432;455;628;333
 432;461;613;333
 432;462;915;333
+432;463;1783;333
 432;465;274;333
 432;467;700;333
 432;469;273;333
@@ -52223,6 +52226,7 @@
 433;333;620;333
 433;340;387;333
 433;345;723;333
+433;346;3109;0;descriptionDe=Was ist nur los??? Erst die Golems und nun steigen die Toten aus der Erde.;descriptionEn=What's going on??? First the golems, and now the dead are rising from the earth.;nameEn=Page of a diary;nameDe=Seite eines Tagebuches
 433;350;700;333
 433;350;700;333
 433;355;273;333
