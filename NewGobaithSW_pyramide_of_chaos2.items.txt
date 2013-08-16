@@ -574,6 +574,7 @@
 50;61;600;-1
 50;76;600;-1
 50;77;402;-1
+50;78;3109;0;nameDe=Tagebuch eines Abenteurers II;nameEn=Journal of an adventurer II;descriptionDe=--16. S**os 30: Ihr ha**n die Bl**en gef***en und i*h tr***e mich h**te mit i*r. I*h ho**e es l*uft a**es gut!-- --7. Br*s **: Di**es J**r sch**nt es be***ders h**ß zu s**n. Die Was*er*or**te ge*en zu ne*ge!-- --1. Olos 30: Es war e*n harter Kampf, d**h am Ende ko**ten wir den Drachen niede***recken.-- --20. Na*** 3*: Es w*rd i**er k**ter, m*n merkt d**s der W****r da ist.--;descriptionEn=--16. S**os 30: S*e l***d the fl**ers a*d I'll m**t her to*ay, I ho*e ever**hing g**s well!-- --7. Br*s **: This y**r it's e**n h****r than l*st year. We a*e run**ng o*t of wa**r.-- --1. Olos 30: It w** a hard f**ht but we we*e ab*e to d*feat the d**gon in t*e end.-- --20. Na*** 3*: It's g***ing co**er, it's ob**ous that t*e wi**er h*s sta**ed.--
 50;81;3097;0
 50;83;1793;0
 50;88;600;-1
@@ -669,7 +670,7 @@
 55;37;600;-1
 55;38;3178;-1
 55;39;2039;-1
-55;47;505;0;nameDe=Karte;nameEn=Map;descriptionDe=Auf dieser Karte scheinen verschiedene kleine Inseln eingezeichnet zu sein. Auf den Inseln sind Symbole die wie ein auf den Kopf gestelltes U aussehen eingezeichnet.;descriptionEn=On this map there are a few islands drawn.  There are symbols on this islands drawn which look like an upside down U.
+55;47;3109;0;nameDe=Karte;nameEn=Map;descriptionDe=Auf dieser Karte scheinen verschiedene kleine Inseln eingezeichnet zu sein. Auf den Inseln sind Symbole die wie ein auf den Kopf gestelltes U aussehen eingezeichnet.;descriptionEn=On this map there are a few islands drawn.  There are symbols on this islands drawn which look like an upside down U.
 55;60;3176;-1
 55;61;600;-1
 55;76;600;-1

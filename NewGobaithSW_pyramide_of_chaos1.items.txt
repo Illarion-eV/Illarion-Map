@@ -1371,7 +1371,7 @@
 55;8;600;-1
 55;23;613;-1
 55;25;2937;-1
-55;26;3109;0;nameDe=Einkaufsliste;nameEn=Shopping list;descriptionDe=Fünf Pilze  Fünf Brötchen  Zehn Eier  Eine Lammkeule  Sieben Erdbeeren  Drei Tomaten  Zwei Zwiebeln;descriptionEn=five mushrooms  five bread rolls  ten eggs  one raw lamb chop  seven strawberries  three tomatoes  two onions
+55;26;3109;0;nameDe=Einkaufsliste;nameEn=Shopping list;descriptionDe=Fünf Pilze, Fünf Brötchen, Zehn Eier, Eine Lammkeule, Sieben Erdbeeren, Drei Tomaten, Zwei Zwiebeln.;descriptionEn=Five mushrooms, five bread rolls, ten eggs, one raw lamb chop, seven strawberries, three tomatoes, two onions.
 55;44;600;-1
 55;46;3099;-1
 55;47;409;-1
@@ -2286,7 +2286,7 @@
 92;2;1796;-1
 92;3;1794;-1
 92;4;2937;-1
-92;7;3109;0;nameDe=Tagebuch eines Abenteurers I;nameEn=Journal of an adventurer I;descriptionDe=13. El*s 30: Sie trä** heu*t* einen bl*uen R*ck, sie si*ht wunder***ön aus.  15. Elos 3*: Heu*e hat sie mich angelä***lt, sol*te ich sie ansp**chen?  7. Zh*s 30: Die le**ten Tage wa**n s*hr anstr***end, i*h sollte m**h au***hen.  13. S**os 30: ** *st S**os, ob i*h ihr et*as sc**nken so**te?   16. S**os 30: Ihr ha**n die Bl**en gef***en und i*h tr***e mich h**te mit i*r. I*h ho**e es l*uft a**es gut!  7. Br*s **: Di**es J**r sch**nt es be***ders h**ß zu s**n. Die Was*er*or**te ge*en zu ne*ge!;descriptionEn=13. El*s 30: She w**rs a bl*e sk*rt, s*e l*oks so be****ful to**y.  15. Elos 3*: T**ay s*e sm**ed *t me, sh**ld I talk wi*h h*r?  7. Zh*s 30: The p**t da*s we*e v**y exha**ting, I sh**ld re*t for a *****.  13. S**os 30: I*'s S**os, sh**ld I get a g**t for h**?  16. S**os 30: S*e l***d the fl**ers a*d I'll m**t her to*ay, I ho*e ever**hing g**s well!  7. Br*s **: This y**r it's e**n h****r than l*st year. We a*e run**ng o*t of wa**r.
+92;7;3109;0;nameDe=Tagebuch eines Abenteurers I;nameEn=Journal of an adventurer I;descriptionDe=--13. El*s 30: Sie trä** heu*t* einen bl*uen R*ck, sie si*ht wunder***ön aus.-- --15. Elos 3*: Heu*e hat sie mich angelä***lt, sol*te ich sie ansp**chen?-- --7. Zh*s 30: Die le**ten Tage wa**n s*hr anstr***end, i*h sollte m**h au***hen.-- --13. S**os 30: ** *st S**os, ob i*h ihr et*as sc**nken so**te?--;descriptionEn=--13. El*s 30: She w**rs a bl*e sk*rt, s*e l*oks so be****ful to**y.-- --15. Elos 3*: T**ay s*e sm**ed *t me, sh**ld I talk wi*h h*r?-- --7. Zh*s 30: The p**t da*s we*e v**y exha**ting, I sh**ld re*t for a *****.-- --13. S**os 30: I*'s S**os, sh**ld I get a g**t for h**?--
 92;10;3098;-1
 92;11;600;-1
 92;12;600;-1

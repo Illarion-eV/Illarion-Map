@@ -875,7 +875,7 @@
 45;31;1783;-1
 45;37;619;-1
 45;41;619;-1
-45;53;505;0;nameDe=Karte;nameEn=Map;descriptionDe=Auf der Karte sind erneut Inseln eingezeichnet, dieses mal jedoch deutlich mehr.  Es scheint als wären sie über Brücken verbunden.;descriptionEn=On this map you see more islands drawn again, but there are a lot more islands this time. It seems like the islands are connected with bridges.
+45;53;3109;0;nameDe=Karte;nameEn=Map;descriptionDe=Auf der Karte sind erneut Inseln eingezeichnet, dieses mal jedoch deutlich mehr.  Es scheint als wären sie über Brücken verbunden.;descriptionEn=On this map you see more islands drawn again, but there are a lot more islands this time. It seems like the islands are connected with bridges.
 45;61;1783;-1
 45;75;360;-1
 45;81;1783;-1
@@ -1208,7 +1208,7 @@
 65;67;620;-1
 65;71;1783;-1
 65;75;619;-1
-65;85;3109;0;nameDe=Zeichnung;nameEn=Drawing;descriptionDe=Auf diesem Pergament scheinen verschiedene Kreaturen eingezeichnet zu sein. Sie scheinen wie folgt angeordnet zu sein:  Huhn Schaf, Fuchs Schwein, Wolf Mensch, Drache;descriptionEn=On this parchment there are different creatures drawn. They are orderd like this:  chicken sheep, fox pig, wolf human, dragon
+65;85;3109;0;nameDe=Zeichnung;nameEn=Drawing;descriptionDe=Auf diesem Pergament scheinen verschiedene Kreaturen eingezeichnet zu sein. Sie scheinen wie folgt angeordnet zu sein:  Huhn, Schaf, Fuchs, Schwein, Wolf, Mensch, Drache.;descriptionEn=On this parchment there are different creatures drawn. They are orderd like this:  Chicken, sheep, fox, pig, wolf, human, dragon.
 65;94;3100;-1
 65;99;600;-1
 66;0;600;-1
