@@ -1,0 +1,7 @@
+19;27;0;Second portal
+25;20;0;Fifth portal
+34;47;0;First portal
+60;33;0;Sixth portal
+67;17;0;Third portal
+77;49;0;Fourth portal
+84;43;0;Seventh portal

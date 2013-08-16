@@ -135,12 +135,12 @@
 18;0;600;-1
 18;99;600;-1
 19;0;600;-1
-19;17;796;0
-19;20;796;0
-19;23;796;0
-19;27;796;0
-19;30;796;0
-19;33;796;0
+19;17;796;0;descriptionEn=A cat seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Katze eingraviert zu sein.
+19;20;796;0;descriptionEn=A pig seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Schwein eingraviert zu sein.
+19;23;796;0;descriptionEn=A fox seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Fuchs eingraviert zu sein.
+19;27;796;0;descriptionEn=A sheep seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Schaf eingraviert zu sein.
+19;30;796;0;descriptionEn=A skeleton seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Skelett eingraviert zu sein.
+19;33;796;0;descriptionEn=A chicken seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Huhn eingraviert zu sein.
 19;99;600;-1
 20;0;600;-1
 20;99;600;-1
@@ -153,12 +153,12 @@
 24;0;600;-1
 24;99;600;-1
 25;0;600;-1
-25;17;796;0
-25;20;796;0
-25;23;796;0
-25;27;796;0
-25;30;796;0
-25;33;796;0
+25;17;796;0;descriptionEn=A mule seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Esel eingraviert zu sein.
+25;20;796;0;descriptionEn=A wolf seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Wolf eingraviert zu sein.
+25;23;796;0;descriptionEn=A dragon seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Drache eingraviert zu sein.
+25;27;796;0;descriptionEn=A mule seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Esel eingraviert zu sein.
+25;30;796;0;descriptionEn=A lizard seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Echse eingraviert zu sein.
+25;33;796;0;descriptionEn=A demon seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Dämon eingraviert zu sein.
 25;99;600;-1
 26;0;600;-1
 26;99;600;-1
@@ -190,12 +190,12 @@
 30;57;600;-1
 30;99;600;-1
 31;0;600;-1
-31;17;796;0
-31;20;796;0
-31;23;796;0
-31;27;796;0
-31;30;796;0
-31;33;796;0
+31;17;796;0;descriptionEn=A mummy seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Mumie eingraviert zu sein.
+31;20;796;0;descriptionEn=A rabbit seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Hase eingraviert zu sein.
+31;23;796;0;descriptionEn=A deer seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Reh eingraviert zu sein.
+31;27;796;0;descriptionEn=An ogre seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Oger eingraviert zu sein.
+31;30;796;0;descriptionEn=A troll seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Troll eingraviert zu sein.
+31;33;796;0;descriptionEn=A cow seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Kuh eingraviert zu sein.
 31;45;600;-1
 31;46;600;-1
 31;57;600;-1
@@ -220,7 +220,7 @@
 33;99;600;-1
 34;0;600;-1
 34;44;600;-1
-34;47;797;-1
+34;47;797;-1;descriptionEn=A chicken seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Huhn eingraviert zu sein.
 34;63;600;-1
 34;64;600;-1
 34;65;600;-1
@@ -269,6 +269,8 @@
 40;99;600;-1
 41;0;600;-1
 41;51;600;-1
+41;55;2937;0
+41;56;505;0;nameDe=Karte;nameDe=Map;descriptionDe=Auf dieser Karte scheint nichts eingezeichnet zu sein.  Lediglich einige Himmelsrichtungen wurden darauf notiert:  Osten Süden Osten Westen Norden Süden;descriptionEn=On this map nothing is drawn.  However, some cardinal directions are noted:  east south east west north south
 41;65;600;-1
 41;99;600;-1
 42;0;600;-1
@@ -352,12 +354,12 @@
 52;57;600;-1
 52;99;600;-1
 53;0;600;-1
-53;17;794;0
-53;20;794;0
-53;23;794;0
-53;27;794;0
-53;30;794;0
-53;33;794;0
+53;17;794;0;descriptionEn=A cat seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Katze eingraviert zu sein.
+53;20;794;0;descriptionEn=A chicken seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Huhn eingraviert zu sein.
+53;23;794;0;descriptionEn=A cow seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Kuh eingraviert zu sein.
+53;27;794;0;descriptionEn=A deer seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Reh eingraviert zu sein.
+53;30;794;0;descriptionEn=A demon seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Dämon eingraviert zu sein.
+53;33;794;0;descriptionEn=A golem seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Golem eingraviert zu sein.
 53;46;600;-1
 53;55;416;-1
 53;57;600;-1
@@ -404,12 +406,12 @@
 59;55;600;-1
 59;99;600;-1
 60;0;600;-1
-60;17;794;0
-60;20;794;0
-60;23;794;0
-60;27;794;0
-60;30;794;0
-60;33;794;0
+60;17;794;0;descriptionEn=A wolf seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Wolf eingraviert zu sein.
+60;20;794;0;descriptionEn=A rabbit seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Hase eingraviert zu sein.
+60;23;794;0;descriptionEn=A deer seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Reh eingraviert zu sein.
+60;27;794;0;descriptionEn=A dog seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Hund eingraviert zu sein.
+60;30;794;0;descriptionEn=A chicken seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Huhn eingraviert zu sein.
+60;33;794;0;descriptionEn=A human seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Mensch eingraviert zu sein.
 60;43;600;-1
 60;49;794;0
 60;54;600;-1
@@ -449,12 +451,12 @@
 66;0;600;-1
 66;99;600;-1
 67;0;600;-1
-67;17;794;0
-67;20;794;0
-67;23;794;0
-67;27;794;0
-67;30;794;0
-67;33;794;0
+67;17;794;0;descriptionEn=A fox seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Fuchs eingraviert zu sein.
+67;20;794;0;descriptionEn=A golem seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Golem eingraviert zu sein.
+67;23;794;0;descriptionEn=A wasp seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Wespe eingraviert zu sein.
+67;27;794;0;descriptionEn=A imp seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Imp eingraviert zu sein.
+67;30;794;0;descriptionEn=A lizard seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Echse eingraviert zu sein.
+67;33;794;0;descriptionEn=A troll seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Troll eingraviert zu sein.
 67;99;600;-1
 68;0;600;-1
 68;99;600;-1
@@ -469,27 +471,27 @@
 73;0;600;-1
 73;99;600;-1
 74;0;600;-1
-74;37;793;0
-74;43;793;0
-74;49;793;0
+74;37;793;0;descriptionEn=A wolf seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Wolf eingraviert zu sein.
+74;43;793;0;descriptionEn=A sheep seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Schaf eingraviert zu sein.
+74;49;793;0;descriptionEn=A dragon seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Drache eingraviert zu sein.
 74;99;600;-1
 75;0;600;-1
 75;99;600;-1
 76;0;600;-1
 76;99;600;-1
 77;0;600;-1
-77;37;793;0
-77;43;793;0
-77;49;793;0
+77;37;793;0;descriptionEn=A spider seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Spinne eingraviert zu sein.
+77;43;793;0;descriptionEn=A cow seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Kuh eingraviert zu sein.
+77;49;793;0;descriptionEn=A rabbit seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Hase eingraviert zu sein.
 77;99;600;-1
 78;0;600;-1
 78;99;600;-1
 79;0;600;-1
 79;99;600;-1
 80;0;600;-1
-80;37;793;0
-80;43;793;0
-80;49;793;0
+80;37;793;0;descriptionEn=A bear seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Bär eingraviert zu sein.
+80;43;793;0;descriptionEn=A fox seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Fuchs eingraviert zu sein.
+80;49;793;0;descriptionEn=A pig seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Schwein eingraviert zu sein.
 80;99;600;-1
 81;0;600;-1
 81;99;600;-1
@@ -498,27 +500,27 @@
 83;0;600;-1
 83;99;600;-1
 84;0;600;-1
-84;37;793;0
-84;43;793;0
-84;49;793;0
+84;37;793;0;descriptionEn=A troll seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Troll eingraviert zu sein.
+84;43;793;0;descriptionEn=A dragon seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Drache eingraviert zu sein.
+84;49;793;0;descriptionEn=A skeleton seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Skelett eingraviert zu sein.
 84;99;600;-1
 85;0;600;-1
 85;99;600;-1
 86;0;600;-1
 86;99;600;-1
 87;0;600;-1
-87;37;793;0
-87;43;793;0
-87;49;793;0
+87;37;793;0;descriptionEn=A cow seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Kuh eingraviert zu sein.
+87;43;793;0;descriptionEn=A rabbit seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Hase eingraviert zu sein.
+87;49;793;0;descriptionEn=A lizard seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint eine Echse eingraviert zu sein.
 87;99;600;-1
 88;0;600;-1
 88;99;600;-1
 89;0;600;-1
 89;99;600;-1
 90;0;600;-1
-90;37;793;0
-90;43;793;0
-90;49;793;0
+90;37;793;0;descriptionEn=A demon seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Dämon eingraviert zu sein.
+90;43;793;0;descriptionEn=A chicken seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Huhn eingraviert zu sein.
+90;49;793;0;descriptionEn=A human seems to be engraved into this gate.;descriptionDe=Auf diesem Tor scheint ein Menschl eingraviert zu sein.
 90;99;600;-1
 91;0;600;-1
 91;99;600;-1
