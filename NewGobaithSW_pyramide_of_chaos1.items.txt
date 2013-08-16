@@ -1371,7 +1371,7 @@
 55;8;600;-1
 55;23;613;-1
 55;25;2937;-1
-55;26;3109;0;nameDe=Einkaufsliste;nameEn=Shopping list;descriptionDe=Fünf Pilze Fünf Brötchen Zehn Eier Eine Lammkeule Sieben Erdbeeren Drei Tomaten Zwei Zwiebeln;descriptionEn=five mushrooms five bread rolls ten eggs one raw lamb chop seven strawberries three tomatoes two onions
+55;26;3109;0;nameDe=Einkaufsliste;nameEn=Shopping list;descriptionDe=Fünf Pilze  Fünf Brötchen  Zehn Eier  Eine Lammkeule  Sieben Erdbeeren  Drei Tomaten  Zwei Zwiebeln;descriptionEn=five mushrooms  five bread rolls  ten eggs  one raw lamb chop  seven strawberries  three tomatoes  two onions
 55;44;600;-1
 55;46;3099;-1
 55;47;409;-1
@@ -2076,7 +2076,7 @@
 84;89;413;-1
 84;89;3097;-1
 84;90;1024;-1
-84;91;505;0;nameDe=Karte;nameEn=Map;descriptionDe=Das scheint eine art Karte diesr Höhle zu sein.  Es sieht wie ein Labyrinth aus.  Des Weiteren scheint es als hätte das Labyrinth neun Kammern. Außerdem erkennst du, dass in jeder Kammer eine verschiedene Anzahl an schwarzen Punkten eingezeichnet zu sein. Was es damit wohl auf sich hat?;descriptionEn=This seems like a map of this cave. It looks like a maze. In addition it seems that the maze has nine chambers. Furthermore, you can see that each chamber has a different number of black points on it. What does this mean?
+84;91;3109;0;nameDe=Karte;nameEn=Map;descriptionDe=Das scheint eine art Karte diesr Höhle zu sein.  Es sieht wie ein Labyrinth aus.  Des Weiteren scheint es als hätte das Labyrinth neun Kammern. Außerdem erkennst du, dass in jeder Kammer eine verschiedene Anzahl an schwarzen Punkten eingezeichnet zu sein. Was es damit wohl auf sich hat?;descriptionEn=This seems like a map of this cave. It looks like a maze. In addition it seems that the maze has nine chambers. Furthermore, you can see that each chamber has a different number of black points on it. What does this mean?
 84;94;3100;-1
 84;94;2937;-1
 84;99;600;-1
@@ -2286,7 +2286,7 @@
 92;2;1796;-1
 92;3;1794;-1
 92;4;2937;-1
-92;6;3109;0;nameDe=Tagebuch eines Abenteurers;nameEn=Journal of an adventurer;descriptionDe=13. El*s 30: Sie trä** heu*t* einen bl*uen R*ck, sie si*ht wunder***ön aus. 15. Elos 3*: Heu*e hat sie mich angelä***lt, sol*te ich sie ansp**chen? 7. Zh*s 30: Die le**ten Tage wa**n s*hr anstr***end, i*h sollte m**h au***hen. 13. S**os 30: ** *st S**os, ob i*h ihr et*as sc**nken so**te?  16. S**os 30: Ihr ha**n die Bl**en gef***en und i*h tr***e mich h**te mit i*r. I*h ho**e es l*uft a**es gut! 7. Br*s **: Di**es J**r sch**nt es be***ders h**ß zu s**n. Die Was*er*or**te ge*en zu ne*ge!  1. Olos 30: Es war e*n harter Kampf, d**h am Ende ko**ten wir den Drachen niede***recken. 20. Na*** 3*: Es w*rd i**er k**ter, m*n merkt d**s der W****r da ist. 1. Ch*s 3*: Ich hab h**te einen Eingang nahe Ca***yr entdeckt. Wo mag er wohl hi**ühren? 4. C**s 30: *h hab m*r diese H***e näher ange***aut, es sch**nt ein Lab***nth zu sein. 2. Mas **: Ich f**e hier n***t mehr r**s! Ich werd h**r noch verückt! 3. Mas 30: Ich h**e Angst. I*h w**l sie wied**sehen... 5. M** 3*: ~Hier endet die Schriftrolle, etwas Blut scheint an der Schriftrolle zu haften.~;descriptionEn=13. El*s 30: She w**rs a bl*e sk*rt, s*e l*oks so be****ful to**y. 15. Elos 3*: T**ay s*e sm**ed *t me, sh**ld I talk wi*h h*r? 7. Zh*s 30: The p**t da*s we*e v**y exha**ting, I sh**ld re*t for a *****. 13. S**os 30: I*'s S**os, sh**ld I get a g**t for h**? 16. S**os 30: S*e l***d the fl**ers a*d I'll m**t her to*ay, I ho*e ever**hing g**s well! 7. Br*s **: This y**r it's e**n h****r than l*st year. We a*e run**ng o*t of wa**r.  1. Olos 30: It w** a hard f**ht but we we*e ab*e to d*feat the d**gon in t*e end. 20. Na*** 3*: It's g***ing co**er, it's ob**ous that t*e wi**er h*s sta**ed. 1. Ch*s 3*: T**ay I fo*nd an ent**nce n*r Ca****r. I'm won***ing wh**e it le*ds to. 4. C**s 30: I w*nt i*to t*is ca*e, it l**ks l*ke a m**e. 2. Mas **: I c***t fi*d the w*y out ag**n! I'll be**me cr*zy h**e so*n! 3. Mas 30: I'm af**id..I w*nt to s*e her ag**n! 5. M** 3*: ~The parchment ends here, only some blood seems to stick on the parchment.~~
+92;7;3109;0;nameDe=Tagebuch eines Abenteurers I;nameEn=Journal of an adventurer I;descriptionDe=13. El*s 30: Sie trä** heu*t* einen bl*uen R*ck, sie si*ht wunder***ön aus.  15. Elos 3*: Heu*e hat sie mich angelä***lt, sol*te ich sie ansp**chen?  7. Zh*s 30: Die le**ten Tage wa**n s*hr anstr***end, i*h sollte m**h au***hen.  13. S**os 30: ** *st S**os, ob i*h ihr et*as sc**nken so**te?   16. S**os 30: Ihr ha**n die Bl**en gef***en und i*h tr***e mich h**te mit i*r. I*h ho**e es l*uft a**es gut!  7. Br*s **: Di**es J**r sch**nt es be***ders h**ß zu s**n. Die Was*er*or**te ge*en zu ne*ge!;descriptionEn=13. El*s 30: She w**rs a bl*e sk*rt, s*e l*oks so be****ful to**y.  15. Elos 3*: T**ay s*e sm**ed *t me, sh**ld I talk wi*h h*r?  7. Zh*s 30: The p**t da*s we*e v**y exha**ting, I sh**ld re*t for a *****.  13. S**os 30: I*'s S**os, sh**ld I get a g**t for h**?  16. S**os 30: S*e l***d the fl**ers a*d I'll m**t her to*ay, I ho*e ever**hing g**s well!  7. Br*s **: This y**r it's e**n h****r than l*st year. We a*e run**ng o*t of wa**r.
 92;10;3098;-1
 92;11;600;-1
 92;12;600;-1
