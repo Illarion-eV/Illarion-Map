@@ -47277,7 +47277,7 @@
 386;344;1782;333
 386;366;1782;333
 386;370;932;333
-386;373;519;333;markerstone=Hier liegt ein Mann aus der Pauldron Siedlung. Er wurde von einem Golem angegriffen, was übrig war wurde in einen Eimer gelegt.;descriptionEn=Here lies a man from the Pauldron Settlement. He was attacked by a Golem, what was left was put into a bucket.
+386;373;519;333;descriptionEn=Here lies a man from the Pauldron Settlement. He was attacked by a Golem, what was left was put into a bucket.;descriptionDe=Hier liegt ein Mann aus der Pauldron Siedlung. Er wurde von einem Golem angegriffen, was übrig war wurde in einen Eimer gelegt.
 386;375;520;333;descriptionDe=Linda Achir - Sie stab und wir taten nichts...;descriptionEn=Linda Achir - She died and we did nothing...
 386;380;912;333
 386;384;396;0
