@@ -11,7 +11,7 @@
 # details.
 # 
 # You should have received a copy of the GNU Affero General Public License along
-# with this program.  If not, see <http://www.gnu.org/licenses/>.
+# with this program.  If not, see <http://www.gnu.org/licenses/>. 
 6;47;6;556;0
 48;44;50;556;1
 54;445;54;956;1
