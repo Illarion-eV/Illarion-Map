@@ -11,5 +11,17 @@
 # details.
 # 
 # You should have received a copy of the GNU Affero General Public License along
-# with this program.  If not, see <http://www.gnu.org/licenses/>.
-2;2;321;333;depot=104
+# with this program.  If not, see <http://www.gnu.org/licenses/>. 
+0;0;1176;0
+0;1;1176;0
+0;2;1176;0
+1;0;1176;0
+1;1;1176;0
+1;2;1176;0
+2;0;1176;0
+2;1;1176;0
+2;2;1176;0
+3;7;1160;0
+5;5;1172;0
+8;2;1171;0
+8;5;1161;0
