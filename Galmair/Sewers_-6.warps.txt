@@ -11,7 +11,7 @@
 # details.
 # 
 # You should have received a copy of the GNU Affero General Public License along
-# with this program.  If not, see <http://www.gnu.org/licenses/>. 
+# with this program.  If not, see <http://www.gnu.org/licenses/>.
 19;146;248;289;-5
 115;32;370;251;0
 162;176;391;323;-5
@@ -21,3 +21,4 @@
 194;96;424;240;-5
 195;90;425;232;-5
 196;82;426;224;-5
+
