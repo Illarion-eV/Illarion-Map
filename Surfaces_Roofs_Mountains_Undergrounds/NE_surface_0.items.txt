@@ -48161,7 +48161,7 @@
 381;371;396;0
 381;371;42;0
 381;374;2567;333
-381;375;521;333;descriptionDe=Hinweis - Es gibt keine wertvollen Gegenstï¿½nde in diesem Grab.;descriptionEn=Note - there are NO valuable items in this grave.
+381;375;521;333;descriptionDe=Hinweis - Es gibt keine wertvollen Gegenstände in diesem Grab.;descriptionEn=Note - there are NO valuable items in this grave.
 381;384;1807;-1
 381;385;932;-1
 381;386;934;-1
@@ -48253,7 +48253,7 @@
 383;245;301;333
 383;246;273;333
 383;370;949;333;descriptionEn=The Gate of the Final Rest;descriptionDe=Tor zur letzten Ruhe
-383;379;519;333;descriptionDe=Disim Andï¿½ne war ein Alchemist. Jetzt ist er nicht mehr.;descriptionEn=Disim Andï¿½ne was a Alchemist. Now he is no more.
+383;379;519;333;descriptionDe=Disim Andäne war ein Alchemist. Jetzt ist er nicht mehr.;descriptionEn=Disim Andäne was a Alchemist. Now he is no more.
 383;381;521;333;descriptionDe=Der Zwerg Glomar - Er trank gutes Bier und Wein und lebte bis zum reifen Alter von 99 Jahren!;descriptionEn=Dwarf Glomar - He drank good ale, beer and wine, and lived to the ripe age of 99!
 383;383;521;333
 383;385;932;333
@@ -48332,8 +48332,8 @@
 385;370;932;333
 385;373;273;333
 385;375;273;333
-385;379;519;333;descriptionDe=Fianna Hamakha - Trï¿½nen kï¿½nnen sie nicht wieder lebendig machen, daher weine ich.;descriptionEn=Fianna Hamakha - Tears cannot restore her, therefore I weep.
-385;381;521;333;descriptionDe=Colo Capicles - Hier liegt der Vater von 29 Kindern, er wï¿½rde mehr haben, doch hatte nicht genï¿½gend Zeit!;descriptionEn=Colo Capicles - Here lies the father of 29, he would have had more but didn't have the time!
+385;379;519;333;descriptionDe=Fianna Hamakha - Tränen konnen sie nicht wieder lebendig machen, daher weine ich.;descriptionEn=Fianna Hamakha - Tears cannot restore her, therefore I weep.
+385;381;521;333;descriptionDe=Colo Capicles - Hier liegt der Vater von 29 Kindern, er würde mehr haben, doch hatte nicht genügend Zeit!;descriptionEn=Colo Capicles - Here lies the father of 29, he would have had more but didn't have the time!
 385;385;932;333
 385;386;933;333
 385;387;933;333
@@ -48390,7 +48390,7 @@
 386;344;1782;333
 386;366;1782;333
 386;370;932;333
-386;373;519;333;descriptionEn=Here lies a man from the Pauldron Settlement. He was attacked by a Golem, what was left was put into a bucket.;descriptionDe=Hier liegt ein Mann aus der Pauldron Siedlung. Er wurde von einem Golem angegriffen, was ï¿½brig war wurde in einen Eimer gelegt.
+386;373;519;333;descriptionEn=Here lies a man from the Pauldron Settlement. He was attacked by a Golem, what was left was put into a bucket.;descriptionDe=Hier liegt ein Mann aus der Pauldron Siedlung. Er wurde von einem Golem angegriffen, was übrig war wurde in einen Eimer gelegt.
 386;375;520;333;descriptionDe=Linda Achir - Sie stab und wir taten nichts...;descriptionEn=Linda Achir - She died and we did nothing...
 386;380;912;333
 386;384;396;0
@@ -48486,7 +48486,7 @@
 388;369;939;333
 388;370;939;333
 388;385;521;333;descriptionDe=Markus Wermann - Applaus mein Freund, die Show is vorbei.;descriptionEn=Markus Wermann - Applaud, my friends, the comedy is finished.
-388;388;521;333;descriptionDe=Franky - Ich bin kein Mensch. Dieser Geist und Kï¿½rper sind Konstrukte.;descriptionEn=Franky - I am not human. This mind and body are constructs.
+388;388;521;333;descriptionDe=Franky - Ich bin kein Mensch. Dieser Geist und Körper sind Konstrukte.;descriptionEn=Franky - I am not human. This mind and body are constructs.
 388;392;932;333
 388;394;1783;333
 388;399;1257;333
@@ -48533,11 +48533,11 @@
 389;369;273;333
 389;373;1783;333
 389;376;519;333;descriptionDe=Alma, nie vergessen!;descriptionEn=Alma, never forgotten!
-389;377;519;333;descriptionDe=Ruhe in Frieden Tydor Dragentod, deine Angehï¿½rige.;descriptionEn=Rest in Peace Tydor Dragentod, our beloved.
-389;378;519;333;descriptionDe=Hier liegt der Kï¿½rper von John Werlustil, verloren auf hoher See und niemals gefunden.;descriptionEn=Here lies the body of John Werlustil, lost at sea, and never found.
+389;377;519;333;descriptionDe=Ruhe in Frieden Tydor Dragentod, deine Angehörige.;descriptionEn=Rest in Peace Tydor Dragentod, our beloved.
+389;378;519;333;descriptionDe=Hier liegt der Körper von John Werlustil, verloren auf hoher See und niemals gefunden.;descriptionEn=Here lies the body of John Werlustil, lost at sea, and never found.
 389;381;273;333
 389;387;273;333
-389;389;520;333;descriptionDe=Hier liegt Rhagkul Kaid, getï¿½tet von dem berï¿½hmten Conan.;descriptionEn=Here lies Rhagkul Kaid, killed by touching Conan.
+389;389;520;333;descriptionDe=Hier liegt Rhagkul Kaid, getötet von dem berï¿½hmten Conan.;descriptionEn=Here lies Rhagkul Kaid, killed by touching Conan.
 389;390;1783;333
 389;392;932;333
 389;401;1810;333
@@ -48585,7 +48585,7 @@
 390;352;1782;333
 390;361;273;333
 390;366;932;333
-390;369;519;333;descriptionDe=Bergmann Nog Black - Er ist nun fï¿½r immer unter Tage.;descriptionEn=Miner Nog Black - He's gone underground for good.
+390;369;519;333;descriptionDe=Bergmann Nog Black - Er ist nun für immer unter Tage.;descriptionEn=Miner Nog Black - He's gone underground for good.
 390;375;273;333
 390;376;273;333
 390;377;273;333
@@ -48645,10 +48645,10 @@
 391;368;273;333
 391;370;520;333;descriptionDe=In Erinnerung an Taluz Vertis.;descriptionEn=Markus Wermann - Applaud, my friends, the comedy is finished.
 391;371;273;333
-391;375;521;333;descriptionDe=Xumosch Firestone - Getï¿½tet bei einem Teleporterunfall.;descriptionEn=Xumosch Firestone - Killed in a teleporting accident.
+391;375;521;333;descriptionDe=Xumosch Firestone - Getötet bei einem Teleporterunfall.;descriptionEn=Xumosch Firestone - Killed in a teleporting accident.
 391;376;521;333;descriptionDe=Franky Demert - Killed by a golden Golem;descriptionDe=Franky Demert - Getï¿½tet von einem goldenen Golem.
 391;377;521;333;descriptionDe=Hier liegt Windala, 102 Jahre alt, die Gute starb jung.;descriptionEn=Here lies Windala, Age 102 The good die young.
-391;378;521;333;descriptionDe=Hier liegt Nibelerg Feuerfels, getï¿½tet bei einer Explosion.;descriptionEn=Here lies Nibelerg Feuerfels, killed by an exploding.
+391;378;521;333;descriptionDe=Hier liegt Nibelerg Feuerfels, getötet bei einer Explosion.;descriptionEn=Here lies Nibelerg Feuerfels, killed by an exploding.
 391;392;932;333
 391;409;1813;333
 391;420;629;333
@@ -48921,7 +48921,7 @@
 395;373;932;333
 395;376;125;333
 395;378;932;333
-395;385;519;333;descriptionDe=Hier liegt Tom, getï¿½tet von Jerry.;descriptionEn=Here lies Tom killed by Jerry.
+395;385;519;333;descriptionDe=Hier liegt Tom, getötet von Jerry.;descriptionEn=Here lies Tom killed by Jerry.
 395;388;949;333;descriptionDe=Was ihr jetzt seid, das waren wir. Was wir jetzt sind, das werdet ihr!;descriptionEn=What you are, we were. What we are, you will be!
 395;394;1783;333
 395;396;422;333
@@ -49077,7 +49077,7 @@
 397;388;932;333
 397;392;519;333;descriptionDe=Wir waren nicht sicher, wer das war, aber wir begruben ihn hier trotzdem.;descriptionEn=We weren't sure who this was, but we buried him here anyway.
 397;393;274;333
-397;395;521;333;descriptionDe=Travin Khalfurt wurde durch einen Fehler gehï¿½ngt.;descriptionEn=Travin Khalfurt was hanged by mistake.
+397;395;521;333;descriptionDe=Travin Khalfurt wurde durch einen Fehler gehängt.;descriptionEn=Travin Khalfurt was hanged by mistake.
 397;409;287;333
 397;410;622;333
 397;411;912;333
@@ -49271,7 +49271,7 @@
 399;383;931;333
 399;392;1783;333
 399;394;420;333
-399;395;520;333;descriptionDe=Hier liegt George Finchey, getï¿½tet beim Lesen eines Grabsteines.;descriptionEn=Here lies George Finchey, killed while reading a gravestone.
+399;395;520;333;descriptionDe=Hier liegt George Finchey, getötet beim Lesen eines Grabsteines.;descriptionEn=Here lies George Finchey, killed while reading a gravestone.
 399;398;593;0
 399;410;274;333
 399;425;387;333
@@ -49476,7 +49476,7 @@
 401;361;932;333
 401;361;932;333
 401;362;936;333
-401;366;521;333;descriptionDe=Fred Eastside, machte eine Pause und fiel rï¿½cklings ins Grab.;descriptionEn=Fred Eastside, sat down for a spell, and fell backwards into that well.
+401;366;521;333;descriptionDe=Fred Eastside, machte eine Pause und fiel rücklings ins Grab.;descriptionEn=Fred Eastside, sat down for a spell, and fell backwards into that well.
 401;368;396;0
 401;368;42;0
 401;370;932;333
@@ -49594,7 +49594,7 @@
 402;382;32;333
 402;383;931;333
 402;387;574;333
-402;394;519;333;descriptionDe=Gus Weldler, ein Opfer der Umstï¿½nde.;descriptionEn=Gus Weldler, a victim of circumstance.
+402;394;519;333;descriptionDe=Gus Weldler, ein Opfer der Umstände.;descriptionEn=Gus Weldler, a victim of circumstance.
 402;396;309;333
 402;400;1170;0
 402;425;273;333
@@ -50473,10 +50473,10 @@
 409;372;1783;333
 409;378;273;333
 409;387;582;333
-409;388;519;333;descriptionDe=Hier liegt der Kï¿½rper von Magtha Remson, wir machten einen Fehler.;descriptionEn=Here lies the body of Magtha Remson, we made the mistake.
+409;388;519;333;descriptionDe=Hier liegt der Körper von Magtha Remson, wir machten einen Fehler.;descriptionEn=Here lies the body of Magtha Remson, we made the mistake.
 409;390;519;333;descriptionDe=Draius Verat - Er hat immer gelogen solange er auf der Erde war, nun liegt er in ihr!;descriptionEn=Draius Verat - He always lied while on the earth and now he's lying in it!
 409;391;1783;333
-409;393;519;333;descriptionDe=Achtung! Das Grab enthï¿½lt giftige Abfï¿½lle!;descriptionEn=Caution! This grave contains toxic waste!
+409;393;519;333;descriptionDe=Achtung! Das Grab enthült giftige Abfälle!;descriptionEn=Caution! This grave contains toxic waste!
 409;394;66;0;markerstone=68
 409;396;421;333
 409;400;1812;333
@@ -51488,7 +51488,7 @@
 418;211;287;-1
 418;211;287;-1
 418;212;287;-1
-418;213;597;-1;descriptionDe=RÃ¶tlich schimmern die WÃ¶rter: "Flammen, die Welt steht in Flammen! Es brennt in seinem Herz, erfÃ¼llt ihn mit Schmerz. Es gibt ihm die WÃ¤rme einer Schreckensherrschaft...;descriptionEn=These words glimmer in red: "Fire, the world is fire! It's burning in his heart, and filling him with pain. It's giving him the warmth of terror in reign."
+418;213;597;-1;descriptionDe=Rötlich schimmern die Wörter: "Es brennt in seinem Herz, erfüllt ihn mit Schmerz. Es gibt ihm die Wärme einer Schreckensherrschaft.";descriptionEn=These words glimmer in red: "It's burning in his heart, and filling him with pain. It's giving him the warmth of terror in reign."
 418;215;3102;-1
 418;216;338;-1
 418;217;1782;-1
@@ -51598,7 +51598,7 @@
 419;211;287;-1
 419;211;287;-1
 419;212;287;-1
-419;213;597;-1;descriptionDe=RÃ¶tlich schimmern die WÃ¶rter: "...Atmet die sterbliche Hitze, trinkt von der sterblichen Seele. Um sich an der WÃ¤rme zu laben sein Leben vollkommen zu machen! Er trinkt das warme Blut,...";descriptionEn=These words glimmer in red: "...Breathing the mortals heat, draining from mortal soul, To fill him with their warmth and make his life be whole. He drinks the heated blood,..."
+419;213;597;-1;descriptionDe=Rötlich schimmern die Wörter: "...Atmet die sterbliche Hitze, trinkt von der sterblichen Seele. Um sich an der Wärme zu laben sein Leben vollkommen zu machen! Er trinkt das warme Blut,...";descriptionEn=These words glimmer in red: "...Breathing the mortals heat, draining from mortal soul, To fill him with their warmth and make his life be whole. He drinks the heated blood,..."
 419;214;3102;-1
 419;217;1782;-1
 419;221;627;-1
@@ -51836,7 +51836,7 @@
 421;211;287;-1
 421;211;287;-1
 421;212;287;-1
-421;213;597;-1;descriptionDe=RÃ¶tlich schimmern die WÃ¶rter: "...ein wichtiger Geschmack des Lebens. Es fliesst durch seine Venen, gibt ihm den Wahnsinn. Kriecht in lebendes Fleisch, schlÃ¤ngelt sich ins Hirn...";descriptionEn=These words glimmer in red: "...essential taste of life. It rushes in his veins, gives him the madman's drive. Slipping into living flesh, gliding into the brain..."
+421;213;597;-1;descriptionDe=Rötlich schimmern die Wörter: "...ein wichtiger Geschmack des Lebens. Es fliesst durch seine Venen, gibt ihm den Wahnsinn. Kriecht in lebendes Fleisch, schlängelt sich ins Hirn...";descriptionEn=These words glimmer in red: "...essential taste of life. It rushes in his veins, gives him the madman's drive. Slipping into living flesh, gliding into the brain..."
 421;215;338;-1
 421;216;274;-1
 421;218;1783;-1
@@ -52106,7 +52106,7 @@
 423;211;287;-1
 423;211;287;-1
 423;212;287;-1
-423;213;597;-1;descriptionDe=RÃ¶tlich schimmern die WÃ¶rter: "...Spielt mit neuen Gedanken, Willen und saugt auf, was er bekommt. Flammen, die Welt steht in Flammen! Er wandert durch die Flammen, sie grÃ¼Ã?en ihn in Vorfreude...";descriptionEn=These words glimmer in red: "...Playing there with thoughts and will, to keep a steady drain. Fire, the world for sure is on fire! He's walking through the flames, they greet him in anticipation..."
+423;213;597;-1;descriptionDe=Rötlich schimmern die Wörter: "...Spielt mit neuen Gedanken, Willen und saugt auf, was er bekommt. Er wandert durch die Flammen, sie grüßen ihn in Vorfreude...";descriptionEn=These words glimmer in red: "...Playing there with thoughts and will, to keep a steady drain. Fire, the world for sure is on fire! He's walking through the flames, they greet him in anticipation..."
 423;215;273;-1
 423;216;1783;-1
 423;218;627;-1
@@ -52351,8 +52351,7 @@
 425;211;287;-1
 425;211;287;-1
 425;212;287;-1
-425;213;1783;-1
-425;213;597;-1;descriptionDe=RÃ¶tlich schimmern die WÃ¶rter: "...Erwarten von ihm, seine dunkle Kreatur zu vollenden. ZerstÃ¶rung wird er sÃ¤en, alte SchÃ¤tze suchend. Der Schmerz, den dieser neue Arm brennt, wird unvorstellbar sein.;descriptionEn=These words glimmer in red: "...Expecting him to build his own dark doomed creation. Destruction he will spread, in seeking his old treasure. The pain his arm will bring, will be without a measure."
+425;213;597;-1;descriptionDe=Rötlich schimmern die Wörter: "...Erwarten von ihm, seine dunkle Kreatur zu vollenden. Zerstörung wird er säen, alte Schätze suchend, Der Schmerz, den dieser neue Arm brennt, wird unvorstellbar sein...";descriptionEn=These words glimmer in red: "...Expecting him to build his own dark doomed creation. Destruction he will spread, in seeking his old treasure. The pain his arm will bring, will be without a measure."
 425;217;627;-1
 425;218;627;-1
 425;219;628;-1
@@ -55019,7 +55018,7 @@
 446;228;301;-1
 446;229;203;-1
 446;234;338;-1
-446;238;519;-1;descriptionDe=AuffÃ¤llig viel Schmutz liegt auf dem Grabstein. Ob es sich wohl bezahlt macht, ihn abzuwischen?;descriptionEn=There seems to be a strange amount of dust on the grave. Might it be useful to clean?
+446;238;519;-1;descriptionDe=Auffällig viel Schmutz liegt auf dem Grabstein. Ob es sich wohl bezahlt macht, ihn abzuwischen?;descriptionEn=There seems to be a strange amount of dust on the grave. Might it be useful to clean?
 446;239;563;-1
 446;240;627;-1
 446;241;287;-1
@@ -55414,6 +55413,7 @@
 450;198;1783;-1
 450;199;633;-1
 450;200;2038;-1
+450;202;3109;0;descriptionDe=Ein Klick ist zu wenig. Drei Klicks sind zu viel. Nur zwei Klicks schützen deine Haut.;descriptionEn=One click is too less. Three clicks are too much. Only two clicks will save your skin.
 450;203;1783;-1
 450;206;3101;-1
 450;208;1783;-1
@@ -55874,9 +55874,9 @@
 455;168;287;-1
 455;169;597;-1
 455;169;513;-1
-455;171;2805;-1;descriptionDe=Die SÃ¤ule wirkt als kÃ¶nnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
+455;171;2805;-1;descriptionDe=Die Säule wirkt als könnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
 455;172;3095;-1
-455;175;2805;-1;descriptionDe=Die SÃ¤ule wirkt als kÃ¶nnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
+455;175;2805;-1;descriptionDe=Die Säule wirkt als könnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
 455;178;287;-1
 455;179;628;-1
 455;180;629;-1
@@ -56027,7 +56027,7 @@
 456;223;1783;-1
 456;224;1783;-1
 456;225;1783;-1
-456;226;519;-1;descriptionDe=AuffÃ¤llig viel Schmutz liegt auf dem Grabstein. Ob es sich wohl bezahlt macht, ihn abzuwischen?;descriptionEn=There seems to be a strange amount of dust on the grave. Might it be useful to clean?
+456;226;519;-1;descriptionDe=Auffällig viel Schmutz liegt auf dem Grabstein. Ob es sich wohl bezahlt macht, ihn abzuwischen?;descriptionEn=There seems to be a strange amount of dust on the grave. Might it be useful to clean?
 456;228;338;-1
 456;231;1783;-1
 456;234;621;-1
@@ -56076,8 +56076,8 @@
 457;168;287;-1
 457;169;597;-1
 457;169;628;-1
-457;171;2805;-1;descriptionDe=Die SÃ¤ule wirkt als kÃ¶nnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
-457;175;2805;-1;descriptionDe=Die SÃ¤ule wirkt als kÃ¶nnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
+457;171;2805;-1;descriptionDe=Die Säule wirkt als könnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
+457;175;2805;-1;descriptionDe=Die Säule wirkt als könnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
 457;178;287;-1
 457;179;287;-1
 457;180;626;-1
@@ -56197,7 +56197,7 @@
 458;217;287;-1
 458;217;287;-1
 458;218;628;-1
-458;219;519;-1;descriptionDe=AuffÃ¤llig viel Schmutz liegt auf dem Grabstein. Ob es sich wohl bezahlt macht, ihn abzuwischen?;descriptionEn=There seems to be a strange amount of dust on the grave. Might it be useful to clean?
+458;219;519;-1;descriptionDe=Auffällig viel Schmutz liegt auf dem Grabstein. Ob es sich wohl bezahlt macht, ihn abzuwischen?;descriptionEn=There seems to be a strange amount of dust on the grave. Might it be useful to clean?
 458;220;3101;-1
 458;221;2170;-1
 458;223;1783;-1
@@ -56247,11 +56247,11 @@
 459;112;3264;0
 459;168;287;-1
 459;169;597;-1
-459;171;2805;-1;descriptionDe=Die SÃ¤ule wirkt als kÃ¶nnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
+459;171;2805;-1;descriptionDe=Die Säule wirkt als könnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
 459;172;3095;-1
 459;172;3101;-1
 459;174;3101;-1
-459;175;2805;-1;descriptionDe=Die SÃ¤ule wirkt als kÃ¶nnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
+459;175;2805;-1;descriptionDe=Die Säule wirkt als könnte man einen Edelstein einsetzen.;descriptionEn=The column appears as a gem could be set into it.
 459;178;287;-1
 459;179;622;-1
 459;180;626;-1
@@ -56614,7 +56614,7 @@
 463;169;1360;-1
 463;170;1367;-1
 463;172;315;-1
-463;173;3104;-1;nameDe=Schaltpult;nameEn=Control Panel;descriptionDe=Wo es wohl hinfÃ¼hren wird, falls du es betÃ¤tigen wÃ¼rdest?;descriptionEn=Where might it lead if you use it?
+463;173;3104;-1;nameDe=Schaltpult;nameEn=Control Panel;descriptionDe=Wo es wohl hinführen wird, falls du es betätigen würdest?;descriptionEn=Where might it lead if you use it?
 463;174;315;-1
 463;175;395;-1
 463;176;1367;-1
@@ -57879,7 +57879,7 @@
 477;228;287;-1
 477;240;603;-1
 477;243;1265;-1
-477;247;2038;-1;descriptionDe=Die Augen leuchten merkwÃ¼rdig rot. Ob es wohl Sinn macht, die Finger in die AugenhÃ¶hlen zu stecken?;descriptionEn=The eyes glow funky red. If it is useful to move your fingers inside of the eyeholes?
+477;247;2038;-1;descriptionDe=Die Augen leuchten merkwürdig rot. Ob es wohl Sinn macht, die Finger in die Augenhöhlen zu stecken?;descriptionEn=The eyes glow funky red. If it is useful to move your fingers inside of the eyeholes?
 477;261;1170;0
 477;343;1170;0
 477;346;274;333
@@ -57957,7 +57957,7 @@
 478;237;915;-1
 478;240;601;-1
 478;240;3101;-1
-478;241;2038;-1;descriptionDe=Die Augen leuchten merkwÃ¼rdig blau. Ob es wohl Sinn macht, die Finger in die AugenhÃ¶hlen zu stecken?;descriptionEn=The eyes glow funky blue. If it is useful to move your fingers inside of the eyeholes?
+478;241;2038;-1;descriptionDe=Die Augen leuchten merkwürdig blau. Ob es wohl Sinn macht, die Finger in die Augenhöhlen zu stecken?;descriptionEn=The eyes glow funky blue. If it is useful to move your fingers inside of the eyeholes?
 478;243;3101;-1
 478;246;1265;-1
 478;253;915;-1
@@ -58391,7 +58391,7 @@
 485;219;287;-1
 485;219;287;-1
 485;220;597;-1
-485;226;2038;-1;descriptionDe=Die Augen leuchten merkwÃ¼rdig grÃ¼n. Ob es wohl Sinn macht, die Finger in die AugenhÃ¶hlen zu stecken?;descriptionEn=The eyes glow funky green. If it is useful to move your fingers inside of the eyeholes?
+485;226;2038;-1;descriptionDe=Die Augen leuchten merkwürdig grÃ¼n. Ob es wohl Sinn macht, die Finger in die Augenhöhlen zu stecken?;descriptionEn=The eyes glow funky green. If it is useful to move your fingers inside of the eyeholes?
 485;231;915;-1
 485;249;1170;0
 486;1;1804;0
@@ -58861,3 +58861,4 @@
 511;43;274;0
 511;82;273;0
 511;83;1783;0
+;0
