@@ -770,7 +770,7 @@
 47;26;600;-1
 48;26;600;-1
 54;26;3102;-1
-55;26;3109;0;nameDe=Einkaufsliste;nameEn=Shopping list;descriptionDe=- Fünf Pilze\n- Fünf Brötchen\n\n- Zehn Eier\n\n- Eine Lammkeule\n\n- Sieben Erdbeeren\n\n- Drei Tomaten\n\n- Zwei Zwiebeln;descriptionEn=- Five mushrooms\n- five bread rolls\n\n- ten eggs\n\n- one raw lamb chop\n\n- seven strawberries\n\n- three tomatoes\n\n- two onions
+55;26;3109;0;nameDe=Einkaufsliste;nameEn=Shopping list;descriptionDe=Beschriftete Schriftrolle;descriptionEn=Written scroll;showTextDe=- Fünf Pilze - Fünf Brötchen - Zehn Eier - Eine Lammkeule - Sieben Erdbeeren - Drei Tomaten - Zwei Zwiebeln;showTextEn=- Five mushrooms - five bread rolls - ten eggs - one raw lamb chop - seven strawberries - three tomatoes - two onions
 60;26;600;-1
 72;26;600;-1
 73;26;600;-1
