@@ -13,3 +13,4 @@
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 432;238;0;Do NOT delete this item, that's the knowing tree.
+345;266;0;Cross light, don't delete this item!
