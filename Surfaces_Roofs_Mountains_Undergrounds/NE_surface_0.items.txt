@@ -52770,7 +52770,7 @@
 261;441;934;-1
 261;441;934;-1
 267;441;212;-1
-274;441;2874;-1
+274;441;2874;-1;nameEn=Mirror Change;nameDe=Spiegel des Wandels;descriptionEn=The image reflects back to you in rapid flashes the creation of the world by the gods, the rise and fall of Madrook, Gobaiths birth and death, and the past of the mainland with a vision of the future though its slightly blurred.;descriptionDe=Das Spiegelbild zeigt im schnellen Wechsel Bilder der Erschaffung der Welt durch die Götter, den Aufstieg und Fall Mandroks, Geburt und Tod Gobaiths und die Geschichte des Festlands, sowie Schauungen der Zukunft wobei diese jedoch sehr verschwommen erscheint.
 275;441;933;-1
 282;441;273;-1
 284;441;1809;-1
@@ -53084,7 +53084,6 @@
 246;443;308;-1
 256;443;308;-1
 261;443;939;-1
-261;443;946;-1
 265;443;649;-1
 268;443;440;-1
 269;443;36;-1
@@ -53246,6 +53245,7 @@
 247;444;1783;-1
 250;444;308;-1
 256;444;420;-1
+261;444;943;333
 265;444;650;-1
 268;444;396;-1
 269;444;441;-1
@@ -53407,9 +53407,9 @@
 242;445;386;-1
 246;445;962;-1
 258;445;274;-1
-261;445;946;-1
+261;445;945;333
 265;445;649;-1
-274;445;2874;-1
+274;445;2874;-1;nameEn=Mirror Chaos;nameDe=Spiegel des Chaos;descriptionEn=The image reflects back to you in rapid flashes visions of chaos, nothing is as expected. Things are flying around in the air as if in a whirlwind all around you. It grows dark in the mirror, like night has fallen and yet you still see the items flying by your head and around your body, like you have been trapped in a tornado.;descriptionDe=Das Spiegelbild zeigt im schnellen Wechsel Bilder des Chaos, nichts ist wie erwartet. Gegenstände fliegen durch die Luft wie in einem Wirbelsturm um dich herum. Es wird dunkel im Spiegel als ob die Nacht hereinbricht und dennoch scheinen die Gegenstände um dich herum zu wirbeln, als ob du in einem Tornado gefangen wärst.
 275;445;933;-1
 275;445;933;-1
 277;445;422;-1
