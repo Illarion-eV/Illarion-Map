@@ -464,7 +464,7 @@
 10;22;3097;333
 10;22;991;333
 11;22;878;333
-14;22;3109;333;descriptionEn=Dearest, I took refuge in a cave but am now lost in a maze... I hope I find my way to you soon...;descriptionDe=Liebling, ich habe Schutz in einer Höhle gefunden, habe mich aber in einem Labyrinth verirrt. hoffentlich finde ich bald einen Weg zu Dir.
+14;22;3109;333;descriptionEn=Dearest, I took refuge in a cave but am now lost in a maze... I hope I find my way to you soon...;descriptionDe=Liebling, ich habe Schutz in einer Höhle gefunden, habe mich aber in einem Labyrinth verirrt. Hoffentlich finde ich bald einen Weg zu Dir.
 15;22;878;333
 16;22;301;333
 17;22;301;333
