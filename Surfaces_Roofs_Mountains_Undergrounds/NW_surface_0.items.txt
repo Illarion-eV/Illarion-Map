@@ -9835,7 +9835,7 @@
 410;261;320;0
 410;261;1008;0
 412;261;320;333
-412;261;2745;333;nameEn=Strange Parchment;nameDe=Seltsames Pergament;descriptionEn=The text on this parchment looks strange. The writing is blurry and the lines seem to be constantly moving. It is unreadable.;descriptionDe=Der Text auf diesem Pergament sieht komisch. Die Schrift ist verschwommen und die Zeilen scheinen sich ständig zu bewegen. Es ist nicht zu lesen.
+412;261;2745;333;nameEn=Strange Parchment;nameDe=Seltsames Pergament;descriptionEn=The text on this parchment looks strange. The writing is blurry and the lines seem to be constantly moving. It is unreadable.;descriptionDe=Der Text auf diesem Pergament sieht komisch. Die Schrift ist verschwommen und die Zeilen scheinen sich ständig zu bewegen. Es ist nicht zu lesen.;TeachLenniersDream=true
 413;261;629;333
 414;261;630;333
 414;261;872;333
