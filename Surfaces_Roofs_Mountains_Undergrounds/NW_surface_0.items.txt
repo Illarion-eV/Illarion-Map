@@ -7535,7 +7535,7 @@
 423;238;1276;0
 426;238;1783;0
 430;238;273;0
-432;238;1809;333
+432;238;1809;333;treeProtectionType=slimyAcid
 437;238;301;333
 438;238;301;333
 442;238;308;333
@@ -9834,6 +9834,8 @@
 409;261;760;0
 410;261;320;0
 410;261;1008;0
+412;261;320;333
+412;261;2745;333;nameEn=Strange Parchment;nameDe=Seltsames Pergament;descriptionEn=The text on this parchment looks strange. The writing is blurry and the lines seem to be constantly moving. It is unreadable.;descriptionDe=Der Text auf diesem Pergament sieht komisch. Die Schrift ist verschwommen und die Zeilen scheinen sich ständig zu bewegen. Es ist nicht zu lesen.;TeachLenniersDream=true
 413;261;629;333
 414;261;630;333
 414;261;872;333
@@ -11809,6 +11811,7 @@
 432;282;623;333
 433;282;287;333
 456;282;1782;333
+458;282;589;333;nameDe=Ein kränkliches Bäumchen;nameEn=A Sickly Sapling;descriptionDe=Gewidmet der Einheit von Gina und Avariel, möge dieser gedeihen unter der Obhut von Don Valerio Guilianni;descriptionEn=Dedicated to the union of Gina and Avariel, may it prosper under the guardianship of Don Valerio Guilianni
 459;282;1783;333
 461;282;913;333
 465;282;338;333
@@ -11993,6 +11996,7 @@
 455;284;1808;333
 456;284;274;333
 456;284;338;333
+457;284;589;333;nameDe=Ein kränkliches Bäumchen;nameEn=A Sickly Sapling;descriptionDe=Gewidmet der Einheit von Gina und Avariel, möge dieser gedeihen unter der Obhut von Don Valerio Guilianni;descriptionEn=Dedicated to the union of Gina and Avariel, may it prosper under the guardianship of Don Valerio Guilianni
 460;284;161;0
 462;284;338;333
 476;284;301;333
@@ -12044,7 +12048,7 @@
 428;285;287;333
 433;285;1783;333
 447;285;1782;333
-453;285;586;333
+452;285;586;333
 462;285;308;333
 464;285;1782;333
 467;285;1170;0
@@ -12178,7 +12182,7 @@
 451;287;560;333
 454;287;161;0
 456;287;161;0
-457;287;300;0
+458;287;300;333
 462;287;338;333
 466;287;338;333
 468;287;623;333
