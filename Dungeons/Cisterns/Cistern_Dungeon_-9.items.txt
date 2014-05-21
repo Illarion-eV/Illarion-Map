@@ -130,7 +130,7 @@
 1;5;287;333
 4;5;233;333
 7;5;28;333
-13;5;2926;333
+13;5;2926;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 14;5;407;333
 20;5;407;333
 27;5;411;333
@@ -226,7 +226,7 @@
 25;12;1783;333
 30;12;233;333
 33;12;3098;333
-35;12;2169;333
+35;12;2169;333;descriptionEn=The word "BARTIMAEUS" has been carved into the top of the chest.;descriptionDe=Das Wort "BARTIMAEUS" wurde am Deckel der Kiste eingeritzt.
 38;12;3101;333
 13;13;233;333
 15;13;3097;333
@@ -287,7 +287,7 @@
 38;19;287;333
 39;19;287;333
 6;20;3097;333
-9;20;2745;333
+9;20;2745;333;descriptionEn=A cloud shield is one of the most difficult of all, taking some highly prized resouces. First gather six conifer boards, three pieces of your finest leather, five cut diamond, two merinium ingots, and the purest water you can find. When you begin carving, you will apply the leather, making a handle as you go, so the shield can be carried. The merinium is used to harden the wood and the pure water helps in the application. Lastly, embelish the shield with the diamonds for a dazzling effect.;descriptionDe=Ein Wolkenschild ist etwas vom schwierigsten überhaupt, braucht einige sehr hochpreisige Ressourcen. Zuerst sammle sechs Koniferenbretter, drei Stücke deines feinsten Leders, fünf geschliffene Diamanten, zwei Merinium Barren und das reinste Wasser das du finden kannst. Sobald du zu schnitzen beginnst, wirst du das Leder hinzugeben um einen Griff damit machen, damit man den Schild später tragen kann. Das Merinium wird benutzt um das Holz zu härten und das reine Wasser hilft beim Auftragen. Zuletzt verziehre den Schild mit den Diamanten für einen blendenden Effekt.
 25;20;3098;333
 36;20;623;333
 36;20;625;333
@@ -337,7 +337,7 @@
 4;25;1783;333
 6;25;614;333
 11;25;1783;333
-23;25;2924;333
+23;25;2924;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 37;25;3095;333
 38;25;622;333
 39;25;622;333
@@ -435,7 +435,7 @@
 38;36;287;333
 39;36;287;333
 12;37;3095;333
-16;37;2745;333
+16;37;2745;333;descriptionEn=The mosaic shield is made similarly to the cloud shield but requires different materials. First, gather six fine conifer boards, three pieces of leather, a silver ingot, three cut rubies, two merinium ingots, and a pure fire that burns bright. Continue as you would for the cloud shield, taking care not to get burned while working with the pure fire. ;descriptionDe=Der Mosaik Schild wird sehr ähnlich wie der Wolkenschild hergestellt, braucht jedoch unterschiedliches Material. Zuerst sammle sechs Koniferenbretter, drei Lederstücke, einen Silberbarren, drei geschliffene Rubine und ein reines Feuer, welches stahlend Leuchtet. Fahre weiter, wie du es für den Wolkenschild würdest, pass jedoch auf dass du dich nicht verbrennst wenn du mit dem reinen Feuer arbeitest
 20;37;407;333
 32;37;259;333
 34;37;407;333

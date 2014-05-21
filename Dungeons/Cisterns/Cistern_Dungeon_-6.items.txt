@@ -57,7 +57,8 @@
 0;4;3098;333
 3;4;3099;333
 12;4;616;333
-18;4;2745;333
+18;4;2745;333;descriptionEn=Making a harp is a daunting task, but you can do it by taking five cherry boards and three spools of thread. If you carve the boards just right, combining them properly, you'll be able to create a fine instrument. How well it plays and the sound it makes will depend on how well you work the wood. Practice!;descriptionDe=Eine Harfe herzustellen ist eine beängstigende Arbeit, jedoch kannst du es tun indem du fünf Kirschholzbretter und drei Spuhlen Faden nimmst. Wenn du die Bretter korrekt schnitzt, diese sauber kombinierst, bist du fähig hiermit ein ausgezeichnetes Instrument zu fertigen. Wie schön es klingt und die Musik, die es macht wird davon abhängen wie gut du das Holz bearbeitet hast. Übe!
+19;4;2927;333;descriptionEn=Beware rats!;descriptionDe=Vorsicht vor den Ratten!
 23;4;616;333
 4;5;3101;333
 5;5;614;333
@@ -98,7 +99,7 @@
 1;10;627;333
 3;10;56;333
 3;10;56;333
-9;10;2745;333
+9;10;2745;333;descriptionEn=To make blackberry muffins you need two bags of flour, one honeycomb, five blackberries, and one bucket of water. Mix this all together and bake it in a baking oven. ;descriptionDe=Um Brombeeren-Muffins herzustellen brauchst du zwei Säcke Mehl, eine Honigwabe, fünf Brombeeren und einen Eimer Wasser. Mische alles zusammen und backe es im Backofen.
 10;10;3093;333
 11;10;627;333
 15;10;3101;333
@@ -108,7 +109,7 @@
 1;11;413;333
 1;11;259;333
 2;11;3098;333
-4;11;2745;333
+4;11;2745;333;descriptionEn=To make a fine long bow, you need to start with three fine naldor boards and three applewood boards. Carve these into the proper shapes, combining them together with the proper cuts and such. Add four spools of thread and embellish it with a cut blackstone. If worked properly, you'll have one fine long bow!;descriptionDe=Um einen ausgezeichneten Langbogen zu machen, musst du mit drei Naldor-Brettern und drei Apfelholz-Brettern starten. Schnitze diese in passende Form, kombiniere diese mit sauberem Schnitt. Gib vier Spuhlen Faden dazu und dekoriere es mit einem geschliffenen Obsidian. Wenn sauber gearbeitet wurde, hast du nun einen guten Langbogen
 6;11;407;333
 11;11;411;333
 11;11;3101;333
@@ -133,7 +134,7 @@
 15;14;3097;333
 18;14;3100;333
 19;14;316;333
-22;14;2745;333
+22;14;2745;333;descriptionEn=To make cookies you need one bucket of water, two bags of flour, and one honeycomb. Mix it all together and bake it by the spoonful to make delicious cookies, being careful not to burn them. For an extra special treat, try adding some nuts!;descriptionDe=Um Kekse herzustellen brauchst du einen Eimer Wasser, zwei Säcke Mehl und eine Honigwabe. Mische alles zusammen und backe alles löffelweise um köstliche Kekse zu machen. Sei vorsichtig, dass sie nicht verbrennen. Für eine spezielle Gaumenfreude versuche einige Nüsse beizumengen.
 23;14;413;333
 1;15;616;333
 6;15;616;333
