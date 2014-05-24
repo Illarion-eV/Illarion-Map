@@ -480,7 +480,7 @@
 48;16;287;333
 49;16;287;333
 23;17;914;333
-28;17;2745;333
+28;17;2745;333;descriptionEn=Making the golden goblet actually takes two ingots of silver and one ingot of gold. First, you fashion the goblet from the silver, then you cover or overlay the entire thing in gold, polishing it until it sparkles and you can see your eyes in the reflection.;descriptionDe=Einen goldenen Kelch zu erstellen braucht der Barren drei, zwei aus Silber und einen aus Gold. Forme den Kelch aus dem Silber und dann beschlage ihn mit dem Gold, poliere ihn bis er so funkelt, dass sich deine Augen in ihm spiegeln.
 29;17;3097;333
 37;17;392;333
 39;17;1265;333
@@ -528,7 +528,7 @@
 19;21;12;333
 20;21;69;333
 43;21;12;333
-45;21;2170;333
+45;21;2170;333;descriptionEn=The word "BARTIMAEUS" has been carved into the log.;descriptionDe=In den Holzscheit ist das wort "BARTMAEUS" eingeritzt.
 47;21;630;333
 48;21;287;333
 49;21;287;333
@@ -680,7 +680,7 @@
 18;30;287;333
 19;30;630;333
 20;30;628;333
-22;30;2745;333
+22;30;2745;333;descriptionEn=To make a crown, like the Queen wears, you will need to shape it from three silver ingots, adding three gold ingots, then a touch of merinium. Once this is completed the cut jewels can be added, using one each of sapphire, topas and diamond. As always, be sure to polish your work to a glittering shine before adding the cut jewels.;descriptionDe=Um eine Krone, wie die der Königin, zu erstellen forme sie zuerst aus drei Silber Barren, füge drei Goldene hinzu und einen Hauch von Merinium. Sobald dies erledigt füge die geschliffenen Juwelen ein, von Saphir, Topaz und Diamant je einen. Wie immer, stelle sicher, dass deine Arbeit auf Hochglanz poliert ist bevor die Juwelen eingefügt werden.
 28;30;1276;333
 35;30;1245;333
 36;30;3097;333
@@ -772,7 +772,7 @@
 48;35;287;333
 49;35;287;333
 3;36;3097;333
-5;36;2927;333
+5;36;2927;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 8;36;915;333
 12;36;1250;333
 21;36;1783;333
@@ -837,7 +837,7 @@
 24;41;392;333
 32;41;1783;333
 38;41;1245;333
-39;41;2745;333
+39;41;2745;333;descriptionEn=The ring of an Archmage is not easily made. First craft a ring of two silver ingots, covering it in two gold ingots. Now add a merninum ingot in such a way that it holds the essence of a pure air, pure fire, and pure water, being careful not to hurt yourself in the process. This is by no means easy and may take some practice to do well. Polish this to a fine shine. Once you are happy with the finish, you can add the finely cut diamond. ;descriptionDe=Ein Ring des Erzmagiers ist schwer zu erstellen. Zuerst forme einen Ring aus zwei silbernen Barren, ummantele das ganze mit dem Gold von zwei weiteren. Nun füge das Merinium eines Barrens so hinzu, dass es die Essenz je einer reinen Luft, Erde, Feuer und Wassers enthält. Tue dies vorsichtig um dich nicht zu verletzen. Dies ist wahrlich nicht einfach und erfordert einiges an Übung. Poliere is bis es glänzt und wenn du zufrieden bist mit deiner Arbeit, kannst du den geschliffenen Diamant einfügen.
 42;41;1254;333
 45;41;623;333
 46;41;287;333
@@ -845,7 +845,7 @@
 48;41;287;333
 49;41;287;333
 1;42;1254;333
-12;42;2926;333
+12;42;2926;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 14;42;914;333
 21;42;1254;333
 28;42;1276;333
@@ -856,7 +856,7 @@
 47;42;287;333
 48;42;287;333
 49;42;287;333
-4;43;2745;333
+4;43;2745;333;descriptionEn=Fissshing iss besst in da morningsss. Usse bait, found *the rest of the message is lost as the rats have chewed on the parchment*;descriptionDe=Fissssche am besssten morgensss. Den Köder findet man * der Rest des Pergament ist unleserlich und von Ratten zerfressen*
 10;43;1250;333
 23;43;3099;333
 26;43;1245;333
@@ -883,7 +883,7 @@
 9;45;392;333
 13;45;407;333
 15;45;915;333
-21;45;2745;333
+21;45;2745;333;descriptionEn=There are some huge salmon found in the waters around Cadomyr. Be prepared to pull one in or have them steel your catch!;descriptionDe=Riesige Lachse schwimmen in den Gewässern um Cadomyr. Sei dir gewahr, dass du einen fangen wirst, oder dass sie dir deinen Fang stehlen.
 23;45;914;333
 44;45;726;333
 45;45;287;333
