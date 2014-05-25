@@ -357,7 +357,7 @@
 6;15;413;333
 10;15;3283;333
 15;15;3099;333
-19;15;2926;333
+19;15;2926;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 31;15;513;333
 32;15;3100;333
 33;15;513;333
@@ -566,7 +566,7 @@
 37;28;3099;333
 39;28;613;333
 0;29;613;333
-5;29;2927;333
+5;29;2927;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 6;29;422;333
 7;29;3100;333
 12;29;1783;333
@@ -674,6 +674,7 @@
 26;37;1250;333
 27;37;1250;333
 28;37;1250;333
+29;37;1247;333
 37;37;513;333
 38;37;3100;333
 39;37;613;333
