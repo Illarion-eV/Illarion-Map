@@ -13,9 +13,9 @@
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 V: 2
-L: -3
-X: 5000
-Y: 0
+L: -6
+X: 100
+Y: 540
 W: 50
 H: 50
 0;0;2;0
