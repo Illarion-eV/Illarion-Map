@@ -57,7 +57,7 @@
 3;1;524;333
 3;1;2855;333
 5;1;1361;333
-6;1;1360;333
+6;1;1360;333;descriptionEn=The word "BARTIMAEUS" has been carved into the top of the chest.;descriptionDe=The word "BARTIMAEUS" has been carved into the top of the chest.
 7;1;1360;333
 8;1;3265;333
 8;1;3265;333
@@ -309,7 +309,7 @@
 17;11;3101;333
 20;11;3100;333
 22;11;426;333
-32;11;2745;333
+32;11;2745;333;descriptionEn=Ta make one of da most difficult helms, da flame helmet, collect ye resources first: Nine iron ingots, six copper ingots, one gold ingot, one silver ingot, and two merinium ingot. You will also need da pure fire. In working da ingots at da anvil, be careful in how ya shapes dem, ya don't want ta waste any resources.;descriptionDe=Um einen der kompliziertesten Helme herzustellen sammle zuerst alle Rohstoffe: 9 Eisenbarren, 6 Kupferbarren, 1 Goldbarren, 1 Silberbarren und 2 Meriniumbarren. Außerdem brauchst du ein reines Feuer. Sei sorgsam bei der Verarbeitung der Materialien, verschwende sie nicht.
 39;11;993;333
 0;12;613;333
 4;12;422;333
@@ -319,7 +319,7 @@
 12;12;422;333
 14;12;3100;333
 18;12;426;333
-19;12;2745;333
+19;12;2745;333;descriptionEn=Ta brew da bear slayer crush eight apples and add dem to a bucket a water. Add two honeycombs and a finely crushed toadstool. Brew dis all togeder very well, den poor into a small bottle. Be warned, dis be da strong stuff!;descriptionDe=Um Bärentöter zu brauen wirf einfach 8 Äpfel in den Eimer mit Wasser. Dazu noch 2 Honigwaben und schlußendlich einen Giftpilz. Braue das Alles zusammen und fülle es in in kleine Flaschen. Sei gewarnt, das ist ein kräftiger Schnaps.
 24;12;422;333
 30;12;3100;333
 33;12;314;333
@@ -371,7 +371,7 @@
 3;16;423;333
 7;16;3101;333
 8;16;426;333
-9;16;2745;333
+9;16;2745;333;descriptionEn=Dwarven axe, arrrrr! Make dat, aye! Take ye axe handle, six iron ingots, two copper ingots, one gold ingot and ye cut topaz to fancy it up. It be ye beautiful thing it be! Arrrr!;descriptionDe=Zwergenaxt, arrr! Mache sie, aye! Nimm den Axtgriff, sechs Eisenbarren, zwei aus Kupfer und einen aus Gold, ach ja und einen geschliffenen Topas. Es ist eine schöne Waffe. Arrr!
 10;16;613;333
 12;16;3101;333
 13;16;1783;333
@@ -383,11 +383,11 @@
 38;16;3101;333
 39;16;1250;333
 0;17;914;333
-5;17;3083;333
+5;17;3083;333;descriptionEn=Galmair Sewers;descriptionDe=Galmair´s Kanalisation
 9;17;404;333
 9;17;259;333
 10;17;613;333
-15;17;3159;333
+15;17;3159;333;descriptionEn=Galmair Storage;descriptionDe=Galmair´s Lager
 17;17;1783;333
 18;17;1179;333
 33;17;726;333
@@ -508,7 +508,7 @@
 39;23;613;333
 0;24;914;333
 3;24;422;333
-6;24;2745;333
+6;24;2745;333;descriptionEn=Salkamaerian officer's armour, now dis be difficult. Why anyone would want it is a whole noder question. Gader all ye supplies: 20 iron ingots, eight copper ingots, two gold ingots, one merinium ingot, eight pieces of leather, eight pieces of grey cloth, one cut topaz and a pure earth. As ye can guess, dis be a difficult armour ta make. Bend da ores ta ya will.;descriptionDe=Die Salkamaerische Offiziersrüstung ist kompliziert. Warum diese Rüstung jeder haben will ist eine andere Frage. Sammle alle Materialien: 20 Eisenbarren, 8 Kupfer, 2 Gold und 1 Meriniumbarren, 8 Lederstücke und 8 Ballen grauer Stoff, ein geschliffener Topas und 1 reine Erde. Wie gesagt, die Rüstung ist schwer herzustellen. Biege das Erz nach deinem Willen.
 9;24;2586;333
 10;24;1907;333
 14;24;1783;333
@@ -570,7 +570,7 @@
 6;29;422;333
 7;29;3100;333
 12;29;1783;333
-17;29;2745;333
+17;29;2745;333;descriptionEn="The best way ta brew da ale is ta ferment your hops .."  the rest of the paper has been chewed up by the rats.;descriptionDe="Der beste Weg um Bier zu brauen ist den Hopfen zu vergären .." der Rest des Pergamentes ist von Ratten gefressen worden.
 20;29;3100;333
 28;29;426;333
 29;29;2038;333
