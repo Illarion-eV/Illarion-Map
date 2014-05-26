@@ -57,7 +57,7 @@
 3;1;524;333
 3;1;2855;333
 5;1;1361;333
-6;1;1360;333;descriptionEn=The word "BARTIMAEUS" has been carved into the top of the chest.;descriptionDe=The word "BARTIMAEUS" has been carved into the top of the chest.
+6;1;1360;333;descriptionEn=The word "BARTIMAEUS" has been carved into the top of the chest.;descriptionDe=Das Wort "BARTIMAEUS" wurde in den Deckel der Kiste geschnitzt.
 7;1;1360;333
 8;1;3265;333
 8;1;3265;333
