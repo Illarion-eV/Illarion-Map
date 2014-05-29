@@ -884,7 +884,7 @@
 9;45;392;333
 13;45;407;333
 15;45;915;333
-21;45;2745;333;descriptionEn=There are some huge salmon found in the waters around Cadomyr. Be prepared to pull one in or have them steel your catch!;descriptionDe=Riesige Lachse schwimmen in den Gewässern um Cadomyr. Sei dir gewahr, dass du einen fangen wirst, oder dass sie dir deinen Fang stehlen.
+21;45;2745;333;descriptionEn=There are some huge salmon found in the waters around Cadomyr. Be prepared to pull one in or have them steal your catch!;descriptionDe=Riesige Lachse schwimmen in den Gewässern um Cadomyr. Sei dir gewahr, dass du einen fangen wirst, oder dass sie dir deinen Fang stehlen.
 23;45;914;333
 44;45;726;333
 45;45;287;333
