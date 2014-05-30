@@ -680,7 +680,7 @@
 18;30;287;333
 19;30;630;333
 20;30;628;333
-22;30;2745;333;descriptionEn=To make a crown, like the Queen wears, you will need to shape it from three silver ingots, adding three gold ingots, then a touch of merinium. Once this is completed the cut jewels can be added, using one each of sapphire, topas and diamond. As always, be sure to polish your work to a glittering shine before adding the cut jewels.;descriptionDe=Um eine Krone, wie die der Königin, zu erstellen forme sie zuerst aus drei Silber Barren, füge drei Goldene hinzu und einen Hauch von Merinium. Sobald dies erledigt füge die geschliffenen Juwelen ein, von Saphir, Topaz und Diamant je einen. Wie immer, stelle sicher, dass deine Arbeit auf Hochglanz poliert ist bevor die Juwelen eingefügt werden.
+22;30;2745;333;descriptionEn=To make a crown, like the Queen wears, you will need to shape it from three silver ingots, adding three gold ingots, then a touch of merinium. Once this is completed the cut jewels can be added, using one each of sapphire, topaz and diamond. As always, be sure to polish your work to a glittering shine before adding the cut jewels.;descriptionDe=Um eine Krone, wie die der Königin, zu erstellen forme sie zuerst aus drei Silber Barren, füge drei Goldene hinzu und einen Hauch von Merinium. Sobald dies erledigt füge die geschliffenen Juwelen ein, von Saphir, Topaz und Diamant je einen. Wie immer, stelle sicher, dass deine Arbeit auf Hochglanz poliert ist bevor die Juwelen eingefügt werden.
 28;30;1276;333
 35;30;1245;333
 36;30;3097;333
@@ -857,7 +857,7 @@
 47;42;287;333
 48;42;287;333
 49;42;287;333
-4;43;2745;333;descriptionEn=Fissshing iss besst in da morningsss. Usse bait, found *the rest of the message is lost as the rats have chewed on the parchment*;descriptionDe=Fissssche am besssten morgensss. Den Köder findet man * der Rest des Pergament ist unleserlich und von Ratten zerfressen*
+4;43;2745;333;descriptionEn=Fissshing iss besst in ze morningsss. Usse bait, found *the rest of the message is lost as the rats have chewed on the parchment*;descriptionDe=Fissssche am besssten morgensss. Den Köder findet man * der Rest des Pergament ist unleserlich und von Ratten zerfressen*
 10;43;1250;333
 23;43;3099;333
 26;43;1245;333
