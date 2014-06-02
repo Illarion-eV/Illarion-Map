@@ -322,6 +322,7 @@
 19;12;2745;333;descriptionEn=Ta brew da bear slayer crush eight apples and add dem to a bucket a water. Add two honeycombs and a finely crushed toadstool. Brew dis all togeder very well, den poor into a small bottle. Be warned, dis be da strong stuff!;descriptionDe=Um Bärentöter zu brauen wirf einfach 8 Äpfel in den Eimer mit Wasser. Dazu noch 2 Honigwaben und schlußendlich einen Giftpilz. Braue das Alles zusammen und fülle es in in kleine Flaschen. Sei gewarnt, das ist ein kräftiger Schnaps.
 24;12;422;333
 30;12;3100;333
+32;12;420;333
 33;12;314;333
 35;12;3101;333
 36;12;3099;333
@@ -419,7 +420,7 @@
 39;19;915;333
 0;20;914;333
 1;20;316;333
-10;20;314;333
+10;20;3099;333
 11;20;1000;333
 14;20;421;333
 16;20;982;333
