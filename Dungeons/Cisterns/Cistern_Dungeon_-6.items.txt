@@ -61,6 +61,7 @@
 6;1;622;333
 7;1;622;333
 8;1;628;333
+9;1;2493;333
 10;1;629;333
 11;1;622;333
 12;1;628;333
@@ -78,7 +79,9 @@
 23;1;622;333
 24;1;622;333
 25;1;628;333
+26;1;622;333
 27;1;629;333
+27;1;622;333
 28;1;630;333
 29;1;630;333
 30;1;622;333
@@ -104,7 +107,6 @@
 7;2;413;333
 10;2;3095;333
 11;2;3095;333
-11;2;259;333
 12;2;412;333
 13;2;1276;333
 13;2;1276;333
@@ -125,6 +127,7 @@
 35;2;3095;333
 35;2;3095;333
 36;2;35;333
+37;2;2493;333
 38;2;629;333
 39;2;630;333
 0;3;287;333
@@ -151,6 +154,7 @@
 27;4;629;333
 28;4;629;333
 29;4;629;333
+30;4;2493;333
 31;4;407;333
 33;4;233;333
 36;4;1783;333
@@ -187,7 +191,6 @@
 21;7;69;333
 22;7;3100;333
 23;7;498;333
-27;7;259;333
 36;7;3093;333
 36;7;3093;333
 37;7;629;333
@@ -256,11 +259,12 @@
 6;12;915;333
 7;12;3100;333
 8;12;233;333
+9;12;2493;333
 10;12;412;333
-10;12;259;333
 11;12;1254;333
 14;12;1246;333
 15;12;3099;333
+16;12;2493;333
 21;12;1245;333
 22;12;3097;333
 25;12;1783;333
@@ -279,7 +283,6 @@
 22;13;3097;333
 29;13;407;333
 31;13;2786;333
-34;13;259;333
 36;13;3100;333
 37;13;410;333
 38;13;623;333
@@ -306,7 +309,6 @@
 39;15;287;333
 0;16;287;333
 1;16;627;333
-5;16;726;333
 8;16;915;333
 10;16;2169;333
 21;16;233;333
@@ -361,7 +363,6 @@
 38;20;287;333
 39;20;287;333
 0;21;287;333
-2;21;259;333
 13;21;407;333
 14;21;1783;333
 16;21;1783;333
@@ -423,7 +424,7 @@
 23;26;3097;333
 33;26;422;333
 35;26;2745;333
-38;26;726;333
+38;26;2493;333
 39;26;287;333
 0;27;287;333
 7;27;1783;333
@@ -448,6 +449,7 @@
 10;29;618;333
 13;29;3097;333
 18;29;1783;333
+23;29;2745;333;descriptionEn=The mosaic shield is made similarly to the cloud shield but requires different materials. First, gather six fine conifer boards, three pieces of leather, a silver ingot, three cut rubies, two merinium ingots, and a pure fire that burns bright. Continue as you would for the cloud shield, taking care not to get burned while working with the pure fire. ;descriptionDe=Der Mosaik Schild wird sehr ähnlich wie der Wolkenschild hergestellt, braucht jedoch unterschiedliches Material. Zuerst sammle sechs Koniferenbretter, drei Lederstücke, einen Silberbarren, drei geschliffene Rubine und ein reines Feuer, welches stahlend Leuchtet. Fahre weiter, wie du es für den Wolkenschild würdest, pass jedoch auf dass du dich nicht verbrennst wenn du mit dem reinen Feuer arbeitest
 25;29;3099;333
 27;29;421;333
 30;29;1783;333
@@ -498,9 +500,9 @@
 0;34;287;333
 2;34;2786;333
 5;34;1783;333
-14;34;259;333
 16;34;2786;333
 32;34;420;333
+36;34;2493;333
 37;34;623;333
 38;34;287;333
 39;34;287;333
@@ -536,7 +538,6 @@
 1;37;287;333
 2;37;287;333
 12;37;3095;333
-16;37;2745;333;descriptionEn=The mosaic shield is made similarly to the cloud shield but requires different materials. First, gather six fine conifer boards, three pieces of leather, a silver ingot, three cut rubies, two merinium ingots, and a pure fire that burns bright. Continue as you would for the cloud shield, taking care not to get burned while working with the pure fire. ;descriptionDe=Der Mosaik Schild wird sehr ähnlich wie der Wolkenschild hergestellt, braucht jedoch unterschiedliches Material. Zuerst sammle sechs Koniferenbretter, drei Lederstücke, einen Silberbarren, drei geschliffene Rubine und ein reines Feuer, welches stahlend Leuchtet. Fahre weiter, wie du es für den Wolkenschild würdest, pass jedoch auf dass du dich nicht verbrennst wenn du mit dem reinen Feuer arbeitest
 20;37;407;333
 32;37;259;333
 34;37;407;333
