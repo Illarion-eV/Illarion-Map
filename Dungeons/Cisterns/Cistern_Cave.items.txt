@@ -227,7 +227,7 @@
 11;4;622;333
 12;4;628;333
 13;4;314;333
-16;4;795;333
+14;4;28;333
 19;4;726;333
 20;4;915;333
 23;4;232;333
@@ -301,6 +301,7 @@
 7;6;628;333
 9;6;1245;333
 12;6;3097;333
+21;6;2855;333
 22;6;914;333
 29;6;3097;333
 32;6;630;333
@@ -334,6 +335,7 @@
 30;7;3097;333
 31;7;1247;333
 32;7;629;333
+38;7;420;333
 44;7;598;333
 45;7;287;333
 46;7;287;333
@@ -350,7 +352,6 @@
 11;8;407;333
 12;8;1265;333
 16;8;3100;333
-19;8;392;333
 35;8;1276;333
 38;8;232;333
 44;8;623;333
@@ -421,6 +422,8 @@
 32;12;612;333
 35;12;1783;333
 35;12;1783;333
+39;12;2855;333
+39;12;2855;333
 44;12;314;333
 45;12;287;333
 46;12;287;333
@@ -445,6 +448,7 @@
 0;14;287;333
 1;14;599;333
 6;14;1245;333
+10;14;2855;333
 14;14;1250;333
 22;14;1245;333
 31;14;915;333
@@ -461,7 +465,6 @@
 1;15;599;333
 2;15;1254;333
 6;15;726;333
-9;15;392;333
 16;15;1254;333
 36;15;3097;333
 44;15;411;333
@@ -476,8 +479,10 @@
 6;16;3100;333
 12;16;407;333
 20;16;1783;333
+26;16;2855;333
 27;16;3100;333
 31;16;1266;333
+36;16;2855;333
 45;16;629;333
 46;16;630;333
 47;16;287;333
@@ -488,7 +493,6 @@
 23;17;914;333
 28;17;2745;333;descriptionEn=Making the golden goblet actually takes two ingots of silver and one ingot of gold. First, you fashion the goblet from the silver, then you cover or overlay the entire thing in gold, polishing it until it sparkles and you can see your eyes in the reflection.;descriptionDe=Einen goldenen Kelch zu erstellen braucht der Barren drei, zwei aus Silber und einen aus Gold. Forme den Kelch aus dem Silber und dann beschlage ihn mit dem Gold, poliere ihn bis er so funkelt, dass sich deine Augen in ihm spiegeln.
 29;17;3097;333
-37;17;392;333
 39;17;1265;333
 45;17;3095;333
 46;17;623;333
@@ -638,7 +642,7 @@
 25;27;1276;333
 26;27;3095;333
 33;27;3095;333
-34;27;795;333
+33;27;28;333
 35;27;1245;333
 36;27;626;333
 48;27;623;333
@@ -687,6 +691,7 @@
 19;29;630;333
 20;29;627;333
 22;29;726;333
+30;29;420;333
 32;29;1265;333
 36;29;1251;333
 43;29;3100;333
@@ -709,6 +714,7 @@
 20;30;628;333
 22;30;2745;333;descriptionEn=To make a crown, like the Queen wears, you will need to shape it from three silver ingots, adding three gold ingots, then a touch of merinium. Once this is completed the cut jewels can be added, using one each of sapphire, topaz and diamond. As always, be sure to polish your work to a glittering shine before adding the cut jewels.;descriptionDe=Um eine Krone, wie die der Königin, zu erstellen forme sie zuerst aus drei Silber Barren, füge drei Goldene hinzu und einen Hauch von Merinium. Sobald dies erledigt füge die geschliffenen Juwelen ein, von Saphir, Topaz und Diamant je einen. Wie immer, stelle sicher, dass deine Arbeit auf Hochglanz poliert ist bevor die Juwelen eingefügt werden.
 28;30;1276;333
+34;30;2855;333
 35;30;1245;333
 36;30;3097;333
 37;30;1254;333
@@ -763,7 +769,6 @@
 0;33;287;333
 1;33;1250;333
 4;33;914;333
-5;33;392;333
 7;33;1245;333
 11;33;1783;333
 15;33;629;333
@@ -793,6 +798,7 @@
 38;34;1273;333
 39;34;1254;333
 40;34;1245;333
+42;34;421;333
 46;34;314;333
 47;34;623;333
 48;34;287;333
@@ -821,12 +827,13 @@
 3;36;3097;333
 4;36;233;333
 5;36;2927;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
+7;36;2855;333
+7;36;2855;333
 8;36;915;333
 12;36;1250;333
 21;36;1783;333
 21;36;1783;333
 37;36;1250;333
-39;36;392;333
 42;36;1250;333
 45;36;3093;333
 46;36;623;333
@@ -849,6 +856,7 @@
 26;38;1250;333
 35;38;1245;333
 38;38;3097;333
+42;38;2855;333
 43;38;3098;333
 45;38;259;333
 46;38;623;333
@@ -863,7 +871,9 @@
 13;39;1254;333
 16;39;314;333
 17;39;1254;333
+21;39;422;333
 23;39;314;333
+25;39;2855;333
 26;39;726;333
 28;39;1265;333
 40;39;1272;333
@@ -875,7 +885,7 @@
 0;40;287;333
 1;40;599;333
 3;40;914;333
-9;40;794;333
+9;40;28;333
 20;40;1783;333
 23;40;915;333
 26;40;3097;333
@@ -890,8 +900,8 @@
 1;41;599;333
 2;41;726;333
 5;41;1250;333
+16;41;2855;333
 17;41;1245;333
-24;41;392;333
 32;41;1783;333
 38;41;1245;333
 39;41;2745;333;descriptionEn=The ring of an Archmage is not easily made. First craft a ring of two silver ingots, covering it in two gold ingots. Now add a merninum ingot in such a way that it holds the essence of a pure air, pure fire, and pure water, being careful not to hurt yourself in the process. This is by no means easy and may take some practice to do well. Polish this to a fine shine. Once you are happy with the finish, you can add the finely cut diamond. ;descriptionDe=Ein Ring des Erzmagiers ist schwer zu erstellen. Zuerst forme einen Ring aus zwei silbernen Barren, ummantele das ganze mit dem Gold von zwei weiteren. Nun füge das Merinium eines Barrens so hinzu, dass es die Essenz je einer reinen Luft, Erde, Feuer und Wassers enthält. Tue dies vorsichtig um dich nicht zu verletzen. Dies ist wahrlich nicht einfach und erfordert einiges an Übung. Poliere is bis es glänzt und wenn du zufrieden bist mit deiner Arbeit, kannst du den geschliffenen Diamant einfügen.
@@ -903,11 +913,13 @@
 49;41;287;333
 0;42;287;333
 1;42;1254;333
+11;42;420;333
 12;42;2926;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 14;42;914;333
 20;42;232;333
 21;42;1254;333
 28;42;1276;333
+32;42;421;333
 38;42;407;333
 40;42;3099;333
 45;42;623;333
@@ -933,6 +945,7 @@
 6;44;726;333
 7;44;3097;333
 17;44;1156;333
+20;44;420;333
 23;44;726;333
 38;44;914;333
 38;44;914;333
