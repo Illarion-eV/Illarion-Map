@@ -71,6 +71,7 @@
 16;2;411;333
 17;2;3098;333
 21;2;498;333
+23;2;2493;333
 24;2;287;333
 0;3;287;333
 1;3;498;333
@@ -115,12 +116,11 @@
 24;7;287;333
 5;8;616;333
 9;8;3100;333
-10;8;316;333
 17;8;616;333
 19;8;3097;333
+23;8;2493;333
 24;8;287;333
 0;9;287;333
-4;9;314;333
 5;9;617;333
 6;9;3093;333
 7;9;628;333
@@ -142,13 +142,11 @@
 11;10;627;333
 15;10;3101;333
 17;10;615;333
-21;10;314;333
 22;10;3101;333
 23;10;623;333
 24;10;287;333
 0;11;287;333
 1;11;413;333
-1;11;259;333
 2;11;3098;333
 4;11;2745;333;descriptionEn=To make a fine long bow, you need to start with three fine naldor boards and three applewood boards. Carve these into the proper shapes, combining them together with the proper cuts and such. Add four spools of thread and embellish it with a cut blackstone. If worked properly, you'll have one fine long bow!;descriptionDe=Um einen ausgezeichneten Langbogen zu machen, musst du mit drei Naldor-Brettern und drei Apfelholz-Brettern starten. Schnitze diese in passende Form, kombiniere diese mit sauberem Schnitt. Gib vier Spuhlen Faden dazu und dekoriere es mit einem geschliffenen Obsidian. Wenn sauber gearbeitet wurde, hast du nun einen guten Langbogen
 6;11;407;333
@@ -167,12 +165,11 @@
 18;12;56;333
 19;12;412;333
 21;12;421;333
-23;12;259;333
+23;12;2493;333
 24;12;287;333
 0;13;287;333
 2;13;3101;333
 3;13;3100;333
-16;13;314;333
 18;13;3101;333
 21;13;3099;333
 22;13;3093;333
@@ -182,7 +179,6 @@
 6;14;614;333
 15;14;3097;333
 18;14;3100;333
-19;14;316;333
 22;14;2745;333;descriptionEn=To make cookies you need one bucket of water, two bags of flour, and one honeycomb. Mix it all together and bake it by the spoonful to make delicious cookies, being careful not to burn them. For an extra special treat, try adding some nuts!;descriptionDe=Um Kekse herzustellen brauchst du einen Eimer Wasser, zwei Säcke Mehl und eine Honigwabe. Mische alles zusammen und backe alles löffelweise um köstliche Kekse zu machen. Sei vorsichtig, dass sie nicht verbrennen. Für eine spezielle Gaumenfreude versuche einige Nüsse beizumengen.
 23;14;413;333
 24;14;287;333
@@ -208,7 +204,6 @@
 23;16;623;333
 24;16;287;333
 0;17;287;333
-5;17;314;333
 6;17;420;333
 9;17;3101;333
 19;17;3101;333
@@ -225,7 +220,6 @@
 0;20;287;333
 11;20;3093;333
 12;20;629;333
-13;20;259;333
 15;20;621;333
 16;20;620;333
 17;20;620;333
@@ -234,7 +228,6 @@
 21;20;422;333
 0;21;287;333
 1;21;3100;333
-4;21;259;333
 11;21;498;333
 12;21;28;333
 13;21;3101;333
@@ -242,7 +235,6 @@
 20;21;2832;333
 22;21;3098;333
 0;22;287;333
-2;22;314;333
 3;22;3093;333
 4;22;628;333
 5;22;168;333
