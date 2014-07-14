@@ -940,7 +940,7 @@
 4;27;463;577;descriptionEn=The tip of the quill is red and has a faint metallic smell.  It has been used to write with blood.;descriptionDe=Die Spitzen der Feder sind Rot und haben einen faden, metallischen Geschmack. Es würde üblicherweise mit Blut geschrieben.
 5;27;3101;333
 10;27;320;333
-10;27;3109;333;descriptionEn=The writing is red and distinguishable part reads "Enchanting Slaves";descriptionDe=Das Schreiben ist Rot, auf dem lesbaren Teil erkennt man die Worte: "Bezaubernde Sklaven"
+10;27;3109;333;descriptionEn=The writing is red and distinguishable part reads, "Enchanting Slaves";descriptionDe=Das Schreiben ist Rot, auf dem lesbaren Teil erkennt man die Worte: "Bezaubernde Sklaven"
 14;27;3101;333
 21;27;1102;0
 21;27;2805;333
@@ -1128,7 +1128,7 @@
 0;31;287;333
 1;31;1101;333
 4;31;320;333
-4;31;1060;333;descriptionEn=Dissection: How to make your subject live for longer times;descriptionDe=Obduktion: Wie Ihr eure Untertanen lang lebender macht.
+4;31;1060;333;descriptionEn=Dissection: How to make your subject live for longer times;descriptionDe=Obduktion: Wie Ihr eure Untertanen lang lebender macht
 7;31;3101;333
 12;31;3101;333
 16;31;2805;333
@@ -1340,7 +1340,7 @@
 0;35;287;333
 1;35;1101;333
 4;35;320;333
-4;35;1089;333;descriptionEn=Blood Magic: Using the power from within;descriptionDe=Blut Magie: Benutzt die Stärke aus dem Inneren.
+4;35;1089;333;descriptionEn=Blood Magic: Using the power from within;descriptionDe=Blut Magie: Benutzt die Stärke aus dem Inneren
 12;35;1102;0
 13;35;287;333
 14;35;287;0
