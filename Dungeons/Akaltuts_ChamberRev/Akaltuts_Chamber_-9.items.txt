@@ -155,7 +155,7 @@
 53;5;287;0
 54;5;599;0
 80;5;359;0
-87;5;2745;333;descriptionEn=Page 24.  I seem trapped in never ending portals that go nowhere and back.  Many days have passed. I no longer think I will get home, somehow this does not trouble me anymore.;descriptionDe=Seite 24. Ich scheine in endlosen Reihen von Portalen gefangen zu sein, welche mich überall und nirgendwo hin bringen. Viele Tage sind vergangen und ich glaube nicht mehr, dass ich wieder nach Hause komme. Seltsamerweise stört mich dass nicht mehr.
+87;5;2745;333;descriptionEn=Page 24. I seem trapped in never ending portals that go nowhere and back. Many days have passed. I no longer think I will get home, somehow this does not trouble me anymore.;descriptionDe=Seite 24. Ich scheine in endlosen Reihen von Portalen gefangen zu sein, welche mich überall und nirgendwo hin bringen. Viele Tage sind vergangen und ich glaube nicht mehr, dass ich wieder nach Hause komme. Seltsamerweise stört mich dass nicht mehr.
 95;5;607;0
 97;5;630;0
 98;5;596;0
@@ -385,7 +385,7 @@
 54;15;599;0
 55;15;3100;333
 56;15;3100;333
-58;15;2745;333;descriptionEn=Page 23.  I can feel the heat coming back.  Am I heading upwards again?  Time will tell, I will rest awhile and think on those I have found down here.  I am feeling a kinship to my brethren.;descriptionDe=Seite 23. Ich kann spüren wie es wärmer wird, gehe ich schon wieder aufwärts? Die Zeit wird es zeigen, ich ruhe mich etwas aus und denke an die, die ich hier unten fand. Ich fühle eine Verbundenheit zu meinen Brüdern.
+58;15;2745;333;descriptionEn=Page 23. I can feel the heat coming back. Am I heading upwards again? Time will tell, I will rest awhile and think on those I have found down here. I am feeling a kinship to my brethren.;descriptionDe=Seite 23. Ich kann spüren wie es wärmer wird, gehe ich schon wieder aufwärts? Die Zeit wird es zeigen, ich ruhe mich etwas aus und denke an die, die ich hier unten fand. Ich fühle eine Verbundenheit zu meinen Brüdern.
 62;15;2937;333
 64;15;596;0
 65;15;287;0
@@ -802,7 +802,7 @@
 11;23;2553;333
 15;23;320;333
 15;23;2554;333
-19;23;2745;333;descriptionEn=Page 22.  I should feel outraged at what I find in here, yet after what I did to Horace I do not have it in me.  I am feeling a strange sort of kinship to the worshipers.;descriptionDe=Seite 22.Ich sollte empört sein, über dass was ich hier fand. Aber nach dem was ich Horace antat ist da nichts mehr. Ich fühle eine seltsame Art der Seelenverwandschaft zu den Götzendienern.
+19;23;2745;333;descriptionEn=Page 22. I should feel outraged at what I find in here, yet after what I did to Horace I do not have it in me. I am feeling a strange sort of kinship to the worshippers.;descriptionDe=Seite 22.Ich sollte empört sein, über dass was ich hier fand. Aber nach dem was ich Horace antat ist da nichts mehr. Ich fühle eine seltsame Art der Seelenverwandschaft zu den Götzendienern.
 21;23;1106;0
 34;23;627;0
 35;23;627;0
@@ -1065,7 +1065,7 @@
 61;29;287;0
 62;29;599;0
 67;29;627;333
-71;29;2745;333;descriptionEn=Page 26. I can not leave, my soul was lost here and so should be my body.  I am burying the treasure I found here with my body, hopefully some 'kind' soul will find it.  The hole is dug... I just need to crawl in and drink the poison.;descriptionDe=Seite 26. Ich kann nicht gehen. Ich habe hier meine Seele verloren und so solle es nun auch meinem Körper gehen. Ich werde den Schatz den ich fand mit in mein Grab nehmen. Hoffentlich findet ihn irgend eine 'freundlich' Seele. Das Grab ist ausgehoben. Ich muss mich nur noch reinlegen und das Gift drinken.
+71;29;2745;333;descriptionEn=Page 26. I can not leave, my soul was lost here and so should be my body. I am burying the treasure I found here with my body, hopefully some 'kind' soul will find it. The hole is dug... I just need to crawl in and drink the poison.;descriptionDe=Seite 26. Ich kann nicht gehen. Ich habe hier meine Seele verloren und so solle es nun auch meinem Körper gehen. Ich werde den Schatz den ich fand mit in mein Grab nehmen. Hoffentlich findet ihn irgend eine 'freundlich' Seele. Das Grab ist ausgehoben. Ich muss mich nur noch reinlegen und das Gift drinken.
 73;29;914;333
 75;29;287;0
 76;29;599;0
@@ -1329,7 +1329,7 @@
 44;34;596;0
 44;34;628;333
 45;34;287;0
-53;34;2745;333;descriptionEn=Page 25.  I feel this the last magical doorway is the way out, yet I am reluctant to leave...;descriptionDe=Seite 25.Ich kann es spüren, dass dies das letzte magische Portal ist, dies ist die Tür die mich hier rausbringt. Aber es wiederstrebt mir schon zu gehen.
+53;34;2745;333;descriptionEn=Page 25. I feel this the last magical doorway is the way out, yet I am reluctant to leave...;descriptionDe=Seite 25.Ich kann es spüren, dass dies das letzte magische Portal ist, dies ist die Tür die mich hier rausbringt. Aber es wiederstrebt mir schon zu gehen.
 56;34;1245;333
 61;34;915;333
 67;34;915;333
@@ -2284,7 +2284,7 @@
 36;56;1101;0
 41;56;163;333
 44;56;1783;333
-53;56;2745;333;descriptionEn=Page 19.  The tombstones... they appear to be banishment of all the good and softer things in life.   My soul feels chilled.  I think of Zzeslia and her quiet voice, I miss her.;descriptionDe=Seite 19. Die Grabsteine...sie erscheinen als Verbannung der Götter und weicheren Sachen des Lebens. Meine Seele fühlt sich abgekühlt. Ich denke an Zzeslia und ihre leise Stimme, ich vermisse sie.
+53;56;2745;333;descriptionEn=Page 19. The tombstones... they appear to be banishment of all the good and softer things in life. My soul feels chilled. I think of Zzeslia and her quiet voice, I miss her.;descriptionDe=Seite 19. Die Grabsteine...sie erscheinen als Verbannung der Götter und weicheren Sachen des Lebens. Meine Seele fühlt sich abgekühlt. Ich denke an Zzeslia und ihre leise Stimme, ich vermisse sie.
 55;56;163;333
 58;56;1783;333
 60;56;2937;333
@@ -2398,7 +2398,7 @@
 73;59;599;333
 78;59;163;333
 83;59;163;333
-85;59;2745;333;descriptionEn=Page 18.  Though the part they live in seems to be well maintained, many signs point to their world below deteriorating.  I only hope they don't come back to the surface.;descriptionDe=Seite 18. Obschon es durch den Teil den sie bewohnen, wohlerhalten scheint, deuten viele Zeichen auf ihre schlechterhaltene Unterwelt. Ich hoffe nur, sie kommen nie mehr zurück an die Oberfläche.Seite 18. Obschon es durch den Teil den sie bewohnen, wohlerhalten scheint, deuten viele Zeichen auf ihre schlechterhaltene Unterwelt. Ich hoffe nur, sie kommen nie mehr zurück an die Oberfläche.
+85;59;2745;333;descriptionEn=Page 18. Though the part they live in seems to be well maintained, many signs point to their world below deteriorating. I only hope they don't come back to the surface.;descriptionDe=Seite 18. Obschon es durch den Teil den sie bewohnen, wohlerhalten scheint, deuten viele Zeichen auf ihre schlechterhaltene Unterwelt. Ich hoffe nur, sie kommen nie mehr zurück an die Oberfläche.Seite 18. Obschon es durch den Teil den sie bewohnen, wohlerhalten scheint, deuten viele Zeichen auf ihre schlechterhaltene Unterwelt. Ich hoffe nur, sie kommen nie mehr zurück an die Oberfläche.
 87;59;1783;333
 88;59;1783;333
 92;59;1783;333
@@ -3124,7 +3124,7 @@
 52;84;1792;333
 57;84;1782;333
 60;84;1783;333
-69;84;2745;333;descriptionEn=Page 17.  The guardians are intriguing.  What form of magic do they have to give undead intelligence?;descriptionDe=Seite 17. Die Wächter sind faszinierend. Welche Form der Magie haben diese, untote Intelligenz geben?
+69;84;2745;333;descriptionEn=Page 17. The guardians are intriguing. What form of magic do they have to give undead intelligence?;descriptionDe=Seite 17. Die Wächter sind faszinierend. Welche Form der Magie haben diese, untote Intelligenz geben?
 71;84;1102;333
 71;84;1123;333
 72;84;287;333
@@ -3644,7 +3644,7 @@
 33;96;744;333
 35;96;1101;0
 53;96;1101;0
-61;96;2745;333;descriptionEn=Page 13.   More skulls... they line the walls now.  The portal says it is a way out, but how can Horace and I leave now?  The others would have died for nothing.  We will master this riddle and find the answer to this crazy place.;descriptionDe=Seite 13: Noch mehr Totenschädel, sie säumen jetzt die Wände. Das Portal behauptet es sei ein Weg nach draußen, aber wie können Horace und ich jetzt aufhören? Die Anderen wären umsonst gestorben. Wir müssen das Rätsel dieses verrückten Ortes lösen.
+61;96;2745;333;descriptionEn=Page 13. More skulls... they line the walls now. The portal says it is a way out, but how can Horace and I leave now? The others would have died for nothing. We will master this riddle and find the answer to this crazy place.;descriptionDe=Seite 13: Noch mehr Totenschädel, sie säumen jetzt die Wände. Das Portal behauptet es sei ein Weg nach draußen, aber wie können Horace und ich jetzt aufhören? Die Anderen wären umsonst gestorben. Wir müssen das Rätsel dieses verrückten Ortes lösen.
 62;96;1102;0
 62;96;1123;0
 63;96;287;333
@@ -3810,7 +3810,7 @@
 27;100;1101;0
 30;100;464;333
 35;100;1101;0
-41;100;2745;333;descriptionEn=Page 16.  Theresa would have loved the library.  So many books here.  I may see if Horace will stay a few days to explore them.;descriptionDe=Seite 16. Theresa würde die Bibliothek geliebt haben. So viele Bücher waren hier. Ich muss schauen, ob Horace einige Tage bleiben wird um diese zu erkunden.
+41;100;2745;333;descriptionEn=Page 16. Theresa would have loved the library. So many books here. I may see if Horace will stay a few days to explore them.;descriptionDe=Seite 16. Theresa würde die Bibliothek geliebt haben. So viele Bücher waren hier. Ich muss schauen, ob Horace einige Tage bleiben wird um diese zu erkunden.
 42;100;3293;333
 45;100;213;0
 46;100;2885;0
@@ -4526,7 +4526,7 @@
 1;114;1101;333
 4;114;213;333
 5;114;664;333
-5;114;2745;333;descriptionEn=Page 15.  After a fierce battle, we fell onto the food, eating as if we had not fed in days at last slaking our hunger.    I feel funny now.  I wonder if I ate too much or something strange was used in the making of the items.;descriptionDe=Seite 15. Nach einer erbitterten Schlacht fielen wir übers Essen her, stürzten uns darauf, als wären wir Tage lang nicht gefüttert worden. Schlussendlich liess unser Hunger nach. Jetzt fühle ich mich komisch. Ich wundere mich, ob ich zu viel gegessen habe oder etwas Merkwürdiges benutzt wurde um diese Gegenstände herzustellen.
+5;114;2745;333;descriptionEn=Page 15. After a fierce battle, we fell onto the food, eating as if we had not fed in days at last slaking our hunger. I feel funny now. I wonder if I ate too much or something strange was used in the making of the items.;descriptionDe=Seite 15. Nach einer erbitterten Schlacht fielen wir übers Essen her, stürzten uns darauf, als wären wir Tage lang nicht gefüttert worden. Schlussendlich liess unser Hunger nach. Jetzt fühle ich mich komisch. Ich wundere mich, ob ich zu viel gegessen habe oder etwas Merkwürdiges benutzt wurde um diese Gegenstände herzustellen.
 6;114;215;333
 10;114;665;333
 10;114;163;333
@@ -4542,7 +4542,7 @@
 46;114;1101;0
 46;114;3292;0
 49;114;1161;333
-53;114;2745;333;descriptionEn=Page 14.  This must be their training room.  Horace and I have been fighting them for days now.  They are very strong.;descriptionDe=Seite 14. Diese muss ihre Ausbildung. Horaz und ich habe seit Tagen nun. Sie sind sehr stark.
+53;114;2745;333;descriptionEn=Page 14. This must be their training room. Horace and I have been fighting them for days now. They are very strong.;descriptionDe=Seite 14. Diese muss ihre Ausbildung. Horaz und ich habe seit Tagen nun. Sie sind sehr stark.
 61;114;1102;333
 62;114;287;333
 63;114;287;333
