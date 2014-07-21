@@ -3553,7 +3553,7 @@
 84;113;683;333
 106;113;675;333
 106;113;672;333
-129;113;654;0
+129;113;654;0;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked=
 138;113;635;333
 139;113;3245;333
 144;113;395;0
@@ -3587,7 +3587,7 @@
 107;114;395;333
 107;114;396;333
 107;114;1265;333
-129;114;658;0
+129;114;658;0;descriptionEn=Civic Hall;descriptionDe=Stadtsaal;doorLockunlocked=
 138;114;635;333
 138;114;693;333;descriptionDe=Ein junger König sitzt auf einen Thron. Sein linker Ellbogen ruht auf seinen Beinen. Seine rechte Hand hält ein Langschwert. Er wirkt ruhelos und gelangweilt.;descriptionEn=A young king is sitting on a throne, his left elbow resting on his legs. His right hand holds a longsword. He seems restless and bored.
 139;114;3245;333
