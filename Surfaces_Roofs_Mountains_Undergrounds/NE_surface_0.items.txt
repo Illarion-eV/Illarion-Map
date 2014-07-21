@@ -24129,6 +24129,9 @@
 232;246;421;333
 232;246;911;333
 239;246;273;333
+241;246;3083;333;descriptionDe=Narguns Ebene, Galmair, Tempel der Fünf;descriptionEn=Nargun's Plain, Galmair, Temple of the Five
+242;246;3082;333;descriptionDe=Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
+243;246;3084;333;descriptionDe=Schulterplatte Insel;descriptionEn=Pauldron Isle
 247;246;273;333
 249;246;274;333
 252;246;273;333
@@ -27994,6 +27997,7 @@
 237;279;584;333
 238;279;338;333
 240;279;274;333
+246;279;3081;333;descriptionDe=Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 257;279;421;333
 257;279;913;333
 269;279;301;333
@@ -28408,6 +28412,7 @@
 221;283;1276;333
 231;283;338;333
 231;283;338;333
+246;283;3082;333;descriptionDe=Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 249;283;421;333
 249;283;910;333
 250;283;301;333
@@ -30997,6 +31002,7 @@
 199;304;1102;333
 199;304;513;333
 222;304;338;333
+243;304;3081;333;descriptionDe=Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 248;304;301;333
 250;304;2937;333
 253;304;1272;333
@@ -31142,6 +31148,7 @@
 229;305;627;333
 237;305;338;333
 242;305;1272;333
+243;305;3082;333;descriptionDe=Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 262;305;338;333
 270;305;338;333
 283;305;386;333
@@ -32161,7 +32168,6 @@
 106;311;287;333
 152;311;338;333
 153;311;301;333
-168;311;3083;333;descriptionDe=Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 170;311;273;333
 173;311;273;333
 174;311;586;333
@@ -35290,7 +35296,7 @@
 108;330;287;333
 157;330;1782;333
 164;330;274;333
-170;330;3082;333;descriptionDe=Der Todes Sumpf, Igruks Höhle, Elstree Ebene, Elstree Wald, Ostland, Wunderland, Todes Gestank, Frische Sümpfe, Drachenhöhle, Runewick;descriptionEn=The Death Marsh, Igruk's Cave, Elstree Plain, Elstree Forest, Eastland, Wonderland, Death's Stench, Dewy Swamps, Dragon's Lair, Runewick
+170;330;3082;333;descriptionDe=Der Todes Sumpf, Igruks Höhle, Elstree Ebene, Elstree Wald, Ostland, Wunderland, Todes Gestank, Frische Sümpfe, Drachenhöhle, Runewick, Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=The Death Marsh, Igruk's Cave, Elstree Plain, Elstree Forest, Eastland, Wonderland, Death's Stench, Dewy Swamps, Dragon's Lair, Runewick, Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 180;330;273;333
 189;330;301;333
 192;330;386;333
@@ -41879,6 +41885,7 @@
 232;370;1782;333
 233;370;1251;333
 235;370;1272;333
+237;370;3081;333;descriptionEn=Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle;descriptionDe=Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel
 238;370;1245;333
 243;370;1783;333
 245;370;1272;333
@@ -43334,6 +43341,7 @@
 196;380;273;333
 200;380;338;333
 207;380;1257;333
+211;380;3081;333;descriptionDe=Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 217;380;1247;-1
 221;380;623;-1
 222;380;287;-1
@@ -44389,7 +44397,7 @@
 196;385;1782;333
 198;385;273;333
 211;385;1254;333
-211;385;3083;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West
+211;385;3083;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn
 217;385;301;-1
 218;385;623;-1
 218;385;625;-1

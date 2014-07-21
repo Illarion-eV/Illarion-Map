@@ -4972,7 +4972,7 @@
 494;189;1782;333
 496;189;1245;333
 497;189;1782;333
-499;189;3084;333;descriptionDe=Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
+499;189;3084;333;descriptionDe=Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 503;189;273;333
 508;189;338;333
 0;190;287;0
@@ -5237,6 +5237,7 @@
 485;195;1783;333
 494;195;274;333
 494;195;1782;333
+495;195;3082;333;descriptionDe=Narguns Ebene, Galmair;descriptionEn=Nargun's Plain, Galmair
 497;195;3141;333
 498;195;3142;333
 507;195;1782;333
@@ -5787,7 +5788,7 @@
 483;210;1782;333
 484;210;274;333
 485;210;1783;333
-500;210;3081;333;descriptionDe=Hafen, Dunkellochmine, Nördliche Inseln, Der Sumpf, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Harbour, Dark Hole Mine, Northern Islands, The Swamp, Temple of the Five, Plains of Silence, Northern Woods, Insurmountable Limes, Pauldron Isle
+500;210;3081;333;descriptionDe=Hafen, Dunkellochmine, Nördliche Inseln, Der Sumpf, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick ;descriptionEn=Harbour, Dark Hole Mine, Northern Islands, The Swamp, Temple of the Five, Plains of Silence, Northern Woods, Insurmountable Limes, Pauldron Isle, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 501;210;1782;333
 507;210;1782;333
 509;210;3101;333
@@ -5922,7 +5923,7 @@
 480;213;913;333
 481;213;273;333
 489;213;1170;0
-503;213;3084;333;descriptionDe=Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
+503;213;3084;333;descriptionEn=Nargun's Plain;descriptionDe=Narguns Ebene
 505;213;3101;333
 510;213;3097;333
 0;214;287;0
