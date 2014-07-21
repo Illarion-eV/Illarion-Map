@@ -180,13 +180,13 @@
 12;5;633;333
 12;6;396;333
 12;6;42;333
-12;15;652;333
+12;15;652;333;descriptionDe=Brágons Bollwerk;descriptionEn=Brágon´s Stronghold;doorLockunlocked
 12;22;672;333
 12;29;672;333
 12;31;266;333
 12;32;632;333
 13;5;637;333
-13;15;656;333
+13;15;656;333;descriptionDe=Brágons Bollwerk;descriptionEn=Brágon´s Stronghold;doorLockunlocked
 13;21;36;333
 13;21;2671;333
 13;22;672;333

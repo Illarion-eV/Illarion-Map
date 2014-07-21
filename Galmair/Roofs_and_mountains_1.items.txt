@@ -2423,7 +2423,7 @@
 164;94;2876;333
 165;94;2876;333
 166;94;2876;333
-168;94;693;333
+168;94;693;333;descriptionDe=Die Statue gleicht einem reich gekleideten Zwerg mit grauer Haut und Haar, der eine Schürze trägt und einen goldenen Hammer und ein schmackhaft aussehendes Bier hält. ;descriptionEn=The statue portrays a richly dressed dwarf with grey skin and hair, who is wearing an apron and holds a golden hammer and tasty looking beer.
 169;94;1862;333
 169;94;707;333
 169;94;705;333
@@ -2534,7 +2534,7 @@
 166;96;2876;333
 168;96;172;333
 170;96;3179;333
-170;96;265;333
+170;96;265;333;descriptionDe=Das Bild zeigt einen reich gekleideten Mann mit grauer Haut und Haar, der eine Schürze trägt und seinen großen goldenen Hammer gegen einen Ambos schwingt.;descriptionEn=The painting shows a richly dressed man with grey skin and hair, who is wearing an apron and swings a big golden hammer at an anvil.
 171;96;287;333
 177;96;287;333
 178;96;421;333
@@ -2656,7 +2656,7 @@
 166;98;2876;333
 168;98;172;333
 170;98;3179;333
-170;98;265;333
+170;98;265;333;descriptionDe=Das Bild zeigt einen reich gekleideten Zwerg mit grauer Haut und Haar, der eine Schürze trägt und seinen großen goldene Axt gegen einen Felsen schwingt.;descriptionEn=The painting shows a richly dressed dwarf with grey skin and hair, who is wearing an apron and swings a big golden pick-axe against a rock.
 171;98;287;333
 173;98;287;333
 174;98;287;333
@@ -2781,7 +2781,7 @@
 164;100;2876;333
 165;100;2876;333
 166;100;2876;333
-168;100;693;333
+168;100;693;333;descriptionDe=Die Statue gleicht einem reich gekleideten Zwerg mit grauer Haut und Haar, der eine Schürze trägt und einen goldenen Hammer und ein schmackhaft aussehendes Bier hält. ;descriptionEn=The statue portrays a richly dressed dwarf with grey skin and hair, who is wearing an apron and is holds a golden hammer and tasty looking beer.
 169;100;1862;333
 169;100;707;333
 169;100;705;333
@@ -3022,8 +3022,8 @@
 162;103;3176;333
 163;103;3176;333
 164;103;3176;333
-165;103;3164;333
-166;103;3164;333
+165;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorLockunlocked
+166;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorLockunlocked
 167;103;3176;333
 168;103;3176;333
 169;103;3176;333
@@ -3831,14 +3831,14 @@
 273;119;3193;333
 275;119;3195;333
 148;120;287;333
-167;120;693;333
+167;120;693;333;descriptionDe=Die Statue gleicht einem reich gekleideten Mann mit grauer Haut und Haar, der eine Schürze trägt und seinen großen goldenen Hammer gegen einen Ambos schwingt.;descriptionEn=The statue portrays a richly dressed man with grey skin and hair, who is wearing an apron and swings a big golden hammer at an anvil.
 173;120;623;333
 174;120;630;333
 175;120;630;333
 273;120;3193;333
 275;120;3195;333
 148;121;287;333
-167;121;693;333
+167;121;693;333;descriptionDe=Die Statue gleicht einem reich gekleideten Mann mit grauer Haut und Haar, der eine Schürze trägt und seinen großen goldenen Hammer gegen einen Ambos schwingt.;descriptionEn=The statue portrays a richly dressed man with grey skin and hair, who is wearing an apron and swings a big golden hammer at an anvil.
 172;121;627;333
 173;121;623;333
 174;121;630;333
@@ -4107,7 +4107,7 @@
 258;134;855;333
 259;134;859;333
 260;134;855;333
-261;134;863;333
+261;134;863;333;descriptionDe=Zensusbüro;descriptionEn=Census office;lockId=104;doorLockunlocked
 262;134;855;333
 263;134;855;333
 264;134;870;333
@@ -4975,7 +4975,7 @@
 267;155;2877;333
 269;155;3301;333
 273;155;2832;333
-278;155;3317;333
+278;155;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=115;doorLockunlocked
 283;155;3301;333
 283;155;3265;333
 283;155;2854;0
@@ -5116,7 +5116,7 @@
 219;158;628;0
 221;158;626;0
 265;158;3299;333
-269;158;3317;333
+269;158;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=113;doorLockunlocked
 278;158;3301;333
 278;158;3260;333
 283;158;3305;333
@@ -5235,7 +5235,7 @@
 274;161;3308;333
 275;161;3304;333
 275;161;210;333
-276;161;3316;333
+276;161;3316;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=114;doorLockunlocked
 277;161;3304;333
 277;161;210;333
 278;161;3308;333
@@ -5431,7 +5431,7 @@
 272;166;3298;333
 273;166;3306;333
 274;166;3298;333
-275;166;3314;333
+275;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=114;doorLockunlocked
 276;166;3298;333
 277;166;3306;333
 278;166;3298;333
@@ -7169,6 +7169,7 @@
 163;216;853;333
 164;216;853;333
 165;216;853;333
+165;216;264;333;descriptionDe=Zwei Zwerge schütten eine goldene Flüssigkeit über einen anderen schreienden Zwerg. Eine Notiz besagt: 'Hier hast du dein Gold, Rumil'.;descriptionEn=Two dwarves spill a golden liquid over another screaming dwarf. A note says: 'There you have your gold, Rumil'.
 166;216;853;333
 167;216;853;333
 168;216;853;333
@@ -7884,6 +7885,7 @@
 206;230;583;333
 208;230;585;333
 212;230;273;0
+214;230;693;333;descriptionDe=Er begehrte Gold, er bekam Gold. Goldener Rumil.;descriptionEn=He desired gold, he got gold. Golden Rumil.
 216;230;1783;0
 218;230;622;0
 219;230;630;0
@@ -8563,9 +8565,9 @@
 203;243;630;333
 204;243;630;333
 209;243;1273;333
-213;243;2924;333
+213;243;2924;333;descriptionDe=Fort Schnellbeil - Wir zahlen dem Don keine Steuern!;descriptionEn=Fort Schnellbeil - We do not pay taxes to the Don!
 214;243;607;333
-215;243;2924;333
+215;243;2924;333;descriptionDe=Fort Schnellbeil - Wir zahlen dem Don keine Steuern!;descriptionEn=Fort Schnellbeil - We do not pay taxes to the Don!
 217;243;623;333
 218;243;287;333
 266;243;287;333

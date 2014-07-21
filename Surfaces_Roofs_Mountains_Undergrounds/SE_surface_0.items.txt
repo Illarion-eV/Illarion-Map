@@ -366,6 +366,7 @@
 30;5;273;333
 32;5;1804;333
 35;5;274;333
+35;5;3081;333;descriptionDe=Todes Schneise, Elfenruinen;descriptionEn=Death Swath, Elven Ruins
 43;5;274;333
 48;5;1783;333
 52;5;911;333
@@ -624,6 +625,7 @@
 9;9;1783;333
 15;9;1783;333
 31;9;616;333
+34;9;3082;333;descriptionDe=Wichtkanal, Feuerlimes, Leuchttrum, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Wight Canal, Firelimes, Lighthouse, Sentry Forest, Katanbi Desert, Cadomyr
 35;9;1783;333
 40;9;1782;333
 44;9;1783;333
@@ -964,6 +966,7 @@
 20;13;1782;333
 22;13;1783;333
 23;13;1783;333
+25;13;3083;333;descriptionDe=Glühende Wälder, Glühendes Tor;descriptionEn=Glowing Forest, Glowing Gate
 28;13;1783;333
 29;13;338;333
 31;13;615;0
@@ -1025,6 +1028,7 @@
 218;14;274;333
 228;14;1170;0
 229;14;615;333
+230;14;3081;333;descriptionDe=Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 232;14;3081;0;nameEn=Necktie Inn;nameDe= Krawatte Inn
 242;14;273;333
 245;14;338;333
@@ -1230,12 +1234,15 @@
 9;18;1783;333
 19;18;913;333
 22;18;274;333
+27;18;3084;333;descriptionDe=Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 28;18;1783;333
 34;18;1783;333
 35;18;1783;333
 208;18;338;333
 210;18;273;333
 211;18;1790;333
+213;18;3082;333;descriptionDe=Dreifingerspitzen, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Three Fingertips, Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
+214;18;3084;333;descriptionDe=Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 216;18;274;333
 218;18;387;0
 220;18;1804;333
@@ -1243,6 +1250,7 @@
 225;18;1804;333
 226;18;274;333
 229;18;617;333
+230;18;3083;333;descriptionDe=Dreifingerspitzen;descriptionEn=Three Fingertips
 233;18;1809;333
 245;18;1807;0
 249;18;1782;333
@@ -1290,6 +1298,7 @@
 209;19;338;333
 209;19;1159;0
 214;19;273;333
+230;19;3082;333;descriptionDe=Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
 230;19;3082;0;nameDe=Drachenhöhle;nameEn=Dragon Cave
 231;19;308;333
 236;19;308;333
@@ -1708,6 +1717,7 @@
 358;25;1782;333
 360;25;1782;333
 361;25;1254;333
+363;25;2927;333;descriptionDe=Rechter Zwilling;descriptionEn=Right Twin
 364;25;66;0;markerstone=244
 366;25;301;0
 371;25;301;333
@@ -1984,6 +1994,7 @@
 320;30;1783;333
 321;30;1272;333
 322;30;1783;333
+322;30;2926;333;descriptionDe=Linker Zwilling;descriptionEn=Left Twin
 323;30;627;333
 324;30;287;333
 325;30;287;333
@@ -2457,6 +2468,7 @@
 344;37;1783;333
 352;37;464;333
 354;37;301;333
+369;37;3081;333;descriptionDe=Osthafen, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=Eastport, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West
 371;37;301;333
 372;37;273;333
 380;37;274;333
@@ -2532,6 +2544,7 @@
 352;38;3106;333
 353;38;1809;333
 354;38;301;333
+369;38;3084;333;descriptionDe=Paddock Hof;descriptionEn=Paddock Farm
 371;38;301;333
 372;38;301;333
 379;38;274;333
@@ -2607,6 +2620,7 @@
 361;39;338;333
 363;39;274;333
 364;39;1195;333
+369;39;3082;333;descriptionDe=Wunderland, Frische Sümpfe, Runewick;descriptionEn=Wonderland, Dewy Swamps, Runewick
 372;39;66;0;markerstone=245
 375;39;14;333
 381;39;301;333
@@ -3007,6 +3021,7 @@
 210;46;14;333
 211;46;274;333
 213;46;1178;0
+213;46;3081;333;descriptionDe=Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 217;46;1782;0
 225;46;274;333
 230;46;338;333
@@ -3067,6 +3082,7 @@
 29;47;1176;0
 208;47;1170;0
 208;47;1184;0
+213;47;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
 214;47;273;333
 215;47;614;333
 218;47;1817;333
@@ -3274,6 +3290,7 @@
 340;49;1265;333
 355;49;273;333
 358;49;273;333
+365;49;2926;333;descriptionDe=Willkommen im Wunderland;descriptionEn=Welcome to the Wonderland
 368;49;1862;333
 378;49;386;333
 383;49;274;333
@@ -3422,6 +3439,7 @@
 348;51;1783;333
 349;51;1783;333
 357;51;338;333
+365;51;2926;333;descriptionDe=Willkommen im Wunderland;descriptionEn=Welcome to the Wonderland
 368;51;1862;333
 374;51;273;333
 378;51;1782;333
@@ -4937,6 +4955,7 @@
 383;70;273;333
 387;70;274;333
 2;71;274;333
+5;71;3084;333;descriptionDe=Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 11;71;1782;333
 21;71;300;333
 47;71;42;333
@@ -5037,8 +5056,10 @@
 380;71;1782;333
 381;71;1809;333
 383;71;395;333
+386;71;2926;333;descriptionDe=Wunschbrunnen;descriptionEn=Wishing Fountain
 396;71;273;333
 2;72;14;333
+5;72;3082;333;descriptionDe=Leuchttrum, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Lighthouse, Sentry Forest, Katanbi Desert, Cadomyr
 9;72;1783;333
 11;72;66;0;markerstone=199
 16;72;3099;0
@@ -5228,6 +5249,7 @@
 211;74;1178;0
 214;74;273;333
 215;74;1783;333
+216;74;3081;333;descriptionDe=Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 217;74;616;333
 217;74;1782;0
 219;74;273;0
@@ -5237,7 +5259,10 @@
 237;74;1782;333
 239;74;274;333
 239;74;338;333
+239;74;3083;333;descriptionDe=Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 240;74;338;333
+240;74;3082;333;descriptionDe=Dreifingerspitzen;descriptionEn=Three Fingertips
+241;74;3084;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
 242;74;274;333
 248;74;338;333
 249;74;338;333
@@ -5322,6 +5347,7 @@
 208;75;586;333
 209;75;301;333
 212;75;300;333
+216;75;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
 217;75;615;333
 217;75;1782;0
 224;75;161;0
@@ -5421,6 +5447,8 @@
 351;76;1783;333
 352;76;1783;333
 353;76;1783;333
+354;76;3081;333;descriptionDe=Paddock Hof, Osthafen, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=Paddock Farm, Eastport, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West
+355;76;3084;333;descriptionDe=Wunderland;descriptionEn=Wonderland
 356;76;274;333
 361;76;1782;333
 362;76;14;333
@@ -5504,8 +5532,11 @@
 335;77;274;333
 339;77;1783;333
 347;77;1783;333
+354;77;3083;333;descriptionDe=Todes Gestank, Westen, Drachenhöhle, Bärenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Death's Stench, West, Dragon's Lair, Bear Cave, Anthill Brook, Yewdale, Runewick
+355;77;3082;333;descriptionDe=Frische Sümpfe, Nördlicher Außenposten, Eibental, Runewick;descriptionEn=Dewy Swamps, Northern Outpost, Yewdale, Runewick
 357;77;301;333
 362;77;1783;333
+362;77;2926;333;descriptionDe=Willkommen im Wunderland;descriptionEn=Welcome to the Wonderland
 366;77;395;333
 368;77;1782;333
 374;77;464;0
@@ -5678,6 +5709,7 @@
 337;79;1783;333
 346;79;1804;333
 357;79;301;333
+362;79;2926;333;descriptionDe=Willkommen im Wunderland;descriptionEn=Welcome to the Wonderland
 366;79;395;333
 377;79;1782;333
 379;79;273;333
@@ -6221,6 +6253,7 @@
 222;87;1178;0
 223;87;1783;0
 227;87;1783;0
+229;87;3083;333;descriptionDe=Dreifingerspitzen, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Three Fingertips, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 231;87;1170;0
 235;87;911;333
 239;87;1796;333
@@ -6246,6 +6279,7 @@
 349;87;273;333
 356;87;1783;333
 378;87;617;333
+380;87;2927;333;descriptionDe=Willkommen im Wunderland;descriptionEn=Welcome to the Wonderland
 381;87;274;333
 390;87;1791;333
 403;87;1804;333
@@ -6267,6 +6301,7 @@
 218;88;338;333
 230;88;338;333
 232;88;1177;0
+233;88;3084;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
 235;88;274;333
 237;88;1783;333
 239;88;1796;333
@@ -6789,6 +6824,7 @@
 318;99;287;333
 319;99;287;333
 340;99;582;333
+347;99;3081;333;descriptionDe=Wunderland, Paddock Hof, Osthafen, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=Wonderland, Paddock Farm, Eastport, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West
 348;99;627;333
 349;99;287;333
 353;99;1783;333
@@ -6887,6 +6923,7 @@
 319;100;287;333
 320;100;287;333
 342;100;273;333
+347;100;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick
 348;100;623;333
 349;100;287;333
 350;100;287;333
@@ -8552,6 +8589,7 @@
 362;114;274;333
 364;114;1176;0
 370;114;3098;333
+378;114;2926;333;descriptionDe=Willkommen im Schatten! - Naganorium;descriptionEn=Welcome to the shadow! - Naganorium
 379;114;3099;333
 380;114;3099;333
 381;114;3099;333
@@ -8775,6 +8813,7 @@
 360;116;1782;333
 365;116;586;333
 368;116;273;333
+378;116;2926;333;descriptionDe=Willkommen im Schatten! - Naganorium;descriptionEn=Welcome to the shadow! - Naganorium
 379;116;1782;333
 380;116;1782;333
 381;116;1782;333
@@ -9083,6 +9122,7 @@
 242;120;622;333
 243;120;628;333
 245;120;274;333
+248;120;3084;333;descriptionDe=Drachenbau! Achtung heiß!;descriptionEn=Dragon Lair! Caution hot!
 251;120;1273;0
 254;120;654;333
 260;120;623;333
@@ -9645,6 +9685,7 @@
 367;127;273;333
 368;127;301;0
 375;127;338;333
+375;127;3082;333;descriptionDe=Frische Sümpfe, Nördlicher Außenposten, Eibental, Runewick;descriptionEn=Dewy Swamps, Northern Outpost, Yewdale, Runewick
 376;127;609;333
 377;127;609;333
 383;127;338;333
@@ -11227,6 +11268,7 @@
 365;143;1170;0
 367;143;300;333
 373;143;273;333
+375;143;3081;333;descriptionDe=Wunderland, Paddock Hof, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Wonderland, Paddock Farm, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 378;143;301;333
 382;143;1783;333
 385;143;1783;333
@@ -12675,17 +12717,14 @@
 136;155;1783;333
 138;155;586;333
 140;155;1783;333
-230;155;2927;333
-233;155;2927;333
-236;155;2927;333
-236;155;2927;333
-239;155;2927;333
-239;155;2927;333
+230;155;2927;333;descriptionDe= Achtung heiß!;descriptionEn= Caution hot!
+233;155;2927;333;descriptionDe= Achtung heiß!;descriptionEn= Caution hot!
+236;155;2927;333;descriptionDe= Achtung heiß!;descriptionEn= Caution hot!
+239;155;2927;333;descriptionDe= Achtung heiß!;descriptionEn= Caution hot!
 241;155;273;333
-242;155;2927;333
-245;155;2927;333
-245;155;2927;333
-248;155;2927;333
+242;155;2927;333;descriptionDe= Achtung heiß!;descriptionEn= Caution hot!
+245;155;2927;333;descriptionDe= Achtung heiß!;descriptionEn= Caution hot!
+248;155;2927;333;descriptionDe= Achtung heiß!;descriptionEn= Caution hot!
 249;155;1245;333
 250;155;914;333
 251;155;627;333
@@ -13060,6 +13099,7 @@
 231;158;274;333
 237;158;542;333
 245;158;1246;333
+245;158;3081;333;descriptionDe=Drachenbau!;descriptionEn=Dragon Lair!
 248;158;913;333
 253;158;628;0
 254;158;1254;333
@@ -13834,6 +13874,7 @@
 359;165;1170;0
 367;165;1783;333
 371;165;607;333
+372;165;3082;333;descriptionDe=Nördlicher Außenposten, Eibental, Runewick;descriptionEn=Northern Outpost, Yewdale, Runewick
 380;165;1783;333
 382;165;274;333
 394;165;1817;333
@@ -13930,6 +13971,7 @@
 130;167;1783;333
 132;167;1783;333
 133;167;464;333
+133;167;272;333;descriptionDe=Eine blau gekleidete, kräftige, ältere Frau füttert einen ein Hasen während sie einen Wolf streichelt und zwei Vogeln auf ihren Schultern sitzen.;descriptionEn=A stout, elderly woman, dressed in blue, feeds a rabbit whilst she pets a wolf and two birds sit on her shoulders.
 134;167;586;333
 140;167;273;333
 143;167;273;333
@@ -13955,6 +13997,7 @@
 277;167;1254;333
 278;167;1245;333
 278;167;3101;333
+279;167;3081;333;descriptionDe=Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen, Cadomyr;descriptionEn=Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West, Cadomyr
 280;167;273;333
 282;167;274;333
 285;167;1804;333
@@ -14016,6 +14059,10 @@
 268;168;274;333
 270;168;3101;333
 275;168;274;333
+277;168;3083;333;descriptionDe=Drachenhöhle - Sehr schlechte Wahl!;descriptionEn=Dragon's Lair - Very bad choice!
+278;168;3082;333;descriptionDe=Eibental, Runewick - Viel Glück!;descriptionEn=Eibental, Runewick - Good luck!
+279;168;3083;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+279;168;3084;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden - Schlechte Wahl!;descriptionEn=Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North - Bad choice!
 280;168;585;333
 286;168;274;333
 296;168;587;333
@@ -14064,7 +14111,7 @@
 129;169;274;333
 131;169;274;333
 132;169;1782;333
-141;169;1809;333
+141;169;1809;333;descriptionDe=Ein sehr alt wirkender Baum, welcher alle Art von Früchten trägt, und dessen Zweige bis zur Sonne reichen.;descriptionEn=A very old looking tree carries all kinds of fruit and leaves and almost reaches the sun with it's branches.
 143;169;273;333
 145;169;361;333;god=1
 146;169;586;333
@@ -14079,6 +14126,7 @@
 267;169;3101;333
 272;169;3101;333
 277;169;1783;333
+279;169;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick
 285;169;1783;333
 287;169;1804;333
 298;169;1273;333
@@ -14182,6 +14230,7 @@
 129;171;274;333
 129;171;274;333
 133;171;464;333
+133;171;272;333;descriptionDe=Eine blau gekleidete, kräftige, ältere Frau  hält einen Korb gefüllt mit Äpfeln und anderen Früchten in ihren Händen.;descriptionEn=A stout, elderly woman, dressed in blue, holds a basket filled with apples and other fruits.
 134;171;586;333
 140;171;273;333
 141;171;273;333
@@ -14384,6 +14433,8 @@
 352;174;1783;333
 353;174;911;333
 371;174;612;333
+372;174;3081;333;descriptionDe=Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+373;174;3084;333;descriptionDe=Schattentor;descriptionEn=Shadow Gate
 379;174;273;333
 380;174;387;333
 381;174;387;333
@@ -14404,6 +14455,7 @@
 18;175;274;0
 23;175;1783;333
 24;175;338;0
+25;175;3082;333;descriptionDe=Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Sentry Forest, Katanbi Desert, Cadomyr
 27;175;609;333
 32;175;338;333
 37;175;273;0
@@ -14639,6 +14691,7 @@
 279;178;1783;333
 279;178;628;0
 280;178;274;333
+281;178;3083;333;descriptionDe=Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 282;178;158;0
 283;178;35;0
 284;178;623;333
@@ -14660,6 +14713,7 @@
 21;179;1170;0
 24;179;338;333
 25;179;1783;333
+26;179;3081;333;descriptionDe=Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 40;179;913;333
 44;179;1808;333
 52;179;586;333
@@ -14815,6 +14869,7 @@
 268;181;1804;333
 269;181;1783;333
 277;181;627;0
+283;181;3082;333;descriptionDe=Eibental, Runewick;descriptionEn=Yewdale, Runewick
 284;181;629;333
 285;181;622;333
 286;181;630;333
@@ -14972,6 +15027,7 @@
 384;183;308;333
 385;183;580;333
 387;183;1783;333
+390;183;2926;333;descriptionDe=Schattentor - Versuchsgebiet;descriptionEn=Shadow Gate - experimental area
 393;183;301;333
 395;183;1794;333
 396;183;1794;333
@@ -15961,6 +16017,7 @@
 4;196;301;0
 5;196;610;333
 7;196;911;0
+7;196;3082;333;descriptionDe=Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Sentry Forest, Katanbi Desert, Cadomyr
 8;196;338;333
 8;196;338;333
 18;196;1783;333
@@ -16191,6 +16248,7 @@
 333;198;1208;333
 352;198;1170;0
 354;198;608;333
+355;198;3082;333;descriptionDe=Nördlicher Außenposten, Eibental, Runewick;descriptionEn=Northern Outpost, Yewdale, Runewick
 359;198;1783;333
 361;198;1783;333
 367;198;623;333
@@ -16283,6 +16341,7 @@
 348;199;300;0
 349;199;338;333
 354;199;609;333
+356;199;3084;333;descriptionDe=Oldras Turm;descriptionEn=Oldra's Tower
 357;199;1783;333
 367;199;623;333
 368;199;287;333
@@ -16553,6 +16612,7 @@
 409;202;274;333
 2;203;1170;0
 5;203;609;333
+8;203;3084;333;descriptionDe=Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 9;203;338;333
 21;203;1817;333
 26;203;273;333
@@ -16571,6 +16631,7 @@
 97;203;586;333
 114;203;308;333
 131;203;582;333
+132;203;3081;333;descriptionDe=Wachstützpunkt;descriptionEn=Sentry Outpost
 133;203;387;333
 225;203;1170;0
 232;203;273;333
@@ -16687,6 +16748,7 @@
 277;204;520;0
 278;204;273;333
 282;204;593;333
+282;204;3081;333;descriptionDe=Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 327;204;387;333
 331;204;1782;-1
 343;204;1791;-1
@@ -16763,6 +16825,7 @@
 260;205;287;333
 272;205;1246;333
 274;205;1783;333
+282;205;3083;333;descriptionDe=Eibental, Runewick;descriptionEn=Yewdale, Runewick
 284;205;1783;333
 289;205;1804;333
 315;205;1176;0
@@ -16850,6 +16913,7 @@
 352;206;1807;-1
 354;206;612;333
 355;206;338;333
+355;206;3081;333;descriptionDe=Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 356;206;338;333
 358;206;1170;0
 360;206;1246;333
@@ -17484,6 +17548,7 @@
 324;216;301;333
 326;216;1782;333
 329;216;1783;333
+335;216;3081;333;descriptionDe=Fröhliche Lichtung;descriptionEn=Merryglade
 359;216;338;333
 364;216;274;333
 366;216;1782;333
@@ -17568,6 +17633,8 @@
 283;218;1783;333
 287;218;1807;333
 307;218;1807;333
+330;218;3084;333;descriptionDe=Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+335;218;3083;333;descriptionDe=Nördlicher Außenposten, Eibental, Runewick;descriptionEn=Northern Outpost, Yewdale, Runewick
 341;218;1808;333
 347;218;1783;333
 348;218;273;333
@@ -17647,6 +17714,7 @@
 243;220;1804;333
 246;220;615;333
 249;220;1783;333
+250;220;3084;333;descriptionDe=Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 257;220;274;333
 265;220;1783;333
 268;220;586;333
@@ -17690,6 +17758,7 @@
 122;221;1265;333
 125;221;1783;333
 246;221;615;333
+249;221;3082;333;descriptionDe=Eibental, Runewick;descriptionEn=Yewdale, Runewick
 250;221;1782;333
 253;221;274;333
 255;221;162;0
@@ -17745,6 +17814,7 @@
 316;222;273;333
 324;222;338;333
 327;222;607;333
+328;222;3082;333;descriptionDe=Feiglings letztes Gefecht;descriptionEn=Coward's last stand
 329;222;338;333
 341;222;1783;333
 342;222;274;333
@@ -17753,6 +17823,7 @@
 353;222;273;333
 359;222;1176;0
 390;222;273;333
+3;223;3083;333;descriptionDe=Raptoren Loch;descriptionEn=Raptor's Hole
 8;223;273;333
 16;223;1817;333
 38;223;911;333
@@ -17777,6 +17848,7 @@
 127;223;1804;333
 242;223;1170;0
 246;223;617;333
+247;223;3081;333;descriptionDe=Bärenhöhle;descriptionEn=Bear Cave
 253;223;273;333
 260;223;162;0
 270;223;1817;333
@@ -17832,6 +17904,7 @@
 281;224;1783;333
 290;224;1783;333
 293;224;274;333
+306;224;3082;333;descriptionDe=Eibental, Runewick;descriptionEn=Yewdale, Runewick
 316;224;1790;333
 322;224;1170;0
 327;224;609;-1
@@ -17843,6 +17916,7 @@
 344;224;1783;333
 348;224;338;333
 16;225;274;333
+16;225;3081;333;descriptionDe=Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 21;225;1783;333
 22;225;1783;333
 33;225;274;333
@@ -17904,6 +17978,7 @@
 340;225;616;333
 345;225;1783;333
 3;226;911;333
+16;226;3084;333;descriptionDe=Wachwald mit Ushara Schrein, Wachaußenposten, Oldras Ecke und Gnuremgrund;descriptionEn=Sentry Forest with Ushara's Spire, Sentry Outpost, Oldra's Corner and Gnuremground
 21;226;1783;333
 25;226;1783;333
 26;226;1783;333
@@ -17961,6 +18036,7 @@
 340;226;51;333
 2;227;273;333
 7;227;274;333
+16;227;3082;333;descriptionDe=Kapelle der Fünf, Katanbi Wüste, Westliche Katanbi Wüste, Cadomyr;descriptionEn=Chapel of the Five, Katanbi Desert, Western Katanbi Desert, Cadomyr
 18;227;1804;333
 23;227;273;333
 23;227;1783;333
@@ -18557,6 +18633,7 @@
 123;237;308;333
 123;237;1817;333
 135;237;308;333
+242;237;3082;333;descriptionDe=Eibental, Runewick;descriptionEn=Yewdale, Runewick
 243;237;616;333
 246;237;301;333
 247;237;301;333
@@ -18638,6 +18715,7 @@
 283;238;1782;333
 300;238;274;333
 303;238;1783;333
+306;238;2927;333;descriptionDe=Nördlicher Außenposten;descriptionEn=Northern Outpost
 310;238;274;333
 313;238;1783;333
 355;238;308;333
@@ -18710,6 +18788,7 @@
 299;239;273;333
 299;239;274;333
 306;239;1782;333
+306;239;3081;333;descriptionDe=Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 309;239;1783;333
 312;239;911;333
 354;239;1783;333
@@ -18827,6 +18906,7 @@
 136;241;1272;333
 137;241;1272;333
 138;241;1272;333
+242;241;3081;333;descriptionDe=Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 243;241;617;333
 249;241;273;333
 250;241;1782;333
@@ -19157,7 +19237,7 @@
 356;245;274;333
 357;245;1782;333
 358;245;273;333
-359;245;519;333
+359;245;519;333;descriptionDe=Zur Erinnerung an all jene die wiederbelebt werden konnten dank unserer in der arkanen Kunst talentierten Einheiten in 31 v.VdH, welche aber nachher wieder niedergemetzelt wurden. Oldra und das Feuer des Triumphes sollen sie behüten.;descriptionEn=In remembrance of all those who had been reanimated by our talented arcane art units in 31 BW, but who were slaughtered again afterwards. Oldra and the Fire of Triumph may protect them.
 360;245;1804;333
 366;245;1790;333
 366;245;1807;333
@@ -19343,7 +19423,7 @@
 364;247;914;333
 364;247;12;333
 366;247;273;333
-367;247;519;333
+367;247;519;333;descriptionDe=Zur Erinnerung an all jene Opfer dieser sinnlosen Kampagne zwischen Cadomyr und Galmair in 30 v.VdH. Elara und das Feuer des Triumphes sollen diesen rot-weißen und schwarz-gelben Dummköpfen helfen ihre Kurzsichtigkeit zu überkommen.;descriptionEn= In remembrance of all victims of the mindless campaign between Cadomyr and Galmair in 30 BW. Elara and the Fire of Triumph may help those red-white and black-yellow fools to overcome their short sightedness.
 368;247;962;0
 371;247;1804;333
 373;247;308;333
@@ -19623,7 +19703,7 @@
 426;249;690;333
 426;249;1245;333
 427;249;634;333
-434;249;655;333
+434;249;655;333;descriptionDe=Versuchskammer;descriptionEn=Chamber of Experiments;doorLockunlocked
 443;249;635;333
 447;249;627;333
 449;249;1246;333
@@ -19741,7 +19821,7 @@
 428;250;36;333
 428;250;276;333
 431;250;212;333
-434;250;659;333
+434;250;659;333;descriptionDe=Versuchskammer;descriptionEn=Chamber of Experiments;doorLockunlocked
 442;250;2876;333
 443;250;635;333
 443;250;550;333
@@ -19913,9 +19993,9 @@
 215;252;689;333
 219;252;688;333
 220;252;273;333
-222;252;1809;333
+222;252;1809;333;descriptionDe=Zur Mitte, zum Saft, zack, zack!;descriptionEn=To the middle, to the juice, chop, chop!
 224;252;1170;0
-242;252;1809;333
+242;252;1809;333;descriptionDe=Zur Mitte, zum Saft, zack, zack!;descriptionEn=To the middle, to the juice, chop, chop!
 243;252;1783;333
 251;252;1246;333
 252;252;1251;333
@@ -20581,10 +20661,10 @@
 211;258;387;333
 212;258;691;333
 213;258;75;333
-222;258;1809;333
+222;258;1809;333;descriptionDe=Zur Mitte, zum Saft, zack, zack!;descriptionEn=To the middle, to the juice, chop, chop!
 227;258;1170;0
 241;258;338;333
-242;258;1809;333
+242;258;1809;333;descriptionDe=Zur Mitte, zum Saft, zack, zack!;descriptionEn=To the middle, to the juice, chop, chop!
 248;258;585;333
 251;258;273;333
 261;258;2927;333
@@ -20696,6 +20776,7 @@
 278;259;1804;333
 281;259;338;333
 283;259;609;333
+284;259;3082;333;descriptionDe=Eibental, Runewick;descriptionEn=Yewdale, Runewick
 288;259;1782;333
 297;259;300;333
 303;259;1170;0
@@ -20981,6 +21062,8 @@
 260;262;1782;333
 264;262;308;333
 271;262;338;333
+277;262;3083;333;descriptionDe=Anthilbach;descriptionEn=Anthil Brook
+278;262;3084;333;descriptionDe=Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 283;262;608;333
 284;262;273;333
 285;262;273;333
@@ -21471,6 +21554,7 @@
 0;269;586;333
 2;269;274;333
 8;269;1804;333
+16;269;3081;333;descriptionDe=Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 18;269;1804;333
 24;269;1783;333
 25;269;1783;333
@@ -21495,6 +21579,7 @@
 118;269;1265;333
 240;269;338;333
 241;269;608;333
+243;269;3081;333;descriptionDe=Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 245;269;273;333
 252;269;1783;333
 254;269;1782;333
@@ -21536,6 +21621,8 @@
 436;269;689;333
 437;269;689;333
 12;270;1782;333
+13;270;3083;333;descriptionDe=Kapelle der Fünf, Katanbi Wüste, Westliche Katanbi Wüste, Cadomyr;descriptionEn=Chapel of the Five, Katanbi Desert, Western Katanbi Desert, Cadomyr
+16;270;3084;333;descriptionDe=Wachwald mit Ushara Schrein, Wachaußenposten, Oldras Ecke und Gnuremgrund;descriptionEn=Sentry Forest with Ushara's Spire, Sentry Outpost, Oldra's Corner and Gnuremground
 22;270;1804;333
 25;270;1783;333
 32;270;1254;333
@@ -21551,6 +21638,7 @@
 115;270;1272;333
 116;270;1272;333
 241;270;609;333
+243;270;3082;333;descriptionDe=Eibental, Runewick;descriptionEn=Yewdale, Runewick
 255;270;308;333
 261;270;1176;0
 264;270;274;333
@@ -22489,8 +22577,8 @@
 274;282;3431;0
 275;282;3435;0
 276;282;3431;0
-277;282;3477;333
-278;282;3478;333
+277;282;3477;333;descriptionDe=Landhaus;descriptionEn=Cottage;lockId=251;doorLockunlocked
+278;282;3478;333;descriptionDe=Landhaus;descriptionEn=Cottage;lockId=251;doorLockunlocked
 279;282;3431;0
 279;282;424;0
 280;282;3445;0
@@ -22797,6 +22885,7 @@
 264;285;51;333
 265;285;3446;333
 271;285;273;333
+271;285;3081;333;descriptionDe=Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 273;285;1782;333
 276;285;1783;333
 278;285;2169;0
@@ -22922,6 +23011,7 @@
 264;286;3448;333
 265;286;3458;333
 270;286;1782;333
+271;286;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Hafen, Runewick;descriptionEn=Quadruped Red Bird, Harbour, Runewick
 283;286;274;333
 288;286;965;0
 289;286;691;0
@@ -23094,6 +23184,7 @@
 234;288;396;0
 243;288;921;333
 243;288;464;333
+249;288;3081;333;descriptionDe=Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 254;288;301;333
 255;288;1791;333
 256;288;274;333
@@ -23179,6 +23270,7 @@
 234;289;550;0
 243;289;921;333
 248;289;274;333
+250;289;3084;333;descriptionDe=Bauernhöfe, Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Farmland, Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 256;289;1783;-1
 256;289;396;-1
 256;289;42;-1
@@ -23254,8 +23346,8 @@
 234;290;921;333
 234;290;346;333
 235;290;340;333
-236;290;903;333
-237;290;905;333
+236;290;903;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird;lockId=250;doorLockunlocked
+237;290;905;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird;lockId=250;doorLockunlocked
 238;290;340;333
 239;290;340;333
 240;290;340;333
@@ -23317,6 +23409,7 @@
 224;291;614;333
 225;291;614;333
 226;291;513;333
+227;291;3083;333;descriptionDe=Hafen;descriptionEn=Harbour
 229;291;274;333
 233;291;507;333
 234;291;295;333
@@ -23456,6 +23549,8 @@
 226;293;618;333
 228;293;1782;333
 230;293;273;333
+235;293;2046;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird
+238;293;2046;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird
 241;293;1782;333
 242;293;273;333
 255;293;301;-1
@@ -23501,6 +23596,7 @@
 224;294;617;333
 225;294;617;333
 226;294;513;333
+227;294;3083;333;descriptionDe=Hafen;descriptionEn=Harbour
 252;294;1176;0
 255;294;301;-1
 272;294;301;-1
@@ -23565,6 +23661,7 @@
 224;295;614;333
 225;295;614;333
 226;295;513;333
+227;295;3083;333;descriptionDe=Hafen;descriptionEn=Harbour
 231;295;396;333
 231;295;42;333
 232;295;614;333
@@ -23726,6 +23823,7 @@
 224;298;617;333
 225;298;617;333
 226;298;513;333
+227;298;3083;333;descriptionDe=Hafen;descriptionEn=Harbour
 229;298;507;333
 234;298;2079;333
 236;298;506;333
@@ -23767,6 +23865,7 @@
 224;299;614;333
 225;299;614;333
 226;299;513;333
+227;299;3083;333;descriptionDe=Hafen;descriptionEn=Harbour
 231;299;614;333
 236;299;514;0
 238;299;66;0;markerstone=221
@@ -23908,8 +24007,10 @@
 232;301;220;333
 238;301;396;333
 238;301;42;333
+246;301;3084;333;descriptionDe=Runewick;descriptionEn=Runewick
 249;301;396;333
 249;301;42;333
+250;301;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Hafen;descriptionEn=Quadruped Red Bird, Harbour
 255;301;301;-1
 263;301;1156;0
 267;301;524;0
@@ -23925,6 +24026,7 @@
 328;301;274;0
 336;301;301;333
 337;301;301;333
+343;301;3081;333;descriptionDe=Heilige Eiche, Triumphfeuer;descriptionEn=Holy Oak, Fire of Triumph
 346;301;273;333
 347;301;273;333
 348;301;273;333
@@ -23977,6 +24079,7 @@
 224;302;617;333
 225;302;617;333
 226;302;513;333
+227;302;3083;333;descriptionDe=Hafen;descriptionEn=Harbour
 245;302;3155;333
 246;302;3143;333
 247;302;3143;333
@@ -24072,6 +24175,7 @@
 326;303;301;0
 338;303;273;333
 339;303;273;333
+343;303;3084;333;descriptionDe=Runewick, Erzmagier Elvaine Morgan;descriptionEn=Runewick, Archmage Elvaine Morgan
 344;303;586;333
 352;303;956;0
 354;303;387;333
@@ -24102,6 +24206,7 @@
 336;304;273;333
 337;304;273;333
 338;304;273;333
+339;304;3083;333;descriptionDe=Eibental, Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Yewdale, Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr
 354;304;387;333
 355;304;301;333
 379;304;273;333
@@ -24149,7 +24254,7 @@
 385;305;1265;333
 385;305;1265;333
 387;305;718;333
-388;305;709;333
+388;305;709;333;descriptionDe=Latrine;descriptionEn=Pit Latrine;doorLockunlocked
 389;305;719;333
 389;305;2850;333
 395;305;702;333
@@ -24187,11 +24292,13 @@
 310;306;1176;0
 318;306;1170;0
 320;306;338;0
+321;306;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Hafen, Bauernhöfe, Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Quadruped Red Bird, Harbour, Farmland, Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr
 322;306;3141;0
 323;306;3158;0
 324;306;3158;0
 325;306;3158;0
 326;306;3142;0
+327;306;3084;333;descriptionDe=Runewick, Erzmagier Elvaine Morgan;descriptionEn=Runewick, Archmage Elvaine Morgan
 328;306;1170;0
 334;306;273;333
 335;306;273;333
@@ -24235,6 +24342,8 @@
 267;307;1782;333
 274;307;273;333
 278;307;1080;0
+278;307;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Hafen, Bauernhöfe, Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Quadruped Red Bird, Harbour, Farmland, Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr
+279;307;3084;333;descriptionDe=Runewick, Erzmagier Elvaine Morgan;descriptionEn=Runewick, Archmage Elvaine Morgan
 322;307;3141;0
 323;307;3158;0
 324;307;3158;0
@@ -24457,6 +24566,7 @@
 337;309;586;333
 338;309;273;333
 339;309;273;333
+341;309;3082;333;descriptionDe=Hölzfällersiedlung, Zwillingsaugeninseln;descriptionEn=Woodcutter's Hut, Twin Eyes Islands
 343;309;387;0
 344;309;387;0
 345;309;274;0
@@ -24899,7 +25009,7 @@
 386;317;682;333
 387;317;689;333
 389;317;395;333
-393;317;655;333
+393;317;655;333;descriptionDe=Baumküche;descriptionEn=Tree kitchen;doorLockunlocked
 398;317;635;333
 406;317;1257;333
 429;317;913;333
@@ -24933,7 +25043,7 @@
 386;318;513;333
 387;318;682;333
 388;318;689;333
-393;318;659;333
+393;318;659;333;descriptionDe=Baumküche;descriptionEn=Tree kitchen;doorLockunlocked
 398;318;635;333
 399;318;690;333
 400;318;690;333
@@ -25470,6 +25580,7 @@
 316;330;308;333
 320;330;308;333
 326;330;338;333
+328;330;963;333;descriptionDe=Der Baum trägt eine Eingravierung welche eine stärkere, ältere Frau durch einen Garten gehend zeigt, gefolgt von mehreren Tieren, verschiedenster Art.;descriptionEn=The tree bears an engraving which shows a stout, elderly woman walking through a garden, followed by several animals of different kinds.
 331;330;273;333
 332;330;1782;333
 339;330;1807;0
@@ -25507,7 +25618,7 @@
 447;330;301;0
 448;330;301;0
 311;331;1804;333
-322;331;586;333
+322;331;586;333;descriptionDe=Der Baum enthält eine Gravur ~Wenn wir sterben, werden wir zu einem prachtvollen Gartentor gebracht, und wenn wir gut waren dürfen wir an diesem wunderbaren Ort leben und treffen dort all unsere Freunde wieder.~;descriptionEn=The tree bears an engraving ~When we die, we will be brought to a big garden gate. Oldra stands at this gate, welcomes us, and if we have been good, we can enjoy the wonders of the never ending garden, meeting old and new friends in it.~
 325;331;1782;333
 329;331;1783;333
 331;331;1862;333
@@ -25588,6 +25699,7 @@
 441;332;683;333
 442;332;628;333
 446;332;274;0
+327;333;2805;333;descriptionDe=~Oldra - Göttin des Lebens und der Fruchtbarkeit - segne unsere Gärten, Felder und Zuchttiere; neugeborene Kinder, gebärende Frauen, und der Geburt als solches.~;descriptionEn=~Oldra - Goddess of life and fertility - bless our gardens, fields and farm animals, newborn children, women giving birth, and birth itself.~
 379;333;634;0
 383;333;320;0
 387;333;688;0
@@ -25724,8 +25836,8 @@
 315;338;1782;333
 319;338;274;333
 322;338;308;333
-327;338;1817;333
-330;338;960;0
+327;338;1817;333;descriptionDe=Der Baum enthält eine Gravur ~Wenn wir sterben, werden wir zu einem prachtvollen Gartentor gebracht, und wenn wir gefehlt haben, wird uns eine Rast gestattet, dann werden wir unter neuem Namen wiedergeboren, um es besser zu machen.~;descriptionEn=The tree bears an engraving ~When we die, we will be brought to a big garden gate. Oldra stands at this gate, welcomes us, and if we have failed, we are allowed a rest before we are sent back to be reborn with a new name to make good use of our life.~
+330;338;960;333;descriptionDe=Ein sehr alt wirkender Baum, welcher alle Art von Früchten trägt, und dessen Zweige bis zur Sonne reichen.;descriptionEn=A very old looking tree carries all kinds of fruit and leaves and almost reaches the sun with it's branches.
 341;338;1782;333
 343;338;1817;333
 344;338;387;333
@@ -25815,6 +25927,7 @@
 384;342;338;333
 385;342;273;333
 91;343;1810;333
+101;343;3081;333;descriptionDe=Cadomyr Hafen, Runewick Hafen;descriptionEn=Cadomyr Harbour, Runewick Harbour
 102;343;616;333
 103;343;616;333
 104;343;616;333
@@ -25994,6 +26107,7 @@
 361;350;395;333
 366;350;308;333
 91;351;274;333
+101;351;3082;333;descriptionDe=Cadomyr Hafen, Runewick Hafen;descriptionEn=Cadomyr Harbour, Runewick Harbour
 102;351;616;333
 103;351;616;333
 104;351;616;333
@@ -26021,6 +26135,7 @@
 320;352;616;333
 320;352;1783;333
 321;352;464;333
+321;352;272;333;descriptionDe=Eine junge, sehr attraktive Frau tanzt in einem weißen Kleid. Ihr Haar leuchtet im ihr umgebenden Licht und Wasser.;descriptionEn=A young and very attractive woman dances in her long white dress. Her hair shines in the surrounding light and water.
 323;352;629;333
 333;352;1817;333
 334;352;301;333
@@ -26598,6 +26713,7 @@
 344;390;586;333
 358;390;616;333
 359;390;616;333
+361;390;3082;333;descriptionDe=Zwillingsaugeninseln;descriptionEn=Twin Eyes Islands
 53;391;626;333
 53;391;626;333
 88;391;1810;333

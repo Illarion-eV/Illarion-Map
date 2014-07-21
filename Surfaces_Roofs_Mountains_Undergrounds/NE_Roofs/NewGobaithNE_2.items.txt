@@ -5631,9 +5631,9 @@
 39;383;287;333
 40;383;287;333
 83;383;343;333
-84;383;2927;333
+84;383;2927;333;descriptionDe=Cherass heiﬂt euch willkommen in seiner Zitadelle!;descriptionEn=Cherass welcomes you in his citadel!
 89;383;492;333
-89;383;2927;333
+89;383;2927;333;descriptionDe=Cherass heiﬂt euch willkommen in seiner Zitadelle!;descriptionEn=Cherass welcomes you in his citadel!
 113;383;623;333
 114;383;287;333
 115;383;287;333
@@ -6061,9 +6061,9 @@
 138;388;287;333
 139;388;287;333
 140;388;287;333
-144;388;2805;333
+144;388;2805;333;descriptionDe=Auf der S‰ule steht mit Blut geschrieben 'Macht'.;descriptionEn=The word 'power' is written with blood on the column.
 145;388;273;333
-149;388;2805;333
+149;388;2805;333;descriptionDe=Auf der S‰ule steht mit Blut geschrieben 'Furcht'.;descriptionEn=The word 'fear' is written with blood on the column.
 151;388;274;333
 155;388;1783;333
 156;388;66;0;markerstone=97
@@ -6437,8 +6437,8 @@
 138;393;287;333
 139;393;287;333
 140;393;287;333
-144;393;2805;333
-149;393;2805;333
+144;393;2805;333;descriptionDe=Auf der S‰ule steht mit Blut geschrieben 'Blut'.;descriptionEn=The word 'blood' is written with blood on the column.
+149;393;2805;333;descriptionDe=Auf der S‰ule steht mit Blut geschrieben 'St‰rke'.;descriptionEn=The word 'strength' is written with blood on the column.
 151;393;2937;333
 160;393;2937;333
 162;393;2805;333
@@ -9983,7 +9983,7 @@
 94;462;1783;333
 96;462;628;333
 97;462;301;333
-97;462;2927;333
+97;462;2927;333;descriptionDe=Schlangenkopfberg;descriptionEn=Mount Snakehead
 100;462;622;333
 88;463;627;333
 89;463;626;333

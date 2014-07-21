@@ -102,8 +102,8 @@
 7;4;634;333
 7;5;634;333
 7;6;634;333
-7;7;654;333
-7;8;658;333
+7;7;654;333;descriptionDe=Kesselkammer;descriptionEn=Kettle Chamber;doorLockunlocked
+7;8;658;333;descriptionDe=Kesselkammer;descriptionEn=Kettle Chamber;doorLockunlocked
 7;9;634;333
 7;10;634;333
 7;11;682;333

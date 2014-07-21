@@ -183,8 +183,8 @@
 14;7;2874;333
 14;8;635;333
 14;8;265;333
-14;9;655;333
-14;10;659;333
+14;9;655;333;descriptionDe=Die Räumlichkeiten von Erzmagier Elvaine Morgan;descriptionEn=Archmage Elvaine Morgan's rooms;lockId=200;doorLockunlocked
+14;10;659;333;descriptionDe=Die Räumlichkeiten von Erzmagier Elvaine Morgan;descriptionEn=Archmage Elvaine Morgan's rooms;lockId=200;doorLockunlocked
 14;11;635;333
 14;12;635;333
 14;13;635;333
@@ -198,11 +198,11 @@
 15;5;633;333
 15;6;267;333
 15;11;267;333
-15;14;653;333
+15;14;653;333;descriptionDe=Halle der Elara;descriptionEn=Hall of Elara;doorLockunlocked
 15;31;266;333
 15;32;632;333
 16;5;633;333
-16;14;657;333
+16;14;657;333;descriptionDe=Halle der Elara;descriptionEn=Hall of Elara;doorLockunlocked
 16;31;266;333
 16;32;632;333
 17;5;637;333

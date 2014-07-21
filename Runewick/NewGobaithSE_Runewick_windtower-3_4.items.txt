@@ -78,8 +78,8 @@
 10;8;464;333
 10;9;635;333
 10;9;1915;333
-10;10;655;333
-10;11;659;333
+10;10;655;333;descriptionDe=Turm der Luft Appartement 2;descriptionEn=Tower of Air Apartment 2;lockId=211;doorLockunlocked
+10;11;659;333;descriptionDe=Turm der Luft Appartement 2;descriptionEn=Tower of Air Apartment 2;lockId=211;doorLockunlocked
 10;12;635;333
 10;12;1914;333
 10;13;635;333
@@ -148,7 +148,7 @@
 17;18;681;333
 17;19;683;333
 18;0;633;333
-18;9;653;333
+18;9;653;333;descriptionDe=Turm der Luft Appartement 1;descriptionEn=Tower of Air Apartment 1;lockId=210;doorLockunlocked
 18;15;276;333
 18;16;680;333
 18;17;681;333
@@ -158,7 +158,7 @@
 19;1;690;333
 19;1;396;333
 19;1;1265;333
-19;9;657;333
+19;9;657;333;descriptionDe=Turm der Luft Appartement 1;descriptionEn=Tower of Air Apartment 1;lockId=210;doorLockunlocked
 19;15;680;333
 19;16;681;333
 19;17;683;333

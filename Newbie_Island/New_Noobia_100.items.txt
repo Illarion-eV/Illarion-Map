@@ -191,7 +191,7 @@
 25;23;308;333
 31;23;615;333
 32;23;615;333
-35;23;3084;333
+35;23;3084;333;descriptionDe=[Tutorial] Willkommen in Illarion!;descriptionEn=[Tutorial] Welcome to Illarion!
 37;23;396;333
 50;23;1783;333
 52;23;421;333
@@ -930,9 +930,9 @@
 29;49;301;333
 30;49;1817;333
 32;49;1783;333
-38;49;3083;333
+38;49;3083;333;descriptionDe=[Tutorial] Der Sumpf - Kampf;descriptionEn=[Tutorial] The swamp - fighting
 41;49;1783;333
-41;49;3084;333
+41;49;3084;333;descriptionDe=[Tutorial] Die Mine - Sammeln;descriptionEn=[Tutorial] The mine - gathering
 48;49;1272;333
 50;49;1245;333
 51;49;1245;333
@@ -1132,7 +1132,7 @@
 28;57;338;333
 29;57;1783;333
 31;57;308;333
-40;57;3082;333
+40;57;3082;333;descriptionDe=[Tutorial] Die Schmiede - Handwerk;descriptionEn=[Tutorial] The forge - crafting
 41;57;274;333
 42;57;1783;333
 45;57;629;333
@@ -1945,7 +1945,7 @@
 32;98;1170;333
 34;98;1783;333
 37;98;273;333
-42;98;3084;333
+42;98;3084;333;descriptionDe=[Tutorial] Dies ist der Weg nach Cadomyr, dem Reich von Ruhm und Ehre.;descriptionEn=[Tutorial] This is the way to Cadomyr, realm of honour and glory.
 43;98;405;333
 47;98;1783;333
 48;98;405;333
@@ -1991,7 +1991,7 @@
 17;102;1790;333
 26;102;273;333
 28;102;1170;333
-30;102;3083;333
+30;102;3083;333;descriptionDe=[Tutorial] Dies ist der Weg nach Runewick, dem Reich der Weisheit und Magie.;descriptionEn=[Tutorial] This is the way to Runewick, realm of wisdom and magic.
 31;102;587;333
 32;102;1782;333
 36;102;1783;333
@@ -2022,7 +2022,7 @@
 19;105;405;333
 21;105;36;333
 21;105;323;333
-35;105;3082;333
+35;105;3082;333;descriptionDe=[Tutorial] Dies ist der Weg nach Galmair, dem Reich des aufstrebenden Wohlstands.;descriptionEn=[Tutorial] This is the way to Galmair, realm of prosperity and wealth.
 36;105;614;333
 37;105;1246;333
 38;105;1783;333

@@ -850,7 +850,9 @@
 160;13;273;333
 161;13;387;333
 162;13;295;333
+162;13;692;333;descriptionDe=Eine Notiz an der Statue besagt: 'Westtor-Wache des Unüberwindbaren Limes'.;descriptionEn=A note on the figure says: 'Westgate-Guard of the Insurmountable Limes'.
 165;13;295;333
+165;13;692;333;descriptionDe=Eine Notiz an der Statue besagt: 'Westtor-Wache des Unüberwindbaren Limes'.;descriptionEn=A note on the figure says: 'Westgate-Guard of the Insurmountable Limes'.
 167;13;1783;333
 175;13;628;333
 179;13;1817;333
@@ -7034,7 +7036,7 @@
 313;109;308;333
 314;109;308;333
 315;109;308;333
-316;109;2925;333
+316;109;2925;333;descriptionDe=Rabans Hain;descriptionEn=Raban's Grove
 323;109;273;333
 327;109;1782;333
 327;109;1782;333
@@ -7502,7 +7504,7 @@
 312;113;308;333
 313;113;308;333
 314;113;308;333
-316;113;2925;333
+316;113;2925;333;descriptionDe=Rabans Hain;descriptionEn=Raban's Grove
 325;113;1817;333
 326;113;273;333
 334;113;308;333
@@ -10795,7 +10797,7 @@
 411;136;273;333
 412;136;273;333
 418;136;66;0;markerstone=71
-419;136;693;333
+419;136;693;333;descriptionDe=Eine Notiz an der Statue besagt: 'Osttor-Wache des Unüberwindbaren Limes'.;descriptionEn=A note on the figure says: 'Eastgate-Guard of the Insurmountable Limes'.
 420;136;342;333
 433;136;921;333
 434;136;287;333
@@ -11195,7 +11197,7 @@
 406;139;1810;333
 409;139;273;333
 416;139;578;333
-419;139;693;333
+419;139;693;333;descriptionDe=Eine Notiz an der Statue besagt: 'Osttor-Wache des Unüberwindbaren Limes'.;descriptionEn=A note on the figure says: 'Eastgate-Guard of the Insurmountable Limes'.
 420;139;342;333
 431;139;472;333
 431;139;921;333
@@ -25679,6 +25681,7 @@
 437;257;629;-1
 443;257;1170;0
 474;257;1170;0
+474;257;3082;333;descriptionDe=Nördlicher Hafen;descriptionEn=Northern Harbour
 475;257;615;-1
 476;257;615;-1
 0;258;274;333
@@ -28514,7 +28517,7 @@
 228;284;1272;333
 232;284;421;333
 232;284;910;333
-239;284;520;333
+239;284;520;333;descriptionDe=Erinnert, erinnert, den Versunkenen.;descriptionEn=Remember, remember, the sunken one!
 240;284;421;333
 240;284;913;333
 242;284;338;333
@@ -29304,8 +29307,7 @@
 241;291;911;333
 247;291;421;333
 247;291;913;333
-250;291;521;333
-250;291;521;333
+250;291;521;333;descriptionDe=Hier ruht Karolina, letzte Priesterin.;descriptionEn=Here rests Karolina, last priest.
 251;291;613;333
 259;291;1272;333
 297;291;301;333
@@ -32001,6 +32003,7 @@
 199;310;276;333
 213;310;1176;0
 215;310;1807;333
+221;310;272;333;descriptionDe=Ein alter, betrunkener Mann der zerlumpte Kleider trägt und scheinbar für ein Münzen bettelt während er eine Flasche Wein hinter sich versteckt.;descriptionEn=An old, drunken man wearing ragged clothes begs for some coins whilst hiding a bottle of wine behind his back.
 222;310;464;0
 223;310;301;333
 224;310;301;333
@@ -32158,6 +32161,7 @@
 106;311;287;333
 152;311;338;333
 153;311;301;333
+168;311;3083;333;descriptionDe=Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 170;311;273;333
 173;311;273;333
 174;311;586;333
@@ -32216,7 +32220,7 @@
 316;311;273;333
 321;311;387;333
 325;311;273;333
-335;311;2926;333
+335;311;2926;333;descriptionDe=Falls du auch Menschenfleisch magst bist du herzlich zum Abendbrot eingeladen! HA! HA!;descriptionEn=If you also like human meat, you are very welcome to stay for dinner! HA! HA!
 336;311;273;333
 339;311;1783;333
 341;311;338;333
@@ -32413,7 +32417,7 @@
 303;312;1804;333
 312;312;1782;333
 333;312;273;333
-335;312;2926;333
+335;312;2926;333;descriptionDe=Falls du auch Menschenfleisch magst bist du herzlich zum Abendbrot eingeladen! HA! HA!;descriptionEn=If you also like human meat, you are very welcome to stay for dinner! HA! HA!
 346;312;703;333
 346;312;8;333
 346;312;6;333
@@ -32731,6 +32735,7 @@
 207;314;274;333
 209;314;627;333
 215;314;1807;333
+221;314;272;333;descriptionDe=Eine in Braun gekleideter junger, attraktiver Mann singt und tanzt mit einigen Weintrauben und einer Flasche Wein in seinen Händen.;descriptionEn=A young, attractive man dressed in brown sings and dances around with some grapes and a bottle of wine in his hands.
 222;314;464;0
 223;314;301;333
 224;314;301;333
@@ -33198,6 +33203,7 @@
 153;317;1170;0
 161;317;274;333
 163;317;1783;333
+173;317;3084;333;descriptionDe=Gasthof zur Hanfschlinge;descriptionEn=The Hemp Necktie Inn
 175;317;934;333
 182;317;874;333
 182;317;387;333
@@ -33857,6 +33863,7 @@
 352;321;14;333
 354;321;273;333
 359;321;914;333
+359;321;3082;333;descriptionDe=Schulterplatte Insel mit Tanora Ruinen, Epphurds Häuser, Friedhof, Spießstollen und ehemalige Schulterplattesiedlung;descriptionEn=Pauldron Isle with Tanora Ruins, Epphurd's Houses, Graveyard, Skewer Drift and former Pauldron Settlement
 404;321;1170;0
 406;321;623;333
 407;321;287;333
@@ -34620,6 +34627,7 @@
 108;326;287;333
 152;326;1170;0
 163;326;273;333
+164;326;3083;333;descriptionDe=Funkelhöhle, Cherass Zitadelle, Schlangenkopfküste, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Glittering Cave, Cherass' Citadel, Snakehead Coast, Wichtkanal, Sentry Forest, Katanbi Desert, Cadomyr
 175;326;934;333
 175;326;934;333
 185;326;1101;333
@@ -35282,6 +35290,7 @@
 108;330;287;333
 157;330;1782;333
 164;330;274;333
+170;330;3082;333;descriptionDe=Der Todes Sumpf, Igruks Höhle, Elstree Ebene, Elstree Wald, Ostland, Wunderland, Todes Gestank, Frische Sümpfe, Drachenhöhle, Runewick;descriptionEn=The Death Marsh, Igruk's Cave, Elstree Plain, Elstree Forest, Eastland, Wonderland, Death's Stench, Dewy Swamps, Dragon's Lair, Runewick
 180;330;273;333
 189;330;301;333
 192;330;386;333
@@ -38012,6 +38021,9 @@
 153;346;1782;333
 154;346;911;333
 157;346;273;333
+163;346;2924;333;descriptionDe=Der Todes Sumpf - Trette den Toten bei! Gesponsert von Erzmagier Elvaine Morgan.;descriptionEn=The Death Marsh - Join the dead! Sponsered by Archmage Elvaine Morgan.
+166;346;2924;333;descriptionDe=Der Todes Sumpf - Trette den Toten bei! Gesponsert von Erzmagier Elvaine Morgan.;descriptionEn=The Death Marsh - Join the dead! Sponsered by Archmage Elvaine Morgan.
+166;346;2926;333;descriptionDe=Hoheitsgebiet des Igruk;descriptionEn=Igruk's territory
 172;346;627;333
 180;346;1176;0
 188;346;1170;0
@@ -39309,7 +39321,7 @@
 272;353;1170;0
 277;353;1276;333
 278;353;1257;333
-279;353;521;333
+279;353;521;333;descriptionDe=Das letzte Gift war für sie reserviert.;descriptionEn=The last poison was saved for her.
 280;353;3303;333
 281;353;267;333
 286;353;266;333
@@ -39634,7 +39646,7 @@
 77;355;342;333
 77;355;473;333
 78;355;66;0;markerstone=20
-80;355;520;333
+80;355;520;333;descriptionDe=Cherass heißt euch willkommen in seiner Zitadelle!;descriptionEn=Cherass welcomes you in his citadel!
 85;355;915;333
 86;355;1276;333
 87;355;915;333
@@ -39854,9 +39866,9 @@
 256;356;628;333
 264;356;1783;333
 280;356;338;333
-283;356;2927;333
+283;356;2927;333;descriptionDe=Hexen Hütte;descriptionEn=Witch's Cottage
 284;356;614;333
-285;356;2927;333
+285;356;2927;333;descriptionDe=Hexen Hütte;descriptionEn=Witch's Cottage
 286;356;338;333
 293;356;1783;333
 340;356;1208;333
@@ -40660,10 +40672,10 @@
 272;361;1782;333
 272;361;513;333
 273;361;386;333
-283;361;2927;333
+283;361;2927;333;descriptionDe=Hexen Hütte;descriptionEn=Witch's Cottage
 284;361;616;333
 284;361;1783;333
-285;361;2927;333
+285;361;2927;333;descriptionDe=Hexen Hütte;descriptionEn=Witch's Cottage
 289;361;421;333
 289;361;913;333
 339;361;301;333
@@ -42984,7 +42996,7 @@
 226;378;14;-1
 236;378;1782;-1
 238;378;273;-1
-239;378;519;-1
+239;378;519;333;descriptionDe=Bramus, der Druide.;descriptionEn=Bramus, the druid.
 240;378;1809;-1
 241;378;301;-1
 254;378;1783;-1
@@ -43146,6 +43158,7 @@
 217;379;274;-1
 219;379;1265;-1
 220;379;464;-1
+220;379;272;333;descriptionDe=Die Schönheit, die es versuchte aber scheiterte.;descriptionEn=The beauty, who tried but failed.
 221;379;627;-1
 224;379;274;-1
 228;379;273;-1
@@ -43635,7 +43648,7 @@
 46;382;596;333
 47;382;287;333
 49;382;2169;333
-52;382;520;333
+52;382;520;333;descriptionDe=Hier hat es sich ausgefunkelt!;descriptionEn=Glittering is over now!
 66;382;1276;333
 71;382;915;333
 82;382;386;333
@@ -43947,6 +43960,8 @@
 306;383;1783;-1
 311;383;300;-1
 325;383;1783;-1
+327;383;3083;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West
+328;383;3082;333;descriptionDe=Ostland, Osthafen, Wunderland, Frische Sümpfe, Runewick;descriptionEn=Eastland, Eastport, Wonderland, Dewy Swamps, Runewick
 332;383;1782;-1
 334;383;338;-1
 341;383;338;-1
@@ -44263,6 +44278,7 @@
 90;385;1782;333
 93;385;273;333
 97;385;1247;333
+98;385;3081;333;descriptionDe=Cherass Zitadelle, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Cherass' Citadel, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 99;385;1783;333
 111;385;623;333
 112;385;287;333
@@ -44373,6 +44389,7 @@
 196;385;1782;333
 198;385;273;333
 211;385;1254;333
+211;385;3083;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West
 217;385;301;-1
 218;385;623;-1
 218;385;625;-1
@@ -44499,6 +44516,7 @@
 96;386;3101;333
 97;386;1161;333
 98;386;1161;333
+98;386;3083;333;descriptionDe=Funkelhöhle;descriptionEn=Glittering Cave
 99;386;1161;333
 105;386;1783;333
 106;386;405;333
@@ -44712,6 +44730,7 @@
 66;387;274;333
 69;387;14;333
 74;387;273;333
+98;387;3082;333;descriptionDe=Elfenruinen, Schlangenkopfberg, Todes Schneise, Glühende Wälder, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Elven Ruins, Mount Snakehead, Death Swath, Glowing Forest, Wight Canal, Sentry Forest, Katanbi Desert, Cadomyr
 100;387;1160;333
 101;387;1160;333
 102;387;1160;333
@@ -44876,7 +44895,7 @@
 371;387;934;-1
 372;387;856;-1
 380;387;854;-1
-380;387;2805;-1
+380;387;2805;333;descriptionDe=Auf der Säule steht mit Blut geschrieben 'Cherga bringt Balance'.;descriptionEn=The words 'Cherga brings balance' are written with blood on the column.
 381;387;934;-1
 384;387;1810;333
 385;387;933;333
@@ -45312,7 +45331,7 @@
 371;389;934;-1
 372;389;856;-1
 380;389;854;-1
-380;389;2805;-1
+380;389;2805;333;descriptionDe=Auf der Säule steht mit Blut geschrieben 'Cherga bringt Gerechtigkeit'.;descriptionEn=The words 'Cherga brings justice' are written with blood on the column.
 381;389;934;-1
 385;389;933;333
 385;389;301;333
@@ -45666,6 +45685,8 @@
 206;391;338;333
 211;391;1783;333
 218;391;1276;-1
+218;391;3082;333;descriptionDe=Elstree Ebene, Igruks Höhle, Todes Gestank, Drachenhöhle, Runewick;descriptionEn=Elstree Plain, Igruk's Cave, Death's Stench, Dragon's Lair, Runewick
+219;391;3084;333;descriptionDe=Elstree Wald, Ostland, Wunderland, Frische Sümpfe, Runewick;descriptionEn=Elstree Forest, Eastland, Wonderland, Dewy Swamps, Runewick
 220;391;1783;-1
 225;391;1783;-1
 229;391;1783;-1
@@ -46132,6 +46153,7 @@
 29;394;287;333
 48;394;1170;0
 50;394;609;0
+53;394;3081;333;descriptionDe=Funkelhöhle;descriptionEn=Glittering Cave
 56;394;273;333
 59;394;14;333
 79;394;273;333
@@ -49021,7 +49043,7 @@
 104;415;274;333
 106;415;1783;333
 113;415;1246;333
-115;415;2926;333
+115;415;2926;333;descriptionDe=Hoheitsgebiet des Igruk;descriptionEn=Igruk's territory
 116;415;629;333
 117;415;287;333
 118;415;622;333
@@ -49766,7 +49788,7 @@
 266;421;1790;-1
 274;421;422;-1
 284;421;1782;-1
-285;421;2926;-1
+285;421;2926;333;descriptionDe=Feen Tanz;descriptionEn=Fairy's Dance
 286;421;301;-1
 287;421;301;-1
 290;421;420;-1
@@ -50271,7 +50293,7 @@
 276;424;308;-1
 279;424;1817;-1
 284;424;273;-1
-285;424;2926;-1
+285;424;2926;333;descriptionDe=Feen Tanz;descriptionEn=Fairy's Dance
 286;424;301;-1
 287;424;301;-1
 288;424;422;-1
@@ -50564,8 +50586,9 @@
 205;426;273;333
 206;426;1247;333
 207;426;587;333
-208;426;519;333
-209;426;2926;333
+208;426;519;333;descriptionDe=Der Hunger nahm uns unseren Jarl.;descriptionEn=Hunger took our Jarl form us.
+209;426;2926;333;descriptionDe=Des Jarls Langhaus - für immer verloren!;descriptionEn=The Jarl's Longhouse - lost forever!
+209;426;2926;333;descriptionDe=Vorsicht! Oder du versinkst wie es einst der Turm geschah.;descriptionEn=Attention! Or you might sink as the tower did once.
 217;426;14;-1
 222;426;1782;-1
 226;426;2170;-1
@@ -54020,8 +54043,8 @@
 151;448;301;333
 152;448;1783;333
 153;448;386;333
-154;448;2927;333
-158;448;2927;333
+154;448;2927;333;descriptionDe=Hoheitsgebiet des Igruk;descriptionEn=Igruk's territory
+158;448;2927;333;descriptionDe=Hoheitsgebiet des Igruk;descriptionEn=Igruk's territory
 160;448;1265;333
 163;448;66;0;markerstone=37
 169;448;629;333
@@ -54051,6 +54074,7 @@
 193;448;2170;333
 195;448;273;333
 197;448;273;333
+217;448;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 218;448;273;-1
 219;448;1782;-1
 227;448;1783;-1
@@ -54802,6 +54826,7 @@
 95;455;623;333
 96;455;287;333
 97;455;287;333
+111;455;3081;333;descriptionDe=Funkelhöhle, Elfenruinen, Cherass Zitadelle;descriptionEn=Glittering Cave, Elven Ruins, Cherass' Citadel
 121;455;338;333
 126;455;301;333
 127;455;301;333
@@ -54812,6 +54837,7 @@
 162;455;1782;333
 181;455;1782;333
 194;455;273;333
+205;455;3083;333;descriptionDe=Igruks Höhle, Schlangenkopfküste, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Igruk's Cave, Snakehead Coast, Wichtkanal, Sentry Forest, Katanbi Desert, Cadomyr
 239;455;273;-1
 240;455;273;-1
 241;455;273;-1
@@ -54926,6 +54952,7 @@
 215;456;1254;333
 215;456;1254;333
 216;456;722;333
+220;456;3084;333;descriptionDe=Elstree Wald, Wunderland, Ostland;descriptionEn=Elstree Forest, Wonderland, Eastland
 222;456;1804;-1
 226;456;1782;-1
 240;456;273;-1
@@ -55019,6 +55046,7 @@
 143;457;274;333
 150;457;273;333
 152;457;2170;333
+166;457;3084;333;descriptionDe=Elstree Ebene, Elstree Wald, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 178;457;1170;0
 188;457;273;333
 188;457;273;333
@@ -55138,6 +55166,7 @@
 136;458;628;333
 137;458;14;333
 147;458;1195;333
+166;458;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
 170;458;300;333
 183;458;274;333
 191;458;1782;333
@@ -55255,6 +55284,7 @@
 195;459;273;333
 198;459;1783;333
 202;459;1782;333
+217;459;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
 238;459;308;-1
 240;459;891;-1
 257;459;308;-1
@@ -55545,8 +55575,10 @@
 99;462;274;333
 99;462;287;333
 100;462;287;333
+108;462;3084;333;descriptionDe=Igruks Höhle, Elstree Ebene, Elstree Wald, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Dreifingerspitzen, Runewick, Südosten;descriptionEn=Igruk's Cave, Elstree Plain, Elstree Forest, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Three Fingertips, Runewick, Southeast
 110;462;627;333
 111;462;626;333
+118;462;3083;333;descriptionDe=Funkelhöhle, Elfenruinen, Todes Schneise, Glühende Wälder, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Glittering Cave, Elven Ruins, Death Swath, Glowing Forest, Wight Canal, Sentry Forest, Katanbi Desert, Cadomyr
 130;462;627;333
 131;462;623;333
 132;462;287;333
@@ -55574,6 +55606,7 @@
 287;462;338;-1
 288;462;421;-1
 289;462;273;-1
+290;462;2927;333;descriptionDe=Elstree See;descriptionEn=Elstree lake
 291;462;420;-1
 294;462;338;-1
 295;462;273;-1
@@ -55848,13 +55881,13 @@
 131;465;287;333
 133;465;386;333
 135;465;1790;333
-135;465;1809;333
+135;465;1809;333;descriptionDe=Zwischen uns führt der Weg zur Finsternis.;descriptionEn=The way to the Darkness starts between us.
 137;465;1783;333
 138;465;42;333
 139;465;274;333
 140;465;338;333
 141;465;1790;333
-141;465;1809;333
+141;465;1809;333;descriptionDe=Zwischen uns führt der Weg zur Finsternis.;descriptionEn=The way to the Darkness starts between us.
 151;465;219;333
 152;465;301;333
 159;465;1783;333
@@ -56142,6 +56175,7 @@
 90;468;597;333
 91;468;628;333
 92;468;301;333
+96;468;2927;333;descriptionDe=Schlangenkopfberg;descriptionEn=Mount Snakehead
 97;468;1783;333
 123;468;1176;0
 132;468;338;333
@@ -56962,10 +56996,10 @@
 133;479;914;333
 134;479;301;333
 135;479;1790;333
-135;479;1809;333
+135;479;1809;333;descriptionDe=Zwischen uns führt der Weg zum Licht.;descriptionEn=The way to the Light starts between us.
 138;479;273;333
 141;479;1790;333
-141;479;1809;333
+141;479;1809;333;descriptionDe=Zwischen uns führt der Weg zum Licht.;descriptionEn=The way to the Light starts between us.
 165;479;1783;333
 166;479;338;333
 168;479;274;333
@@ -56980,6 +57014,7 @@
 239;479;273;-1
 240;479;42;-1
 241;479;273;-1
+241;479;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 248;479;273;-1
 260;479;273;-1
 272;479;36;-1
@@ -57013,7 +57048,7 @@
 353;479;1817;-1
 360;479;541;-1
 363;479;1783;-1
-373;479;512;-1
+373;479;512;333;descriptionDe=Osthafen;descriptionEn=Eastport
 413;479;596;333
 414;479;287;333
 415;479;287;333
@@ -57215,6 +57250,7 @@
 225;482;338;-1
 239;482;338;-1
 240;482;584;-1
+241;482;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
 249;482;1251;-1
 260;482;1782;-1
 273;482;308;-1
@@ -57224,6 +57260,7 @@
 296;482;273;-1
 304;482;161;-1
 307;482;301;-1
+314;482;2926;333;descriptionDe=Berg Lebenswurzel;descriptionEn=Mount Liferoot
 316;482;629;-1
 317;482;630;-1
 318;482;287;-1
@@ -57675,6 +57712,8 @@
 174;488;1783;333
 175;488;273;333
 197;488;338;333
+202;488;3083;333;descriptionDe=Igruks Höhle, Schlangenkopfküste, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Igruk's Cave, Snakehead Coast, Wight Canal, Sentry Forest, Katanbi Desert, Cadomyr
+206;488;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 216;488;338;333
 235;488;274;-1
 236;488;273;-1
@@ -57948,7 +57987,7 @@
 369;491;3265;0
 370;491;3265;0
 371;491;3265;0
-373;491;2069;-1
+373;491;2069;333;descriptionDe=Osthafen;descriptionEn=Eastport
 375;491;616;-1
 376;491;616;-1
 5;492;580;333
@@ -58175,7 +58214,7 @@
 370;494;8;0
 371;494;546;0
 372;494;338;-1
-373;494;2069;-1
+373;494;2069;333;descriptionDe=Osthafen;descriptionEn=Eastport
 374;494;274;-1
 374;494;616;-1
 374;494;1360;0
@@ -58343,6 +58382,7 @@
 187;497;1782;333
 198;497;338;333
 203;497;1176;0
+209;497;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
 217;497;1808;-1
 221;497;586;-1
 222;497;387;-1
@@ -58410,6 +58450,7 @@
 207;498;614;333
 208;498;614;333
 209;498;338;333
+209;498;3083;333;descriptionDe=Schlangenkopfküste, Igruks Höhle, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Snakehead Coast, Igruk's Cave, Wight Canal, Sentry Forest, Katanbi Desert, Cadomyr
 214;498;1783;333
 217;498;301;-1
 220;498;1246;-1
@@ -58674,6 +58715,7 @@
 207;502;616;333
 208;502;616;333
 209;502;338;333
+209;502;3084;333;descriptionDe=Elstree Wald, Wunderland, Ostland;descriptionEn=Elstree Forest, Wonderland, Eastland
 215;502;1782;333
 218;502;273;-1
 219;502;274;-1
@@ -58738,7 +58780,10 @@
 193;503;1170;0
 207;503;617;333
 208;503;617;333
+209;503;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
 217;503;273;-1
+222;503;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+223;503;3084;333;descriptionDe=Elstree Wald, Wunderland, Ostland;descriptionEn=Elstree Forest, Wonderland, Eastland
 232;503;1782;-1
 238;503;1782;-1
 241;503;1817;-1
@@ -58785,6 +58830,8 @@
 199;504;274;333
 200;504;273;333
 201;504;1782;333
+222;504;3083;333;descriptionDe=Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Snakehead Coast, West, Cadomyr
+223;504;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
 226;504;273;-1
 228;504;273;-1
 235;504;273;-1

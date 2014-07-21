@@ -46,7 +46,7 @@
 16;13;633;333
 16;13;276;333
 17;13;633;333
-17;13;272;333
+17;13;272;333;descriptionDe=Eine große, alterslose Frau hebt ihren Finger als gäbe sie einen Rat. In ihrer anderen Hand hält sie einige Bücher und Schriftrollen.;descriptionEn=A tall, ageless woman raises one of her fingers as she advises. In her other hand she holds some books and scrolls.
 18;13;633;333
 18;13;276;333
 19;13;681;333
@@ -145,8 +145,8 @@
 13;21;42;333
 14;21;682;333
 15;21;632;333
-16;21;652;333
-17;21;656;333
+16;21;652;333;descriptionDe=Schrein der Elara;descriptionEn=Shrine of Elara;doorLockunlocked
+17;21;656;333;descriptionDe=Schrein der Elara;descriptionEn=Shrine of Elara;doorLockunlocked
 18;21;632;333
 19;21;632;333
 20;21;683;333
@@ -164,13 +164,13 @@
 22;22;635;333
 1;23;680;333
 2;23;691;333
-9;23;655;333
+9;23;655;333;descriptionDe=Schlafsaal;descriptionEn=Dormitory;doorLockunlocked
 20;23;1003;333
 22;23;639;333
 0;24;680;333
 1;24;691;333
 4;24;212;333
-9;24;659;333
+9;24;659;333;descriptionDe=Schlafsaal;descriptionEn=Dormitory;doorLockunlocked
 22;24;635;333
 0;25;634;333
 3;25;213;333

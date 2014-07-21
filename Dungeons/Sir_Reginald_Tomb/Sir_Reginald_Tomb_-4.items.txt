@@ -14,6 +14,7 @@
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 0;1;613;333
 0;2;613;333
+8;2;337;333;descriptionDe=Nach etwas Zeit erkennst du schlieﬂlich eine 18.;descriptionEn=After some time you can recognize an 18.
 0;3;613;333
 0;4;613;333
 0;5;613;333

@@ -1328,8 +1328,10 @@
 118;35;3222;0
 118;35;3223;0
 119;35;260;0
+119;35;272;333;descriptionDe=Eine junge, attraktive Frau blickt entschlossen in die Ferne. Siehält tapfer einen goldenen Schlüssel in ihrer linken und einen goldenen Zepter in ihrer rechten Hand. Ihr majestätisches Kleid trägt einen einhörnigen Löwen auf ihrer Brust.;descriptionEn=A young, attractive woman looks resolutely into the distance. She holds a golden key in her left hand and a golden sceptre in her right hand. Her majestic dress bears a single horned lion on the chest.
 120;35;3268;0
 122;35;263;0
+122;35;272;333;descriptionDe=Eine junge, attraktive Frau blickt entschlossen in die Ferne. Siehält tapfer einen goldenen Schlüssel in ihrer linken und einen goldenen Zepter in ihrer rechten Hand. Ihr majestätisches Kleid trägt einen einhörnigen Löwen auf ihrer Brust.;descriptionEn=A young, attractive woman looks resolutely into the distance. She holds a golden key in her left hand and a golden sceptre in her right hand. Her majestic dress bears a single horned lion on the chest.
 123;35;3223;333
 123;35;3222;333
 123;35;3223;333
@@ -2223,8 +2225,8 @@
 78;62;2885;333
 79;62;219;333
 80;62;3245;333
-84;62;3225;333
-86;62;3225;333
+84;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
+86;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
 88;62;218;333
 90;62;3247;333
 99;62;3119;333
@@ -2291,7 +2293,7 @@
 82;65;3244;333
 83;65;3244;333
 84;65;3223;333
-85;65;3224;333
+85;65;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
 86;65;3223;333
 87;65;3244;333
 88;65;3244;333
@@ -2312,7 +2314,7 @@
 76;66;301;333
 80;66;3245;333
 83;66;2832;333
-84;66;748;333
+84;66;748;333;descriptionDe=Ritter mit Schwertern und rot-weißen Bannern schlachten einen Drachen ab, der sie mit Flammen einzudecken versucht während im Hintergrund blau-grau bekleidete Magier mit einer Schatzkist davon laufen. Unten rechts steht ein Datum: 15 AS.;descriptionEn=Knights with swords and red-white banners are slaughtering a dragon who tries to engulf them with flames, whilst in the background a group of blue-grey dressed mages are running away with a treasure chest. At the bottom right is a date: 15 AS.
 87;66;3278;333
 89;66;2832;333
 90;66;3247;333
@@ -2385,14 +2387,14 @@
 80;69;716;333
 80;69;3223;333
 81;69;3244;333
-82;69;3224;333
+82;69;3224;333;descriptionDe=Gasthaus Seeufer - Balkon;descriptionEn=Inn Lakeshore - Balcony;doorLockunlocked
 83;69;3244;333
 84;69;3242;333
 87;69;217;333
 88;69;2885;333
 89;69;219;333
 90;69;3247;333
-90;69;265;333
+90;69;265;333;descriptionDe=Ein rot-weiß gekleideter Ritter kniet auf  einem schwarz gekleideten Mann mit einem Zauberer Hut. Er hält triumphierend ein Schwert an die Kehle des Mannes. Leute unterschiedlicher Rassen beobachten und bejubeln den Ritter. Unten rechts steht: 0 AS.;descriptionEn=A red-white dressed knight kneels in front of darkly clothed man with a wizard hat. The knight holds his sword triumphantly at the throat of the man. Folk of different races are watching and celebrating the knight. At the bottom right is a date: 0 AS.
 107;69;3119;333
 107;69;3119;333
 116;69;433;333
@@ -2838,7 +2840,7 @@
 85;87;301;333
 87;87;1101;333
 95;87;1102;333
-95;87;265;333
+95;87;265;333;descriptionDe=Ein Ritter mit erhobenen Schwert und einem rot-weißen Schild beobachtet Arbeiter einen Hafen bauen während blau-graue Schiffe am Horizont verschwinden. Unten rechts steht ein Datum: 10 AS.;descriptionEn=A knight with a raised blade and a red-white shield watches workers building a harbor while blue-grey ships disappear over the horizon. At the bottom right is a date: 10 AS. 
 138;87;501;0
 139;87;623;0
 140;87;287;0
@@ -2860,12 +2862,12 @@
 179;87;287;333
 85;88;501;333
 85;88;301;333
-87;88;1110;333
+87;88;1110;333;descriptionDe=Villa Edward - Balkon;descriptionEn=Villa Edward - Balcony;doorLockunlocked
 90;88;2877;333
 91;88;2877;333
 93;88;746;333
 95;88;1102;333
-95;88;265;333
+95;88;265;333;descriptionDe=Das Bild zeigt eine kleine Gruppe von rot-weiß gekleideten Rittern, die furchtlos hunderte von Banditen über einen großen Fluss durch die Wüste verfolgen. Unten rechts steht ein Datum: 22 AS.;descriptionEn=The picture shows a small group of red-white dressed knights fearlessly chasing hundreds of bandits over a big river in a desert. At the bottom right is a date: 22 AS.
 138;88;503;0
 139;88;623;0
 140;88;287;333
@@ -2996,7 +2998,7 @@
 95;92;433;333
 95;92;301;333
 136;92;433;333
-138;92;3225;333
+138;92;3225;333;descriptionDe=Wohnungsquartier - Ehre & Abstammung;descriptionEn=Flat quarter - Honour & Lineage;lockId=322;doorLockunlocked
 144;92;3247;333
 145;92;287;333
 149;92;273;0
@@ -3120,7 +3122,7 @@
 166;97;627;0
 170;97;626;333
 135;98;433;333
-137;98;3225;333
+137;98;3225;333;descriptionDe=Wohnungsquartier - Courage;descriptionEn=Flat quarter - Courage;lockId=324;doorLockunlocked
 143;98;3260;333
 144;98;3247;333
 145;98;287;333
@@ -3147,7 +3149,7 @@
 97;99;1107;333
 98;99;1103;333
 99;99;1103;333
-99;99;264;333
+99;99;264;333;descriptionDe=Das Bild zeigt einen Mann mit einer Krone auf seinem Kopf wie er ein kleines Baby, gekleidet in rot-weiße Kleider, hält. Unten rechts steht ein Datum: 3 AS.;descriptionEn=The picture shows a man with a crown on his head holding a little baby which sleeps wrapped in red-white cloth. At the bottom right is a date: 3 AS.
 100;99;1103;333
 101;99;1107;333
 102;99;1103;333
@@ -3246,12 +3248,12 @@
 171;102;878;0
 93;103;3124;333
 93;103;301;333
-95;103;1110;333
+95;103;1110;333;descriptionDe=Villa Rosaline - Balkon;descriptionEn=Villa Rosaline - Balcony;doorLockunlocked
 101;103;2877;333
 102;103;2877;333
 103;103;1102;333
 134;103;433;333
-136;103;3225;333
+136;103;3225;333;descriptionDe=Wohnungsquartier - Besitz;descriptionEn=Flat quarter - Property;lockId=326;doorLockunlocked
 139;103;2876;0
 140;103;2885;0
 140;103;1089;0
@@ -3349,6 +3351,7 @@
 102;107;1100;333
 103;107;1102;333
 103;107;1100;333
+128;107;695;333;descriptionDe=Ein Ritter mit einer scheinenden goldenen Rüstung schwenkt einen weißen Banner mit beiden Händen während er zu schreien scheint.;descriptionEn=A knight with shiny golden armour waves a white banner with both hands while he seems to yell. The words, 'In friendship and loyalty' are written on the banner.
 129;107;677;0
 130;107;672;0
 131;107;672;0
@@ -3441,6 +3444,7 @@
 84;110;219;333
 85;110;635;333
 85;110;276;333
+128;110;2069;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall
 129;110;680;0
 130;110;633;0
 130;110;396;0
@@ -3505,10 +3509,12 @@
 103;111;396;333
 103;111;1265;333
 129;111;634;0
+131;111;442;333;descriptionDe=Ein stolzer und mutiger Ritter reitet einen einhörnigen Löwen in einem Angriff. Sein erhobenes, glänzendes Breitschwert spiegelt das Licht.;descriptionEn=A proud and brave knight is riding a single horned lion into an attack. His raised broadsword shines, reflecting the light. The big red-white banner in his other hand seems to be used as a lance.
 133;111;218;0
 134;111;218;0
 135;111;218;0
 137;111;635;0
+137;111;442;333;descriptionDe=Ein Mann trägt eine glänzende Rüstung während er auf einem großen, stolzen Pferd sitzt. Sein dunkler Bart ist erkennbar unter seinem luxuriös dekorierten Albarischen Helm. Er trägt einen Banner auf welchem zu lesen ist: 'In Malachin vertrauen wir'.;descriptionEn=A man is wearing shiny armour whilst sitting on a tall and proud black horse. His dark beard can be seen under his luxuriantly decorated Albarian helmet. He carries a banner that reads 'In Malachin we trust'.
 138;111;716;333
 138;111;3223;333
 139;111;720;333
@@ -3555,8 +3561,8 @@
 78;114;682;333
 78;114;677;333
 79;114;632;333
-80;114;652;333
-81;114;656;333
+80;114;652;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
+81;114;656;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
 82;114;632;333
 83;114;683;333
 86;114;673;333
@@ -3583,7 +3589,7 @@
 107;114;1265;333
 129;114;658;0
 138;114;635;333
-138;114;693;333
+138;114;693;333;descriptionDe=Ein junger König sitzt auf einen Thron. Sein linker Ellbogen ruht auf seinen Beinen. Seine rechte Hand hält ein Langschwert. Er wirkt ruhelos und gelangweilt.;descriptionEn=A young king is sitting on a throne, his left elbow resting on his legs. His right hand holds a longsword. He seems restless and bored.
 139;114;3245;333
 145;114;3247;0
 78;115;674;333
@@ -3603,7 +3609,7 @@
 140;115;3248;333
 141;115;3244;333
 142;115;3244;333
-143;115;3224;333
+143;115;3224;333;descriptionDe=Wohnungsquartier - Wachsamkeit;descriptionEn=Flat quarter - Alertness;lockId=327;doorLockunlocked
 144;115;3244;333
 145;115;3222;333
 145;115;675;0
@@ -3620,6 +3626,7 @@
 103;116;674;333
 109;116;675;333
 109;116;672;333
+128;116;695;333;descriptionDe=Ein nobel gekleideter Mann sitzt auf einen goldenen Thron. Er trägt eine glänzende Krone auf seinem dunklen langen Haar und eine rot-weiße Robe mit glitzerten Edelsteinen. Er hält eine große goldene Kiste und ein goldenes Schwert in seinen Händen.;descriptionEn=A nobly dressed man is sitting on a golden throne. He wears a bright crown over his long dark hair and wears a red and white robe with several glittering gems. He holds a huge golden box and a golden blade in his hands.
 129;116;634;0
 129;116;396;0
 132;116;320;0
@@ -3679,7 +3686,7 @@
 135;117;2875;0
 136;117;2875;0
 138;117;635;333
-138;117;693;333
+138;117;693;333;descriptionDe=Ein großer starker Mann mit verengten Augen. Sein langes schwarzes Haar weht durch den Wind. Seine Rüstung trägt einen einhörnigen rot-weißen Löwen. Seine Stiefeln sind im Blut gedrängt.;descriptionEn=A tall, strong man with narrowed eyes has long black hair blowing in the wind. His armour portrays a single horned red-white lion and his boots are covered in blood.
 145;117;675;333
 103;118;674;333
 103;118;674;333
@@ -3707,14 +3714,14 @@
 107;120;673;333
 108;120;673;333
 109;120;673;333
-128;120;654;333
+128;120;654;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
 132;120;2875;0
 133;120;2875;0
 134;120;2875;0
 135;120;2875;0
 136;120;2875;0
 138;120;635;333
-138;120;693;333
+138;120;693;333;descriptionDe=Ein stark wirkender Mann ist als Gladiator gekleidet. Er trägt ein Netz und einen Dreizack. Er scheint verletzt aber sein Gesicht wirkt schmerzlos.;descriptionEn=A strong looking man is dressed as a gladiator. He carries a net and a red trident. He seems wounded but his face shows no pain.
 145;120;675;333
 110;121;678;333
 111;121;673;333
@@ -3727,7 +3734,7 @@
 118;121;673;333
 119;121;673;333
 120;121;673;333
-128;121;658;333
+128;121;658;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
 137;121;214;333
 138;121;635;333
 145;121;675;333
@@ -3749,8 +3756,8 @@
 133;123;632;333
 134;123;632;333
 135;123;632;333
-136;123;652;333
-137;123;656;333
+136;123;652;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
+137;123;656;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
 138;123;683;333
 145;123;675;333
 145;123;688;333
@@ -3768,11 +3775,12 @@
 132;124;3075;333
 133;124;673;333
 134;124;3075;333
+134;124;2046;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall
 135;124;690;333
 135;124;691;333
-135;124;694;333
+135;124;694;333;descriptionDe=Ein stolz und mutig wirkender Mann präsentiert einen verbrannten Zaubererhut und einen zerbrochenen Zauberstab. Auf einer Tafel zu seinen Füssen steht: 'Gedenke, gedenke, des Königs Schwert, dass des bösen Zauberer Mordak al Kharuds Herz entfernte'.;descriptionEn=A proud and brave looking knight presents a burnt wizard hat and broken mage staff. A tablet rests at his legs with the inscription: 'Remember, remember, our king's sword which cut out the heart of the evil sorcerer 'Mordak al Kharud'.
 138;124;691;333
-138;124;694;333
+138;124;694;333;descriptionDe=Ein in Weiß bekleideter Man mit übergezogener roter Kaputze hält einen Bogen. Zu seinen Füssen liegt ein Golem. Der Mann hält in seiner linken Hand den Kopf des Golem.;descriptionEn=A man dressed in white with a red hooded cloak holds a bow. The body of a golem is lying at his feet and the head of the golem rests in the left hand of the man.
 145;124;675;333
 107;125;1862;333
 107;125;694;333
