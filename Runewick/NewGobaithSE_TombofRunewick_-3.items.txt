@@ -12,6 +12,7 @@
 # 
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
+27;3;337;333;descriptionDe=Nach etwas Zeit erkennst du schlieﬂlich eine 18.;descriptionEn=After some time you can recognize an 18.
 0;12;3092;333
 0;13;3087;333
 0;14;3087;333

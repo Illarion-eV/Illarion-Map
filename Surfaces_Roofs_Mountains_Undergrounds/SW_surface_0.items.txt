@@ -1225,9 +1225,12 @@
 112;7;3245;333
 119;7;66;0;markerstone=326
 121;7;1071;0
+121;7;2046;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 122;7;1071;0
+122;7;2046;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 123;7;1071;0
-128;7;3233;333
+123;7;2046;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
+128;7;3233;333;descriptionDe=Königliche Kammer;descriptionEn=Royal Chamber;lockId=300;doorLockunlocked
 136;7;2875;333
 137;7;2875;333
 138;7;396;333
@@ -1362,7 +1365,7 @@
 116;8;432;333
 116;8;433;333
 122;8;2915;333
-128;8;3237;333
+128;8;3237;333;descriptionDe=Königliche Kammer;descriptionEn=Royal Chamber;lockId=300;doorLockunlocked
 156;8;596;333
 157;8;287;333
 158;8;287;0
@@ -1924,7 +1927,7 @@
 119;12;2876;333
 124;12;2878;333
 126;12;261;333
-129;12;750;333
+129;12;750;333;descriptionDe=Ein Mann liegt in seinem Bett. Er scheint sehr krank zu sein. Eine junge Frau sitzt neben ihm und hält seine Hand. Er reicht ihr eine Krone während sie in einem beinahe göttlichen Sonnenlicht schimmert. Unten rechts steht ein Datum: 32 AS.;descriptionEn=A man is lying in his bed. He seems very sick. A young woman is sitting next to him and is holding one of his hands. He hands her a crown whilst she is shimmering in an almost divine sun light. At the bottom right is a date: 32 AS.
 130;12;956;0
 131;12;3245;333
 134;12;433;333
@@ -2422,12 +2425,13 @@
 111;16;287;333
 112;16;3245;333
 117;16;1068;0
-119;16;694;333
+119;16;694;333;descriptionDe=Ein sehr alter, schwacher aber stolzer, entschlossener Mann sitzt auf einem Thron. Seine Augen, Haare und Bard sind leuchtend Silber. Seine Kleider sind rot, weiß und gold. Sein Schwert ruht auf den Knien und ist bedeckt mit dunkelroter Flüssigkeit.;descriptionEn=A very old, frail man sits proud and determined on a throne. His eyes, hair and beard are bright silver and his clothes red, white and golden. His sword rests on his knees and is covered with a dark red liquid.
 120;16;957;0
 123;16;957;0
-124;16;694;333
+124;16;694;333;descriptionDe=Ein nobel gekleideter Mann mit einer Krone am Kopf. Sein langes Haar und Bard reichen bis zu seiner Robe mit einem einhörnigen Löwe an seiner Brust. Er hält einen Schlüssel und eine Tafel mit der Gravur: 'Cadomyr'.;descriptionEn=A nobly dressed man wears a crown on his head. His long hair and beard reach his red robe that bears a single horned lion on the chest. He holds a key and a tablet with the engraving: 'Cadomyr - 137 BS'.
 126;16;1068;0
 130;16;1070;0
+130;16;2069;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 131;16;3245;333
 134;16;433;333
 135;16;433;333
@@ -2543,6 +2547,7 @@
 111;17;287;333
 112;17;3245;333
 130;17;464;333
+130;17;272;333;descriptionDe=Ein gutaussehender Mann trägt eine reichlich dekorierte rote Robe. Zu seiner Seite steht eine junge, sehr attraktive Frau in einem weißen langen Kleid. Sie halten zusammen einen Schild, verziert mit einem einhörnigen Löwen.;descriptionEn=A handsome looking man wears a richly decorated red robe. He is flanked by a young and very attractive woman in a long white dress. Together they hold a shield with the image of a single horned lion.
 131;17;3245;333
 134;17;433;333
 135;17;433;333
@@ -2662,6 +2667,7 @@
 112;18;3245;333
 118;18;3106;0
 130;18;1070;0
+130;18;2069;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 131;18;3245;333
 135;18;263;333
 135;18;260;333
@@ -5023,8 +5029,8 @@
 118;35;3244;333
 119;35;3244;333
 120;35;3244;333
-121;35;3232;333
-122;35;3236;333
+121;35;3232;333;descriptionDe=Palast;descriptionEn=Palace;doorLockunlocked
+122;35;3236;333;descriptionDe=Palast;descriptionEn=Palace;doorLockunlocked
 123;35;3244;333
 124;35;3244;333
 125;35;3244;333
@@ -5180,11 +5186,11 @@
 115;36;260;333
 117;36;260;333
 118;36;2805;0
-118;36;467;0
+118;36;467;333;descriptionDe=Auf der Säule steht geschrieben: 'Gebaut mit der Tapferkeit von Malachin, der Loyalität von Zhambra, und der Liebe von Sirani'.;descriptionEn=On the column it is written: 'Built with the braveness of Malachin, the loyalty of Zhambra, and the love of Sirani'.
 119;36;260;333
 123;36;260;333
 124;36;2805;333
-124;36;467;333
+124;36;467;333;descriptionDe=Auf der Säule steht geschrieben: 'In Ruhm und Ehre marschieren wir!';descriptionEn=On the column it is written: 'In glory and honour we march.
 125;36;260;333
 127;36;260;333
 129;36;260;333
@@ -5705,6 +5711,7 @@
 109;39;3246;333
 109;39;3247;333
 109;39;3220;333
+109;39;2046;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 110;39;301;333
 110;39;1276;0
 111;39;301;333
@@ -5888,7 +5895,7 @@
 100;40;301;0
 101;40;301;333
 102;40;3245;333
-104;40;2046;333
+104;40;2046;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 106;40;3075;333
 107;40;2046;333
 108;40;661;0
@@ -5938,6 +5945,7 @@
 359;40;1782;333
 363;40;274;333
 366;40;912;333
+372;40;2926;333;descriptionDe=Achtung! Verfluchter Ort;descriptionEn=Attention! Cursed Place
 375;40;1272;333
 376;40;3095;333
 377;40;1272;333
@@ -6525,6 +6533,7 @@
 221;44;387;0
 235;44;1783;333
 242;44;273;333
+244;44;2046;333;descriptionDe=Perle der Sirani;descriptionEn=Pearl of Sirani
 252;44;1782;333
 256;44;1783;333
 262;44;273;333
@@ -6782,7 +6791,7 @@
 104;46;3248;333
 105;46;3244;333
 106;46;3244;333
-107;46;3224;333
+107;46;3224;333;descriptionDe=Zensusbüro;descriptionEn=Census office;doorLockunlocked
 108;46;3244;333
 109;46;3247;333
 109;46;3222;333
@@ -6931,6 +6940,7 @@
 98;47;1276;0
 98;47;301;0
 102;47;402;333
+105;47;2046;333;descriptionDe=Zensusbüro;descriptionEn=Census office
 106;47;952;0
 109;47;402;333
 114;47;301;333
@@ -7080,7 +7090,7 @@
 90;48;1100;333
 91;48;1100;333
 92;48;1100;333
-93;48;1109;333
+93;48;1109;333;descriptionDe=Villa Reginald;descriptionEn=Villa Reginald;lockId=312;doorLockunlocked
 94;48;1100;333
 95;48;1100;333
 96;48;1100;333
@@ -7277,6 +7287,7 @@
 193;49;287;0
 194;49;287;0
 201;49;912;333
+207;49;3083;333;descriptionDe=Grugmutzs Höhle;descriptionEn=Grugmutz's cave
 208;49;1810;333
 210;49;203;333
 213;49;338;333
@@ -7367,6 +7378,7 @@
 61;50;622;333
 62;50;274;333
 86;50;273;333
+90;50;2046;333;descriptionDe=Villa Reginald;descriptionEn=Villa Reginald
 102;50;3518;333
 115;50;301;333
 117;50;273;333
@@ -7383,7 +7395,7 @@
 133;50;273;333
 134;50;273;333
 135;50;2801;333
-143;50;695;333
+143;50;695;333;descriptionDe=Ein junger, nobler Krieger mit einer glänzenden Rüstung scheint mit erhobener Faust den Befehl zum Angriff zu geben.;descriptionEn=A young, noble warrior wearing shiny armour seems to give an order to attack with a raised fist.
 144;50;2805;333
 144;50;467;333
 145;50;301;333
@@ -7499,6 +7511,7 @@
 124;51;273;333
 125;51;273;333
 126;51;273;333
+129;51;2069;333;descriptionDe=Zhambratempel;descriptionEn=Temple of Zhambra
 130;51;263;333
 130;51;260;333
 130;51;261;333
@@ -7832,6 +7845,8 @@
 115;54;301;333
 118;54;442;333
 119;54;396;333
+120;54;3081;333;descriptionDe=Palast Ihrer Majestät;descriptionEn=Palace of Her Majesty
+123;54;3081;333;descriptionDe=Palast Ihrer Majestät;descriptionEn=Palace of Her Majesty
 124;54;396;333
 125;54;442;333
 130;54;263;333
@@ -7844,7 +7859,7 @@
 133;54;273;333
 134;54;273;333
 135;54;2801;333
-143;54;695;333
+143;54;695;333;descriptionDe=Ein junger, nobler Krieger mit einer glänzenden aber mit Blut befleckter Rüstung trägt furchtlos einen verwundeten Soldaten auf seinen Schultern.;descriptionEn=A young, noble warrior wearing shiny armour covered in blood fearlessly carries a wounded soldier on his shoulders.
 144;54;2805;333
 144;54;467;333
 145;54;301;333
@@ -8515,7 +8530,7 @@
 86;60;3247;333
 89;60;741;333
 91;60;3247;333
-91;60;265;333
+91;60;265;333;descriptionDe=Ein umzingelter rot-weiß gekleideter Ritter erhebt sein Schert um dem Angriff von hunderten schwarz-gelb gekleideten Soldaten zu entgegnen. Andere tausende dieser Soldaten liegen herum. Sie scheinen Tod zu sein. Unten rechts steht ein Datum: 30 AS.;descriptionEn=An outnumbered red-white dressed knight raises his sword to counter an attack of hundred black-yellow dressed soldiers. Another thousand of these soldiers are lying around him, they are probably dead. At the bottom right is a date: 30 AS.
 92;60;263;333
 93;60;301;0
 95;60;1810;333
@@ -8807,9 +8822,10 @@
 77;62;1812;333
 81;62;3249;333
 86;62;3247;333
-86;62;265;333
+86;62;265;333;descriptionDe=Das Bild zeigt stolze, furchtlose Ritter auf ein rot-weiß verziertes Schiff gehen. Frauen stehen am Ufer und winken mit weißen Tüchern. Auch ein betender Priester ist zu sehen. Unten rechts steht ein Datum: 13 BS.;descriptionEn=The pictures shows proud and fearless knights walking on red-white adorned ships. Women stay at the shore and are waving white towels. There is also a priest in the picture who obviously prays. At the bottom right is a date: 13 BS.
 89;62;741;333
 91;62;3247;333
+91;62;265;333;descriptionDe=Das Bild zeigt rot-weiß gekleidete Ritter einen von einem offensichtlich mächtigen Ork-Schamanen geführten Ork-Stamm abschlachten. Dies findet in der Nähe eines hohen Berges statt, aus welchen glühendes Wasser herauskommt. Unten rechts steht: 19 AS.;descriptionEn=The picture shows red-white dressed knights slaughtering an orc tribe led by an obviously powerful shaman. The action takes place high in a mountain close to where glowing water comes out. At the bottom right is a date: 19 AS.
 93;62;878;333
 93;62;301;0
 99;62;260;333
@@ -8852,7 +8868,7 @@
 308;62;274;333
 311;62;617;333
 312;62;1796;333
-312;62;519;333
+312;62;519;333;descriptionDe=Frontus und seine Familie;descriptionEn=Frontus and his family
 329;62;273;333
 332;62;274;333
 336;62;1782;333
@@ -9034,11 +9050,12 @@
 86;64;3247;333
 89;64;741;333
 91;64;3247;333
+91;64;265;333;descriptionDe=Das Bild zeigt zwei Ritter im freundschaftlichen Kampf. Man sieht auch andere Leute sie beobachten und anfeuern. Große rot-weiße Banner am Dach des Gebäude schimmern in der Sonne. Unten rechts steht ein Datum: 6 AS.;descriptionEn=The pictures shows two knights fighting each other with joy. You can also see other people watching and cheering them on. Big red-white banners on the roof of the building are shimmering in the sun. At the bottom right is a date: since 6 AS.
 92;64;263;333
 93;64;878;333
 93;64;1276;0
 93;64;301;0
-100;64;3225;333
+100;64;3225;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLockunlocked
 104;64;214;333
 105;64;214;333
 106;64;214;333
@@ -9276,14 +9293,14 @@
 81;66;3223;333
 82;66;3244;333
 83;66;3244;333
-84;66;3224;333
+84;66;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
 85;66;3244;333
 86;66;3244;333
 86;66;3247;333
 86;66;3244;333
 87;66;3244;333
 88;66;3244;333
-89;66;3224;333
+89;66;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
 90;66;3244;333
 91;66;3222;333
 92;66;273;333
@@ -9445,6 +9462,7 @@
 112;67;36;333
 113;67;215;333
 117;67;3247;333
+117;67;265;333;descriptionDe=Das Bild zeigt stolze Ritter wie sie gewöhnliches Volk dabei beobachten wie diese am Ende einer Wüste, in der Nähe von Bergen einen Palast bauen. Einer der Krieger hat einen langen Bart und trägt eine Krone. Er hält auch einen rot-weißen Banner. Unten rechts steht ein Datum: 16 BS.;descriptionEn=The picture shows proud knights watching ordinary folk building a palace at the periphery of a desert close to a mountain. One of the knights has a long beard and wears a crown. He holds a red and white banner. At the bottom right is a date: 16 BS.
 118;67;232;333
 119;67;232;333
 124;67;878;333
@@ -9763,6 +9781,7 @@
 118;69;232;333
 119;69;232;333
 125;69;66;0;markerstone=333
+129;69;2046;333;descriptionDe=Werkstatt;descriptionEn=Workshop
 131;69;320;333
 135;69;3246;333
 135;69;3221;333
@@ -10290,14 +10309,14 @@
 81;73;3223;333
 82;73;3244;333
 83;73;3244;333
-84;73;3224;333
+84;73;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
 85;73;3244;333
 86;73;3244;333
 86;73;3247;333
 86;73;3244;333
 87;73;3244;333
 88;73;3244;333
-89;73;3224;333
+89;73;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
 90;73;3244;333
 91;73;3222;333
 99;73;262;333
@@ -10309,6 +10328,7 @@
 118;73;1276;0
 119;73;1276;0
 134;73;260;333
+134;73;2069;333;descriptionDe=Werkstatt;descriptionEn=Workshop
 135;73;3245;333
 135;73;3242;333
 144;73;3247;333
@@ -10412,6 +10432,7 @@
 85;74;395;333
 86;74;952;0
 87;74;260;333
+87;74;2046;333;descriptionDe=Gasthaus 'Seeufer';descriptionEn=Inn 'Lakeshore'
 88;74;395;333
 90;74;260;333
 91;74;3274;0
@@ -10430,7 +10451,7 @@
 110;74;3248;333
 111;74;3244;333
 112;74;3244;333
-113;74;3224;333
+113;74;3224;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLockunlocked
 114;74;3244;333
 115;74;3244;333
 116;74;3244;333
@@ -10652,6 +10673,7 @@
 81;76;1782;333
 96;76;273;333
 106;76;1813;333
+114;76;2046;333;descriptionDe=Taverne 'Einhörniger Löwe';descriptionEn=Tavern 'Unicorn Lion'
 117;76;66;0;markerstone=324
 119;76;665;0
 119;76;321;0;depot=101
@@ -10921,6 +10943,7 @@
 364;78;627;333
 377;78;274;333
 381;78;1782;333
+389;78;3084;333;descriptionDe=Khesra;descriptionEn=Khesra
 396;78;1245;333
 396;78;232;333
 397;78;914;333
@@ -12375,7 +12398,7 @@
 86;90;1101;333
 94;90;216;333
 96;90;1102;333
-96;90;265;333
+96;90;265;333;descriptionDe=Das Bild zeigt stolze Ritter wie sie gewöhnliches Volk dabei beobachten wie diese am Ende einer Wüste, in der Nähe von Bergen einen Palast bauen. Einer der Krieger hat einen langen Bart und trägt eine Krone. Er hält auch einen rot-weißen Banner. Unten rechts steht ein Datum: 16 BS.;descriptionEn=The picture shows proud knights watching ordinary folk building a palace at the periphery of a desert close to a mountain. One of the knights has a long beard and wears a crown. He holds a red and white banner. At the bottom right is a date: 16 BS.
 99;90;1276;0
 100;90;274;333
 116;90;396;333
@@ -12680,7 +12703,7 @@
 124;92;320;0
 124;92;391;599
 127;92;8;0
-138;92;3225;333
+138;92;3225;333;descriptionDe=Wohnungsquartier - Glaube & Gehorsam;descriptionEn=Flat quarter - Faith & Obedience;lockId=321;doorLockunlocked
 142;92;742;333
 144;92;3247;333
 144;92;8;333
@@ -12795,8 +12818,8 @@
 87;93;1100;333
 88;93;1100;333
 89;93;1100;333
-90;93;1109;333
-91;93;1109;333
+90;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLockunlocked
+91;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLockunlocked
 92;93;1100;333
 93;93;1100;333
 94;93;1100;333
@@ -12950,6 +12973,7 @@
 87;94;295;333
 88;94;387;333
 89;94;263;333
+92;94;2046;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward
 93;94;263;333
 94;94;295;333
 95;94;386;333
@@ -12964,6 +12988,7 @@
 125;94;1360;0
 126;94;951;0
 127;94;3265;0
+136;94;2069;333;descriptionDe=Wohnungsquartier;descriptionEn=Flat quarter
 137;94;3244;333
 138;94;3223;333
 139;94;3244;333
@@ -13512,7 +13537,7 @@
 114;98;6;599
 121;98;273;333
 123;98;274;333
-137;98;3225;333
+137;98;3225;333;descriptionDe=Wohnungsquartier - Ehrlichkeit & Gerechtigkeit;descriptionEn=Flat quarter - Truth & Justice;lockId=323;doorLockunlocked
 144;98;3247;333
 145;98;287;333
 156;98;287;0
@@ -13662,6 +13687,7 @@
 114;99;819;599
 115;99;320;333
 115;99;2579;333
+126;99;2046;333;descriptionDe=Marktplatz;descriptionEn=Marketplace
 136;99;396;333
 137;99;3245;333
 144;99;3247;333
@@ -13778,7 +13804,7 @@
 67;100;1783;333
 82;100;338;0
 87;100;1783;333
-94;100;1110;333
+94;100;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLockunlocked
 99;100;3106;333
 100;100;1101;333
 101;100;319;333
@@ -13925,7 +13951,7 @@
 81;101;1170;0
 83;101;1783;0
 89;101;273;333
-94;101;1110;333
+94;101;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLockunlocked
 99;101;276;333
 100;101;1100;333
 100;101;1101;333
@@ -14049,6 +14075,7 @@
 81;102;338;0
 82;102;338;0
 93;102;260;333
+93;102;2069;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline
 94;102;1101;333
 100;102;36;333
 100;102;332;333
@@ -14184,7 +14211,7 @@
 116;103;220;333
 123;103;36;333
 123;103;397;599
-136;103;3225;333
+136;103;3225;333;descriptionDe=Wohnungsquartier - Patriarchat;descriptionEn=Flat quarter - Patriarchy;lockId=325;doorLockunlocked
 140;103;214;333
 141;103;214;333
 146;103;3247;333
@@ -14915,6 +14942,7 @@
 369;107;1782;333
 381;107;1782;333
 397;107;1273;333
+397;107;3084;333;descriptionDe=Schattenland! Gefahr!;descriptionEn=Shadowland! Danger!
 398;107;911;333
 400;107;1276;0
 401;107;596;333
@@ -15102,7 +15130,7 @@
 47;109;273;333
 51;109;1783;333
 76;109;338;0
-79;109;654;333
+79;109;654;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
 82;109;212;333
 83;109;212;333
 84;109;212;333
@@ -15242,7 +15270,7 @@
 76;110;1170;0
 77;110;1782;333
 77;110;1782;333
-79;110;658;333
+79;110;658;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
 82;110;320;333
 83;110;320;333
 84;110;320;333
@@ -15300,6 +15328,7 @@
 160;110;622;333
 161;110;628;333
 166;110;273;333
+167;110;3081;333;descriptionDe=Freiheitsbruch;descriptionEn=Liberty Quarry
 170;110;1782;333
 171;110;1783;333
 178;110;1176;0
@@ -15370,6 +15399,7 @@
 77;111;301;333
 78;111;301;333
 78;111;301;333
+78;111;2069;333;descriptionDe=Wachstube;descriptionEn=Guard room
 79;111;634;333
 82;111;214;333
 83;111;214;333
@@ -15414,7 +15444,7 @@
 110;111;1276;0
 115;111;273;333
 118;111;1783;333
-129;111;654;333
+129;111;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
 138;111;320;333
 140;111;267;333
 141;111;3245;333
@@ -15535,7 +15565,7 @@
 115;112;1783;333
 117;112;3262;333
 123;112;1783;0
-129;112;658;333
+129;112;658;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
 138;112;320;333
 140;112;956;333
 141;112;3245;333
@@ -16415,6 +16445,7 @@
 109;118;635;333
 113;118;1265;333
 129;118;634;333
+135;118;2069;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster's Store
 136;118;320;333
 136;118;2;333
 137;118;214;333
@@ -16531,7 +16562,7 @@
 104;119;634;333
 107;119;1782;333
 109;119;635;333
-128;119;695;333
+128;119;695;333;descriptionDe=Ein großer Krieger hält in einer Hand eine brennende Piratenflagge und in der anderen Hand eine entzündende Fackel. Sein von Asche geschwärztes Gesicht wirkt furchteinflößend und entschlossen.;descriptionEn=A tall warrior holds a burning pirate flag in one hand and a lit torch in the other hand. His face blackened by ash appears scary and determined.
 129;119;689;333
 129;119;634;333
 135;119;513;333
@@ -16542,7 +16573,7 @@
 137;119;1265;333
 138;119;633;333
 139;119;633;333
-139;119;2046;333
+139;119;2046;333;descriptionDe=Eselstall;descriptionEn=Donkey stable
 140;119;690;333
 140;119;633;333
 141;119;681;333
@@ -16694,7 +16725,7 @@
 110;120;632;333
 110;120;632;333
 111;120;689;333
-129;120;654;333
+129;120;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
 136;120;691;333
 141;120;690;333
 142;120;681;333
@@ -16837,11 +16868,11 @@
 107;121;690;333
 109;121;690;333
 111;121;682;333
-112;121;652;333
-113;121;656;333
+112;121;652;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
+113;121;656;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
 114;121;632;333
-115;121;652;333
-116;121;656;333
+115;121;652;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
+116;121;656;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
 117;121;632;333
 118;121;632;333
 119;121;632;333
@@ -16849,7 +16880,8 @@
 121;121;632;333
 121;121;632;333
 122;121;689;333
-129;121;658;333
+129;121;658;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
+137;121;3081;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
 142;121;635;333
 147;121;1783;333
 151;121;1810;333
@@ -16971,6 +17003,7 @@
 37;122;273;333
 37;122;1245;333
 41;122;2927;333
+42;122;3081;333;descriptionDe=Entfernte Wohnstätte, Piratenbucht;descriptionEn=Remote Dwelling, Pirate Cove
 43;122;612;333
 44;122;612;333
 45;122;1783;333
@@ -17004,7 +17037,7 @@
 121;122;1783;333
 121;122;915;333
 122;122;634;333
-128;122;695;333
+128;122;695;333;descriptionDe=Ein als Seefahrer aber immer noch nobel gekleideter Mann hält in einer Hand einen Anker und ein Fernglas in der anderen. Er steht stolz mit einem seiner Füße auf einem Bierfass, welches das Bild eines einhörnigen Löwen zeigt. ;descriptionEn=A mariner, but still nobly dressed man, holds an anchor and spyglass in his hands. He stands proudly with one foot on a beer barrel bearing the image of a single horned lion.
 129;122;689;333
 129;122;634;333
 142;122;635;333
@@ -17426,6 +17459,7 @@
 131;125;690;333
 131;125;1276;333
 132;125;690;333
+132;125;2046;333;descriptionDe=Sir Reginald Gruft;descriptionEn=Sir Reginald Tomb
 133;125;690;333
 133;125;520;333
 134;125;688;333
@@ -17704,6 +17738,7 @@
 74;127;1265;333
 76;127;386;333
 90;127;1246;333
+117;127;3084;333;descriptionDe=Sir Reginalds Gruft;descriptionEn=Sir Reginald's Tomb
 121;127;915;333
 126;127;912;333
 127;127;1783;333
@@ -17712,6 +17747,7 @@
 135;127;634;333
 142;127;635;333
 173;127;1783;333
+174;127;3081;333;descriptionDe=Freiheitsbruch, Grugmutzs Höhle, Bach Siedlung, Festung Hammerfall, Einsame Berge;descriptionEn=Liberty Quarry, Grugmutz's cave, Creek Settlement, Fortress Hammerfall, Lonly Mountains
 175;127;1783;333
 181;127;387;0
 182;127;387;0
@@ -17993,6 +18029,7 @@
 146;129;690;333
 150;129;1782;333
 168;129;1782;333
+174;129;3084;333;descriptionDe=Katanbi Desert, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, North, Runewick, Southeast
 180;129;915;333
 187;129;1783;333
 200;129;2052;333
@@ -18117,6 +18154,7 @@
 74;130;1276;333
 79;130;1783;333
 82;130;203;333
+87;130;3081;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
 103;130;910;333
 108;130;893;0
 118;130;893;0
@@ -18446,6 +18484,7 @@
 214;132;338;333
 218;132;338;333
 224;132;1782;333
+224;132;3081;333;descriptionDe=Pyramide der Zwietracht, Perle der Sirani, Neidbach, Königins Eck, Matter Gasthof, Berg Zotmore;descriptionEn=Pyramid of Discord, Pearl of Sirani, Envy Creek, Queen's Corner, Weary Inn, Mount Zotmore
 227;132;912;333
 228;132;1782;333
 228;132;1783;333
@@ -18540,6 +18579,7 @@
 36;133;1783;333
 38;133;233;333
 41;133;659;333
+47;133;3083;333;descriptionDe=Fabers Wache;descriptionEn=Faber's Guardhouse
 49;133;1783;333
 50;133;203;333
 74;133;387;333
@@ -18565,6 +18605,7 @@
 197;133;66;0;markerstone=344
 198;133;513;333
 199;133;401;333
+199;133;2046;333;descriptionDe=Milchhaus;descriptionEn=Milkhouse
 201;133;1783;333
 202;133;1783;333
 203;133;1783;333
@@ -18680,8 +18721,12 @@
 210;134;301;333
 211;134;301;333
 212;134;1810;333
+213;134;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
+218;134;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 219;134;1782;333
+219;134;3083;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
 224;134;274;333
+226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 233;134;1782;333
 243;134;1817;333
 244;134;386;333
@@ -19005,6 +19050,8 @@
 188;137;1783;333
 192;137;1782;333
 195;137;274;333
+213;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
+218;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 228;137;203;333
 229;137;273;333
 233;137;1782;333
@@ -20007,6 +20054,9 @@
 88;147;638;333
 96;147;1783;333
 98;147;203;333
+110;147;3083;333;descriptionDe=Kap des Abschieds, Fabers Wache, Entfernte Wohnstätte, Piratenbucht;descriptionEn=Cape Farewell, Faber's Guardhouse, Remote Dwelling, Pirate cove
+112;147;3082;333;descriptionDe=Grundstein der Aufrichtigkeit, Malachíntempel, Rosaline-Kubus, Cadomyr Hafen, Katanbi Delta;descriptionEn=Cornerstone of Candour, Temple of Malachín, Rosaline Cube, Cadomyr Harbour, Katanbi Delta
+114;147;3084;333;descriptionDe=Katanbi Desert, Freiheitsbruch, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Liberty Quarry, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, North, Runewick, Southeast
 120;147;203;333
 132;147;1782;333
 138;147;1782;333
@@ -20100,6 +20150,7 @@
 49;148;622;333
 50;148;628;333
 53;148;274;333
+81;148;3082;333;descriptionDe=Kap des Abschieds;descriptionEn=Cape Farewell
 91;148;1783;333
 96;148;203;333
 98;148;1783;333
@@ -21888,6 +21939,7 @@
 273;161;274;333
 280;161;1783;333
 282;161;274;333
+290;161;3081;333;descriptionDe=Königlicher Sklavenmarkt;descriptionEn=Royal Slave Market
 293;161;1782;333
 295;161;592;333
 298;161;1783;333
@@ -22408,6 +22460,7 @@
 248;165;634;0
 268;165;635;0
 287;165;274;333
+287;165;3084;333;descriptionDe=Wüstenloch, Sternenoase, Schattenland, Grenzberge;descriptionEn=Desert Hole, Oasis of Stars, Shadowland, Border Mountains
 288;165;1245;333
 289;165;1783;333
 290;165;1783;333
@@ -22589,6 +22642,7 @@
 423;166;66;0;markerstone=368
 426;166;1783;333
 427;166;1247;333
+427;166;3081;333;descriptionDe=Schattenland! Gefahr!;descriptionEn=Shadowland! Danger!
 429;166;1782;333
 430;166;914;333
 445;166;623;333
@@ -22677,11 +22731,13 @@
 257;167;28;333
 258;167;28;333
 259;167;690;333
+259;167;2046;333;descriptionDe=Blutkreisarena;descriptionEn=Blood Circle Arena
 260;167;690;333
 261;167;653;333
 262;167;657;333
 263;167;2877;333
 264;167;691;333
+264;167;2046;333;descriptionDe=Blutkreisarena;descriptionEn=Blood Circle Arena
 265;167;274;333
 266;167;402;333
 267;167;386;333
@@ -22812,6 +22868,7 @@
 289;168;301;333
 290;168;1783;333
 294;168;1246;333
+294;168;3082;333;descriptionDe=Wüstenloch;descriptionEn=Desert Hole
 298;168;274;333
 341;168;1817;333
 347;168;1782;333
@@ -23278,6 +23335,7 @@
 63;172;287;333
 63;172;287;333
 63;172;287;333
+68;172;3083;333;descriptionDe=Kap des Abschieds;descriptionEn=Cape Farewell
 75;172;1783;333
 76;172;1783;333
 81;172;2169;333
@@ -23491,8 +23549,10 @@
 241;173;1160;333
 242;173;1160;333
 243;173;433;333
+245;173;3083;333;descriptionDe=Westliche Katanbi Wüste, Cadomyr;descriptionEn=Western Katanbi Desert, Cadomyr
 248;173;359;333
-250;173;2069;333
+249;173;3081;333;descriptionDe=Blutkreisarena;descriptionEn=Blood Circle Arena
+250;173;2069;333;descriptionDe=Der Stander trägt das Wappen von Cadomyr;descriptionEn=The pennant bears the crest of Cadomyr
 251;173;433;333
 251;173;359;333
 252;173;1161;333
@@ -23612,6 +23672,7 @@
 216;174;3195;0
 219;174;396;0
 234;174;1161;333
+235;174;3082;333;descriptionDe=Für Ehre kämpfen wir, in Blut sterben wir! Die Königliche Akademie der Gladiatoren - Gefängnis, Katanbi Delta, Träne der Sirani, Berg Letma;descriptionEn=For honour we fight, in blood we die! The Royal Academy of Gladiators - Prison, Katanbi Delta, Tear of Sirani, Mount Letma
 238;174;3101;333
 243;174;433;333
 251;174;433;333
@@ -23646,8 +23707,10 @@
 351;174;630;333
 352;174;287;333
 353;174;287;333
+355;174;2046;333;descriptionDe=Sternenoase;descriptionEn=Oasis of Stars
 356;174;395;333
 359;174;395;333
+360;174;2046;333;descriptionDe=Sternenoase;descriptionEn=Oasis of Stars
 362;174;66;0;markerstone=362
 364;174;915;333
 371;174;203;333
@@ -23769,6 +23832,7 @@
 353;175;622;333
 354;175;628;333
 355;175;1246;333
+362;175;2069;333;descriptionDe=Sternenoase;descriptionEn=Oasis of Stars
 366;175;263;333
 369;175;260;333
 372;175;274;333
@@ -24022,6 +24086,7 @@
 348;177;2169;333
 350;177;274;333
 353;177;1247;333
+353;177;3084;333;descriptionDe=Schattenland, Grenzberge;descriptionEn=Shadowland, Border Mountains
 368;177;8;333
 372;177;1245;333
 383;177;1810;333
@@ -24105,8 +24170,9 @@
 234;178;3101;333
 239;178;886;333
 239;178;798;333
-250;178;2069;333
+250;178;2069;333;descriptionDe=Der Stander trägt das Wappen von Cadomyr;descriptionEn=The pennant bears the crest of Cadomyr
 252;178;1161;333
+253;178;3084;333;descriptionDe=Königlicher Sklavenmarkt, Wüstenloch, Sternenoase, Schattenland, Grenzberge;descriptionEn=Royal Slave Market, Desert Hole, Oasis of Stars, Shadowland, Border Mountains
 282;178;274;333
 296;178;1783;333
 301;178;1783;333
@@ -24229,6 +24295,7 @@
 232;179;1161;333
 243;179;521;333;descriptionEn=Because Efarel was the first to crack through the protecting shell of the egg Moshran considered her as the strongest, so he taught the dragon how to be a strong leader;descriptionDe=Da Efarel als Erste die schützende Hülle des Eis verlassen hatte erachtete Moshran sie als die Stärkste. So zog er sie zu einer starken Anführerin heran
 248;179;2069;333;descriptionDe=Das Banner trägt einen goldenen Adler auf einem goldenen Schwert auf rotem Grund;descriptionEn=The falg shows a golden eagle sitting on a golden sword on a red backing
+251;179;3082;333;descriptionDe=Kapelle der Fünf, Wachwald, Wichtkanal, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
 252;179;1161;333
 256;179;1810;333
 275;179;1782;0
@@ -24387,6 +24454,7 @@
 338;180;1782;333
 341;180;274;333
 343;180;273;333
+362;180;2069;333;descriptionDe=Sternenoase;descriptionEn=Oasis of Stars
 363;180;51;333
 364;180;51;333
 366;180;262;333
@@ -24739,6 +24807,7 @@
 104;183;622;333
 105;183;628;333
 107;183;1245;333
+107;183;2927;333;descriptionDe=Berg Siba;descriptionEn=Mount Siba
 108;183;233;333
 110;183;1783;333
 114;183;1783;333
@@ -24925,6 +24994,7 @@
 286;184;1783;333
 290;184;1810;333
 296;184;915;333
+296;184;2926;333;descriptionDe=Wüstenloch;descriptionEn=Desert Hole
 297;184;596;333
 298;184;287;333
 299;184;287;333
@@ -25338,6 +25408,7 @@
 119;187;627;333
 120;187;626;333
 121;187;878;333
+129;187;3084;333;descriptionDe=Grundstein der Aufrichtigkeit\; darüber Malachintempel;descriptionEn=Cornerstone of Candour\; Temple of Malachin is above
 132;187;910;333
 133;187;627;333
 134;187;629;333
@@ -25548,6 +25619,7 @@
 286;188;1783;333
 287;188;1783;333
 296;188;1783;333
+296;188;2926;333;descriptionDe=Wüstenloch;descriptionEn=Desert Hole
 297;188;596;333
 298;188;287;333
 299;188;287;333
@@ -25680,11 +25752,13 @@
 208;189;396;0
 209;189;214;0
 210;189;214;0
+210;189;2046;333;descriptionDe=Königliche Akademie der Gladiatoren;descriptionEn=Royal Academy of Gladiators
 211;189;214;0
 212;189;214;0
 213;189;214;0
 214;189;214;0
 215;189;214;0
+215;189;2046;333;descriptionDe=Königliche Akademie der Gladiatoren;descriptionEn=Royal Academy of Gladiators
 216;189;214;0
 231;189;1783;333
 232;189;627;333
@@ -27703,6 +27777,7 @@
 99;203;1251;333
 100;203;600;333
 115;203;1782;333
+115;203;3083;333;descriptionDe=Rosaline-Kubus, Königliche Gruft;descriptionEn=Rosaline Cube, Royal Tomb
 116;203;273;333
 121;203;1810;333
 122;203;1783;333
@@ -28603,6 +28678,7 @@
 232;209;622;333
 241;209;273;333
 250;209;338;333
+257;209;2924;333;descriptionDe=Druiden Träne;descriptionEn=Druid's Tear
 263;209;1783;333
 270;209;1276;333
 272;209;274;333
@@ -28967,6 +29043,7 @@
 148;212;387;333
 149;212;387;333
 150;212;301;333
+203;212;3082;333;descriptionDe=Katanbi Delta, Träne der Sirani, Berg Letma;descriptionEn=Katanbi Delta, Tear of Sirani, Mount Letma
 212;212;1783;333
 218;212;386;333
 219;212;623;333
@@ -29275,7 +29352,7 @@
 406;214;506;333
 407;214;466;333
 408;214;613;333
-410;214;519;333
+410;214;519;333;descriptionDe=Bald deines!;descriptionEn=Soon yours!
 411;214;1792;333
 414;214;274;333
 427;214;386;333
@@ -29367,7 +29444,7 @@
 384;215;2937;333
 388;215;1797;333
 389;215;1793;333
-389;215;2805;333
+389;215;2805;333;descriptionDe=Wer das liest stirbt gleich!;descriptionEn=Read this line and die!
 390;215;1176;0
 393;215;1245;333
 394;215;1783;333
@@ -29941,6 +30018,7 @@
 107;221;1208;333
 112;221;1782;333
 113;221;1195;333
+119;221;3084;333;descriptionDe=Händlers Unsinn;descriptionEn=Merchants' Folly
 120;221;1810;333
 121;221;722;333
 126;221;721;333
@@ -29988,7 +30066,7 @@
 395;221;1794;333
 396;221;1795;333
 398;221;338;333
-401;221;2805;333
+401;221;2805;333;descriptionDe=Was ist klein und stinkt? - Ein Zwerg. Was ist groß und stinkt? - Ein Elf. Was ist dumm und stinkt? - Ein Mensch.;descriptionEn=What is small and smells? - A Dwarf. What is tall and smells? - An Elf. What is dumb and smells? - A Human.
 402;221;1797;333
 408;221;338;333
 409;221;613;333
@@ -30107,7 +30185,7 @@
 405;222;2937;333
 407;222;274;333
 408;222;2052;333
-409;222;520;333
+409;222;520;333;descriptionDe=~Als du den Grabstein näher untersuchst vernimmst du einen schmerzerfüllten Schrei.~;descriptionEn=~You hear a painful cry when you investigate the tomb stone.~
 433;222;1783;333
 438;222;1782;333
 439;222;301;333
@@ -30140,6 +30218,7 @@
 498;222;622;333
 499;222;622;333
 500;222;628;333
+502;222;2927;333;descriptionDe=Achtung! Loch voll mit Raptoren!;descriptionEn=Attention! Hole full of raptors!
 509;222;912;333
 59;223;1783;333
 62;223;1782;333
@@ -30466,6 +30545,7 @@
 426;225;1782;333
 432;225;915;333
 435;225;338;333
+438;225;2926;333;descriptionDe=Achtung! Loch voll mit Raptoren!;descriptionEn=Attention! Hole full of raptors!
 439;225;627;333
 440;225;623;333
 441;225;287;333
@@ -30669,6 +30749,7 @@
 383;227;1783;333
 398;227;1783;333
 399;227;273;333
+400;227;3081;333;descriptionDe=Moshrans Brut - Bleibt fern!;descriptionEn=Moshran's Brood - Stay away!
 410;227;1810;333
 415;227;1782;333
 421;227;1810;333
@@ -30891,6 +30972,7 @@
 427;229;1783;333
 428;229;1783;333
 431;229;274;333
+438;229;2926;333;descriptionDe=Achtung! Loch voll mit Raptoren!;descriptionEn=Attention! Hole full of raptors!
 439;229;627;0
 443;229;287;333
 451;229;287;333
@@ -31085,7 +31167,9 @@
 385;231;274;333
 386;231;1782;333
 391;231;2927;333
-398;231;2927;333
+391;231;2046;333;descriptionDe=Dies ist das Hoheitsgebiet der Moshran's Brood.;descriptionEn=This is the sovereign territory of Moshran's Brood.
+393;231;2046;333;descriptionDe=Dies ist das Hoheitsgebiet der Moshran's Brood.;descriptionEn=This is the sovereign territory of Moshran's Brood.
+398;231;2927;333;descriptionDe=Lauf, so lange du noch Beine hast!;descriptionEn=Run, as long you still have your legs!
 399;231;274;333
 404;231;912;333
 410;231;1782;333
@@ -31714,6 +31798,7 @@
 115;238;1005;333
 116;238;14;333
 120;238;614;333
+121;238;3082;333;descriptionDe=Königlicher Hafen, Westliches Ufer des Katanbi Delta;descriptionEn=Royal Harbour, Western shore of Katanbi Delta
 124;238;1176;0
 128;238;2169;333
 129;238;2169;333
@@ -31953,9 +32038,11 @@
 347;240;1782;333
 347;240;1783;333
 357;240;2927;333
+357;240;2046;333;descriptionDe=Tritt ein, bring Geld herein! Lumpskrum wird es dir danken.;descriptionEn=Please enter and leave your coins! Lumpskrum will be grateful.
 359;240;1782;333
 360;240;66;0;markerstone=361
 361;240;2927;333
+361;240;2046;333;descriptionDe=Tritt ein, bring Geld herein! Lumpskrum wird es dir danken.;descriptionEn=Please enter and leave your coins! Lumpskrum will be grateful.
 362;240;1783;333
 373;240;1783;333
 379;240;273;333
@@ -32381,6 +32468,7 @@
 193;245;338;333
 195;245;1783;333
 200;245;1276;333
+200;245;3083;333;descriptionDe=Katanbi Delta, Träne der Sirani;descriptionEn=Katanbi Delta, Tear of Sirani
 214;245;1782;333
 220;245;1783;333
 224;245;273;0
@@ -32544,6 +32632,7 @@
 158;247;626;333
 159;247;1783;333
 164;247;1782;333
+169;247;2069;333;descriptionDe=Tempel der Sirani;descriptionEn=Temple of Sirani
 170;247;722;333
 171;247;396;333
 172;247;276;333
@@ -32552,6 +32641,7 @@
 174;247;276;333
 176;247;723;333
 176;247;464;333
+176;247;272;333;descriptionDe=Eine junge, sehr attraktive Frau tanzt in einem langen weißen Kleid. Ihr Haar scheint im umgebenden Licht.;descriptionEn=A young and very attractive woman dances in her long white dress. Her hair shines in the surrounding light.
 177;247;276;333
 178;247;301;333
 181;247;274;333
@@ -33124,6 +33214,7 @@
 130;252;1783;333
 162;252;273;333
 164;252;338;333
+169;252;2069;333;descriptionDe=Tempel der Sirani;descriptionEn=Temple of Sirani
 170;252;720;333
 171;252;396;333
 172;252;276;333
@@ -33132,6 +33223,7 @@
 174;252;276;333
 176;252;721;333
 176;252;464;333
+176;252;272;333;descriptionDe=Eine junge, sehr attraktive Frau scheint sehr aufgebracht zu sein als sie auf ein Pergamentstück mit dem Wort 'Zicke'.;descriptionEn=A young and very attractive woman seems to be very angry as she looks at parchment with the word 'bitch' written across it.
 177;252;276;333
 178;252;301;333
 183;252;274;333
@@ -33989,6 +34081,7 @@
 377;259;1251;333
 379;259;587;333
 389;259;1245;333
+389;259;3081;333;descriptionDe=Moshrans Brut - Bleibt fern!;descriptionEn=Moshran's Brood - Stay away!
 392;259;912;333
 394;259;585;333
 395;259;338;333
@@ -34131,6 +34224,7 @@
 100;261;432;333
 100;261;433;333
 100;261;1813;333
+100;261;2046;333;descriptionDe=Königlicher Hafen;descriptionEn=Royal Harbour
 101;261;396;333
 102;261;621;333
 103;261;615;333
@@ -34140,6 +34234,7 @@
 106;261;432;333
 106;261;433;333
 106;261;1813;333
+106;261;2046;333;descriptionDe=Königlicher Hafen;descriptionEn=Royal Harbour
 110;261;1783;333
 114;261;1812;333
 115;261;203;333
@@ -34283,6 +34378,7 @@
 177;262;1783;333
 180;262;912;333
 199;262;912;333
+208;262;3084;333;descriptionDe=Berg Letma;descriptionEn=Mount Letma
 216;262;1254;333
 218;262;1810;333
 223;262;623;333
@@ -36291,7 +36387,7 @@
 470;279;1783;0
 471;279;634;333
 476;279;635;333
-476;279;695;333
+476;279;695;333;descriptionDe=Die Statue entspricht einer ungeschmückten Schönheit. Sie wirkt ruhig, geduldig und etwas traurig.;descriptionEn=The statue portrays an unadorned beauty. She appears peaceful, patient and a little sad.
 483;279;273;333
 485;279;273;333
 486;279;274;333
@@ -36453,7 +36549,7 @@
 469;281;1783;333
 470;281;690;333
 470;281;688;333
-470;281;693;333
+470;281;693;333;descriptionDe=Die Statue entspricht einem dunkelhaarigen Ritter mit seiner Rüstung in Flammen stehen. Er wirkt stark, nobel und hübsch.;descriptionEn=The statue portrays a dark-haired knight with his armour on fire. He appears strong, noble and handsome.
 471;281;634;333
 476;281;688;333
 476;281;639;0
@@ -36534,6 +36630,7 @@
 476;282;396;0
 476;282;1265;0
 479;282;273;333
+481;282;3084;333;descriptionDe=Wachstützpunkt\; Leuchtturm\; Galmair\; Runewick;descriptionEn=Sentry Outpost\; Lighthouse\; Galmair\; Runewick
 485;282;273;333
 487;282;1783;333
 489;282;1783;333
@@ -36697,6 +36794,8 @@
 433;284;1817;333
 435;284;274;333
 438;284;1782;333
+461;284;3083;333;descriptionDe=Katanbi Wüste, Westliche Katanbi Wüste, Cadomyr;descriptionEn=Katanbi Desert, Western Katanbi Desert, Cadomyr
+463;284;3084;333;descriptionDe=Wachwald, Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Sentry Forest, Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Three Fingertips, Runewick, Southeast
 468;284;1783;333
 474;284;276;333
 474;284;276;333
@@ -36837,7 +36936,7 @@
 464;286;1810;333
 468;286;1783;333
 470;286;690;333
-470;286;693;333
+470;286;693;333;descriptionDe=Die Statue entspricht einer jungen, dunkelhäutigen Frau mit schwarzem Haar und einem schwarzen Kleid. Sie wirkt weise und ruhig.;descriptionEn=The statue portrays a young, dark-skinned woman with dark hair and wearing a dark dress. She appears wise and calm.
 471;286;634;333
 471;286;689;333
 471;286;276;333
@@ -36996,7 +37095,7 @@
 475;288;1360;333
 476;288;635;333
 476;288;395;333
-476;288;695;333
+476;288;695;333;descriptionDe=Die Statue entspricht einer zeitlosen und ruhigen Frau mit blondem Haar in einem hell-blauen Kleid, die als Tänzerin posiert.;descriptionEn=The statue portrays an ageless and peaceful woman with blond hair, dressed in a light blue dress and posing as a dancer.
 479;288;1783;333
 483;288;1783;333
 485;288;1783;333
@@ -38026,6 +38125,7 @@
 108;305;623;333
 109;305;287;333
 110;305;287;333
+112;305;2046;333;descriptionDe=Verlorener Hafen;descriptionEn=Lost Harbour
 113;305;627;333
 114;305;914;333
 118;305;623;333
@@ -38813,6 +38913,7 @@
 98;321;622;333
 99;321;628;333
 101;321;338;333
+104;321;3082;333;descriptionDe=Cadomyr Hafen;descriptionEn=Cadomyr Harbour
 105;321;615;333
 115;321;582;333
 118;321;1794;333

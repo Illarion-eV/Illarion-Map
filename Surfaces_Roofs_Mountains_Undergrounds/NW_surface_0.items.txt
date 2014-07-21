@@ -409,6 +409,8 @@
 482;34;1783;333
 483;34;1170;0
 475;35;1170;0
+475;35;3083;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
+482;35;3084;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 367;47;1170;0
 412;48;1170;0
 361;49;619;333
@@ -441,10 +443,12 @@
 367;50;619;333
 367;50;1783;333
 416;50;1783;333
+361;51;3083;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 363;51;615;333
 363;51;1783;333
 364;51;615;333
 364;51;1783;333
+367;51;3084;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 413;51;1782;333
 415;51;308;333
 418;51;273;333
@@ -682,7 +686,9 @@
 418;85;1783;333
 419;85;619;333
 419;85;1783;333
+412;86;3083;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 419;86;1170;0
+419;86;3084;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 453;87;1094;0
 454;89;1170;0
 457;89;1176;0
@@ -1205,6 +1211,7 @@
 444;109;513;333
 448;109;396;333
 448;109;42;333
+452;109;3081;333;descriptionDe=Nördliche Inseln;descriptionEn=Northern Islands
 453;109;396;333
 453;109;42;333
 456;109;1804;333
@@ -2575,6 +2582,7 @@
 436;138;1782;333
 438;138;1804;333
 442;138;273;333
+446;138;3081;333;descriptionDe=Hafen, Nördliche Inseln;descriptionEn=Harbour, Northern Islands
 447;138;1783;333
 457;138;1783;333
 461;138;1817;333
@@ -2615,6 +2623,7 @@
 438;139;1783;333
 439;139;1783;333
 440;139;1783;333
+440;139;3083;333;descriptionDe=Dunkellochmine;descriptionEn=Dark Hole Mine
 448;139;1782;333
 451;139;1783;333
 452;139;1782;333
@@ -3120,6 +3129,7 @@
 407;148;619;0
 408;148;620;0
 409;148;618;0
+409;148;3083;333;descriptionDe=Dunkellochmine;descriptionEn=Dark Hole Mine
 413;148;338;333
 414;148;233;333
 415;148;308;333
@@ -3681,8 +3691,8 @@
 390;159;853;0
 391;159;853;0
 391;159;402;0
-392;159;861;0;nameDe=Copperhand-Tunnel;nameEn=Copperhand-Tunnel
-393;159;861;0;nameDe=Copperhand-Tunnel;nameEn=Copperhand-Tunnel
+392;159;861;333;descriptionDe=Copperhand-Tunnel;descriptionEn=Copperhand-Tunnel;lockId=105;doorLockunlocked
+393;159;861;333;descriptionDe=Copperhand-Tunnel;descriptionEn=Copperhand-Tunnel;lockId=105;doorLockunlocked
 394;159;853;0
 395;159;872;0
 396;159;287;0
@@ -4962,6 +4972,7 @@
 494;189;1782;333
 496;189;1245;333
 497;189;1782;333
+499;189;3084;333;descriptionDe=Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 503;189;273;333
 508;189;338;333
 0;190;287;0
@@ -5061,6 +5072,7 @@
 484;191;1817;333
 488;191;1783;333
 493;191;1782;333
+496;191;3083;333;descriptionDe=Hafen, Dunkellochmine, Nördliche Inseln;descriptionEn=Harbour, Dark Hole Mine, Northern Islands
 497;191;274;333
 503;191;1783;333
 504;191;1804;333
@@ -5164,8 +5176,10 @@
 475;193;910;333
 480;193;274;333
 489;193;274;333
+496;193;694;333;descriptionDe=Eine Notiz an der Eisenstatue besagt: 'Beschützer der Schwarzbrücke'.;descriptionEn=A note on the iron figure says: 'Protector of the Blackbridge'.
 497;193;3149;333
 498;193;3151;333
+499;193;694;333;descriptionDe=Eine Notiz an der Eisenstatue besagt: 'Beschützer der Schwarzbrücke'.;descriptionEn=A note on the iron figure says 'Protector of the Blackbridge'.
 501;193;338;333
 502;193;338;333
 506;193;274;333
@@ -5653,7 +5667,7 @@
 338;207;622;333
 339;207;622;333
 339;207;418;333
-341;207;864;333
+341;207;864;333;descriptionDe=Goldträume, die Privatkammer des Dons;descriptionEn=Golden Dreams, the private chamber of the Don;lockId=100;doorLockunlocked
 344;207;1126;333
 350;207;320;333
 350;207;315;999
@@ -5697,8 +5711,10 @@
 430;208;287;0
 462;208;287;333
 485;208;338;333
+496;208;694;333;descriptionDe=Eine Notiz an der Eisenstatue besagt: 'Beschützer der Schwarzbrücke'.;descriptionEn=A note on the iron figure says: 'Protector of the Blackbridge'.
 497;208;3152;333
 498;208;3154;333
+499;208;694;333;descriptionDe=Eine Notiz an der Eisenstatue besagt: 'Beschützer der Schwarzbrücke'.;descriptionEn=A note on the iron figure says 'Protector of the Blackbridge'.
 501;208;1276;333
 508;208;273;333
 509;208;1782;333
@@ -5771,6 +5787,7 @@
 483;210;1782;333
 484;210;274;333
 485;210;1783;333
+500;210;3081;333;descriptionDe=Hafen, Dunkellochmine, Nördliche Inseln, Der Sumpf, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=Harbour, Dark Hole Mine, Northern Islands, The Swamp, Temple of the Five, Plains of Silence, Northern Woods, Insurmountable Limes, Pauldron Isle
 501;210;1782;333
 507;210;1782;333
 509;210;3101;333
@@ -5880,7 +5897,7 @@
 347;213;320;333
 347;213;292;999
 348;213;2878;333
-352;213;864;0
+352;213;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLockunlocked
 359;213;675;333
 359;213;693;333
 360;213;623;333
@@ -5905,6 +5922,7 @@
 480;213;913;333
 481;213;273;333
 489;213;1170;0
+503;213;3084;333;descriptionDe=Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 505;213;3101;333
 510;213;3097;333
 0;214;287;0
@@ -5928,7 +5946,7 @@
 347;214;320;333
 347;214;224;999
 348;214;2878;333
-352;214;864;0
+352;214;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLockunlocked
 359;214;675;333
 360;214;623;333
 361;214;287;333
@@ -5971,7 +5989,7 @@
 341;215;856;333
 346;215;2875;333
 347;215;2875;333
-352;215;864;0
+352;215;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLockunlocked
 358;215;287;333
 359;215;287;333
 360;215;287;333
@@ -6155,6 +6173,7 @@
 493;218;233;333
 493;218;301;333
 500;218;1782;333
+501;218;3082;333;descriptionDe=Galmair;descriptionEn=Galmair
 507;218;1804;333
 0;219;287;0
 324;219;287;333
@@ -6233,7 +6252,7 @@
 334;221;2876;333
 340;221;2878;333
 348;221;854;333
-355;221;864;333
+355;221;864;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLockunlocked
 358;221;955;0
 359;221;266;0
 361;221;266;0
@@ -6243,7 +6262,7 @@
 367;221;855;333
 368;221;855;333
 369;221;855;333
-370;221;863;333
+370;221;863;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLockunlocked
 371;221;855;333
 372;221;855;333
 373;221;855;333
@@ -6497,7 +6516,7 @@
 382;225;629;333
 388;225;856;0
 388;225;855;0
-389;225;863;0;nameDe=Gemmenschacht;nameEn=Cameo Pit
+389;225;863;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLockunlocked
 390;225;855;0
 391;225;870;0
 392;225;622;333
@@ -6816,7 +6835,7 @@
 509;228;301;333
 0;229;287;0
 323;229;287;333
-348;229;862;0
+348;229;862;333;descriptionDe=Guilianni Residenz;descriptionEn=Guilianni Residence;lockId=104;doorLockunlocked
 370;229;856;333
 374;229;212;333
 375;229;320;0
@@ -7041,7 +7060,7 @@
 363;232;855;333
 364;232;873;333
 369;232;42;333
-370;232;864;333
+370;232;864;333;descriptionDe=Wechselstube + Küche;descriptionEn=Exchange + Kitchen;lockId=104;doorLockunlocked
 376;232;964;0
 379;232;3179;333
 391;232;856;333
@@ -7374,7 +7393,7 @@
 360;236;320;333
 361;236;320;333
 362;236;215;333
-364;236;864;333
+364;236;864;333;descriptionDe=Konzil Kammer;descriptionEn=Council Chamber;lockId=104;doorLockunlocked
 369;236;1075;0
 370;236;856;333
 374;236;339;0
@@ -7911,7 +7930,7 @@
 382;241;287;333
 385;241;213;333
 386;241;320;333
-391;241;864;333
+391;241;864;333;descriptionDe=Wachstube;descriptionEn=Guardroom;lockId=104;doorLockunlocked
 394;241;403;333
 395;241;623;333
 395;241;1251;333
@@ -8284,11 +8303,11 @@
 365;244;3178;0
 365;244;891;0
 366;244;3178;333
-366;244;692;0
-367;244;3166;333
-368;244;3166;333
+366;244;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: 'Folge diesen sechs einfachen Regeln des Don, und du kannst tun und lassen was immer du möchtest. Nun tritt ein.';descriptionEn=The statue holds a golden plate with following engraving: 'Follow the simple rules of the Don and you can do whatever you like. Come in now.'
+367;244;3166;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
+368;244;3166;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
 369;244;3178;333
-369;244;692;0
+369;244;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: 'Folge diesen sechs einfachen Regeln des Don, und du kannst tun und lassen was immer du möchtest. Nun tritt ein.';descriptionEn=The statue holds a golden plate with following engraving: 'Follow the simple rules of the Don and you can do whatever you like. Come in now.'
 370;244;3178;333
 370;244;891;0
 371;244;3178;0
@@ -8529,7 +8548,7 @@
 384;246;869;333
 385;246;855;333
 386;246;855;333
-387;246;863;333
+387;246;863;333;descriptionDe=Schuldeneintreiber;descriptionEn=Debt-collector;lockId=104;doorLockunlocked
 388;246;855;333
 389;246;855;333
 390;246;859;333
@@ -8632,8 +8651,8 @@
 361;247;3176;-1
 362;247;3162;-1
 365;247;891;0
-366;247;692;0
-369;247;692;0
+366;247;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: '5. Eine Abmachung mit dem Don, ist eine mit deinem Schicksal.';descriptionEn=The statue holds a golden plate with following engraving: '5. A deal with the Don is a deal with your fate.'
+369;247;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: '6. Hast du Schaden angerichtet, so kompensiere ihn großzügig mit der zweifachen Menge des Schadens.';descriptionEn=The statue holds a golden plate with following engraving: '6. If you did harm, compensate generously, twice the damage.
 370;247;891;0
 373;247;933;0
 378;247;274;0
@@ -8650,7 +8669,7 @@
 391;247;869;333
 392;247;855;333
 393;247;859;333
-394;247;863;333
+394;247;863;333;descriptionDe=Wachstube;descriptionEn=Guardroom;lockId=104;doorLockunlocked
 395;247;870;333
 396;247;629;333
 396;247;875;333
@@ -8669,6 +8688,7 @@
 409;247;3172;333
 410;247;3172;333
 411;247;3172;333
+414;247;3081;333;descriptionDe=Eselstall;descriptionEn=Donkey stable
 415;247;3173;333
 416;247;3160;333
 417;247;3161;333
@@ -8777,6 +8797,7 @@
 383;248;3265;0
 384;248;915;333
 385;248;3265;0
+389;248;3081;333;descriptionDe=Schuldeneintreiber;descriptionEn=Debt-collector
 390;248;1783;333
 391;248;1782;333
 392;248;402;333
@@ -8797,7 +8818,9 @@
 407;248;42;333
 416;248;3179;333
 417;248;3177;333
+425;248;3083;333;descriptionDe=Galmair;descriptionEn=Galmair
 426;248;396;0
+427;248;3084;333;descriptionDe=Narguns Ebene, Hafen, Dunkellochmine, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Nargun's Plain, Harbour, Dark Hole Mine, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 431;248;387;333
 432;248;1817;333
 433;248;308;333
@@ -8820,6 +8843,10 @@
 466;248;1161;333
 470;248;3265;333
 470;248;1161;333
+473;248;3084;333;descriptionDe=Narguns Ebene, Hafen, Dunkellochmine, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Nargun's Plain, Harbour, Dark Hole Mine, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
+474;248;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says: 'Protector of the Copperbridge'.
+483;248;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says: 'Protector of the Copperbridge'.
+485;248;3083;333;descriptionDe=Galmair;descriptionEn=Galmair
 503;248;913;333
 506;248;14;333
 510;248;308;333
@@ -8889,7 +8916,9 @@
 372;249;898;0
 373;249;933;0
 379;249;1782;0
-416;249;3167;333
+392;249;3081;333;descriptionDe=Wachstube;descriptionEn=Guardroom
+398;249;3081;333;descriptionDe=Dunkle Gasse;descriptionEn=Dark Alley
+416;249;3167;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLockunlocked
 427;249;3265;333
 427;249;1161;333
 432;249;274;333
@@ -8971,12 +9000,12 @@
 358;250;587;333
 362;250;933;0
 365;250;891;0
-366;250;692;0
-369;250;692;0
+366;250;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: '3. Handle frei, bleibe und gehe wie es dir beliebt.';descriptionEn=The statue holds a golden plate with following engraving: '3. Trade freely, stay and depart as you wish.'
+369;250;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: '4. Komm zum Don wenn du Hilfe benötigst. Er ist dein Pate.';descriptionEn=The statue holds a golden plate with following engraving: '4. Come to the Don if you need help. He is your godfather.'
 370;250;891;0
 373;250;933;0
 406;250;1782;333
-416;250;3167;333
+416;250;3167;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLockunlocked
 433;250;914;333
 436;250;14;0
 444;250;915;333
@@ -9089,6 +9118,8 @@
 461;251;3265;333
 461;251;1161;333
 472;251;1782;333
+474;251;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says 'Protector of the Copperbridge'.
+483;251;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says 'Protector of the Copperbridge'.
 490;251;1804;333
 494;251;1782;333
 494;251;300;0
@@ -9130,7 +9161,7 @@
 339;252;869;333
 340;252;855;333
 341;252;855;333
-342;252;863;333
+342;252;863;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
 343;252;855;333
 344;252;855;333
 345;252;854;333
@@ -9181,6 +9212,7 @@
 418;252;3174;333
 419;252;1276;0
 420;252;1276;0
+427;252;3082;333;descriptionDe=Ackerland + Stinkende Fischer beim Malachit Bach;descriptionEn=Farmland + Stinky Fisherman at the Malachite Creek
 437;252;273;333
 445;252;627;333
 446;252;623;333
@@ -9261,8 +9293,8 @@
 362;253;933;0
 362;253;645;0
 365;253;891;0
-366;253;692;0
-369;253;692;0
+366;253;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: '1. Der Don beschützt dich wenn du die Gebühr bezahlst.';descriptionEn=The statue holds a golden plate with following engraving: '1. The Don protects you if you pay the fee.'
+369;253;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: '2. Zahl die Abgaben und die Zinsen, und kein Leid soll dir widerfahren.';descriptionEn=The statue holds a golden plate with following engraving: '2. Pay the toll, and the interest, and no harm will be done.'
 370;253;891;0
 373;253;933;0
 382;253;1783;333
@@ -9271,6 +9303,7 @@
 390;253;1783;333
 393;253;513;0
 394;253;513;0
+397;253;3083;333;descriptionDe=Galmairs Krone, Guilianni-Residenz, Markt, Werkstatt, Schlackengrube, Tempel des Irmorom, Villa 'Goldader', Quelle der Träume;descriptionEn=Galmair's Crest, Guilianni-Residence, Market, Workshop, Scoria Mine, Temple of Irmorom, Villa 'Goldvein', Well of Dreams
 398;253;1817;0
 399;253;1782;333
 405;253;1245;333
@@ -9307,6 +9340,7 @@
 427;253;3265;333
 427;253;1161;333
 428;253;273;0
+441;253;3081;333;descriptionDe=Waldeck;descriptionEn=Woodcorner
 445;253;629;333
 446;253;629;333
 447;253;622;333
@@ -9321,6 +9355,7 @@
 456;253;287;333
 459;253;233;333
 461;253;300;333
+464;253;3081;333;descriptionDe=Die Plattform;descriptionEn=The Platform
 470;253;3265;333
 470;253;1161;333
 479;253;338;333
@@ -9377,6 +9412,7 @@
 385;254;1782;0
 392;254;274;333
 397;254;1782;333
+398;254;3082;333;descriptionDe=Zensusbüro, Gasthof zum schläfrigen Bujhaar, Werkstatt, Tollloch, Schürfers Club, Malachitmine, Galmair Hochebene, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Census office, Sleepy Bujhaar Inn, Workshop, Sporthole, Miners Club, Malachite Mine, Galmair Plateau, Cadomyr, Katanbi Desert, Shadowland
 402;254;585;333
 404;254;1245;333
 405;254;1245;333
@@ -9470,8 +9506,8 @@
 364;255;942;0
 365;255;942;0
 366;255;942;0
-367;255;947;0
-368;255;949;0
+367;255;947;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
+368;255;949;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
 369;255;942;0
 369;255;646;0
 370;255;942;0
@@ -9873,6 +9909,7 @@
 335;259;54;333
 336;259;8;333
 337;259;301;333
+343;259;3081;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=The Winged Sow Tavern
 344;259;964;0
 345;259;3265;0
 346;259;513;0
@@ -9885,6 +9922,7 @@
 365;259;273;0
 368;259;396;0
 368;259;42;0
+369;259;3081;333;descriptionDe=Galmairs Krone (Guilianni-Residenz, Konzil Kammer, Goldträume, Schatzkammer und  Bibliothek), Arena;descriptionEn=Galmair's Crest (Guilianni-Residence, Council Chamber, Golden Dreams, Treasury, Library), Arena
 384;259;308;0
 386;259;273;0
 387;259;274;0
@@ -10120,6 +10158,7 @@
 283;262;625;0
 284;262;287;0
 300;262;287;333
+311;262;3081;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom
 314;262;626;333
 315;262;622;333
 316;262;622;333
@@ -10228,7 +10267,7 @@
 381;263;273;0
 391;263;1817;0
 396;263;1783;333
-401;263;864;0
+401;263;864;333;descriptionDe=Kräuterkammer;descriptionEn=Herbs room;lockId=104;doorLockunlocked
 406;263;214;0
 415;263;623;333
 416;263;287;333
@@ -10292,6 +10331,7 @@
 322;264;1782;333
 327;264;1783;333
 330;264;1782;333
+330;264;3081;333;descriptionDe=Schlackengrube;descriptionEn=Scoria Mine
 343;264;693;0
 347;264;693;0
 348;264;952;0
@@ -10717,6 +10757,7 @@
 339;268;1817;333
 343;268;693;0
 347;268;693;0
+351;268;3084;333;descriptionDe=Markt;descriptionEn=Market
 353;268;396;333
 353;268;42;333
 356;268;274;333
@@ -11189,7 +11230,7 @@
 365;272;236;0
 366;272;215;0
 369;272;649;0
-378;272;3315;0
+378;272;3315;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLockunlocked
 383;272;172;0
 387;272;2837;0
 388;272;872;0
@@ -11294,6 +11335,7 @@
 389;273;1276;0
 390;273;1273;0
 392;273;1817;0
+394;273;3084;333;descriptionDe=Zensusbüro;descriptionEn=Census office
 398;273;321;333;depot=103
 400;273;623;333
 401;273;287;333
@@ -11353,7 +11395,7 @@
 295;274;3307;333
 296;274;267;333
 298;274;267;333
-304;274;3315;333
+304;274;3315;333;descriptionDe=Villa Goldader;descriptionEn=Villa Goldvein;lockId=111;doorLockunlocked
 309;274;3305;333
 310;274;1276;0
 311;274;1276;0
@@ -11379,6 +11421,7 @@
 368;274;42;0
 369;274;8;0
 372;274;273;0
+376;274;3084;333;descriptionDe=Werkstatt;descriptionEn=Workshop
 377;274;273;0
 378;274;3307;0
 388;274;854;0
@@ -11796,6 +11839,7 @@
 360;279;1361;0
 367;279;273;0
 369;279;1361;0
+372;279;3083;333;descriptionDe=Markt;descriptionEn=Market
 378;279;3307;0
 382;279;320;0
 388;279;3309;0
@@ -11861,7 +11905,7 @@
 298;280;3310;333
 299;280;3302;333
 300;280;3306;333
-301;280;3314;333
+301;280;3314;333;descriptionDe=Villa Goldader;descriptionEn=Villa Goldvein;lockId=111;doorLockunlocked
 302;280;3302;333
 303;280;3306;333
 304;280;3302;333
@@ -12036,8 +12080,10 @@
 289;282;614;333
 290;282;614;333
 291;282;614;333
+296;282;3083;333;descriptionDe=Quelle der Träume;descriptionEn=Well of Dreams
 297;282;396;333
 297;282;42;333
+303;282;3081;333;descriptionDe=Villa 'Goldader';descriptionEn=Villa 'Goldvein'
 304;282;396;333
 304;282;42;333
 308;282;273;333
@@ -12245,7 +12291,7 @@
 380;284;3304;0
 381;284;3296;0
 382;284;3308;0
-383;284;3316;0
+383;284;3316;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLockunlocked
 384;284;3304;0
 385;284;3308;0
 385;284;402;0
@@ -12511,6 +12557,7 @@
 357;288;287;333
 358;288;287;333
 359;288;287;0
+376;288;589;333;descriptionDe=Dieser Säumling verbreitet nicht nur einen üblen Geruch, sondern ist auch mit Schleim überzogen, welcher von ihm heruntertropft.;descriptionEn=This seedling does not only bruits a bad smell but is also covered by slime, which drops down.
 381;288;396;0
 381;288;42;0
 389;288;396;0
@@ -12750,6 +12797,7 @@
 380;292;273;0
 384;292;586;0
 385;292;964;0
+398;292;3083;333;descriptionDe=Werkstatt;descriptionEn=Workshop
 405;292;1782;333
 407;292;396;333
 407;292;42;333
@@ -12803,6 +12851,7 @@
 396;293;1251;333
 398;293;396;333
 398;293;42;333
+401;293;3084;333;descriptionDe=Gasthof zum schläfrigen Bujhaar;descriptionEn=Sleepy Bujhaar Inn
 402;293;1782;333
 404;293;273;333
 408;293;3303;333
@@ -12872,7 +12921,7 @@
 389;295;396;0
 389;295;42;0
 397;295;273;333
-408;295;3315;333
+408;295;3315;333;descriptionDe=Gasthaus zum Schlafenden Bujhaar;descriptionEn=Sleepy Bujhaar Inn;lockId=104;doorLockunlocked
 420;295;3305;333
 421;295;287;333
 422;295;287;333
@@ -13002,7 +13051,7 @@
 407;298;42;333
 408;298;3307;333
 411;298;2875;333
-414;298;3315;333
+414;298;3315;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=112;doorLockunlocked
 418;298;742;333
 420;298;3305;333
 420;298;269;333
@@ -13382,6 +13431,7 @@
 385;305;1817;0
 394;305;396;333
 394;305;42;333
+398;305;3084;333;descriptionDe=Tollloch;descriptionEn=Sporthole
 399;305;274;333
 401;305;1245;333
 405;305;623;333
@@ -13582,7 +13632,7 @@
 392;308;1245;333
 406;308;525;333
 407;308;3099;333
-408;308;520;333
+408;308;520;333;descriptionDe=Folgende Zeilen sind mit roter Farbe geschrieben: '10 Peitschenschläge für den Don belügen; 100 Peitschenschläge für den Don betrügen; 1000 Peitschenschläge für den Don bestehlen!';descriptionEn=With red colour the following words are written: '10 whip lashes for lying to the Don; 100 whip lashes for betraying the Don; 1000 whip lashes for stealing from the Don!'
 409;308;3100;333
 410;308;3093;333
 410;308;158;0
@@ -14286,7 +14336,7 @@
 370;322;1100;0
 371;322;1100;0
 372;322;1100;0
-373;322;1109;0
+373;322;1109;333;descriptionDe=Malachite Haus;descriptionEn=House of Malachite;lockId=110;doorLockunlocked
 374;322;1100;0
 375;322;1100;0
 376;322;1100;0
@@ -15997,7 +16047,9 @@
 374;346;287;0
 374;346;630;0
 378;346;274;0
+386;346;3083;333;descriptionDe=Galmair Hochebene mit Fort Schnellbeil und Goldener Rumil;descriptionEn=Galmair Plateau with Fort Schnellbeil and Golden Rumil
 387;346;274;333
+387;346;3081;333;descriptionDe=Galmair;descriptionEn=Galmair
 390;346;1783;333
 395;346;1817;333
 399;346;1783;333
@@ -16140,6 +16192,7 @@
 373;347;623;0
 374;347;287;0
 385;347;273;0
+387;347;3084;333;descriptionDe=Schürfers Club, Schürfers Quelle, Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Miners' Club, Miner's Spring, Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
 395;347;1782;333
 398;347;274;333
 407;347;615;333
@@ -17495,6 +17548,8 @@
 403;357;42;333
 416;357;274;333
 417;357;1783;333
+417;357;3081;333;descriptionDe=Schürfers Club;descriptionEn=Miners' Club
+418;357;3084;333;descriptionDe=Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
 420;357;1782;333
 422;357;1783;333
 427;357;627;333
@@ -19430,6 +19485,7 @@
 412;371;1783;333
 415;371;1276;333
 418;371;914;333
+418;371;3082;333;descriptionDe=Cadomyr, Katanbi Wüste, Schattenland - Gefahr!;descriptionEn=Cadomyr, Katanbi Desert, Shadowland - Danger!
 419;371;2927;333
 421;371;158;0
 422;371;1276;333
@@ -20901,6 +20957,7 @@
 410;385;3097;333
 413;385;3099;333
 415;385;2937;333
+417;385;3081;333;descriptionDe=Galmair;descriptionEn=Galmair
 418;385;3101;333
 419;385;1251;333
 420;385;1246;333
@@ -26241,6 +26298,7 @@
 227;425;274;333
 228;425;1797;333
 235;425;1782;333
+235;425;3083;333;descriptionDe=Festung Hammerfall;descriptionEn=Fortress Hammerfall
 236;425;914;333
 236;425;629;333
 237;425;630;333
@@ -26624,6 +26682,7 @@
 230;428;1812;333
 239;428;273;333
 241;428;232;333
+241;428;3084;333;descriptionDe=Hammerfall Mine;descriptionEn=Mine of Hammerfall
 247;428;1810;333
 249;428;1783;333
 250;428;1782;333
@@ -26851,10 +26910,12 @@
 185;430;287;333
 191;430;274;333
 192;430;1251;333
+193;430;3081;333;descriptionDe=Festung Hammerfall;descriptionEn=Fortress Hammerfall
 194;430;1783;333
 206;430;1257;333
 208;430;1246;333
 209;430;274;333
+210;430;3083;333;descriptionDe=Festung Hammerfall;descriptionEn=Fortress Hammerfall
 212;430;913;333
 216;430;273;333
 224;430;203;333
@@ -28398,8 +28459,10 @@
 207;444;301;333
 208;444;301;333
 209;444;301;333
+211;444;2046;333;descriptionDe=Hammerfall - Herrschaft des Dwyn Axtblatt;descriptionEn=Hammerfall - Reign of Dwyn Axtblatt
 212;444;616;0
 213;444;616;0
+214;444;2046;333;descriptionDe=Hammerfall - Herrschaft des Dwyn Axtblatt;descriptionEn=Hammerfall - Reign of Dwyn Axtblatt
 215;444;338;333
 218;444;1170;0
 222;444;623;333
@@ -28409,9 +28472,11 @@
 226;444;287;333
 229;444;233;333
 233;444;66;0;markerstone=139
+234;444;2046;333;descriptionDe=Hammerfall - Herrschaft des Dwyn Axtblatt;descriptionEn=Hammerfall - Reign of Dwyn Axtblatt
 235;444;612;333
 236;444;612;333
 237;444;612;333
+238;444;2046;333;descriptionDe=Hammerfall - Herrschaft des Dwyn Axtblatt;descriptionEn=Hammerfall - Reign of Dwyn Axtblatt
 250;444;2169;333
 255;444;1812;333
 274;444;629;333
@@ -30202,6 +30267,7 @@
 169;460;3101;333
 170;460;914;333
 172;460;915;333
+172;460;2046;333;descriptionDe=Nördliche Bach Siedlung - auch verloren;descriptionEn=Northern Creek Settlement - lost too
 174;460;274;333
 177;460;338;333
 179;460;1176;0
@@ -30381,14 +30447,14 @@
 192;462;1195;333
 195;462;274;333
 197;462;274;333
-200;462;2924;333
+200;462;2924;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 204;462;1783;333
-205;462;2924;333
+205;462;2924;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 207;462;1272;333
 208;462;273;333
-210;462;2924;333
+210;462;2924;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 212;462;274;333
-214;462;2924;333
+214;462;2924;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 216;462;1265;333
 217;462;203;333
 221;462;274;333
@@ -30486,7 +30552,7 @@
 175;463;274;333
 176;463;386;333
 185;463;913;333
-196;463;2926;333
+196;463;2926;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 199;463;1782;333
 202;463;614;333
 203;463;614;333
@@ -30947,7 +31013,7 @@
 185;467;301;333
 186;467;1783;333
 190;467;1246;333
-196;467;2926;333
+196;467;2926;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 201;467;621;333
 202;467;620;333
 203;467;620;333
@@ -31068,7 +31134,7 @@
 187;468;338;333
 194;468;1783;333
 199;468;1265;333
-201;468;2927;333
+201;468;2927;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 202;468;617;333
 203;468;617;333
 204;468;617;333
@@ -31405,6 +31471,7 @@
 175;471;338;333
 185;471;1176;0
 190;471;914;333
+196;471;2926;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 197;471;274;333
 201;471;621;333
 202;471;616;333
@@ -31444,7 +31511,7 @@
 326;471;3101;333
 327;471;583;333
 329;471;585;333
-331;471;519;333
+331;471;519;333;descriptionDe=Zumbrass;descriptionEn=Zumbrass
 332;471;301;333
 333;471;301;333
 347;471;1795;333
@@ -31726,14 +31793,14 @@
 263;474;506;333
 264;474;36;333
 277;474;1782;333
-279;474;2926;333
 279;474;1783;333
+279;474;2926;333;descriptionDe=Matter Gasthof;descriptionEn=Weary Inn
 280;474;702;333
 284;474;1783;333
 287;474;1783;333
 288;474;703;333
 288;474;1245;333
-290;474;2925;333
+290;474;2925;333;descriptionDe=Matter Gasthof;descriptionEn=Weary Inn
 295;474;1783;333
 314;474;274;333
 316;474;1783;333
@@ -31791,7 +31858,7 @@
 174;475;301;333
 188;475;1247;333
 192;475;1782;333
-196;475;2926;333
+196;475;2926;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 197;475;274;333
 200;475;913;333
 201;475;621;333
@@ -32186,7 +32253,7 @@
 178;479;541;333
 179;479;565;333
 191;479;387;333
-196;479;2926;333
+196;479;2926;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 197;479;274;333
 198;479;1247;333
 201;479;621;333
@@ -32583,8 +32650,8 @@
 181;483;301;333
 183;483;580;333
 195;483;274;333
-196;483;2926;333
-201;483;2927;333
+196;483;2926;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
+201;483;2927;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 202;483;617;333
 203;483;617;333
 204;483;617;333
@@ -33074,12 +33141,12 @@
 193;487;338;333
 194;487;1782;333
 195;487;274;333
-196;487;2927;333
+196;487;2927;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 197;487;274;333
 199;487;1265;333
-200;487;2927;333
+200;487;2927;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 202;487;2170;333
-204;487;2927;333
+204;487;2927;333;descriptionDe=Seeräuber Lauer - Richte schon mal deine Münzen!, ;descriptionEn=Buccaneer Lurk - Prepare your coins!
 210;487;912;333
 211;487;274;333
 216;487;1812;333
@@ -33212,7 +33279,7 @@
 251;488;1246;333
 253;488;274;333
 260;488;914;333
-262;488;2926;333
+262;488;2926;333;descriptionDe=Matter Gasthof;descriptionEn=Weary Inn
 263;488;1783;333
 268;488;2586;333
 269;488;721;333
@@ -33351,7 +33418,7 @@
 276;489;1794;333
 281;489;301;333
 282;489;301;333
-285;489;2927;333
+285;489;2927;333;descriptionDe=Matter Gasthof;descriptionEn=Weary Inn
 289;489;629;333
 290;489;1783;333
 290;489;628;333
@@ -33959,11 +34026,11 @@
 347;495;467;333
 348;495;467;333
 349;495;287;333
-357;495;2805;333
+357;495;2805;333;descriptionDe=Auf der Säule steht mit großen Buchstaben geschrieben:'Mount Zotmore'.;descriptionEn='Mount Zotmore' is written with big letters on the column.
 359;495;274;333
 360;495;1251;333
 361;495;1793;333
-361;495;2805;333
+361;495;2805;333;descriptionDe=Auf der Säule steht mit großen Buchstaben geschrieben:'Mount Zotmore'.;descriptionEn='Mount Zotmore' is written with big letters on the column.
 362;495;301;333
 363;495;1254;333
 366;495;274;333
@@ -34184,8 +34251,8 @@
 357;497;1797;333
 360;497;1783;333
 362;497;2937;333
-365;497;2926;333
-366;497;2805;333
+365;497;2926;333;descriptionDe=Sei vorsichtig, hier könnte ein Zot zufinden sein.;descriptionEn=Be careful, there could be a Zot around.
+366;497;2805;333;descriptionDe=Auf der Säule steht mit großen Buchstaben geschrieben:'Mount Zotmore'.;descriptionEn='Mount Zotmore' is written with big letters on the column.
 367;497;301;333
 375;497;273;333
 386;497;629;333
@@ -34496,7 +34563,7 @@
 362;500;1783;333
 363;500;1796;333
 366;500;1796;333
-366;500;519;333
+366;500;519;333;descriptionDe=Hier ruht Zots Freizeit!;descriptionEn=Zot's spare time rests here!
 367;500;1276;333
 372;500;1782;333
 376;500;1783;333
@@ -34614,7 +34681,7 @@
 363;501;1796;333
 363;501;36;333
 365;501;1783;333
-366;501;2805;333
+366;501;2805;333;descriptionDe=Auf der Säule steht mit großen Buchstaben geschrieben:'Mount Zotmore'.;descriptionEn='Mount Zotmore' is written with big letters on the column.
 367;501;232;333
 378;501;1251;333
 381;501;274;333
@@ -34818,7 +34885,7 @@
 342;503;287;333
 343;503;622;333
 344;503;628;333
-348;503;520;333
+348;503;520;333;descriptionDe=Zu Ehren jenen die Zots Opfer wurden.;descriptionEn=To honour Zot's victims.
 350;503;3095;333
 350;503;3095;333
 351;503;1245;333
@@ -35110,7 +35177,7 @@
 341;506;628;333
 343;506;1783;333
 355;506;1783;333
-359;506;2927;333
+359;506;2927;333;descriptionDe=Sei vorsichtig, hier könnte ein Zot zufinden sein.;descriptionEn=Be careful, there could be a Zot around.
 361;506;1782;333
 365;506;273;333
 382;506;1783;333
@@ -35719,6 +35786,7 @@
 189;511;2805;333
 191;511;1247;333
 194;511;3095;333
+194;511;2046;333;descriptionDe=Südliche Bach Siedlung - verloren;descriptionEn=Southern Creek Settlement - lost
 195;511;2805;333
 198;511;1245;333
 199;511;338;333

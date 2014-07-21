@@ -222,8 +222,8 @@
 19;5;634;333
 19;6;634;333
 19;7;634;333
-19;8;654;333
-19;9;658;333
+19;8;654;333;descriptionDe=Haus der Götter;descriptionEn=House of Gods;doorLockunlocked
+19;9;658;333;descriptionDe=Haus der Götter;descriptionEn=House of Gods;doorLockunlocked
 19;10;634;333
 19;11;634;333
 19;12;634;333

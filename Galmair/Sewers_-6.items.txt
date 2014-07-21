@@ -1669,8 +1669,8 @@
 153;50;3204;333
 154;50;3204;333
 155;50;3204;0
-156;50;3200;333
-157;50;3200;0
+156;50;3200;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
+157;50;3200;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
 158;50;3204;333
 159;50;1100;333
 160;50;3207;333
@@ -1703,7 +1703,7 @@
 101;51;3205;0
 101;51;3204;0
 102;51;3332;0
-107;51;3283;0
+107;51;3283;333;descriptionDe=Arena-Schweinebaue;descriptionEn=Arena-Hog Dens;lockId=103;doorLockunlocked
 111;51;422;0
 114;51;422;0
 121;51;627;0
@@ -1755,7 +1755,7 @@
 100;52;287;333
 101;52;287;333
 102;52;3205;0
-107;52;3283;0
+107;52;3283;333;descriptionDe=Arena-Schweinebaue;descriptionEn=Arena-Hog Dens;lockId=103;doorLockunlocked
 118;52;422;0
 123;52;3207;0
 124;52;287;333
@@ -2337,8 +2337,8 @@
 131;63;3206;333
 131;63;3205;333
 132;63;3206;333
-133;63;3282;333
-134;63;3282;333
+133;63;3282;333;descriptionDe=Schweinebaue-Arena;descriptionEn=Hog Dens-Arena;lockId=103;doorLockunlocked
+134;63;3282;333;descriptionDe=Schweinebaue-Arena;descriptionEn=Hog Dens-Arena;lockId=103;doorLockunlocked
 135;63;3206;333
 135;63;425;333
 135;63;412;333
@@ -2436,11 +2436,11 @@
 154;64;3206;333
 154;64;628;333
 155;64;3206;333
-155;64;2805;333
+155;64;2805;333;descriptionDe=1. Der Don beschützt dich wenn du die Gebühr bezahlst.;descriptionEn=1. The Don protects you if you pay the fee.
 156;64;3206;333
-156;64;692;333
+156;64;692;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 157;64;3206;333
-157;64;2805;333
+157;64;2805;333;descriptionDe=1. Der Don beschützt dich wenn du die Gebühr bezahlst.;descriptionEn=1. The Don protects you if you pay the fee.
 158;64;3207;333
 158;64;3206;333
 158;64;3196;333
@@ -2508,7 +2508,7 @@
 143;65;981;333
 144;65;976;333
 145;65;426;333
-152;65;3201;333
+152;65;3201;333;descriptionDe=Schweinebaue-Gemmenschacht;descriptionEn=Hog Dens-Cameo Pit;lockId=103;doorLockunlocked
 155;65;402;333
 155;65;42;333
 157;65;402;333
@@ -2518,11 +2518,11 @@
 159;65;3093;333
 159;65;3093;333
 160;65;3206;333
-160;65;2805;333
+160;65;2805;333;descriptionDe=2. Zahl die Abgaben und die Zinsen, und kein Leid soll dir widerfahren.;descriptionEn=2. Pay the toll, and the interest, and no harm will be done.
 161;65;3206;333
-161;65;692;333
+161;65;692;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 162;65;3206;333
-162;65;2805;333
+162;65;2805;333;descriptionDe=2. Zahl die Abgaben und die Zinsen, und kein Leid soll dir widerfahren.;descriptionEn=2. Pay the toll, and the interest, and no harm will be done.
 163;65;3094;333
 164;65;3207;333
 164;65;220;333
@@ -2600,7 +2600,7 @@
 144;66;977;333
 144;66;979;333
 150;66;1783;333
-152;66;3201;333
+152;66;3201;333;descriptionDe=Schweinebaue-Gemmenschacht;descriptionEn=Hog Dens-Cameo Pit;lockId=103;doorLockunlocked
 160;66;402;333
 160;66;42;333
 162;66;402;333
@@ -2780,7 +2780,7 @@
 164;68;42;333
 165;68;3207;333
 165;68;3207;333
-165;68;2805;333
+165;68;2805;333;descriptionDe=3. Handle frei, bleibe und gehe wie es dir beliebt.;descriptionEn=3. Trade freely, stay and depart as you wish.
 166;68;287;333
 169;68;287;333
 170;68;3205;333
@@ -2872,7 +2872,7 @@
 159;69;3332;333
 165;69;3207;333
 165;69;3207;333
-165;69;693;333
+165;69;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 166;69;287;333
 167;69;287;333
 169;69;287;333
@@ -2965,7 +2965,7 @@
 164;70;42;333
 165;70;3207;333
 165;70;3207;333
-165;70;2805;333
+165;70;2805;333;descriptionDe=3. Handle frei, bleibe und gehe wie es dir beliebt.;descriptionEn=3. Trade freely, stay and depart as you wish.
 166;70;287;333
 167;70;287;333
 168;70;287;333
@@ -3296,7 +3296,7 @@
 184;74;3208;333
 185;74;3204;333
 186;74;3204;333
-187;74;3200;333
+187;74;3200;333;descriptionDe=Wohnung Irmorom;descriptionEn=Flat Irmorom;lockId=120;doorLockunlocked
 188;74;3204;333
 189;74;3204;333
 190;74;3204;333
@@ -3562,8 +3562,8 @@
 161;77;220;333
 162;77;3206;333
 162;77;1783;333
-163;77;3282;333
-164;77;3282;333
+163;77;3282;333;descriptionDe=Gemmenschacht-Schweinebaue;descriptionEn=Cameo Pit-Hog Dens;lockId=103;doorLockunlocked
+164;77;3282;333;descriptionDe=Gemmenschacht-Schweinebaue;descriptionEn=Cameo Pit-Hog Dens;lockId=103;doorLockunlocked
 165;77;3206;333
 166;77;3206;333
 166;77;3095;333
@@ -3719,7 +3719,7 @@
 181;79;1783;333
 188;79;1272;333
 189;79;1247;333
-196;79;3283;333
+196;79;3283;333;descriptionDe=Wohnung Elara;descriptionEn=Flat Elara;lockId=121;doorLockunlocked
 206;79;742;333
 208;79;287;333
 208;79;3205;333
@@ -4548,7 +4548,7 @@
 179;88;287;333
 180;88;3205;333
 188;88;3207;333
-195;88;3283;333
+195;88;3283;333;descriptionDe=Wohnung Adron;descriptionEn=Flat Adron;lockId=122;doorLockunlocked
 204;88;3330;333
 204;88;276;333
 205;88;287;333
@@ -5458,21 +5458,23 @@
 104;95;976;0
 104;95;3206;0
 105;95;976;333
-105;95;3282;333
+105;95;3282;333;descriptionDe=Arena;descriptionEn=Arena;lockId=103;doorLockunlocked
 106;95;976;333
-106;95;3282;333
+106;95;3282;333;descriptionDe=Arena;descriptionEn=Arena;lockId=103;doorLockunlocked
 107;95;3206;333
 107;95;976;333
+107;95;3081;333;descriptionDe=Arena;descriptionEn=Arena
 108;95;3206;333
 108;95;976;333
 109;95;976;0
 109;95;3206;0
+109;95;3084;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens
 110;95;3206;333
 110;95;976;333
 111;95;3206;333
 111;95;976;333
 112;95;976;333
-113;95;3201;333
+113;95;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
 116;95;1100;333
 116;95;3332;333
 117;95;1100;333
@@ -5591,7 +5593,7 @@
 110;96;976;333
 111;96;976;333
 112;96;976;333
-113;96;3201;0
+113;96;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
 115;96;3331;333
 115;96;3331;333
 116;96;287;333
@@ -5626,7 +5628,7 @@
 184;96;1100;333
 185;96;3204;333
 186;96;3204;333
-187;96;3200;333
+187;96;3200;333;descriptionDe=Wohnung Oldra;descriptionEn=Flat Oldra;lockId=124;doorLockunlocked
 188;96;1100;333
 188;96;3207;333
 188;96;3204;333
@@ -5890,8 +5892,8 @@
 150;98;1100;333
 151;98;3204;333
 152;98;3204;333
-153;98;3200;333
-154;98;3200;333
+153;98;3200;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLockunlocked
+154;98;3200;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLockunlocked
 155;98;3204;333
 156;98;3207;333
 156;98;3204;333
@@ -5901,7 +5903,7 @@
 160;98;287;333
 184;98;287;333
 185;98;3205;333
-194;98;3283;333
+194;98;3283;333;descriptionDe=Wohnung Malachin;descriptionEn=Flat Malachin;lockId=123;doorLockunlocked
 200;98;214;333
 201;98;214;333
 205;98;3204;0
@@ -6076,6 +6078,7 @@
 103;100;976;333
 109;100;976;333
 109;100;976;333
+109;100;3084;333;descriptionDe=Gemmenschacht;descriptionEn=Cameo Pit
 110;100;976;333
 110;100;976;333
 111;100;976;333
@@ -6185,7 +6188,7 @@
 112;101;976;333
 113;101;976;333
 114;101;976;0
-115;101;3201;333
+115;101;3201;333;descriptionDe=Gemmenschacht;descriptionEn=Cameo Pit;lockId=103;doorLockunlocked
 119;101;1783;333
 125;101;1783;333
 139;101;3331;333
@@ -6284,7 +6287,7 @@
 112;102;976;333
 113;102;976;333
 114;102;976;0
-115;102;3201;333
+115;102;3201;333;descriptionDe=Gemmenschacht;descriptionEn=Cameo Pit;lockId=103;doorLockunlocked
 134;102;3331;333
 135;102;1100;333
 136;102;1100;333
@@ -6416,7 +6419,7 @@
 150;103;3205;333
 157;103;404;333
 158;103;3207;333
-158;103;2805;333
+158;103;2805;333;descriptionDe=4. Komm zum Don wenn du Hilfe benötigst. Er ist dein Pate.;descriptionEn=4. Come to the Don if you need help. He is your godfather.
 159;103;287;333
 159;103;287;333
 185;103;287;333
@@ -6546,7 +6549,7 @@
 150;104;3329;333
 157;104;42;333
 158;104;3207;333
-158;104;693;333
+158;104;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 159;104;287;333
 187;104;287;333
 188;104;287;333
@@ -6632,17 +6635,20 @@
 100;105;976;333
 101;105;976;333
 102;105;976;333
+102;105;3083;333;descriptionDe=Schimmersenke mit dem Spielraum und dem Tempel des Nargun.;descriptionEn=Flicker Swale with Game Room and the Temple of Nargun
 103;105;976;333
 103;105;692;333
 104;105;976;333
+104;105;3082;333;descriptionDe=Abwasserschächte;descriptionEn=Sewers
 105;105;976;333
 106;105;976;333
 107;105;976;333
 108;105;976;333
-108;105;3082;333
+108;105;3082;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=The Winged Sow Tavern
 109;105;976;333
 109;105;692;333
 110;105;976;333
+110;105;3084;333;descriptionDe=Ronagans Tempel - Achtung, überflutet!;descriptionEn=Temple of Ronagan - Attention, flooded!
 111;105;976;333
 112;105;976;333
 113;105;976;333
@@ -6668,7 +6674,7 @@
 149;105;3205;333
 157;105;404;333
 158;105;3207;333
-158;105;2805;333
+158;105;2805;333;descriptionDe=4. Komm zum Don wenn du Hilfe benötigst. Er ist dein Pate.;descriptionEn=4. Come to the Don if you need help. He is your godfather.
 159;105;287;333
 190;105;287;333
 191;105;287;333
@@ -6835,7 +6841,7 @@
 112;107;976;0
 113;107;976;0
 114;107;976;0
-114;107;3283;0
+114;107;3283;333;descriptionDe=Tempel des Ronagan;descriptionEn=Temple of Ronagan;lockId=103;doorLockunlocked
 118;107;220;333
 118;107;394;333
 118;107;42;333
@@ -6913,7 +6919,7 @@
 95;108;287;333
 96;108;3206;333
 96;108;3205;333
-98;108;3283;333
+98;108;3283;333;descriptionDe=Schimmersenke;descriptionEn=Flicker Swale;lockId=103;doorLockunlocked
 100;108;976;0
 101;108;976;0
 102;108;976;0
@@ -6929,7 +6935,7 @@
 112;108;976;0
 113;108;976;0
 114;108;976;0
-114;108;3283;0
+114;108;3283;333;descriptionDe=Tempel des Ronagan;descriptionEn=Temple of Ronagan;lockId=103;doorLockunlocked
 117;108;1783;333
 121;108;3330;333
 122;108;3206;333
@@ -7016,7 +7022,7 @@
 95;109;914;333
 96;109;3329;333
 96;109;411;333
-98;109;3283;333
+98;109;3283;333;descriptionDe=Schimmersenke;descriptionEn=Flicker Swale;lockId=103;doorLockunlocked
 100;109;976;0
 101;109;976;0
 102;109;976;0
@@ -7133,14 +7139,14 @@
 100;110;976;0
 101;110;3204;0
 102;110;3204;0
-103;110;3200;0
-104;110;3200;0
+103;110;3200;333;descriptionDe=Abwasserschächte;descriptionEn=Sewers;lockId=103;doorLockunlocked
+104;110;3200;333;descriptionDe=Abwasserschächte;descriptionEn=Sewers;lockId=103;doorLockunlocked
 105;110;3204;0
 106;110;3204;0
 107;110;3204;0
 108;110;3204;0
-109;110;3200;0
-110;110;3200;0
+109;110;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
+110;110;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
 111;110;3174;0
 112;110;976;0
 112;110;42;0
@@ -7292,7 +7298,7 @@
 155;111;404;333
 155;111;42;333
 156;111;3207;333
-156;111;2805;333
+156;111;2805;333;descriptionDe=5. Eine Abmachung mit dem Don, ist eine mit deinem Schicksal.;descriptionEn=5. A deal with the Don is a deal with your fate.
 157;111;287;333
 40;112;287;333
 41;112;287;333
@@ -7381,7 +7387,7 @@
 150;112;3205;333
 151;112;3332;333
 156;112;3207;333
-156;112;693;333
+156;112;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 157;112;287;333
 38;113;287;333
 39;113;287;333
@@ -7476,7 +7482,7 @@
 155;113;404;333
 155;113;42;333
 156;113;3207;333
-156;113;2805;333
+156;113;2805;333;descriptionDe=5. Eine Abmachung mit dem Don, ist eine mit deinem Schicksal.;descriptionEn=5. A deal with the Don is a deal with your fate.
 157;113;287;333
 157;113;287;333
 160;113;287;333
@@ -8028,8 +8034,8 @@
 151;117;3206;333
 152;117;3206;333
 152;117;423;333
-153;117;3282;333
-154;117;3282;333
+153;117;3282;333;descriptionDe=Tempel des Ronagan-Gemmenschacht;descriptionEn=Temple of Ronagan-Cameo Pit;lockId=103;doorLockunlocked
+154;117;3282;333;descriptionDe=Tempel des Ronagan-Gemmenschacht;descriptionEn=Temple of Ronagan-Cameo Pit;lockId=103;doorLockunlocked
 155;117;3206;333
 156;117;3206;333
 156;117;3100;333
@@ -9656,6 +9662,7 @@
 180;130;1793;333
 180;130;42;333
 186;130;3207;333
+186;130;2805;333;descriptionDe=An einer Seite der Säule entdeckst du einen Schlitz, über dem eine silberne Münze eingelassen wurde.;descriptionEn=On one side of the pillar you see a slit with a silver coin inserted above it.
 187;130;287;333
 188;130;287;333
 0;131;287;333
@@ -10029,8 +10036,8 @@
 154;136;3204;333
 154;136;3205;0
 155;136;3204;0
-156;136;3200;0
-157;136;3200;0
+156;136;3200;333;descriptionDe=Tempel des Ronagan-Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan-Winged Sow Taverne;lockId=103;doorLockunlocked
+157;136;3200;333;descriptionDe=Tempel des Ronagan-Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan-Winged Sow Taverne;lockId=103;doorLockunlocked
 158;136;3204;333
 159;136;1100;333
 160;136;3332;333
@@ -10331,7 +10338,7 @@
 157;141;404;333
 157;141;42;333
 158;141;3207;333
-158;141;2805;333
+158;141;2805;333;descriptionDe=6. Hast du Schaden angerichtet, so kompensiere ihn großzügig mit der zweifachen Menge des Schadens.;descriptionEn=6. If you did harm, compensate generously, twice the damage.
 159;141;287;333
 160;141;287;333
 160;141;287;333
@@ -10392,7 +10399,7 @@
 152;142;287;333
 153;142;3205;333
 158;142;3207;333
-158;142;693;333
+158;142;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 159;142;287;333
 166;142;287;333
 167;142;287;333
@@ -10463,7 +10470,7 @@
 157;143;404;333
 157;143;42;333
 158;143;3207;333
-158;143;2805;333
+158;143;2805;333;descriptionDe=6. Hast du Schaden angerichtet, so kompensiere ihn großzügig mit der zweifachen Menge des Schadens.;descriptionEn=6. If you did harm, compensate generously, twice the damage.
 159;143;287;333
 160;143;287;333
 169;143;287;333
@@ -10929,14 +10936,14 @@
 131;149;3205;333
 135;149;1272;333
 138;149;3097;333
-141;149;3283;333
+141;149;3283;333;descriptionDe=Taverne zur Geflügelten Sau-Tempel des Ronagan;descriptionEn=Winged Sow Taverne-Temple of Ronagan;lockId=103;doorLockunlocked
 146;149;3330;333
 147;149;3206;333
-147;149;2805;333
+147;149;2805;333;descriptionDe=Folge diesen sechs einfachen Regeln des Don, und du kannst tun und lassen was immer du möchtest.;descriptionEn=Follow the simple rules of the Don and you can do whatever you like.
 148;149;3206;333
-148;149;692;333
+148;149;692;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 149;149;3206;333
-149;149;2805;333
+149;149;2805;333;descriptionDe=Folge diesen sechs einfachen Regeln des Don, und du kannst tun und lassen was immer du möchtest.;descriptionEn=Follow the simple rules of the Don and you can do whatever you like.
 150;149;3329;333
 154;149;3096;333
 157;149;3207;333
@@ -10985,7 +10992,7 @@
 131;150;3205;333
 132;150;3332;333
 135;150;1783;333
-141;150;3283;333
+141;150;3283;333;descriptionDe=Taverne zur Geflügelten Sau-Tempel des Ronagan;descriptionEn=Winged Sow Taverne-Temple of Ronagan;lockId=103;doorLockunlocked
 147;150;402;333
 147;150;42;333
 149;150;402;333
@@ -11047,8 +11054,8 @@
 17;152;1100;333
 17;152;3204;333
 18;152;3204;333
-19;152;3200;333
-20;152;3200;333
+19;152;3200;333;descriptionDe=Spielraum;descriptionEn=Game room;lockId=103;doorLockunlocked
+20;152;3200;333;descriptionDe=Spielraum;descriptionEn=Game room;lockId=103;doorLockunlocked
 21;152;3204;333
 22;152;3204;333
 23;152;3208;333
@@ -11073,7 +11080,7 @@
 97;152;970;333
 97;152;3205;333
 98;152;970;333
-98;152;520;333
+98;152;520;333;descriptionDe=Nach etwas Zeit erkennst du schließlich eine 17.;descriptionEn=After some time you can recognize a 17.
 99;152;3286;333
 101;152;1783;333
 102;152;426;333
@@ -12454,8 +12461,8 @@
 85;182;287;333
 148;182;287;333
 149;182;287;333
-150;182;3200;333
-151;182;3200;333
+150;182;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
+151;182;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
 152;182;287;333
 153;182;287;333
 154;182;287;333
@@ -12578,7 +12585,7 @@
 168;184;613;333
 169;184;613;333
 170;184;613;333
-171;184;712;333
+171;184;712;333;descriptionDe=Taverne zur Geflügelten Sau - Lagerraum;descriptionEn=Winged Sow Taverne - Storeroom;lockId=103;doorLockunlocked
 172;184;613;333
 173;184;3092;333
 174;184;287;333

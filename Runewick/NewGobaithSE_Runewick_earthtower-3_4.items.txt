@@ -13,7 +13,9 @@
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 0;2;680;333
+7;2;265;333;descriptionDe=Das Gemälde zeigt ein Panorama einer alten, zerstörten Brücke.;descriptionEn=The painting shows the panorama of an old, destroyed bridge.
 0;3;638;333
+7;3;265;333;descriptionDe=Das Gemälde zeigt einen Magier der einen Feuerball zu dir wirft.;descriptionEn=The painting shows a mage, throwing a fireball at you.
 0;4;634;333
 0;5;634;333
 0;6;638;0
@@ -60,14 +62,14 @@
 3;17;632;333
 4;0;633;0
 4;0;953;0
-4;7;652;333
-4;11;653;333
+4;7;652;333;descriptionDe=Turm der Erde Appartement 2;descriptionEn=Tower of Earth Apartment 2;lockId=221;doorLockunlocked
+4;11;653;333;descriptionDe=Turm der Erde Appartement 1;descriptionEn=Tower of Earth Apartment 1;lockId=220;doorLockunlocked
 4;17;632;333
 5;0;633;333
 5;1;551;0
 5;2;2875;0
-5;7;656;333
-5;11;657;333
+5;7;656;333;descriptionDe=Turm der Erde Appartement 2;descriptionEn=Tower of Earth Apartment 2;lockId=221;doorLockunlocked
+5;11;657;333;descriptionDe=Turm der Erde Appartement 1;descriptionEn=Tower of Earth Apartment 1;lockId=220;doorLockunlocked
 5;14;2876;333
 5;17;632;333
 6;0;637;333

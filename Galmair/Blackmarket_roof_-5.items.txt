@@ -12,8 +12,11 @@
 # 
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
+9;1;692;333;descriptionDe=Ein schwarz gekleideter Mann, noble, geschmacksvolle Kleider tragend, blickt auf seinen Dietrich in seiner linken Hand. Er grinst h‰misch w‰hrend er einen seiner Ohrring mit der anderen Hand kratzt.;descriptionEn=A man dressed in black, wearing noble, tasteful clothing, looks at a picklock in his left hand. He grins gleefully as he scratches one of his earrings with his other hand.
+12;5;2805;333;descriptionDe=Auf der Spitze der S‰ule starrt ein groﬂer schwarzer Rabe in die Ferne. Der Rabe h‰lt einen Ohrring in seinem Schnabel und der Schatten von Flammen erscheint in seinen Augen.;descriptionEn=At the top of the column a huge black raven peers into distance. The raven holds an earring in his beak and the shade of flames appears in the eyes.
 0;6;3197;333
 0;7;3205;333
+12;7;2805;333;descriptionDe=Auf der Spitze der S‰ule starrt ein groﬂer schwarzer Rabe in die Ferne. Der Rabe h‰lt einen Ohrring in seinem Schnabel und der Schatten von Flammen erscheint in seinen Augen.;descriptionEn=On top of the column, a huge black raven stares into the distance. The raven holds an earring in his beak and the shadows of flames appear in his eyes.
 0;8;3205;333
 0;9;3205;333
 0;10;3199;333
@@ -67,7 +70,7 @@
 6;5;396;0
 6;6;396;0
 6;7;396;0
-6;10;3200;333
+6;10;3200;333;descriptionDe=Tempel des Nargun;descriptionEn=Temple of Nargun;lockId=103;doorLockunlocked
 6;14;213;333
 6;15;3216;333
 7;0;3196;333
@@ -78,7 +81,7 @@
 7;5;320;0
 7;6;320;0
 7;7;320;0
-7;10;3200;333
+7;10;3200;333;descriptionDe=Tempel des Nargun;descriptionEn=Temple of Nargun;lockId=103;doorLockunlocked
 7;13;212;333
 7;14;36;333
 7;15;3216;333

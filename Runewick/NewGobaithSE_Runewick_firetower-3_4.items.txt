@@ -147,12 +147,12 @@
 10;14;688;333
 10;15;635;333
 10;15;2874;333
-10;16;655;333
-10;17;659;333
+10;16;655;333;descriptionDe=Turm des Feuers Appartement 1;descriptionEn=Tower of Fire Apartment 1;lockId=201;doorLockunlocked
+10;17;659;333;descriptionDe=Turm des Feuers Appartement 1;descriptionEn=Tower of Fire Apartment 1;lockId=201;doorLockunlocked
 10;18;635;333
 10;19;635;333
 10;20;683;333
-10;23;653;333
+10;23;653;333;descriptionDe=Turm des Feuers Appartement 2;descriptionEn=Tower of Fire Apartment 1;lockId=202;doorLockunlocked
 10;27;218;333
 10;28;2885;333
 10;29;216;333
@@ -163,7 +163,7 @@
 11;13;681;333
 11;13;807;333
 11;14;683;333
-11;23;657;333
+11;23;657;333;descriptionDe=Turm des Feuers Appartement 2;descriptionEn=Tower of Fire Apartment 1;lockId=202;doorLockunlocked
 11;28;219;333
 11;31;266;333
 11;32;632;333
