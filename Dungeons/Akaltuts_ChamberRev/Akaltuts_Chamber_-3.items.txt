@@ -541,7 +541,7 @@
 35;26;301;333
 38;26;878;333
 41;26;3101;333
-42;26;2937;333;descriptionEn=The body appears to have fallen after a brutal battle.;descriptionDe=Die Leiche scheint in einer brutalen Schlacht gefallen zu sein
+42;26;2937;333;descriptionEn=The body appears to have fallen after a brutal battle.;descriptionDe=Die Person scheint in einem brutalen Kampf gefallen zu sein.
 44;26;1392;333
 45;26;301;333
 56;26;623;333
@@ -616,7 +616,7 @@
 15;29;630;333
 16;29;630;333
 23;29;498;333
-28;29;2937;333;descriptionEn=Dry withered skin lays on the bones;descriptionDe=vertrocknete Hautfetzen sind an den Knochen
+28;29;2937;333;descriptionEn=Dry withered skin lays on the bones.;descriptionDe=Vertrocknete Hautfetzen kleben an den Knochen.
 30;29;996;333
 30;29;1392;333
 31;29;878;333
@@ -682,7 +682,7 @@
 30;32;3097;333
 30;32;991;333
 31;32;878;333
-34;32;3109;333;descriptionEn=Dearest, I took refuge in a cave but am now lost in a maze... I hope I find my way to you soon...;descriptionDe=Liebling, ich habe Schutz in einer Höhle gefunden, habe mich aber in einem Labyrinth verirrt. Hoffentlich finde ich bald einen Weg zu Dir.
+34;32;3109;333;descriptionEn=Dearest, I took refuge in a cave but am now lost in a maze... I hope I find my way to you soon...;descriptionDe=Liebling, ich habe Zuflucht in einer Höhle gefunden, habe mich aber in einem Labyrinth verirrt... hoffentlich finde ich bald einen Weg zurück zu dir.
 35;32;878;333
 36;32;301;333
 37;32;301;333

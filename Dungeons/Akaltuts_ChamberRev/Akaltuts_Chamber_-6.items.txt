@@ -270,7 +270,7 @@
 48;4;622;333
 49;4;3097;333
 55;4;2704;333
-58;4;2745;333;descriptionEn=Page 20. I feel strangely drawn to the armour and sword I just found. Something in the darkened sheen calls to me as I took it off my foe down below. I will toss my gear to the side and take it on.;descriptionDe=Seite 20. Ich fühle mich merkwürdig angezogen von der Rüstung und dem Schwert, welches ich gefunden habe. Etwas in der Dunkelheit rief schimmernd nach mir, als ich sie meinem Feind abnahm. Ich werde meine Ausrüstung zur Seite legen und diese hier anziehen.
+58;4;2745;333;descriptionEn=Page 20. I feel strangely drawn to the armour and sword I just found. Something in the darkened sheen calls to me as I took it off my foe down below. I will toss my gear to the side and take it on.;descriptionDe=Seite 20. Ich fühle mich merkwürdig angezogen von der Rüstung und dem Schwert, welches ich gefunden habe. Etwas in ihrem dunklen Glanz ruft nach mir, seit ich sie meinem Feind abnahm. Ich werde meine Ausrüstung zur Seite legen und diese hier anziehen.
 62;4;520;333;descriptionEn=Horace;descriptionDe=Horace
 64;4;623;333
 65;4;287;333
@@ -337,7 +337,7 @@
 47;5;3098;333
 48;5;3098;333
 52;5;1272;333
-61;5;2745;333;descriptionEn=Page 21. What have I done? Horace is lying dead beside me and all I remember is all consuming rage when he spoke to me after I changed into this armour. Yet, I can not make myself take it off. Perhaps there are more answers below.;descriptionDe=Seite 21. Was habe ich getan? Horace liegt tot neben mir und das einzige an dass ich mich erinnere, ist die alles verzehrende Wut, als er mit mir sprach nachdem ich diese Rüstung anzog.
+61;5;2745;333;descriptionEn=Page 21. What have I done? Horace is lying dead beside me and all I remember is all consuming rage when he spoke to me after I changed into this armour. Yet, I can not make myself take it off. Perhaps there are more answers below.;descriptionDe=Seite 21. Was habe ich getan? Horace liegt tot neben mir und das einzige an dass ich mich erinnere, ist die alles verzehrende Wut, als er mit mir sprach nachdem ich diese Rüstung anzog.. und dennoch kann ich sie nicht abnehmen. Vielleicht gibt es dort unten Antworten.
 64;5;623;333
 65;5;287;333
 66;5;287;333
@@ -455,7 +455,7 @@
 2;8;287;333
 3;8;287;333
 8;8;628;333
-10;8;2745;333;descriptionEn=Page 1. The simple maze has lead my party of eight into the fiery depths of some hell. I keep thinking we should turn back and heed the signs of warning, Randolph says keep pushing forward.;descriptionDe=Seite 1. Dieses einfache Labyrinth hat meine Gruppe aus acht Seelen in eine feurige Hölle gesandt. Ich denke immer wieder, dass wir auf die Warnungen hören und umkehren sollten, aber Randolph besteht darauf, weiter vorwärts zu gehen.
+10;8;2745;333;descriptionEn=Page 1. The simple maze has lead my party of eight into the fiery depths of some hell. I keep thinking we should turn back and heed the signs of warning, Randolph says keep pushing forward.;descriptionDe=Seite 1. Dieses einfache Labyrinth hat meine Gruppe von 8 Seelen in eine feurige Hölle gesandt. Ich denke immer wieder, dass wir auf die Warnungen hören und umkehren sollten, aber Randolph besteht darauf, weiter vorwärts zu gehen.
 13;8;1265;333
 14;8;1272;333
 14;8;3331;333
@@ -800,7 +800,7 @@
 9;18;359;333
 11;18;609;333
 25;18;609;333
-30;18;2745;333;descriptionEn=Page 3. We make camp not far from where we took down the cultist at a dead end. John seems worse for his wounds I fear for him.;descriptionDe=Seite 3. Wir kampieren nicht weit entfernt von wo wir einen Kultisten an einer Sackgasse erledigt haben. John's Wunden sind schlimm, Ich fürchte um ihn.
+30;18;2745;333;descriptionEn=Page 3. We make camp not far from where we took down the cultist at a dead end. John seems worse for his wounds I fear for him.;descriptionDe=Seite 3. Wir kampieren nicht weit von der Sackgasse entfernt, in der wir den Kultisten stellten und getötet haben. Johns Wunden sind schlimm, Ich bange um ihn.
 31;18;3099;333
 34;18;1265;333
 35;18;466;333
@@ -1204,7 +1204,7 @@
 95;30;287;333
 96;30;622;333
 0;31;287;333
-7;31;2745;333;descriptionEn=Page 5. We backtracked and placed our three fallen comrades in some empty coffins. I have to wonder why they are here.;descriptionDe=Seite 5. Wir sind zurückgezogen und haben unsere drei gefallenen Kameraden in leere Särge gelegt. Ich wundere mich, warum jene sich hier befinden.
+7;31;2745;333;descriptionEn=Page 5. We backtracked and placed our three fallen comrades in some empty coffins. I have to wonder why they are here.;descriptionDe=Seite 5. Wir sind zurückgezogen und haben unsere drei gefallenen Kameraden in leere Särge gelegt. Ich wundere mich, warum sich jene bereits hier befinden.
 8;31;2039;333
 12;31;1783;333
 14;31;1265;333
@@ -1235,7 +1235,7 @@
 16;32;359;333
 19;32;608;333
 24;32;359;333
-27;32;2745;333;descriptionEn=Page 2. The wild creatures here took down Theresa today, our party's mage. May her spirit find its way from here.;descriptionDe=Seite 2. Die wilden Kreaturen haben heute Theresa erlegt, unsere Magierin.  Möge ihre Seele den Weg von hier sicher in das Reich der Götter finden.
+27;32;2745;333;descriptionEn=Page 2. The wild creatures here took down Theresa today, our party's mage. May her spirit find its way from here.;descriptionDe=Seite 2. Die wilden Kreaturen haben heute Theresa getötet, unsere Magierin. Möge ihre Seele den Weg von hier sicher in das Reich der Götter finden.
 30;32;1265;333
 31;32;2937;333
 40;32;359;333
@@ -1725,7 +1725,7 @@
 46;48;605;333
 47;48;628;333
 53;48;610;333
-60;48;2745;333;descriptionEn=Page 7. The winds are so strong here. Randolph was knocked off his feet and into the burning lava before we could grab him. Sadly, only his hat remains. The winds seem to blow in different directions. Which way do we go?;descriptionDe=Seite 7. Die Winde sind so unglaublich stark hier. Randolph hat es von den Füßen gefegt und fiel in die brennende Lava, noch bevor wir ihn ergreifen konnten. Sein Hut ist das letzte was uns von ihm geblieben ist. Der Wind scheint von verschiedenen Richtungen zu wehen. Welchen Weg sollen wir nun nehmen?
+60;48;2745;333;descriptionEn=Page 7. The winds are so strong here. Randolph was knocked off his feet and into the burning lava before we could grab him. Sadly, only his hat remains. The winds seem to blow in different directions. Which way do we go?;descriptionDe=Seite 7. Die Winde sind so unglaublich stark hier. Randolph kam aus dem Gleichgewicht und fiel in die brennende Lava, noch bevor ihn einer halten konnte. Sein Hut ist das Letzte, was uns von ihm geblieben ist. Der Wind scheint aus verschiedenen Richtungen zu wehen. Welchen Weg sollen wir nun nehmen?
 66;48;3332;333
 71;48;608;333
 78;48;609;333
@@ -1780,7 +1780,7 @@
 6;50;3092;333
 7;50;611;333
 8;50;609;333
-10;50;2745;333;descriptionEn=Page 4. Seeing some people being set afire, Adam tried to save them only to get lost to the blaze himself.;descriptionDe=Seite 4. Wir sahen einige Menschen die Feuer fingen, Adam versuchte ihnen zu helfen, nur um sich ebenfalls in dem Feuer zu verlieren.
+10;50;2745;333;descriptionEn=Page 4. Seeing some people being set afire, Adam tried to save them only to get lost to the blaze himself.;descriptionDe=Seite 4. Wir sahen einige Menschen, die verbrannt wurden. Adam versuchte, ihnen zu helfen und wurde selbst ein Opfer der Flammen.
 11;50;628;333
 14;50;3332;333
 18;50;608;333
@@ -1831,7 +1831,7 @@
 72;51;628;333
 78;51;609;333
 86;51;3101;333
-88;51;2745;333;descriptionEn=Page 8. We ran out of water today. This is especially hard on Zzeslia. I hope we find a way out soon.;descriptionDe=Seite 8: Heute werden wir unser letztes Wasser verbrauchen. Das ist besonders hart für Zzeslia. Ich hoffe wir finden bald einen Weg hier hinaus.
+88;51;2745;333;descriptionEn=Page 8. We ran out of water today. This is especially hard on Zzeslia. I hope we find a way out soon.;descriptionDe=Seite 8: Heute werden wir unser letztes Wasser verbrauchen. Das ist besonders hart für Zzeslia. Ich hoffe, wir finden bald einen Weg hier heraus.
 90;51;3100;333
 90;51;626;333
 91;51;3100;333
@@ -2608,7 +2608,7 @@
 57;73;608;333
 66;73;3099;333
 67;73;3099;333
-75;73;2745;333;descriptionEn=Page 9. This area appears to be a shrine of some kind. The stacks of skulls are creepy so I am pressing Horace and Zzeslia to move on.;descriptionDe=Seite 9: Dieses Gebiet scheint irgendeine Art Schrein zu sein. Die Haufen von Totenschädeln sind gruselig und ich dränge Horace und Zzeslia weiter zu gehen.
+75;73;2745;333;descriptionEn=Page 9. This area appears to be a shrine of some kind. The stacks of skulls are creepy so I am pressing Horace and Zzeslia to move on.;descriptionDe=Seite 9: Dieses Gebiet scheint, irgendeine Art Schrein zu sein. Die Haufen von Totenschädeln sind unheimlich und ich dränge Horace und Zzeslia, weiter zu gehen.
 78;73;2927;333;descriptionEn=Offerings for the ancestors;descriptionDe=Opfer für die Ahnen
 81;73;3098;333
 92;73;627;333
@@ -2877,7 +2877,7 @@
 30;82;3101;333
 31;82;3101;333
 32;82;2681;333;nameDe=Eimer mit Blut;nameEn=bucket of blood
-34;82;2745;333;descriptionEn=Page 10. Bodies lay around in various stages of amputation. Parts are in the boxes and some strewn on the table. Weakened by the lack of water, Zzeslia has fallen here in this mess. I will carry her forward and out of this cesspit.;descriptionDe=Seite 10: Körper liegen in verschiedenen Stadien der Amputation herum. Einige Körperteile liegen in Kisten, andere liegen auf Tischen. Geschwächt durch das Fehlen von Wasser ist Zzeslia in Apathie verfallen. Ich werde sie aus dieser Kloake hinaustragen.
+34;82;2745;333;descriptionEn=Page 10. Bodies lay around in various stages of amputation. Parts are in the boxes and some strewn on the table. Weakened by the lack of water, Zzeslia has fallen here in this mess. I will carry her forward and out of this cesspit.;descriptionDe=Seite 10: Körper liegen in verschiedenen Stadien der Amputation herum. Einige Körperteile liegen in Kisten, andere liegen auf Tischen verstreut. Geschwächt durch den Mangel an Wasser ist Zzeslia in Apathie verfallen. Ich werde sie aus dieser Kloake hinaustragen.
 36;82;3265;333
 36;82;2038;333
 37;82;3265;333
@@ -2949,7 +2949,7 @@
 60;84;359;333
 63;84;1265;333
 64;84;3097;333
-68;84;2745;333;descriptionEn=Page 11. I laid Zzeslia to rest. I miss my lover and friend. As I sit here at the fire and surrounded by lava, I feel cold inside.;descriptionDe=Seite 11: Ich habe Zzeslia zum Ausruhen hingelegt. Ich vermisse meinen Schatz und Freund. Obwohl ich hier umgeben von Lava an einem Feuer sitze fühle ich mich innen kalt.
+68;84;2745;333;descriptionEn=Page 11. I laid Zzeslia to rest. I miss my lover and friend. As I sit here at the fire and surrounded by lava, I feel cold inside.;descriptionDe=Seite 11: Ich habe Zzeslia zum Ausruhen hingelegt. Ich vermisse meine Liebhaberin und Freundin. Obwohl ich hier umgeben von Lava an einem Feuer sitze, fühle ich mich innen kalt.
 74;84;3099;333
 75;84;3092;333
 86;84;915;333
@@ -3100,7 +3100,7 @@
 83;88;1245;333
 84;88;1272;333
 89;88;359;333
-91;88;2745;333;descriptionEn=Page 12. Horace and I found a small hole and some pick-axes. After we rest, we will start trying to dig our way out.;descriptionDe=Seite 12: Harace und ich fanden eine kleine Nische und einige Spitzhacken. Nach einer Ruhepause wollen wir beginnen uns einen Weg hinaus zu graben.
+91;88;2745;333;descriptionEn=Page 12. Horace and I found a small hole and some pick-axes. After we rest, we will start trying to dig our way out.;descriptionDe=Seite 12: Seite 12: Horace und ich fanden eine kleine Nische und einige Spitzhacken. Nach einer Ruhepause wollen wir beginnen, uns einen Weg hinaus zu graben.
 97;88;623;333
 98;88;287;333
 99;88;287;333

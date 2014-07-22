@@ -802,7 +802,7 @@
 11;23;2553;333
 15;23;320;333
 15;23;2554;333
-19;23;2745;333;descriptionEn=Page 22. I should feel outraged at what I find in here, yet after what I did to Horace I do not have it in me. I am feeling a strange sort of kinship to the worshippers.;descriptionDe=Seite 22.Ich sollte empört sein, über dass was ich hier fand. Aber nach dem was ich Horace antat ist da nichts mehr. Ich fühle eine seltsame Art der Seelenverwandschaft zu den Götzendienern.
+19;23;2745;333;descriptionEn=Page 22. I should feel outraged at what I find in here, yet after what I did to Horace I do not have it in me. I am feeling a strange sort of kinship to the worshippers.;descriptionDe=Seite 22. Ich sollte empört sein, über dass was ich hier finde. Aber nach dem, was ich Horace angetan habe, ist da nichts mehr. Ich fühle eine seltsame Art der Seelenverwandschaft zu den Götzendienern.
 21;23;1106;0
 34;23;627;0
 35;23;627;0
@@ -937,10 +937,10 @@
 2;27;2805;333
 2;27;359;333
 4;27;320;333
-4;27;463;577;descriptionEn=The tip of the quill is red and has a faint metallic smell.  It has been used to write with blood.;descriptionDe=Die Spitzen der Feder sind Rot und haben einen faden, metallischen Geschmack. Es würde üblicherweise mit Blut geschrieben.
+4;27;463;577;descriptionEn=The tip of the quill is red and has a faint metallic smell.  It has been used to write with blood.;descriptionDe=Die Spitzen der Feder sind rot und haben einen leicht metallischen Geschmack. Sie wurde zum Schreiben in Blut getunkt.
 5;27;3101;333
 10;27;320;333
-10;27;3109;333;descriptionEn=The writing is red and distinguishable part reads, "Enchanting Slaves";descriptionDe=Das Schreiben ist Rot, auf dem lesbaren Teil erkennt man die Worte: "Bezaubernde Sklaven"
+10;27;3109;333;descriptionEn=The writing is red and distinguishable part reads, "Enchanting Slaves".;descriptionDe=Die Schrift ist rot und auf dem lesbaren Teil erkennt man die Worte: "Sklaven verzaubern".
 14;27;3101;333
 21;27;1102;0
 21;27;2805;333
@@ -1065,7 +1065,7 @@
 61;29;287;0
 62;29;599;0
 67;29;627;333
-71;29;2745;333;descriptionEn=Page 26. I can not leave, my soul was lost here and so should be my body. I am burying the treasure I found here with my body, hopefully some 'kind' soul will find it. The hole is dug... I just need to crawl in and drink the poison.;descriptionDe=Seite 26. Ich kann nicht gehen. Ich habe hier meine Seele verloren und so solle es nun auch meinem Körper gehen. Ich werde den Schatz den ich fand mit in mein Grab nehmen. Hoffentlich findet ihn irgend eine 'freundlich' Seele. Das Grab ist ausgehoben. Ich muss mich nur noch reinlegen und das Gift drinken.
+71;29;2745;333;descriptionEn=Page 26. I can not leave, my soul was lost here and so should be my body. I am burying the treasure I found here with my body, hopefully some 'kind' soul will find it. The hole is dug... I just need to crawl in and drink the poison.;descriptionDe=Seite 26. Ich kann nicht gehen. Ich habe hier meine Seele verloren und so sollte es nun auch meinem Körper gehen. Ich werde den Schatz, den ich fand mit in mein Grab nehmen. Hoffentlich findet ihn irgend eine 'gute' Seele. Das Grab ist ausgehoben. Ich muss mich nur noch reinlegen und das Gift trinken.
 73;29;914;333
 75;29;287;0
 76;29;599;0
@@ -1116,7 +1116,7 @@
 60;30;596;0
 61;30;287;0
 62;30;599;0
-72;30;519;333;descriptionEn=Here lies my body, my soul got lost along the way.;nameEn=Megildor;nameDe=Megildor
+72;30;519;333;descriptionEn=Here lies my body, my soul got lost along the way.;nameEn=Megildor;nameDe=Megildor;descriptionDe=Hier liegt mein Körper, meine Seele ging auf dem Weg verloren.
 75;30;287;0
 76;30;599;0
 76;30;598;0
@@ -1128,7 +1128,7 @@
 0;31;287;333
 1;31;1101;333
 4;31;320;333
-4;31;1060;333;descriptionEn=Dissection: How to make your subject live for longer times;descriptionDe=Obduktion: Wie Ihr eure Untertanen lang lebender macht
+4;31;1060;333;descriptionEn=Dissection: How to make your subject live for longer times;descriptionDe=Sektion: Wie Ihr eure Untertanen lang lebender macht.
 7;31;3101;333
 12;31;3101;333
 16;31;2805;333
@@ -1328,7 +1328,7 @@
 44;34;596;0
 44;34;628;333
 45;34;287;0
-53;34;2745;333;descriptionEn=Page 25. I feel this the last magical doorway is the way out, yet I am reluctant to leave...;descriptionDe=Seite 25.Ich kann es spüren, dass dies das letzte magische Portal ist, dies ist die Tür die mich hier rausbringt. Aber es wiederstrebt mir schon zu gehen.
+53;34;2745;333;descriptionEn=Page 25. I feel this the last magical doorway is the way out, yet I am reluctant to leave...;descriptionDe=Seite 25. Ich kann spüren, dass dies das letzte magische Portal ist, dies ist die Tür die mich hier rausbringt. Aber es wiederstrebt mir, schon zu gehen.
 56;34;1245;333
 61;34;915;333
 67;34;915;333
@@ -1339,7 +1339,7 @@
 0;35;287;333
 1;35;1101;333
 4;35;320;333
-4;35;1089;333;descriptionEn=Blood Magic: Using the power from within;descriptionDe=Blut Magie: Benutzt die Stärke aus dem Inneren
+4;35;1089;333;descriptionEn=Blood Magic: Using the power from within;descriptionDe=Blutmagie: Benutzt die Stärke aus dem Inneren.
 12;35;1102;0
 13;35;287;333
 14;35;287;0
@@ -1473,7 +1473,7 @@
 0;39;287;333
 1;39;1101;333
 4;39;320;333
-4;39;1061;333;descriptionEn=The Path to Power;descriptionDe=Der Weg der Stärke
+4;39;1061;333;descriptionEn=The Path to Power;descriptionDe=Der Weg zur Macht
 12;39;1102;0
 12;39;36;333
 12;39;505;333
@@ -2251,7 +2251,7 @@
 43;55;1783;333
 53;55;1790;333
 62;55;1783;333
-64;55;521;333;descriptionEn=Serenity;descriptionDe=Gelassenheit
+64;55;521;333;descriptionEn=Serenity;descriptionDe=Heiterkeit
 70;55;1783;333
 71;55;1102;333
 72;55;287;333
@@ -2281,7 +2281,7 @@
 36;56;1101;0
 41;56;163;333
 44;56;1783;333
-53;56;2745;333;descriptionEn=Page 19. The tombstones... they appear to be banishment of all the good and softer things in life. My soul feels chilled. I think of Zzeslia and her quiet voice, I miss her.;descriptionDe=Seite 19. Die Grabsteine...sie erscheinen als Verbannung der Götter und weicheren Sachen des Lebens. Meine Seele fühlt sich abgekühlt. Ich denke an Zzeslia und ihre leise Stimme, ich vermisse sie.
+53;56;2745;333;descriptionEn=Page 19. The tombstones... they appear to be banishment of all the good and softer things in life. My soul feels chilled. I think of Zzeslia and her quiet voice, I miss her.;descriptionDe=Seite 19. Die Grabsteine... sie scheinen der Verbannung der guten und sanften Seiten des Lebens zu dienen. Meine Seele scheint mir einzufrieren. Ich denke an Zzeslia und ihre leise Stimme, ich vermisse sie.
 55;56;163;333
 58;56;1783;333
 60;56;2937;333
@@ -2395,7 +2395,7 @@
 73;59;599;333
 78;59;163;333
 83;59;163;333
-85;59;2745;333;descriptionEn=Page 18. Though the part they live in seems to be well maintained, many signs point to their world below deteriorating. I only hope they don't come back to the surface.;descriptionDe=Seite 18. Obschon es durch den Teil den sie bewohnen, wohlerhalten scheint, deuten viele Zeichen auf ihre schlechterhaltene Unterwelt. Ich hoffe nur, sie kommen nie mehr zurück an die Oberfläche.Seite 18. Obschon es durch den Teil den sie bewohnen, wohlerhalten scheint, deuten viele Zeichen auf ihre schlechterhaltene Unterwelt. Ich hoffe nur, sie kommen nie mehr zurück an die Oberfläche.
+85;59;2745;333;descriptionEn=Page 18. Though the part they live in seems to be well maintained, many signs point to their world below deteriorating. I only hope they don't come back to the surface.;descriptionDe=Seite 18. Obschon der von ihnen bewohnte Teil gut erhalten scheint, deuten viele Zeichen auf ihre schlecht erhaltene Heimat darunter hin. Ich hoffe nur, sie kommen nie mehr zurück an die Oberfläche.
 87;59;1783;333
 88;59;1783;333
 92;59;1783;333
@@ -3121,7 +3121,7 @@
 52;84;1792;333
 57;84;1782;333
 60;84;1783;333
-69;84;2745;333;descriptionEn=Page 17. The guardians are intriguing. What form of magic do they have to give undead intelligence?;descriptionDe=Seite 17. Die Wächter sind faszinierend. Welche Form der Magie haben diese, untote Intelligenz geben?
+69;84;2745;333;descriptionEn=Page 17. The guardians are intriguing. What form of magic do they have to give undead intelligence?;descriptionDe=Seite 17. Die Wächter sind faszinierend. Welche Form der Magie haben sie, um Statuen so zu verzaubern?
 71;84;1102;333
 71;84;1123;333
 72;84;287;333
@@ -3201,7 +3201,7 @@
 99;85;1247;333
 0;86;287;333
 1;86;1101;333
-7;86;440;333;descriptionEn=Strike first and strike hard!;descriptionDe=Schlage zuerst und Schlage hart!
+7;86;440;333;descriptionEn=Strike first and strike hard!;descriptionDe=Schlage zuerst und schlage hart!
 16;86;878;333
 35;86;878;333
 36;86;1101;0
@@ -3231,7 +3231,7 @@
 99;86;3098;333
 0;87;287;333
 1;87;1101;333
-14;87;442;333;descriptionEn=Never underestimate your opponent.;descriptionDe=Unterschätze nie deinen Feind.
+14;87;442;333;descriptionEn=Never underestimate your opponent.;descriptionDe=Unterschätze nie deinen Gegner.
 16;87;878;333
 35;87;878;333
 36;87;1101;0
@@ -3295,7 +3295,7 @@
 4;89;878;333
 11;89;878;333
 16;89;878;333
-20;89;441;333;descriptionEn=Strike fear in their hearts!;descriptionDe=Fülle ihre Herzen mit Angst!
+20;89;441;333;descriptionEn=Strike fear in their hearts!;descriptionDe=Fülle ihre Herzen mit Furcht!
 21;89;878;333
 28;89;878;333
 35;89;878;333
@@ -3546,7 +3546,7 @@
 57;94;36;0
 57;94;2039;0
 58;94;1103;0
-58;94;750;333;descriptionEn=In the picture can be seen a simple man holding a skull in one hand and a sign in the other, which reads, "North, south, east or west, which will you choose to pass the test? Do not fail for the cost is steep, however one holds the key you seek. Don't go even for they are all wrong, looking elsewhere will keep you strong. One from left or two from right, which will get the key tonight? Right is mighty and wrong is not, make a mistake and you'll find yourself lost.;descriptionDe=Im Bild kann ein einfacher Mann erkannt werden welcher einen Schädel in der einen Hand hält, in der anderen ein Zeichen auf welchem Steht: Norden, Süden, Osten oder Westen, welchen wählst du, um dich zu testen? Versage nicht, denn dies kostet dich viel, wenn auch einer hält den Schlüssel, der ist dein Ziel. Passt keiner, gehe nicht einmal, du musst es verstehen, Schaue anderswo, und du wirst es bestehen. Einer von Links oder von Rechts zwei, welcher hat den Schlüssel, wer ist noch dabei? Rechts ist mächtig und falsch ist es nichtig, versage und du wirst dich verlieren, dies allein ist richtig.
+58;94;750;333;descriptionEn=In the picture can be seen a simple man holding a skull in one hand and a sign in the other, which reads, "North, south, east or west, which will you choose to pass the test? Do not fail for the cost is steep, however one holds the key you seek. Don't go even for they are all wrong, looking elsewhere will keep you strong. One from left or two from right, which will get the key tonight? Right is mighty and wrong is not, make a mistake and you'll find yourself lost.;descriptionDe=Das Bild zeigt einen einfachen Mann, welcher einen Schädel in der einen Hand hält und in der anderen ein Zeichen auf welchem steht: Norden, Süden, Osten oder Westen, welchen wählst du, um dich zu testen? Versage nicht, denn dies kostet dich viel, wenn auch einer hält den Schlüssel, der ist dein Ziel. Passt keiner, gehe nicht einmal, du musst es verstehen, Schaue anderswo, und du wirst es bestehen. Einer von Links oder von Rechts zwei, welcher hat den Schlüssel, wer ist noch dabei? Rechts ist mächtig und falsch ist es nichtig, versage und du wirst dich verlieren, dies allein ist richtig.
 59;94;1103;0
 59;94;36;0
 59;94;2039;0
@@ -3641,7 +3641,7 @@
 33;96;744;333
 35;96;1101;0
 53;96;1101;0
-61;96;2745;333;descriptionEn=Page 13. More skulls... they line the walls now. The portal says it is a way out, but how can Horace and I leave now? The others would have died for nothing. We will master this riddle and find the answer to this crazy place.;descriptionDe=Seite 13: Noch mehr Totenschädel, sie säumen jetzt die Wände. Das Portal behauptet es sei ein Weg nach draußen, aber wie können Horace und ich jetzt aufhören? Die Anderen wären umsonst gestorben. Wir müssen das Rätsel dieses verrückten Ortes lösen.
+61;96;2745;333;descriptionEn=Page 13. More skulls... they line the walls now. The portal says it is a way out, but how can Horace and I leave now? The others would have died for nothing. We will master this riddle and find the answer to this crazy place.;descriptionDe=Seite 13: Noch mehr Totenschädel, sie säumen jetzt die Wände. Am Portal steht, es sei ein Weg nach draußen aber wie können Horace und ich jetzt aufhören? Die Anderen wären umsonst gestorben. Wir müssen das Rätsel dieses verrückten Ortes lösen.
 62;96;1102;0
 62;96;1123;0
 63;96;287;333
@@ -3807,7 +3807,7 @@
 27;100;1101;0
 30;100;464;333
 35;100;1101;0
-41;100;2745;333;descriptionEn=Page 16. Theresa would have loved the library. So many books here. I may see if Horace will stay a few days to explore them.;descriptionDe=Seite 16. Theresa würde die Bibliothek geliebt haben. So viele Bücher waren hier. Ich muss schauen, ob Horace einige Tage bleiben wird um diese zu erkunden.
+41;100;2745;333;descriptionEn=Page 16. Theresa would have loved the library. So many books here. I may see if Horace will stay a few days to explore them.;descriptionDe=Seite 16. Theresa hätte die Bibliothek geliebt. So viele Bücher sind hier. Ich muss schauen, ob Horace einige Tage bleiben wird, um diese zu erkunden.
 42;100;3293;333
 45;100;213;0
 46;100;2885;0
@@ -3886,7 +3886,7 @@
 38;102;2876;0
 51;102;2878;0
 53;102;1101;0
-59;102;3084;333;descriptionEn=Exit here if you dare.;descriptionDe=Ausgang hier, so du es wagst.
+59;102;3084;333;descriptionEn=Exit here if you dare.;descriptionDe=Wähle diesen Ausweg, so du es wagst.
 62;102;1102;0
 62;102;1123;0
 63;102;287;333
@@ -4341,7 +4341,7 @@
 34;111;1278;333
 34;111;60;333
 34;111;372;333
-34;111;1915;333
+34;111;1915;333;descriptionDe=Das dunkle Bild zeigt ein an Orks verübtes Massaker. Dunkelelfen baden im Blut und feiern ihren Sieg, indem sie die Waffen über ihre Köpfe halten und den leuchtenden Mond über sich anrufen.;descriptionEn=The dark picture shows orcs being slaughtered and blood all around. Drow are bathed in blood and celebrating a victory by holding their weapons over their heads and calling out to the bright moon above. 
 35;111;1101;0
 48;111;1101;0
 55;111;320;333
@@ -4523,7 +4523,7 @@
 1;114;1101;333
 4;114;213;333
 5;114;664;333
-5;114;2745;333;descriptionEn=Page 15. After a fierce battle, we fell onto the food, eating as if we had not fed in days at last slaking our hunger. I feel funny now. I wonder if I ate too much or something strange was used in the making of the items.;descriptionDe=Seite 15. Nach einer erbitterten Schlacht fielen wir übers Essen her, stürzten uns darauf, als wären wir Tage lang nicht gefüttert worden. Schlussendlich liess unser Hunger nach. Jetzt fühle ich mich komisch. Ich wundere mich, ob ich zu viel gegessen habe oder etwas Merkwürdiges benutzt wurde um diese Gegenstände herzustellen.
+5;114;2745;333;descriptionEn=Page 15. After a fierce battle, we fell onto the food, eating as if we had not fed in days at last slaking our hunger. I feel funny now. I wonder if I ate too much or something strange was used in the making of the items.;descriptionDe=Seite 15. Nach einer erbitterten Schlacht, fielen wir übers Essen her, stürzten uns darauf, als wären wir Tage lang nicht gefüttert worden. Schlussendlich liess unser Hunger nach. Jetzt fühle ich mich komisch. Ich wundere mich, ob ich zu viel gegessen habe oder ob etwas Ungutes bei der Zubereitung der Speisen benutzt wurde.
 6;114;215;333
 10;114;665;333
 10;114;163;333
@@ -4539,7 +4539,7 @@
 46;114;1101;0
 46;114;3292;0
 49;114;1161;333
-53;114;2745;333;descriptionEn=Page 14. This must be their training room. Horace and I have been fighting them for days now. They are very strong.;descriptionDe=Seite 14. Diese muss ihre Ausbildung. Horaz und ich habe seit Tagen nun. Sie sind sehr stark.
+53;114;2745;333;descriptionEn=Page 14. This must be their training room. Horace and I have been fighting them for days now. They are very strong.;descriptionDe=Seite 14. Dies muss ihre Halle für Übungskämpfe sein. Horaz und ich habe, sie nun seit Tagen bekämpft. Sie sind sehr stark.
 61;114;1102;333
 62;114;287;333
 63;114;287;333
@@ -4634,7 +4634,7 @@
 44;115;1101;0
 44;115;3261;333
 49;115;1161;333
-60;115;2926;333;descriptionDe=Akaltuts Unterschlupf, nur würdige Verbündete der Wächter mögen passieren. ;descriptionEn=Akaltut's Lair, only worthy allies of the Guardians may pass.
+60;115;2926;333;descriptionDe=Akaltuts Unterschlupf, nur würdige Verbündete der Wächter mögen passieren.;descriptionEn=Akaltut's Lair, only worthy allies of the Guardians may pass.
 61;115;629;333
 62;115;630;333
 63;115;622;333
