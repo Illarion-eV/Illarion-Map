@@ -2225,8 +2225,8 @@
 78;62;2885;333
 79;62;219;333
 80;62;3245;333
-84;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
-86;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
+84;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
+86;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 88;62;218;333
 90;62;3247;333
 99;62;3119;333
@@ -2293,7 +2293,7 @@
 82;65;3244;333
 83;65;3244;333
 84;65;3223;333
-85;65;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
+85;65;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 86;65;3223;333
 87;65;3244;333
 88;65;3244;333
@@ -2387,7 +2387,7 @@
 80;69;716;333
 80;69;3223;333
 81;69;3244;333
-82;69;3224;333;descriptionDe=Gasthaus Seeufer - Balkon;descriptionEn=Inn Lakeshore - Balcony;doorLockunlocked
+82;69;3224;333;descriptionDe=Gasthaus Seeufer - Balkon;descriptionEn=Inn Lakeshore - Balcony;doorLock=unlocked
 83;69;3244;333
 84;69;3242;333
 87;69;217;333
@@ -2862,7 +2862,7 @@
 179;87;287;333
 85;88;501;333
 85;88;301;333
-87;88;1110;333;descriptionDe=Villa Edward - Balkon;descriptionEn=Villa Edward - Balcony;doorLockunlocked
+87;88;1110;333;descriptionDe=Villa Edward - Balkon;descriptionEn=Villa Edward - Balcony;doorLock=unlocked
 90;88;2877;333
 91;88;2877;333
 93;88;746;333
@@ -2998,7 +2998,7 @@
 95;92;433;333
 95;92;301;333
 136;92;433;333
-138;92;3225;333;descriptionDe=Wohnungsquartier - Ehre & Abstammung;descriptionEn=Flat quarter - Honour & Lineage;lockId=322;doorLockunlocked
+138;92;3225;333;descriptionDe=Wohnungsquartier - Ehre & Abstammung;descriptionEn=Flat quarter - Honour & Lineage;lockId=322;doorLock=locked
 144;92;3247;333
 145;92;287;333
 149;92;273;0
@@ -3122,7 +3122,7 @@
 166;97;627;0
 170;97;626;333
 135;98;433;333
-137;98;3225;333;descriptionDe=Wohnungsquartier - Courage;descriptionEn=Flat quarter - Courage;lockId=324;doorLockunlocked
+137;98;3225;333;descriptionDe=Wohnungsquartier - Courage;descriptionEn=Flat quarter - Courage;lockId=324;doorLock=locked
 143;98;3260;333
 144;98;3247;333
 145;98;287;333
@@ -3248,12 +3248,12 @@
 171;102;878;0
 93;103;3124;333
 93;103;301;333
-95;103;1110;333;descriptionDe=Villa Rosaline - Balkon;descriptionEn=Villa Rosaline - Balcony;doorLockunlocked
+95;103;1110;333;descriptionDe=Villa Rosaline - Balkon;descriptionEn=Villa Rosaline - Balcony;doorLock=unlocked
 101;103;2877;333
 102;103;2877;333
 103;103;1102;333
 134;103;433;333
-136;103;3225;333;descriptionDe=Wohnungsquartier - Besitz;descriptionEn=Flat quarter - Property;lockId=326;doorLockunlocked
+136;103;3225;333;descriptionDe=Wohnungsquartier - Besitz;descriptionEn=Flat quarter - Property;lockId=326;doorLock=locked
 139;103;2876;0
 140;103;2885;0
 140;103;1089;0
@@ -3553,7 +3553,7 @@
 84;113;683;333
 106;113;675;333
 106;113;672;333
-129;113;654;0;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked=
+129;113;654;0;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 138;113;635;333
 139;113;3245;333
 144;113;395;0
@@ -3561,8 +3561,8 @@
 78;114;682;333
 78;114;677;333
 79;114;632;333
-80;114;652;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
-81;114;656;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
+80;114;652;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLock=unlocked
+81;114;656;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLock=unlocked
 82;114;632;333
 83;114;683;333
 86;114;673;333
@@ -3587,7 +3587,7 @@
 107;114;395;333
 107;114;396;333
 107;114;1265;333
-129;114;658;0;descriptionEn=Civic Hall;descriptionDe=Stadtsaal;doorLockunlocked=
+129;114;658;0;descriptionEn=Civic Hall;descriptionDe=Stadtsaal;doorLock=unlocked
 138;114;635;333
 138;114;693;333;descriptionDe=Ein junger König sitzt auf einen Thron. Sein linker Ellbogen ruht auf seinen Beinen. Seine rechte Hand hält ein Langschwert. Er wirkt ruhelos und gelangweilt.;descriptionEn=A young king is sitting on a throne, his left elbow resting on his legs. His right hand holds a longsword. He seems restless and bored.
 139;114;3245;333
@@ -3609,7 +3609,7 @@
 140;115;3248;333
 141;115;3244;333
 142;115;3244;333
-143;115;3224;333;descriptionDe=Wohnungsquartier - Wachsamkeit;descriptionEn=Flat quarter - Alertness;lockId=327;doorLockunlocked
+143;115;3224;333;descriptionDe=Wohnungsquartier - Wachsamkeit;descriptionEn=Flat quarter - Alertness;lockId=327;doorLock=locked
 144;115;3244;333
 145;115;3222;333
 145;115;675;0
@@ -3714,7 +3714,7 @@
 107;120;673;333
 108;120;673;333
 109;120;673;333
-128;120;654;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
+128;120;654;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 132;120;2875;0
 133;120;2875;0
 134;120;2875;0
@@ -3734,7 +3734,7 @@
 118;121;673;333
 119;121;673;333
 120;121;673;333
-128;121;658;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
+128;121;658;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 137;121;214;333
 138;121;635;333
 145;121;675;333
@@ -3756,8 +3756,8 @@
 133;123;632;333
 134;123;632;333
 135;123;632;333
-136;123;652;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
-137;123;656;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLockunlocked
+136;123;652;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
+137;123;656;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 138;123;683;333
 145;123;675;333
 145;123;688;333
