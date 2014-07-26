@@ -3022,8 +3022,8 @@
 162;103;3176;333
 163;103;3176;333
 164;103;3176;333
-165;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorLockunlocked
-166;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorLockunlocked
+165;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorLock=unlocked
+166;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorlock=unlocked
 167;103;3176;333
 168;103;3176;333
 169;103;3176;333
@@ -4107,7 +4107,7 @@
 258;134;855;333
 259;134;859;333
 260;134;855;333
-261;134;863;333;descriptionDe=Zensusbüro;descriptionEn=Census office;lockId=104;doorLockunlocked
+261;134;863;333;descriptionDe=Zensusbüro;descriptionEn=Census office;lockId=104;doorLock=unlocked
 262;134;855;333
 263;134;855;333
 264;134;870;333
@@ -4975,7 +4975,7 @@
 267;155;2877;333
 269;155;3301;333
 273;155;2832;333
-278;155;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=115;doorLockunlocked
+278;155;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=115;doorLock=unlocked
 283;155;3301;333
 283;155;3265;333
 283;155;2854;0
@@ -5116,7 +5116,7 @@
 219;158;628;0
 221;158;626;0
 265;158;3299;333
-269;158;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=113;doorLockunlocked
+269;158;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=113;doorLock=unlocked
 278;158;3301;333
 278;158;3260;333
 283;158;3305;333
@@ -5235,7 +5235,7 @@
 274;161;3308;333
 275;161;3304;333
 275;161;210;333
-276;161;3316;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=114;doorLockunlocked
+276;161;3316;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=114;doorLock=unlocked
 277;161;3304;333
 277;161;210;333
 278;161;3308;333
@@ -5431,7 +5431,7 @@
 272;166;3298;333
 273;166;3306;333
 274;166;3298;333
-275;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=114;doorLockunlocked
+275;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=114;doorLock=unlocked
 276;166;3298;333
 277;166;3306;333
 278;166;3298;333

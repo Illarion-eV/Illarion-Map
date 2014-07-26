@@ -116,8 +116,8 @@
 61;6;681;333
 61;6;275;333
 62;6;633;333
-63;6;653;333;descriptionDe=Bibliothek der Erde;descriptionEn=Library of Earth;doorLockunlocked
-64;6;657;333;descriptionDe=Bibliothek der Erde;descriptionEn=Library of Earth;doorLockunlocked
+63;6;653;333;descriptionDe=Bibliothek der Erde;descriptionEn=Library of Earth;doorLock=unlocked
+64;6;657;333;descriptionDe=Bibliothek der Erde;descriptionEn=Library of Earth;doorLock=unlocked
 65;6;690;333
 65;6;633;333
 65;6;681;333
@@ -215,8 +215,8 @@
 12;9;214;333
 15;9;635;333
 15;9;267;333
-19;9;655;0;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLockunlocked=
-52;9;654;333;descriptionDe=Turm der Erde;descriptionEn=Tower of Earth;doorLockunlocked
+19;9;655;0;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLock=unlocked
+52;9;654;333;descriptionDe=Turm der Erde;descriptionEn=Tower of Earth;doorLock=unlocked
 60;9;396;333
 60;9;42;333
 61;9;212;333
@@ -230,8 +230,8 @@
 6;10;212;333
 15;10;635;333
 15;10;953;0
-19;10;659;0;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLockunlocked=
-52;10;658;333;descriptionDe=Turm der Erde;descriptionEn=Tower of Earth;doorLockunlocked
+19;10;659;0;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLock=unlocked
+52;10;658;333;descriptionDe=Turm der Erde;descriptionEn=Tower of Earth;doorLock=unlocked
 60;10;213;333
 61;10;2885;333
 62;10;215;333
@@ -390,7 +390,7 @@
 66;16;683;333
 9;17;638;333
 11;17;212;333
-15;17;655;333;descriptionDe=Bibliothek des Feuers;descriptionEn=Library of Fire;doorLockunlocked=
+15;17;655;333;descriptionDe=Bibliothek des Feuers;descriptionEn=Library of Fire;doorLock=unlocked
 23;17;635;333
 50;17;682;333
 51;17;632;333
@@ -402,8 +402,8 @@
 56;17;683;333
 56;17;674;0
 57;17;632;333
-58;17;652;333;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;doorLockunlocked=223;doorLockunlocked
-59;17;656;333;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;lockId=223;doorLockunlocked
+58;17;652;333;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;doorLock=locked;lockId=223
+59;17;656;333;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;lockId=223;doorLock=locked
 60;17;632;333
 61;17;632;333
 62;17;632;333
@@ -414,7 +414,7 @@
 10;18;213;333
 11;18;2885;333
 12;18;215;333
-15;18;659;333;descriptionDe=Bibliothek des Feuers;descriptionEn=Library of Fire;doorLockunlocked
+15;18;659;333;descriptionDe=Bibliothek des Feuers;descriptionEn=Library of Fire;doorLock=unlocked
 23;18;635;333
 23;18;267;333
 56;18;674;0
@@ -643,8 +643,8 @@
 12;34;632;333
 13;34;632;333
 14;34;632;333
-15;34;652;333;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLockunlocked
-16;34;656;333;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLockunlocked
+15;34;652;333;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLock=unlocked
+16;34;656;333;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLock=unlocked
 17;34;632;333
 17;34;683;333
 17;34;632;333
@@ -1200,8 +1200,8 @@
 10;63;320;333
 10;63;74;599
 14;63;680;333
-15;63;653;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLockunlocked
-16;63;657;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLockunlocked
+15;63;653;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLock=unlocked
+16;63;657;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLock=unlocked
 17;63;681;333
 17;63;276;333
 26;63;688;333
@@ -1216,7 +1216,7 @@
 9;64;213;333
 10;64;320;333
 10;64;9;599
-14;64;654;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLockunlocked
+14;64;654;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLock=unlocked
 17;64;635;333
 26;64;688;333
 26;64;396;333
@@ -1231,7 +1231,7 @@
 10;65;320;333
 10;65;2567;599
 11;65;220;333
-14;65;658;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLockunlocked
+14;65;658;333;descriptionDe=Turm der Luft;descriptionEn=Tower of Air;doorLock=unlocked
 17;65;635;333
 17;65;396;333
 17;65;1265;333
@@ -1671,7 +1671,7 @@
 16;80;690;333
 17;80;681;333
 17;80;276;333
-23;80;655;0;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;doorLockunlocked=
+23;80;655;0;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;doorLock=unlocked
 33;80;992;0
 57;80;654;333
 68;80;267;333
@@ -1687,8 +1687,8 @@
 10;81;635;333
 10;81;267;333
 11;81;396;333
-17;81;655;333;descriptionDe=Bibliothek der Luft;descriptionEn=Library of Air;doorLockunlocked
-23;81;659;0;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;doorLockunlocked=
+17;81;655;333;descriptionDe=Bibliothek der Luft;descriptionEn=Library of Air;doorLock=unlocked
+23;81;659;0;descriptionDe=ACHTUNG! Lebensgefahr!;descriptionEn=Danger, keep out!;doorLock=unlocked
 33;81;993;0
 57;81;658;333
 61;81;212;333
@@ -1702,7 +1702,7 @@
 8;82;214;333
 9;82;688;333
 10;82;683;333
-17;82;659;333;descriptionDe=Bibliothek der Luft;descriptionEn=Library of Air;doorLockunlocked
+17;82;659;333;descriptionDe=Bibliothek der Luft;descriptionEn=Library of Air;doorLock=unlocked
 23;82;635;0
 24;82;2805;0
 27;82;2805;0
@@ -1835,8 +1835,8 @@
 7;89;691;333
 7;89;633;333
 7;89;210;333
-8;89;653;333;descriptionDe=Raum des Glaubens;descriptionEn=Room of Spirit;doorLockunlocked
-9;89;657;333;descriptionDe=Raum des Glaubens;descriptionEn=Room of Spirit;doorLockunlocked
+8;89;653;333;descriptionDe=Raum des Glaubens;descriptionEn=Room of Spirit;doorLock=unlocked
+9;89;657;333;descriptionDe=Raum des Glaubens;descriptionEn=Room of Spirit;doorLock=unlocked
 10;89;690;333
 10;89;633;333
 10;89;210;333

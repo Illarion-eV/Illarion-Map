@@ -3691,8 +3691,8 @@
 390;159;853;0
 391;159;853;0
 391;159;402;0
-392;159;861;333;descriptionDe=Copperhand-Tunnel;descriptionEn=Copperhand-Tunnel;lockId=105;doorLockunlocked
-393;159;861;333;descriptionDe=Copperhand-Tunnel;descriptionEn=Copperhand-Tunnel;lockId=105;doorLockunlocked
+392;159;861;333;descriptionDe=Copperhand-Tunnel;descriptionEn=Copperhand-Tunnel;lockId=105;doorLock=unlocked
+393;159;861;333;descriptionDe=Copperhand-Tunnel;descriptionEn=Copperhand-Tunnel;lockId=105;doorLock=unlocked
 394;159;853;0
 395;159;872;0
 396;159;287;0
@@ -5668,7 +5668,7 @@
 338;207;622;333
 339;207;622;333
 339;207;418;333
-341;207;864;333;descriptionDe=Goldträume, die Privatkammer des Dons;descriptionEn=Golden Dreams, the private chamber of the Don;lockId=100;doorLockunlocked
+341;207;864;333;descriptionDe=Goldträume, die Privatkammer des Dons;descriptionEn=Golden Dreams, the private chamber of the Don;lockId=100;doorLock=locked
 344;207;1126;333
 350;207;320;333
 350;207;315;999
@@ -5898,7 +5898,7 @@
 347;213;320;333
 347;213;292;999
 348;213;2878;333
-352;213;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLockunlocked
+352;213;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLock=locked
 359;213;675;333
 359;213;693;333
 360;213;623;333
@@ -5947,7 +5947,7 @@
 347;214;320;333
 347;214;224;999
 348;214;2878;333
-352;214;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLockunlocked
+352;214;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLock=locked
 359;214;675;333
 360;214;623;333
 361;214;287;333
@@ -5990,7 +5990,7 @@
 341;215;856;333
 346;215;2875;333
 347;215;2875;333
-352;215;864;333;descriptionDe=Schatzkammer;descriptionEn=Treasury;lockId=101;doorLockunlocked
+352;215;864;333;descriptionDe=Schatzkammer;lockId=101;doorLock=locked;descriptionEn=Treasury
 358;215;287;333
 359;215;287;333
 360;215;287;333
@@ -6253,7 +6253,7 @@
 334;221;2876;333
 340;221;2878;333
 348;221;854;333
-355;221;864;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLockunlocked
+355;221;864;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLock=unlocked
 358;221;955;0
 359;221;266;0
 361;221;266;0
@@ -6263,7 +6263,7 @@
 367;221;855;333
 368;221;855;333
 369;221;855;333
-370;221;863;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLockunlocked
+370;221;863;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLock=unlocked
 371;221;855;333
 372;221;855;333
 373;221;855;333
@@ -6517,7 +6517,7 @@
 382;225;629;333
 388;225;856;0
 388;225;855;0
-389;225;863;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLockunlocked
+389;225;863;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLock=unlocked
 390;225;855;0
 391;225;870;0
 392;225;622;333
@@ -6836,7 +6836,7 @@
 509;228;301;333
 0;229;287;0
 323;229;287;333
-348;229;862;333;descriptionDe=Guilianni Residenz;descriptionEn=Guilianni Residence;lockId=104;doorLockunlocked
+348;229;862;333;descriptionDe=Guilianni Residenz;descriptionEn=Guilianni Residence;lockId=104;doorLock=unlocked
 370;229;856;333
 374;229;212;333
 375;229;320;0
@@ -7061,7 +7061,7 @@
 363;232;855;333
 364;232;873;333
 369;232;42;333
-370;232;864;333;descriptionDe=Wechselstube + Küche;descriptionEn=Exchange + Kitchen;lockId=104;doorLockunlocked
+370;232;864;333;descriptionDe=Wechselstube + Küche;descriptionEn=Exchange + Kitchen;lockId=104;doorLock=unlocked
 376;232;964;0
 379;232;3179;333
 391;232;856;333
@@ -7394,7 +7394,7 @@
 360;236;320;333
 361;236;320;333
 362;236;215;333
-364;236;864;333;descriptionDe=Konzil Kammer;descriptionEn=Council Chamber;lockId=104;doorLockunlocked
+364;236;864;333;descriptionDe=Konzil Kammer;descriptionEn=Council Chamber;lockId=104;doorLock=unlocked
 369;236;1075;0
 370;236;856;333
 374;236;339;0
@@ -7931,7 +7931,7 @@
 382;241;287;333
 385;241;213;333
 386;241;320;333
-391;241;864;333;descriptionDe=Wachstube;descriptionEn=Guardroom;lockId=104;doorLockunlocked
+391;241;864;333;descriptionDe=Wachstube;descriptionEn=Guardroom;lockId=104;doorLock=unlocked
 394;241;403;333
 395;241;623;333
 395;241;1251;333
@@ -8305,8 +8305,8 @@
 365;244;891;0
 366;244;3178;333
 366;244;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: 'Folge diesen sechs einfachen Regeln des Don, und du kannst tun und lassen was immer du möchtest. Nun tritt ein.';descriptionEn=The statue holds a golden plate with following engraving: 'Follow the simple rules of the Don and you can do whatever you like. Come in now.'
-367;244;3166;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
-368;244;3166;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
+367;244;3166;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLock=unlocked
+368;244;3166;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLock=unlocked
 369;244;3178;333
 369;244;692;333;descriptionDe=Die Statue hält eine Goldtafel mit folgender Gravierung: 'Folge diesen sechs einfachen Regeln des Don, und du kannst tun und lassen was immer du möchtest. Nun tritt ein.';descriptionEn=The statue holds a golden plate with following engraving: 'Follow the simple rules of the Don and you can do whatever you like. Come in now.'
 370;244;3178;333
@@ -8549,7 +8549,7 @@
 384;246;869;333
 385;246;855;333
 386;246;855;333
-387;246;863;333;descriptionDe=Schuldeneintreiber;descriptionEn=Debt-collector;lockId=104;doorLockunlocked
+387;246;863;333;descriptionDe=Schuldeneintreiber;descriptionEn=Debt-collector;lockId=104;doorLock=unlocked
 388;246;855;333
 389;246;855;333
 390;246;859;333
@@ -8670,7 +8670,7 @@
 391;247;869;333
 392;247;855;333
 393;247;859;333
-394;247;863;333;descriptionDe=Wachstube;descriptionEn=Guardroom;lockId=104;doorLockunlocked
+394;247;863;333;descriptionDe=Wachstube;descriptionEn=Guardroom;lockId=104;doorLock=unlocked
 395;247;870;333
 396;247;629;333
 396;247;875;333
@@ -8919,7 +8919,7 @@
 379;249;1782;0
 392;249;3081;333;descriptionDe=Wachstube;descriptionEn=Guardroom
 398;249;3081;333;descriptionDe=Dunkle Gasse;descriptionEn=Dark Alley
-416;249;3167;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLockunlocked
+416;249;3167;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLock=unlocked
 427;249;3265;333
 427;249;1161;333
 432;249;274;333
@@ -9006,7 +9006,7 @@
 370;250;891;0
 373;250;933;0
 406;250;1782;333
-416;250;3167;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLockunlocked
+416;250;3167;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLock=unlocked
 433;250;914;333
 436;250;14;0
 444;250;915;333
@@ -9162,7 +9162,7 @@
 339;252;869;333
 340;252;855;333
 341;252;855;333
-342;252;863;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
+342;252;863;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
 343;252;855;333
 344;252;855;333
 345;252;854;333
@@ -9507,8 +9507,8 @@
 364;255;942;0
 365;255;942;0
 366;255;942;0
-367;255;947;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
-368;255;949;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLockunlocked
+367;255;947;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLock=unlocked
+368;255;949;333;descriptionDe=Galmairs Krone;descriptionEn=Galmair's Crest;lockId=104;doorLock=unlocked
 369;255;942;0
 369;255;646;0
 370;255;942;0
@@ -10268,7 +10268,7 @@
 381;263;273;0
 391;263;1817;0
 396;263;1783;333
-401;263;864;333;descriptionDe=Kräuterkammer;descriptionEn=Herbs room;lockId=104;doorLockunlocked
+401;263;864;333;descriptionDe=Kräuterkammer;descriptionEn=Herbs room;lockId=104;doorLock=unlocked
 406;263;214;0
 415;263;623;333
 416;263;287;333
@@ -11231,7 +11231,7 @@
 365;272;236;0
 366;272;215;0
 369;272;649;0
-378;272;3315;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLockunlocked
+378;272;3315;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLock=unlocked
 383;272;172;0
 387;272;2837;0
 388;272;872;0
@@ -11396,7 +11396,7 @@
 295;274;3307;333
 296;274;267;333
 298;274;267;333
-304;274;3315;333;descriptionDe=Villa Goldader;descriptionEn=Villa Goldvein;lockId=111;doorLockunlocked
+304;274;3315;333;descriptionDe=Villa Goldader;descriptionEn=Villa Goldvein;lockId=111;doorLock=unlocked
 309;274;3305;333
 310;274;1276;0
 311;274;1276;0
@@ -11906,7 +11906,7 @@
 298;280;3310;333
 299;280;3302;333
 300;280;3306;333
-301;280;3314;333;descriptionDe=Villa Goldader;descriptionEn=Villa Goldvein;lockId=111;doorLockunlocked
+301;280;3314;333;descriptionDe=Villa Goldader;descriptionEn=Villa Goldvein;lockId=111;doorLock=locked
 302;280;3302;333
 303;280;3306;333
 304;280;3302;333
@@ -12292,7 +12292,7 @@
 380;284;3304;0
 381;284;3296;0
 382;284;3308;0
-383;284;3316;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLockunlocked
+383;284;3316;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLock=unlocked
 384;284;3304;0
 385;284;3308;0
 385;284;402;0
@@ -12922,7 +12922,7 @@
 389;295;396;0
 389;295;42;0
 397;295;273;333
-408;295;3315;333;descriptionDe=Gasthaus zum Schlafenden Bujhaar;descriptionEn=Sleepy Bujhaar Inn;lockId=104;doorLockunlocked
+408;295;3315;333;descriptionDe=Gasthaus zum Schlafenden Bujhaar;descriptionEn=Sleepy Bujhaar Inn;lockId=104;doorLock=unlocked
 420;295;3305;333
 421;295;287;333
 422;295;287;333
@@ -13052,7 +13052,7 @@
 407;298;42;333
 408;298;3307;333
 411;298;2875;333
-414;298;3315;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=112;doorLockunlocked
+414;298;3315;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=112;doorLock=unlocked
 418;298;742;333
 420;298;3305;333
 420;298;269;333
@@ -14337,7 +14337,7 @@
 370;322;1100;0
 371;322;1100;0
 372;322;1100;0
-373;322;1109;333;descriptionDe=Malachite Haus;descriptionEn=House of Malachite;lockId=110;doorLockunlocked
+373;322;1109;333;descriptionDe=Malachite Haus;descriptionEn=House of Malachite;lockId=110;doorLock=locked
 374;322;1100;0
 375;322;1100;0
 376;322;1100;0

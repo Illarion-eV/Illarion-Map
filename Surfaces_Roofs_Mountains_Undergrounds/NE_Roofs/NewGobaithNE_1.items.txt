@@ -5746,7 +5746,7 @@
 105;311;1782;0
 106;311;1782;0
 184;311;433;333
-187;311;1110;333;descriptionDe=Troll's Bane;descriptionEn=Troll's Bane;lockId=401;doorLockunlocked
+187;311;1110;333;descriptionDe=Troll's Bane;descriptionEn=Troll's Bane;lockId=401;doorLock=locked
 190;311;2876;333
 191;311;2885;333
 192;311;2878;333
@@ -5986,7 +5986,7 @@
 194;315;1100;333
 195;315;1100;333
 196;315;1100;333
-197;315;1109;333;descriptionDe=Greenbriar;descriptionEn=Greenbriar;lockId=403;doorLockunlocked
+197;315;1109;333;descriptionDe=Greenbriar;descriptionEn=Greenbriar;lockId=403;doorLock=locked
 198;315;1100;333
 199;315;1102;333
 199;315;1100;333
@@ -6151,7 +6151,7 @@
 195;319;1103;333
 196;319;1103;333
 196;319;2873;333
-197;319;1108;333;descriptionDe=Varshikar;descriptionEn=Varshikar;lockId=404;doorLockunlocked
+197;319;1108;333;descriptionDe=Varshikar;descriptionEn=Varshikar;lockId=404;doorLock=locked
 198;319;1103;333
 198;319;396;333
 198;319;1265;333
@@ -6324,7 +6324,7 @@
 107;323;623;333
 108;323;287;333
 184;323;433;333
-187;323;1110;333;descriptionDe=Silberbrand;descriptionEn=Silverbrand;lockId=402;doorLockunlocked
+187;323;1110;333;descriptionDe=Silberbrand;descriptionEn=Silverbrand;lockId=402;doorLock=locked
 193;323;1102;333
 193;323;269;333
 198;323;742;333

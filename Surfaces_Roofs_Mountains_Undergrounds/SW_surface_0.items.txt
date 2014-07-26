@@ -1230,7 +1230,7 @@
 122;7;2046;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 123;7;1071;0
 123;7;2046;333;descriptionDe=In schimmernden Rot und Weiß ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
-128;7;3233;333;descriptionDe=Königliche Kammer;descriptionEn=Royal Chamber;lockId=300;doorLockunlocked
+128;7;3233;333;descriptionDe=Königliche Kammer;descriptionEn=Royal Chamber;lockId=300;doorLock=locked
 136;7;2875;333
 137;7;2875;333
 138;7;396;333
@@ -1365,7 +1365,7 @@
 116;8;432;333
 116;8;433;333
 122;8;2915;333
-128;8;3237;333;descriptionDe=Königliche Kammer;descriptionEn=Royal Chamber;lockId=300;doorLockunlocked
+128;8;3237;333;descriptionDe=Königliche Kammer;descriptionEn=Royal Chamber;lockId=300;doorLock=locked
 156;8;596;333
 157;8;287;333
 158;8;287;0
@@ -5029,8 +5029,8 @@
 118;35;3244;333
 119;35;3244;333
 120;35;3244;333
-121;35;3232;333;descriptionDe=Palast;descriptionEn=Palace;doorLockunlocked
-122;35;3236;333;descriptionDe=Palast;descriptionEn=Palace;doorLockunlocked
+121;35;3232;333;descriptionDe=Palast;descriptionEn=Palace;doorLock=unlocked
+122;35;3236;333;descriptionDe=Palast;descriptionEn=Palace;doorLock=unlocked
 123;35;3244;333
 124;35;3244;333
 125;35;3244;333
@@ -6791,7 +6791,7 @@
 104;46;3248;333
 105;46;3244;333
 106;46;3244;333
-107;46;3224;333;descriptionDe=Zensusbüro;descriptionEn=Census office;doorLockunlocked
+107;46;3224;333;descriptionDe=Zensusbüro;descriptionEn=Census office;doorLock=unlocked
 108;46;3244;333
 109;46;3247;333
 109;46;3222;333
@@ -7090,7 +7090,7 @@
 90;48;1100;333
 91;48;1100;333
 92;48;1100;333
-93;48;1109;333;descriptionDe=Villa Reginald;descriptionEn=Villa Reginald;lockId=312;doorLockunlocked
+93;48;1109;333;descriptionDe=Villa Reginald;descriptionEn=Villa Reginald;lockId=312;doorLock=locked
 94;48;1100;333
 95;48;1100;333
 96;48;1100;333
@@ -9055,7 +9055,7 @@
 93;64;878;333
 93;64;1276;0
 93;64;301;0
-100;64;3225;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLockunlocked
+100;64;3225;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLock=unlocked
 104;64;214;333
 105;64;214;333
 106;64;214;333
@@ -9293,14 +9293,14 @@
 81;66;3223;333
 82;66;3244;333
 83;66;3244;333
-84;66;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
+84;66;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 85;66;3244;333
 86;66;3244;333
 86;66;3247;333
 86;66;3244;333
 87;66;3244;333
 88;66;3244;333
-89;66;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
+89;66;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 90;66;3244;333
 91;66;3222;333
 92;66;273;333
@@ -10309,14 +10309,14 @@
 81;73;3223;333
 82;73;3244;333
 83;73;3244;333
-84;73;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
+84;73;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 85;73;3244;333
 86;73;3244;333
 86;73;3247;333
 86;73;3244;333
 87;73;3244;333
 88;73;3244;333
-89;73;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLockunlocked
+89;73;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 90;73;3244;333
 91;73;3222;333
 99;73;262;333
@@ -10451,7 +10451,7 @@
 110;74;3248;333
 111;74;3244;333
 112;74;3244;333
-113;74;3224;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLockunlocked
+113;74;3224;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLock=unlocked
 114;74;3244;333
 115;74;3244;333
 116;74;3244;333
@@ -12703,7 +12703,7 @@
 124;92;320;0
 124;92;391;599
 127;92;8;0
-138;92;3225;333;descriptionDe=Wohnungsquartier - Glaube & Gehorsam;descriptionEn=Flat quarter - Faith & Obedience;lockId=321;doorLockunlocked
+138;92;3225;333;descriptionDe=Wohnungsquartier - Glaube & Gehorsam;descriptionEn=Flat quarter - Faith & Obedience;lockId=321;doorLock=locked
 142;92;742;333
 144;92;3247;333
 144;92;8;333
@@ -12818,8 +12818,8 @@
 87;93;1100;333
 88;93;1100;333
 89;93;1100;333
-90;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLockunlocked
-91;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLockunlocked
+90;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLock=locked
+91;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLock=locked
 92;93;1100;333
 93;93;1100;333
 94;93;1100;333
@@ -13537,7 +13537,7 @@
 114;98;6;599
 121;98;273;333
 123;98;274;333
-137;98;3225;333;descriptionDe=Wohnungsquartier - Ehrlichkeit & Gerechtigkeit;descriptionEn=Flat quarter - Truth & Justice;lockId=323;doorLockunlocked
+137;98;3225;333;descriptionDe=Wohnungsquartier - Ehrlichkeit & Gerechtigkeit;descriptionEn=Flat quarter - Truth & Justice;lockId=323;doorLock=locked
 144;98;3247;333
 145;98;287;333
 156;98;287;0
@@ -13804,7 +13804,7 @@
 67;100;1783;333
 82;100;338;0
 87;100;1783;333
-94;100;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLockunlocked
+94;100;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLock=locked
 99;100;3106;333
 100;100;1101;333
 101;100;319;333
@@ -13951,7 +13951,7 @@
 81;101;1170;0
 83;101;1783;0
 89;101;273;333
-94;101;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLockunlocked
+94;101;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLock=locked
 99;101;276;333
 100;101;1100;333
 100;101;1101;333
@@ -14211,7 +14211,7 @@
 116;103;220;333
 123;103;36;333
 123;103;397;599
-136;103;3225;333;descriptionDe=Wohnungsquartier - Patriarchat;descriptionEn=Flat quarter - Patriarchy;lockId=325;doorLockunlocked
+136;103;3225;333;descriptionDe=Wohnungsquartier - Patriarchat;descriptionEn=Flat quarter - Patriarchy;lockId=325;doorLock=locked
 140;103;214;333
 141;103;214;333
 146;103;3247;333
@@ -15130,7 +15130,7 @@
 47;109;273;333
 51;109;1783;333
 76;109;338;0
-79;109;654;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
+79;109;654;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLock=unlocked
 82;109;212;333
 83;109;212;333
 84;109;212;333
@@ -15270,7 +15270,7 @@
 76;110;1170;0
 77;110;1782;333
 77;110;1782;333
-79;110;658;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLockunlocked
+79;110;658;333;descriptionDe=Wachstube;descriptionEn=Guard room;doorLock=unlocked
 82;110;320;333
 83;110;320;333
 84;110;320;333
@@ -15444,7 +15444,7 @@
 110;111;1276;0
 115;111;273;333
 118;111;1783;333
-129;111;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
+129;111;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLock=unlocked
 138;111;320;333
 140;111;267;333
 141;111;3245;333
@@ -15565,7 +15565,7 @@
 115;112;1783;333
 117;112;3262;333
 123;112;1783;0
-129;112;658;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
+129;112;658;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLock=unlocked
 138;112;320;333
 140;112;956;333
 141;112;3245;333
@@ -15858,7 +15858,7 @@
 122;114;3263;0
 128;114;690;333
 129;114;634;333
-141;114;3225;333;descriptionDe=Wohnungsquartier- Verantwortun;descriptionEn=Flat quarter - Responsibility ;lockId=320;doorLockunlocked=
+141;114;3225;333;descriptionDe=Wohnungsquartier- Verantwortun;descriptionEn=Flat quarter - Responsibility ;lockId=328;doorLock=locked
 146;114;3247;333
 152;114;629;333
 156;114;911;333
@@ -16725,7 +16725,7 @@
 110;120;632;333
 110;120;632;333
 111;120;689;333
-129;120;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
+129;120;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLock=unlocked
 136;120;691;333
 141;120;690;333
 142;120;681;333
@@ -16868,11 +16868,11 @@
 107;121;690;333
 109;121;690;333
 111;121;682;333
-112;121;652;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
-113;121;656;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
+112;121;652;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLock=unlocked
+113;121;656;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLock=unlocked
 114;121;632;333
-115;121;652;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
-116;121;656;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLockunlocked
+115;121;652;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLock=unlocked
+116;121;656;333;descriptionDe=Cadomyr Stadttor;descriptionEn=Cadomyr Towngate;doorLock=unlocked
 117;121;632;333
 118;121;632;333
 119;121;632;333
@@ -16880,7 +16880,7 @@
 121;121;632;333
 121;121;632;333
 122;121;689;333
-129;121;658;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLockunlocked
+129;121;658;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLock=unlocked
 137;121;3081;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
 142;121;635;333
 147;121;1783;333

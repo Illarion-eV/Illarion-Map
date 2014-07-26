@@ -1669,8 +1669,8 @@
 153;50;3204;333
 154;50;3204;333
 155;50;3204;0
-156;50;3200;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
-157;50;3200;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
+156;50;3200;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLock=unlocked
+157;50;3200;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLock=unlocked
 158;50;3204;333
 159;50;1100;333
 160;50;3207;333
@@ -1703,7 +1703,7 @@
 101;51;3205;0
 101;51;3204;0
 102;51;3332;0
-107;51;3283;333;descriptionDe=Arena-Schweinebaue;descriptionEn=Arena-Hog Dens;lockId=103;doorLockunlocked
+107;51;3283;333;descriptionDe=Arena-Schweinebaue;descriptionEn=Arena-Hog Dens;lockId=103;doorLock=unlocked
 111;51;422;0
 114;51;422;0
 121;51;627;0
@@ -1755,7 +1755,7 @@
 100;52;287;333
 101;52;287;333
 102;52;3205;0
-107;52;3283;333;descriptionDe=Arena-Schweinebaue;descriptionEn=Arena-Hog Dens;lockId=103;doorLockunlocked
+107;52;3283;333;descriptionDe=Arena-Schweinebaue;descriptionEn=Arena-Hog Dens;lockId=103;doorLock=unlocked
 118;52;422;0
 123;52;3207;0
 124;52;287;333
@@ -2337,8 +2337,8 @@
 131;63;3206;333
 131;63;3205;333
 132;63;3206;333
-133;63;3282;333;descriptionDe=Schweinebaue-Arena;descriptionEn=Hog Dens-Arena;lockId=103;doorLockunlocked
-134;63;3282;333;descriptionDe=Schweinebaue-Arena;descriptionEn=Hog Dens-Arena;lockId=103;doorLockunlocked
+133;63;3282;333;descriptionDe=Schweinebaue-Arena;descriptionEn=Hog Dens-Arena;lockId=103;doorLock=unlocked
+134;63;3282;333;descriptionDe=Schweinebaue-Arena;descriptionEn=Hog Dens-Arena;lockId=103;doorLock=unlocked
 135;63;3206;333
 135;63;425;333
 135;63;412;333
@@ -2508,7 +2508,7 @@
 143;65;981;333
 144;65;976;333
 145;65;426;333
-152;65;3201;333;descriptionDe=Schweinebaue-Gemmenschacht;descriptionEn=Hog Dens-Cameo Pit;lockId=103;doorLockunlocked
+152;65;3201;333;descriptionDe=Schweinebaue-Gemmenschacht;descriptionEn=Hog Dens-Cameo Pit;lockId=103;doorLock=unlocked
 155;65;402;333
 155;65;42;333
 157;65;402;333
@@ -2600,7 +2600,7 @@
 144;66;977;333
 144;66;979;333
 150;66;1783;333
-152;66;3201;333;descriptionDe=Schweinebaue-Gemmenschacht;descriptionEn=Hog Dens-Cameo Pit;lockId=103;doorLockunlocked
+152;66;3201;333;descriptionDe=Schweinebaue-Gemmenschacht;descriptionEn=Hog Dens-Cameo Pit;lockId=103;doorLock=unlocked
 160;66;402;333
 160;66;42;333
 162;66;402;333
@@ -3296,7 +3296,7 @@
 184;74;3208;333
 185;74;3204;333
 186;74;3204;333
-187;74;3200;333;descriptionDe=Wohnung Irmorom;descriptionEn=Flat Irmorom;lockId=120;doorLockunlocked
+187;74;3200;333;descriptionDe=Wohnung Irmorom;descriptionEn=Flat Irmorom;lockId=120;doorLock=locked
 188;74;3204;333
 189;74;3204;333
 190;74;3204;333
@@ -3562,8 +3562,8 @@
 161;77;220;333
 162;77;3206;333
 162;77;1783;333
-163;77;3282;333;descriptionDe=Gemmenschacht-Schweinebaue;descriptionEn=Cameo Pit-Hog Dens;lockId=103;doorLockunlocked
-164;77;3282;333;descriptionDe=Gemmenschacht-Schweinebaue;descriptionEn=Cameo Pit-Hog Dens;lockId=103;doorLockunlocked
+163;77;3282;333;descriptionDe=Gemmenschacht-Schweinebaue;descriptionEn=Cameo Pit-Hog Dens;lockId=103;doorLock=unlocked
+164;77;3282;333;descriptionDe=Gemmenschacht-Schweinebaue;descriptionEn=Cameo Pit-Hog Dens;lockId=103;doorLock=unlocked
 165;77;3206;333
 166;77;3206;333
 166;77;3095;333
@@ -3719,7 +3719,7 @@
 181;79;1783;333
 188;79;1272;333
 189;79;1247;333
-196;79;3283;333;descriptionDe=Wohnung Elara;descriptionEn=Flat Elara;lockId=121;doorLockunlocked
+196;79;3283;333;descriptionDe=Wohnung Elara;descriptionEn=Flat Elara;lockId=121;doorLock=locked
 206;79;742;333
 208;79;287;333
 208;79;3205;333
@@ -4548,7 +4548,7 @@
 179;88;287;333
 180;88;3205;333
 188;88;3207;333
-195;88;3283;333;descriptionDe=Wohnung Adron;descriptionEn=Flat Adron;lockId=122;doorLockunlocked
+195;88;3283;333;descriptionDe=Wohnung Adron;descriptionEn=Flat Adron;lockId=122;doorLock=locked
 204;88;3330;333
 204;88;276;333
 205;88;287;333
@@ -5458,9 +5458,9 @@
 104;95;976;0
 104;95;3206;0
 105;95;976;333
-105;95;3282;333;descriptionDe=Arena;descriptionEn=Arena;lockId=103;doorLockunlocked
+105;95;3282;333;descriptionDe=Arena;descriptionEn=Arena;lockId=103;doorLock=unlocked
 106;95;976;333
-106;95;3282;333;descriptionDe=Arena;descriptionEn=Arena;lockId=103;doorLockunlocked
+106;95;3282;333;descriptionDe=Arena;descriptionEn=Arena;lockId=103;doorLock=unlocked
 107;95;3206;333
 107;95;976;333
 107;95;3081;333;descriptionDe=Arena;descriptionEn=Arena
@@ -5474,7 +5474,7 @@
 111;95;3206;333
 111;95;976;333
 112;95;976;333
-113;95;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
+113;95;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLock=unlocked
 116;95;1100;333
 116;95;3332;333
 117;95;1100;333
@@ -5593,7 +5593,7 @@
 110;96;976;333
 111;96;976;333
 112;96;976;333
-113;96;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLockunlocked
+113;96;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLock=unlocked
 115;96;3331;333
 115;96;3331;333
 116;96;287;333
@@ -5628,7 +5628,7 @@
 184;96;1100;333
 185;96;3204;333
 186;96;3204;333
-187;96;3200;333;descriptionDe=Wohnung Oldra;descriptionEn=Flat Oldra;lockId=124;doorLockunlocked
+187;96;3200;333;descriptionDe=Wohnung Oldra;descriptionEn=Flat Oldra;lockId=124;doorLock=locked
 188;96;1100;333
 188;96;3207;333
 188;96;3204;333
@@ -5892,8 +5892,8 @@
 150;98;1100;333
 151;98;3204;333
 152;98;3204;333
-153;98;3200;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLockunlocked
-154;98;3200;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLockunlocked
+153;98;3200;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLock=unlocked
+154;98;3200;333;descriptionDe=Gemmenschacht-Tempel des Ronagan;descriptionEn=Cameo Pit-Temple of Ronagan;lockId=103;doorLock=unlocked
 155;98;3204;333
 156;98;3207;333
 156;98;3204;333
@@ -5903,7 +5903,7 @@
 160;98;287;333
 184;98;287;333
 185;98;3205;333
-194;98;3283;333;descriptionDe=Wohnung Malachin;descriptionEn=Flat Malachin;lockId=123;doorLockunlocked
+194;98;3283;333;descriptionDe=Wohnung Malachin;descriptionEn=Flat Malachin;lockId=123;doorLock=locked
 200;98;214;333
 201;98;214;333
 205;98;3204;0
@@ -6188,7 +6188,7 @@
 112;101;976;333
 113;101;976;333
 114;101;976;0
-115;101;3201;333;descriptionDe=Gemmenschacht;descriptionEn=Cameo Pit;lockId=103;doorLockunlocked
+115;101;3201;333;descriptionDe=Gemmenschacht;descriptionEn=Cameo Pit;lockId=103;doorLock=unlocked
 119;101;1783;333
 125;101;1783;333
 139;101;3331;333
@@ -6287,7 +6287,7 @@
 112;102;976;333
 113;102;976;333
 114;102;976;0
-115;102;3201;333;descriptionDe=Gemmenschacht;descriptionEn=Cameo Pit;lockId=103;doorLockunlocked
+115;102;3201;333;descriptionDe=Gemmenschacht;descriptionEn=Cameo Pit;lockId=103;doorLock=unlocked
 134;102;3331;333
 135;102;1100;333
 136;102;1100;333
@@ -6841,7 +6841,7 @@
 112;107;976;0
 113;107;976;0
 114;107;976;0
-114;107;3283;333;descriptionDe=Tempel des Ronagan;descriptionEn=Temple of Ronagan;lockId=103;doorLockunlocked
+114;107;3283;333;descriptionDe=Tempel des Ronagan;descriptionEn=Temple of Ronagan;lockId=103;doorLock=unlocked
 118;107;220;333
 118;107;394;333
 118;107;42;333
@@ -6919,7 +6919,7 @@
 95;108;287;333
 96;108;3206;333
 96;108;3205;333
-98;108;3283;333;descriptionDe=Schimmersenke;descriptionEn=Flicker Swale;lockId=103;doorLockunlocked
+98;108;3283;333;descriptionDe=Schimmersenke;descriptionEn=Flicker Swale;lockId=103;doorLock=unlocked
 100;108;976;0
 101;108;976;0
 102;108;976;0
@@ -6935,7 +6935,7 @@
 112;108;976;0
 113;108;976;0
 114;108;976;0
-114;108;3283;333;descriptionDe=Tempel des Ronagan;descriptionEn=Temple of Ronagan;lockId=103;doorLockunlocked
+114;108;3283;333;descriptionDe=Tempel des Ronagan;descriptionEn=Temple of Ronagan;lockId=103;doorLock=unlocked
 117;108;1783;333
 121;108;3330;333
 122;108;3206;333
@@ -7022,7 +7022,7 @@
 95;109;914;333
 96;109;3329;333
 96;109;411;333
-98;109;3283;333;descriptionDe=Schimmersenke;descriptionEn=Flicker Swale;lockId=103;doorLockunlocked
+98;109;3283;333;descriptionDe=Schimmersenke;descriptionEn=Flicker Swale;lockId=103;doorLock=unlocked
 100;109;976;0
 101;109;976;0
 102;109;976;0
@@ -7139,14 +7139,14 @@
 100;110;976;0
 101;110;3204;0
 102;110;3204;0
-103;110;3200;333;descriptionDe=Abwasserschächte;descriptionEn=Sewers;lockId=103;doorLockunlocked
-104;110;3200;333;descriptionDe=Abwasserschächte;descriptionEn=Sewers;lockId=103;doorLockunlocked
+103;110;3200;333;descriptionDe=Abwasserschächte;descriptionEn=Sewers;lockId=103;doorLock=unlocked
+104;110;3200;333;descriptionDe=Abwasserschächte;descriptionEn=Sewers;lockId=103;doorLock=unlocked
 105;110;3204;0
 106;110;3204;0
 107;110;3204;0
 108;110;3204;0
-109;110;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
-110;110;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
+109;110;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
+110;110;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
 111;110;3174;0
 112;110;976;0
 112;110;42;0
@@ -8034,8 +8034,8 @@
 151;117;3206;333
 152;117;3206;333
 152;117;423;333
-153;117;3282;333;descriptionDe=Tempel des Ronagan-Gemmenschacht;descriptionEn=Temple of Ronagan-Cameo Pit;lockId=103;doorLockunlocked
-154;117;3282;333;descriptionDe=Tempel des Ronagan-Gemmenschacht;descriptionEn=Temple of Ronagan-Cameo Pit;lockId=103;doorLockunlocked
+153;117;3282;333;descriptionDe=Tempel des Ronagan-Gemmenschacht;descriptionEn=Temple of Ronagan-Cameo Pit;lockId=103;doorLock=unlocked
+154;117;3282;333;descriptionDe=Tempel des Ronagan-Gemmenschacht;descriptionEn=Temple of Ronagan-Cameo Pit;lockId=103;doorlock=unlocked
 155;117;3206;333
 156;117;3206;333
 156;117;3100;333
@@ -10036,8 +10036,8 @@
 154;136;3204;333
 154;136;3205;0
 155;136;3204;0
-156;136;3200;333;descriptionDe=Tempel des Ronagan-Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan-Winged Sow Taverne;lockId=103;doorLockunlocked
-157;136;3200;333;descriptionDe=Tempel des Ronagan-Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan-Winged Sow Taverne;lockId=103;doorLockunlocked
+156;136;3200;333;descriptionDe=Tempel des Ronagan-Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan-Winged Sow Taverne;lockId=103;doorLock=unlocked
+157;136;3200;333;descriptionDe=Tempel des Ronagan-Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan-Winged Sow Taverne;lockId=103;doorLock=unlocked
 158;136;3204;333
 159;136;1100;333
 160;136;3332;333
@@ -10936,7 +10936,7 @@
 131;149;3205;333
 135;149;1272;333
 138;149;3097;333
-141;149;3283;333;descriptionDe=Taverne zur Geflügelten Sau-Tempel des Ronagan;descriptionEn=Winged Sow Taverne-Temple of Ronagan;lockId=103;doorLockunlocked
+141;149;3283;333;descriptionDe=Taverne zur Geflügelten Sau-Tempel des Ronagan;descriptionEn=Winged Sow Taverne-Temple of Ronagan;lockId=103;doorLock=unlocked
 146;149;3330;333
 147;149;3206;333
 147;149;2805;333;descriptionDe=Folge diesen sechs einfachen Regeln des Don, und du kannst tun und lassen was immer du möchtest.;descriptionEn=Follow the simple rules of the Don and you can do whatever you like.
@@ -10992,7 +10992,7 @@
 131;150;3205;333
 132;150;3332;333
 135;150;1783;333
-141;150;3283;333;descriptionDe=Taverne zur Geflügelten Sau-Tempel des Ronagan;descriptionEn=Winged Sow Taverne-Temple of Ronagan;lockId=103;doorLockunlocked
+141;150;3283;333;descriptionDe=Taverne zur Geflügelten Sau-Tempel des Ronagan;descriptionEn=Winged Sow Taverne-Temple of Ronagan;lockId=103;doorLock=unlocked
 147;150;402;333
 147;150;42;333
 149;150;402;333
@@ -11054,8 +11054,8 @@
 17;152;1100;333
 17;152;3204;333
 18;152;3204;333
-19;152;3200;333;descriptionDe=Spielraum;descriptionEn=Game room;lockId=103;doorLockunlocked
-20;152;3200;333;descriptionDe=Spielraum;descriptionEn=Game room;lockId=103;doorLockunlocked
+19;152;3200;333;descriptionDe=Spielraum;descriptionEn=Game room;lockId=103;doorLock=unlocked
+20;152;3200;333;descriptionDe=Spielraum;descriptionEn=Game room;lockId=103;doorLock=unlocked
 21;152;3204;333
 22;152;3204;333
 23;152;3208;333
@@ -12461,8 +12461,8 @@
 85;182;287;333
 148;182;287;333
 149;182;287;333
-150;182;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
-151;182;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLockunlocked
+150;182;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
+151;182;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
 152;182;287;333
 153;182;287;333
 154;182;287;333
@@ -12585,7 +12585,7 @@
 168;184;613;333
 169;184;613;333
 170;184;613;333
-171;184;712;333;descriptionDe=Taverne zur Geflügelten Sau - Lagerraum;descriptionEn=Winged Sow Taverne - Storeroom;lockId=103;doorLockunlocked
+171;184;712;333;descriptionDe=Taverne zur Geflügelten Sau - Lagerraum;descriptionEn=Winged Sow Taverne - Storeroom;lockId=103;doorLock=unlocked
 172;184;613;333
 173;184;3092;333
 174;184;287;333

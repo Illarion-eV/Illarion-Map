@@ -19703,7 +19703,7 @@
 426;249;690;333
 426;249;1245;333
 427;249;634;333
-434;249;655;333;descriptionDe=Versuchskammer;descriptionEn=Chamber of Experiments;doorLockunlocked
+434;249;655;333;descriptionDe=Versuchskammer;descriptionEn=Chamber of Experiments;doorLock=unlocked
 443;249;635;333
 447;249;627;333
 449;249;1246;333
@@ -19821,7 +19821,7 @@
 428;250;36;333
 428;250;276;333
 431;250;212;333
-434;250;659;333;descriptionDe=Versuchskammer;descriptionEn=Chamber of Experiments;doorLockunlocked
+434;250;659;333;descriptionDe=Versuchskammer;descriptionEn=Chamber of Experiments;doorLock=unlocked
 442;250;2876;333
 443;250;635;333
 443;250;550;333
@@ -22577,8 +22577,8 @@
 274;282;3431;0
 275;282;3435;0
 276;282;3431;0
-277;282;3477;333;descriptionDe=Landhaus;descriptionEn=Cottage;lockId=251;doorLockunlocked
-278;282;3478;333;descriptionDe=Landhaus;descriptionEn=Cottage;lockId=251;doorLockunlocked
+277;282;3477;333;descriptionDe=Landhaus;descriptionEn=Cottage;lockId=251;doorLock=locked
+278;282;3478;333;descriptionDe=Landhaus;descriptionEn=Cottage;lockId=251;doorLock=locked
 279;282;3431;0
 279;282;424;0
 280;282;3445;0
@@ -23346,8 +23346,8 @@
 234;290;921;333
 234;290;346;333
 235;290;340;333
-236;290;903;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird;lockId=250;doorLockunlocked
-237;290;905;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird;lockId=250;doorLockunlocked
+236;290;903;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird;lockId=250;doorLock=locked
+237;290;905;333;descriptionDe=Vierbeiniger Roter Vogel;descriptionEn=Quadruped Red Bird;lockId=250;doorLock=locked
 238;290;340;333
 239;290;340;333
 240;290;340;333
@@ -24254,7 +24254,7 @@
 385;305;1265;333
 385;305;1265;333
 387;305;718;333
-388;305;709;333;descriptionDe=Latrine;descriptionEn=Pit Latrine;doorLockunlocked
+388;305;709;333;descriptionDe=Latrine;descriptionEn=Pit Latrine;doorLock=unlocked
 389;305;719;333
 389;305;2850;333
 395;305;702;333
@@ -25009,7 +25009,7 @@
 386;317;682;333
 387;317;689;333
 389;317;395;333
-393;317;655;333;descriptionDe=Baumküche;descriptionEn=Tree kitchen;doorLockunlocked
+393;317;655;333;descriptionDe=Baumküche;descriptionEn=Tree kitchen;doorLock=unlocked
 398;317;635;333
 406;317;1257;333
 429;317;913;333
@@ -25043,7 +25043,7 @@
 386;318;513;333
 387;318;682;333
 388;318;689;333
-393;318;659;333;descriptionDe=Baumküche;descriptionEn=Tree kitchen;doorLockunlocked
+393;318;659;333;descriptionDe=Baumküche;descriptionEn=Tree kitchen;doorLock=unlocked
 398;318;635;333
 399;318;690;333
 400;318;690;333
