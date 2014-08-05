@@ -31804,6 +31804,7 @@
 129;238;2169;333
 132;238;1783;333
 136;238;273;333
+145;238;519;333;nameEn=Xavier Silverbottom;nameDe=Xavier Silverbottom;descriptionEn=Here lies the halfling Xavier Silverbottom. An innocent fell by the hands of a coward, and the righteous shall seek vengeance. May he rest in peace and keep the gods his soul protected from the dark.;descriptionDe=Hier liegt der Halbling Xavier Silverbottom. Ein Unschuldiger getötet von feiger Hand, and die Rechtschaffenen werden ihn rächen. Möge er in Frieden ruhen und mögen die Götter sein Seele vor dem Dunkel bewahren.
 146;238;203;333
 150;238;1810;333
 152;238;338;333
@@ -31902,8 +31903,6 @@
 137;239;274;333
 138;239;387;333
 141;239;387;333
-143;239;1783;333
-146;239;1783;333
 151;239;338;333
 164;239;338;333
 164;239;338;333
@@ -32260,6 +32259,7 @@
 128;243;1783;333
 131;243;1783;333
 138;243;273;333
+148;243;300;333
 161;243;629;333
 162;243;628;333
 163;243;1783;333
@@ -32351,7 +32351,6 @@
 139;244;386;333
 140;244;387;333
 142;244;274;333
-142;244;300;333
 145;244;1782;333
 147;244;338;333
 148;244;1783;333
