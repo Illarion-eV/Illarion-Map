@@ -25681,7 +25681,7 @@
 441;332;683;333
 442;332;628;333
 446;332;274;0
-327;333;2805;333;descriptionDe=~Oldra - Göttin des Lebens und der Fruchtbarkeit - segne unsere Gärten, Felder und Zuchttiere; neugeborene Kinder, gebärende Frauen, und der Geburt als solches.~;descriptionEn=~Oldra - Goddess of life and fertility - bless our gardens, fields and farm animals, newborn children, women giving birth, and birth itself.~
+327;333;2805;333;descriptionDe=Oldra - Göttin des Lebens und der Fruchtbarkeit - segne unsere Gärten, Felder und Zuchttiere; neugeborene Kinder, gebärende Frauen, und der Geburt als solches.;descriptionEn=Oldra - Goddess of life and fertility - bless our gardens, fields and farm animals, newborn children, women giving birth, and birth itself.
 379;333;634;0
 383;333;320;0
 387;333;688;0
