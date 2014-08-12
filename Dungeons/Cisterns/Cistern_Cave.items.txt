@@ -856,6 +856,7 @@
 1;40;599;333
 3;40;914;333
 9;40;28;333
+11;40;66;333;markerstone=544
 17;40;2745;333;descriptionEn=Fissshing iss besst in da morningsss. Usse bait, found *the rest of the message is lost as the rats have chewed on the parchment*;descriptionDe=Fissssche am besssten morgensss. Den Köder findet man * der Rest des Pergament ist unleserlich und von Ratten zerfressen*
 20;40;1783;333
 23;40;915;333
