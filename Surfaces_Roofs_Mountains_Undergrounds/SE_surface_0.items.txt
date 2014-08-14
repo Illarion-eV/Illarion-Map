@@ -24188,7 +24188,7 @@
 336;304;273;333
 337;304;273;333
 338;304;273;333
-339;304;3083;333;descriptionDe=Eibental, Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Yewdale, Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr
+339;304;3083;333;descriptionDe=Eibental, Anthilbach, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Gasthof zur Hanfschlinge, Galmair, Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Wald, Schlangenkopfbucht, Cadomyr;descriptionEn=Yewdale, Anthil Brook, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, The Hemp Necktie Inn, Galmair, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, Cadomyr
 354;304;387;333
 355;304;301;333
 379;304;273;333
@@ -24274,7 +24274,7 @@
 310;306;1176;0
 318;306;1170;0
 320;306;338;0
-321;306;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Hafen, Bauernhöfe, Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Quadruped Red Bird, Harbour, Farmland, Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr
+321;306;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Anthilbach, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Ostland, Der Todes Sumpf, Gasthof zur Hanfschlinge, Galmair, Bärenhöhle, Drachenhöhle, Todes Gestank, Elstree Wald, Schlangenkopfbucht, Cadomyr;descriptionEn=Quadruped Red Bird, Harbour, Anthil Brook, Merryglade, Oldra's Tower, Shadow Gate, Eastland, The Death Marsh, The Hemp Necktie Inn, Galmair, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Forest, Snakehead Coast, Cadomyr
 322;306;3141;0
 323;306;3158;0
 324;306;3158;0
@@ -24324,7 +24324,7 @@
 267;307;1782;333
 274;307;273;333
 278;307;1080;0
-278;307;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Hafen, Bauernhöfe, Anthilbach, Nördlicher Außenposten, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Bärenhöhle, Drachenhöhle, Dreifingerspitzen, Todes Gestank, Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Quadruped Red Bird, Harbour, Farmland, Anthil Brook, Northern Outpost, Coward's last stand, Merryglade, Oldra's Tower, Shadow Gate, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Bear Cave, Dragon's Lair, Three Fingertips, Death's Strench, Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr
+278;307;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Anthilbach, Feiglings letztes Gefecht, Fröhliche Lichtung, Oldras Turm, Schattentor, Ostland, Der Todes Sumpf, Gasthof zur Hanfschlinge, Galmair, Bärenhöhle, Drachenhöhle, Todes Gestank, Elstree Wald, Schlangenkopfbucht, Cadomyr;descriptionEn=Quadruped Red Bird, Harbour, Anthil Brook, Merryglade, Oldra's Tower, Shadow Gate, Eastland, The Death Marsh, The Hemp Necktie Inn, Galmair, Bear Cave, Dragon's Lair, Death's Strench, Elstree Forest, Snakehead Coast, Cadomyr
 279;307;3084;333;descriptionDe=Runewick, Erzmagier Elvaine Morgan;descriptionEn=Runewick, Archmage Elvaine Morgan
 322;307;3141;0
 323;307;3158;0

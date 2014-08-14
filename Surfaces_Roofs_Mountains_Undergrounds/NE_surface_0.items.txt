@@ -35328,7 +35328,7 @@
 108;330;287;333
 157;330;1782;333
 164;330;274;333
-170;330;3082;333;descriptionDe=Der Todes Sumpf, Igruks Höhle, Elstree Ebene, Elstree Wald, Ostland, Wunderland, Todes Gestank, Frische Sümpfe, Drachenhöhle, Runewick, Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=The Death Marsh, Igruk's Cave, Elstree Plain, Elstree Forest, Eastland, Wonderland, Death's Stench, Dewy Swamps, Dragon's Lair, Runewick, Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
+170;330;3082;333;descriptionDe=Der Todes Sumpf, Igruks Höhle, Elstree Ebene, Elstree Wald, Ostland, Todes Gestank, Frische Sümpfe, Drachenhöhle, Runewick, Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=The Death Marsh, Igruk's Cave, Elstree Plain, Elstree Forest, Eastland, Death's Stench, Dewy Swamps, Dragon's Lair, Runewick, Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 180;330;273;333
 189;330;301;333
 192;330;386;333
@@ -53006,7 +53006,7 @@
 261;441;934;1
 261;441;934;1
 267;441;212;1
-274;441;2874;1;nameEn=Mirror Change;nameDe=Spiegel des Wandels;descriptionEn=The image reflects back to you in rapid flashes the creation of the world by the gods, the rise and fall of Madrook, Gobaiths birth and death, and the past of the mainland with a vision of the future though its slightly blurred.;descriptionDe=Das Spiegelbild zeigt im schnellen Wechsel Bilder der Erschaffung der Welt durch die Götter, den Aufstieg und Fall Mandroks, Geburt und Tod Gobaiths und die Geschichte des Festlands, sowie Schauungen der Zukunft wobei diese jedoch sehr verschwommen erscheint.
+274;441;2874;1;nameEn=Mirror Change;nameDe=Spiegel des Wandels;descriptionEn=The image reflects back to you in rapid flashes the creation of the world by the gods, the rise and fall of Madrook, Gobaiths birth and death, and the past of the mainland with a vision of the future though its slightly blurred.;descriptionDe=Das Spiegelbild zeigt im schnellen Wechsel Bilder der Erschaffung der Welt durch die Götter, den Aufstieg und Fall Mandroks, Geburt und Tod Gobaiths und die Geschichte des Festlands, sowie Schauungen der Zukunft.
 275;441;933;1
 282;441;273;1
 284;441;1809;1
@@ -53645,7 +53645,7 @@
 258;445;274;1
 261;445;945;333
 265;445;649;1
-274;445;2874;1;nameEn=Mirror Chaos;nameDe=Spiegel des Chaos;descriptionEn=The image reflects back to you in rapid flashes visions of chaos, nothing is as expected. Things are flying around in the air as if in a whirlwind all around you. It grows dark in the mirror, like night has fallen and yet you still see the items flying by your head and around your body, like you have been trapped in a tornado.;descriptionDe=Das Spiegelbild zeigt im schnellen Wechsel Bilder des Chaos, nichts ist wie erwartet. Gegenstände fliegen durch die Luft wie in einem Wirbelsturm um dich herum. Es wird dunkel im Spiegel als ob die Nacht hereinbricht und dennoch scheinen die Gegenstände um dich herum zu wirbeln, als ob du in einem Tornado gefangen wärst.
+274;445;2874;1;nameEn=Mirror Chaos;nameDe=Spiegel des Chaos;descriptionEn=The image reflects back to you in rapid flashes visions of chaos, nothing is as expected.  It grows dark in the mirror, night has fallen and yet you still see the items flying by your head and around your body, like you have been trapped in a tornado.;descriptionDe=Das Spiegelbild zeigt im schnellen Wechsel Bilder des Chaos, nichts ist wie erwartet. Es wird dunkel im Spiegel als ob die Nacht hereinbricht und dennoch scheinen die Gegenstände um dich herum zu wirbeln, als ob du in einem Tornado gefangen wärst.
 275;445;933;1
 275;445;933;1
 277;445;422;1

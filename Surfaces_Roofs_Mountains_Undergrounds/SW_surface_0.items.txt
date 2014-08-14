@@ -9462,7 +9462,7 @@
 112;67;36;333
 113;67;215;333
 117;67;3247;333
-117;67;265;333;descriptionDe=Das Bild zeigt stolze Ritter wie sie gewöhnliches Volk dabei beobachten wie diese am Ende einer Wüste, in der Nähe von Bergen einen Palast bauen. Einer der Krieger hat einen langen Bart und trägt eine Krone. Er hält auch einen rot-weißen Banner. Unten rechts steht ein Datum: 16 BS.;descriptionEn=The picture shows proud knights watching ordinary folk building a palace at the periphery of a desert close to a mountain. One of the knights has a long beard and wears a crown. He holds a red and white banner. At the bottom right is a date: 16 BS.
+117;67;265;333;descriptionDe=Das Bild zeigt stolze Ritter wie sie gewöhnliches Volk dabei beobachten wie diese am Ende einer Wüste, in der Nähe von Bergen einen Palast bauen. Einer der Krieger hat eine Krone. Er hält auch einen rot-weißen Banner. Unten rechts steht ein Datum: 16 BS.;descriptionEn=The picture shows proud knights watching ordinary folk building a palace at the periphery of a desert close to a mountain. One of the knights has a long beard and wears a crown. He holds a red and white banner. At the bottom right is a date: 16 BS.
 118;67;232;333
 119;67;232;333
 124;67;878;333
@@ -12412,7 +12412,7 @@
 86;90;1101;333
 94;90;216;333
 96;90;1102;333
-96;90;265;333;descriptionDe=Das Bild zeigt stolze Ritter wie sie gewöhnliches Volk dabei beobachten wie diese am Ende einer Wüste, in der Nähe von Bergen einen Palast bauen. Einer der Krieger hat einen langen Bart und trägt eine Krone. Er hält auch einen rot-weißen Banner. Unten rechts steht ein Datum: 16 BS.;descriptionEn=The picture shows proud knights watching ordinary folk building a palace at the periphery of a desert close to a mountain. One of the knights has a long beard and wears a crown. He holds a red and white banner. At the bottom right is a date: 16 BS.
+96;90;265;333;descriptionDe=Das Bild zeigt stolze Ritter wie sie gewöhnliches Volk dabei beobachten wie diese am Ende einer Wüste, in der Nähe von Bergen einen Palast bauen. Einer der Krieger hat eine Krone. Er hält auch einen rot-weißen Banner. Unten rechts steht ein Datum: 16 BS.;descriptionEn=The picture shows proud knights watching ordinary folk building a palace at the periphery of a desert close to a mountain. One of the knights has a long beard and wears a crown. He holds a red and white banner. At the bottom right is a date: 16 BS.
 99;90;1276;0
 100;90;274;333
 116;90;396;333
@@ -18740,7 +18740,7 @@
 219;134;1782;333
 219;134;3083;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
 224;134;274;333
-226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
+226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
 233;134;1782;333
 243;134;1817;333
 244;134;386;333
