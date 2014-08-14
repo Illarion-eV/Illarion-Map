@@ -283,7 +283,7 @@
 74;7;414;1
 75;7;600;1
 87;7;600;1
-92;7;3109;0;nameDe=Tagebuch eines Abenteurers I;nameEn=Journal of an adventurer I;descriptionDe=--13. El*s 30: Sie trä** heu*t* einen bl*uen R*ck, sie si*ht wunder***ön aus.-- --15. Elos 3*: Heu*e hat sie mich angelä***lt, sol*te ich sie ansp**chen?-- --7. Zh*s 30: Die le**ten Tage wa**n s*hr anstr***end, i*h sollte m**h au***hen.-- --13. S**os 30: ** *st S**os, ob i*h ihr et*as sc**nken so**te?--;descriptionEn=--13. El*s 30: She w**rs a bl*e sk*rt, s*e l*oks so be****ful to**y.-- --15. Elos 3*: T**ay s*e sm**ed *t me, sh**ld I talk wi*h h*r?-- --7. Zh*s 30: The p**t da*s we*e v**y exha**ting, I sh**ld re*t for a *****.-- --13. S**os 30: I*'s S**os, sh**ld I get a g**t for h**?--
+92;7;3109;0;nameDe=Tagebuch eines Abenteurers I;nameEn=Journal of an adventurer I;descriptionDe=--13. El*s 30: Sie trä** heu*t* einen bl*uen R*ck, sie si*ht wunder***ön aus.-- --15. Elos 3*: Heu*e hat sie mich angelä***lt, sol*te ich sie ansp**chen?--;descriptionEn=--13. El*s 30: She w**rs a bl*e sk*rt, s*e l*oks so be****ful to**y.-- --15. Elos 3*: T**ay s*e sm**ed *t me, sh**ld I talk wi*h h*r?--
 93;7;2038;1
 94;7;3098;1
 99;7;600;1
@@ -2384,7 +2384,7 @@
 78;91;412;1
 81;91;3100;1
 83;91;2039;1
-84;91;3109;0;nameDe=Karte;nameEn=Map;descriptionDe=Das scheint eine art Karte diesr Höhle zu sein.  Es sieht wie ein Labyrinth aus.  Des Weiteren scheint es als hätte das Labyrinth neun Kammern. Außerdem erkennst du, dass in jeder Kammer eine verschiedene Anzahl an schwarzen Punkten eingezeichnet zu sein. Was es damit wohl auf sich hat?;descriptionEn=This seems like a map of this cave. It looks like a maze. In addition it seems that the maze has nine chambers. Furthermore, you can see that each chamber has a different number of black points on it. What does this mean?
+84;91;3109;0;nameDe=Karte;nameEn=Map;descriptionDe=Das scheint eine art Karte diesr Höhle zu sein.  Es sieht wie ein Labyrinth aus.  Des Weiteren scheint es als hätte das Labyrinth neun Kammern. Außerdem erkennst du, dass in jeder Kammer eine verschiedene Anzahl an schwarzen Punkten eingezeichnet zu sein.;descriptionEn=This seems like a map of this cave. It looks like a maze. In addition it seems that the maze has nine chambers. Furthermore, you can see that each chamber has a different number of black points on it.
 95;91;2937;1
 97;91;513;1
 99;91;600;1
