@@ -335,7 +335,7 @@
 99;28;600;1
 0;29;600;1
 62;29;2937;0
-64;29;3109;0;nameDe=Tagebuch eines Abenteurers III;nameEn=Journal of an adventurer III;descriptionDe=--1. Ch*s 3*: Ich hab h**te einen Eingang nahe Ca***yr entdeckt. Wo mag er wohl hi**ühren?-- --4. C**s 30: *h hab m*r diese H***e näher ange***aut, es sch**nt ein Lab***nth zu sein.-- --2. Mas **: Ich f**e hier n***t mehr r**s! Ich werd h**r noch verückt! --3. Mas 30: Ich h**e Angst. I*h w**l sie wied**sehen...-- --5. M** 3*: ~Hier endet die Schriftrolle, etwas Blut scheint an der Schriftrolle zu haften.~--;descriptionEn=--1. Ch*s 3*: T**ay I fo*nd an ent**nce n*r Ca****r. I'm won***ing wh**e it le*ds to.-- --4. C**s 30: I w*nt i*to t*is ca*e, it l**ks l*ke a m**e.-- --2. Mas **: I c***t fi*d the w*y out ag**n! I'll be**me cr*zy h**e so*n!-- --3. Mas 30: I'm af**id..I w*nt to s*e her ag**n!-- --5. M** 3*: ~The parchment ends here, only some blood seems to stick on the parchment.~--
+64;29;3109;0;nameDe=Tagebuch eines Abenteurers III;nameEn=Journal of an adventurer III;descriptionDe=--1. Ch*s 3*: Ich hab h**te einen Eingang nahe Ca***yr entdeckt. Wo mag er wohl hi**ühren?-- --4. C**s 30: *h hab m*r diese H***e näher ange***aut, es sch**nt ein Lab***nth zu sein.-- ;descriptionEn=--1. Ch*s 3*: T**ay I fo*nd an ent**nce n*r Ca****r. I'm won***ing wh**e it le*ds to.-- --4. C**s 30: I w*nt i*to t*is ca*e, it l**ks l*ke a m**e.--
 72;29;360;0
 84;29;360;0
 94;29;360;0

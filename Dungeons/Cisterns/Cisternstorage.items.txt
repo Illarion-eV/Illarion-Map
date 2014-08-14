@@ -304,7 +304,7 @@
 17;11;3101;333
 20;11;3100;333
 22;11;426;333
-32;11;2745;333;descriptionEn=Ta make one of da most difficult helms, da flame helmet, collect ye resources first: Nine iron ingots, six copper ingots, one gold ingot, one silver ingot, and two merinium ingot. You will also need da pure fire. In working da ingots at da anvil, be careful in how ya shapes dem, ya don't want ta waste any resources.;descriptionDe=Um einen der kompliziertesten Helme herzustellen sammle zuerst alle Rohstoffe: 9 Eisenbarren, 6 Kupferbarren, 1 Goldbarren, 1 Silberbarren und 2 Meriniumbarren. Außerdem brauchst du ein reines Feuer. Sei sorgsam bei der Verarbeitung der Materialien, verschwende sie nicht.
+32;11;2745;333;descriptionEn=Ta make one of da most difficult helms, da flame helmet, collect ye resources first: Nine iron ingots, six copper ingots, one gold ingot, one silver ingot, and two merinium ingot. You will also need da pure fire.;descriptionDe=Um einen der kompliziertesten Helme herzustellen sammle zuerst alle Rohstoffe: 9 Eisenbarren, 6 Kupferbarren, 1 Goldbarren, 1 Silberbarren und 2 Meriniumbarren. Außerdem brauchst du ein reines Feuer.
 39;11;993;333
 0;12;613;333
 4;12;422;333
@@ -494,7 +494,7 @@
 39;23;613;333
 0;24;914;333
 3;24;422;333
-6;24;2745;333;descriptionEn=Salkamaerian officer's armour, now dis be difficult. Why anyone would want it is a whole noder question. Gader all ye supplies: 20 iron ingots, eight copper ingots, two gold ingots, one merinium ingot, eight pieces of leather, eight pieces of grey cloth, one cut topaz and a pure earth. As ye can guess, dis be a difficult armour ta make. Bend da ores ta ya will.;descriptionDe=Die Salkamaerische Offiziersrüstung ist kompliziert. Warum diese Rüstung jeder haben will ist eine andere Frage. Sammle alle Materialien: 20 Eisenbarren, 8 Kupfer, 2 Gold und 1 Meriniumbarren, 8 Lederstücke und 8 Ballen grauer Stoff, ein geschliffener Topas und 1 reine Erde. Wie gesagt, die Rüstung ist schwer herzustellen. Biege das Erz nach deinem Willen.
+6;24;2745;333;descriptionEn=Salkamaerian officer's armour, now dis be difficult. Gader all ye supplies: 20 iron ingots, eight copper ingots, two gold ingots, one merinium ingot, eight pieces of leather, eight pieces of grey cloth, one cut topaz and a pure earth.;descriptionDe=Die Salkamaerische Offiziersrüstung ist kompliziert. Sammle alle Materialien: 20 Eisenbarren, 8 Kupfer, 2 Gold und 1 Meriniumbarren, 8 Lederstücke und 8 Ballen grauer Stoff, ein geschliffener Topas und 1 reine Erde.
 9;24;2586;333
 10;24;1907;333
 14;24;1783;333

@@ -480,7 +480,7 @@
 0;17;287;333
 1;17;599;333
 23;17;914;333
-28;17;2745;333;descriptionEn=Making the golden goblet actually takes two ingots of silver and one ingot of gold. First, you fashion the goblet from the silver, then you cover or overlay the entire thing in gold, polishing it until it sparkles and you can see your eyes in the reflection.;descriptionDe=Einen goldenen Kelch zu erstellen braucht der Barren drei, zwei aus Silber und einen aus Gold. Forme den Kelch aus dem Silber und dann beschlage ihn mit dem Gold, poliere ihn bis er so funkelt, dass sich deine Augen in ihm spiegeln.
+28;17;2745;333;descriptionEn=Making the golden goblet takes two ingots of silver and one ingot of gold. First, you fashion the goblet from the silver, then you cover or overlay the entire thing in gold.;descriptionDe=Einen goldenen Kelch zu erstellen braucht der Barren drei, zwei aus Silber und einen aus Gold. Forme den Kelch aus dem Silber und dann beschlage ihn mit dem Gold, poliere ihn bis er so funkelt.
 29;17;3097;333
 39;17;1265;333
 45;17;3095;333
@@ -689,7 +689,7 @@
 18;30;287;333
 19;30;630;333
 20;30;628;333
-22;30;2745;333;descriptionEn=To make a crown, like the Queen wears, you will need to shape it from three silver ingots, adding three gold ingots, then a touch of merinium. Once this is completed the cut jewels can be added, using one each of sapphire, topaz and diamond. As always, be sure to polish your work to a glittering shine before adding the cut jewels.;descriptionDe=Um eine Krone, wie die der Königin, zu erstellen forme sie zuerst aus drei Silber Barren, füge drei Goldene hinzu und einen Hauch von Merinium. Sobald dies erledigt füge die geschliffenen Juwelen ein, von Saphir, Topaz und Diamant je einen. Wie immer, stelle sicher, dass deine Arbeit auf Hochglanz poliert ist bevor die Juwelen eingefügt werden.
+22;30;2745;333;descriptionEn=To make a crown, like the Queen wears, you will need to shape it from three silver ingots, adding three gold ingots, then a touch of merinium. Once this is completed then add a sapphire, topaz and diamond.;descriptionDe=Um eine Krone, wie die der Königin, zu erstellen forme sie zuerst aus drei Silber Barren, füge drei Goldene hinzu und einen Hauch von Merinium. Sobald dies erledigt füge die geschliffenen Juwelen ein, von Saphir, Topaz und Diamant je einen.
 28;30;1276;333
 34;30;2855;333
 35;30;1245;333
@@ -875,7 +875,7 @@
 17;41;1245;333
 32;41;1783;333
 38;41;1245;333
-39;41;2745;333;descriptionEn=The ring of an Archmage is not easily made. First craft a ring of two silver ingots, covering it in two gold ingots. Now add a merninum ingot in such a way that it holds the essence of a pure air, pure fire, and pure water, being careful not to hurt yourself in the process. This is by no means easy and may take some practice to do well. Polish this to a fine shine. Once you are happy with the finish, you can add the finely cut diamond. ;descriptionDe=Ein Ring des Erzmagiers ist schwer zu erstellen. Zuerst forme einen Ring aus zwei silbernen Barren, ummantele das ganze mit dem Gold von zwei weiteren. Nun füge das Merinium eines Barrens so hinzu, dass es die Essenz je einer reinen Luft, Erde, Feuer und Wassers enthält. Tue dies vorsichtig um dich nicht zu verletzen. Dies ist wahrlich nicht einfach und erfordert einiges an Übung. Poliere is bis es glänzt und wenn du zufrieden bist mit deiner Arbeit, kannst du den geschliffenen Diamant einfügen.
+39;41;2745;333;descriptionEn=The ring of an Archmage. First craft a ring of two silver ingots, covering it in two gold ingots. Now add a merninum ingot in such a way that it holds the essence of a pure air, pure fire, and pure water.;descriptionDe=Ein Ring des Erzmagiers. Zuerst forme einen Ring aus zwei silbernen Barren, ummantele das ganze mit dem Gold von zwei weiteren. Nun füge das Merinium eines Barrens so hinzu, dass es die Essenz je einer reinen Luft, Erde, Feuer und Wassers enthält.
 42;41;1254;333
 45;41;623;333
 46;41;287;333
