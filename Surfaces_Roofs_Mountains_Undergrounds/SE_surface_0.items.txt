@@ -9098,7 +9098,7 @@
 245;120;274;333
 248;120;3084;333;descriptionDe=Drachenbau! Achtung heiﬂ!;descriptionEn=Dragon Lair! Caution hot!
 251;120;1273;0
-254;120;654;333
+254;120;654;333;doorLock=locked;lockId=501;descriptionDe=Drachenhort;descriptionEn=Dragon Cave
 260;120;623;333
 261;120;287;333
 262;120;287;333
@@ -9156,7 +9156,7 @@
 14;121;1783;333
 15;121;587;333
 16;121;911;0
-254;121;658;333
+254;121;658;333;descriptionDe=Drachenhort;descriptionEn=Dragon Cave;doorLock=locked;lockId=501
 260;121;623;333
 261;121;287;333
 262;121;287;333
