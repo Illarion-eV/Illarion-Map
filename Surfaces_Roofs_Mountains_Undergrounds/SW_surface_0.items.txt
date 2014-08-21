@@ -2312,6 +2312,7 @@
 110;15;287;333
 111;15;287;333
 112;15;3245;333
+116;15;3106;333
 117;15;262;333
 118;15;262;333
 119;15;262;333
@@ -2665,7 +2666,6 @@
 110;18;287;333
 111;18;287;333
 112;18;3245;333
-118;18;3106;0
 130;18;1070;0
 130;18;2069;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 131;18;3245;333
