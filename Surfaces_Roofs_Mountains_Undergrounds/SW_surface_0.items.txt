@@ -1218,12 +1218,9 @@
 111;7;287;333
 112;7;3245;333
 119;7;66;0;markerstone=326
-121;7;1071;0
-121;7;2046;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
-122;7;1071;0
-122;7;2046;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
-123;7;1071;0
-123;7;2046;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
+121;7;1071;0;nameDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
+122;7;1071;0;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
+123;7;1071;0;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 128;7;3233;333;descriptionDe=Kˆnigliche Kammer;descriptionEn=Royal Chamber;lockId=300;doorLock=locked
 136;7;2875;333
 137;7;2875;333
@@ -2420,8 +2417,7 @@
 123;16;957;0
 124;16;694;333;descriptionDe=Ein nobel gekleideter Mann mit einer Krone am Kopf. Sein langes Haar und Bard reichen bis zu seiner Robe mit einem einhˆrnigen Lˆwe an seiner Brust. Er h‰lt einen Schl¸ssel und eine Tafel mit der Gravur: 'Cadomyr'.;descriptionEn=A nobly dressed man wears a crown on his head. His long hair and beard reach his red robe that bears a single horned lion on the chest. He holds a key and a tablet with the engraving: 'Cadomyr - 137 BS'.
 126;16;1068;0
-130;16;1070;0
-130;16;2069;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
+130;16;1070;0;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 131;16;3245;333
 134;16;433;333
 135;16;433;333
@@ -2536,7 +2532,6 @@
 110;17;287;333
 111;17;287;333
 112;17;3245;333
-130;17;464;333
 130;17;272;333;descriptionDe=Ein gutaussehender Mann tr‰gt eine reichlich dekorierte rote Robe. Zu seiner Seite steht eine junge, sehr attraktive Frau in einem weiﬂen langen Kleid. Sie halten zusammen einen Schild, verziert mit einem einhˆrnigen Lˆwen.;descriptionEn=A handsome looking man wears a richly decorated red robe. He is flanked by a young and very attractive woman in a long white dress. Together they hold a shield with the image of a single horned lion.
 131;17;3245;333
 134;17;433;333
@@ -2655,8 +2650,7 @@
 110;18;287;333
 111;18;287;333
 112;18;3245;333
-130;18;1070;0
-130;18;2069;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
+130;18;1070;0;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 131;18;3245;333
 135;18;263;333
 135;18;260;333
@@ -5705,7 +5699,6 @@
 109;39;3246;333
 109;39;3247;333
 109;39;3220;333
-109;39;2046;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 110;39;301;333
 110;39;1276;0
 111;39;301;333
@@ -5890,8 +5883,7 @@
 102;40;3245;333
 104;40;2046;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 106;40;3075;333
-107;40;2046;333
-108;40;661;0
+107;40;2046;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 109;40;3247;333
 109;40;3260;0
 110;40;301;333
@@ -32043,11 +32035,9 @@
 345;240;274;333
 347;240;1782;333
 347;240;1783;333
-357;240;2927;333
 357;240;2046;333;descriptionDe=Tritt ein, bring Geld herein! Lumpskrum wird es dir danken.;descriptionEn=Please enter and leave your coins! Lumpskrum will be grateful.
 359;240;1782;333
 360;240;66;0;markerstone=361
-361;240;2927;333
 361;240;2046;333;descriptionDe=Tritt ein, bring Geld herein! Lumpskrum wird es dir danken.;descriptionEn=Please enter and leave your coins! Lumpskrum will be grateful.
 362;240;1783;333
 373;240;1783;333
@@ -32646,7 +32636,6 @@
 173;247;723;333
 174;247;276;333
 176;247;723;333
-176;247;464;333
 176;247;272;333;descriptionDe=Eine junge, sehr attraktive Frau tanzt in einem langen weiﬂen Kleid. Ihr Haar scheint im umgebenden Licht.;descriptionEn=A young and very attractive woman dances in her long white dress. Her hair shines in the surrounding light.
 177;247;276;333
 178;247;301;333
@@ -33228,7 +33217,6 @@
 173;252;721;333
 174;252;276;333
 176;252;721;333
-176;252;464;333
 176;252;272;333;descriptionDe=Eine junge, sehr attraktive Frau scheint sehr aufgebracht zu sein als sie auf ein Pergamentst¸ck mit dem Wort 'Zicke'.;descriptionEn=A young and very attractive woman seems to be very angry as she looks at parchment with the word 'bitch' written across it.
 177;252;276;333
 178;252;301;333
