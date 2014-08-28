@@ -1029,7 +1029,7 @@
 222;103;35;333
 222;103;472;333
 222;103;341;333
-223;103;920;333
+223;103;920;333;lockId=600;descriptionDe=Göttliches Gefängnis;descriptionEn=Divine Prison;doorLock=locked
 224;103;35;333
 224;103;473;333
 224;103;909;333
