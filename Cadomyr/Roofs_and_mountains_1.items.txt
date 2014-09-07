@@ -2130,10 +2130,9 @@
 82;59;3246;333
 83;59;3246;333
 84;59;3246;333
-84;59;3245;333
 85;59;3246;333
+85;59;3245;333
 86;59;3246;333
-86;59;3245;333
 87;59;3246;333
 88;59;3246;333
 89;59;3246;333
@@ -2151,10 +2150,9 @@
 75;60;3129;333
 76;60;301;333
 80;60;3245;333
-81;60;267;333
 82;60;747;333
-84;60;3245;333
-86;60;3245;333
+84;60;267;333
+85;60;3245;333
 88;60;747;333
 90;60;3247;333
 130;60;501;333
@@ -2182,8 +2180,8 @@
 78;61;218;333
 79;61;396;333
 80;61;3245;333
-84;61;3245;333
-86;61;3245;333
+85;61;3245;333
+85;61;3245;333
 90;61;3251;333
 99;61;3122;333
 99;61;3119;333
@@ -2225,8 +2223,8 @@
 78;62;2885;333
 79;62;219;333
 80;62;3245;333
-84;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
-86;62;3225;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
+84;62;2874;333
+85;62;3245;333
 88;62;218;333
 90;62;3247;333
 99;62;3119;333
@@ -2247,9 +2245,8 @@
 76;63;301;333
 78;63;216;333
 80;63;3245;333
-83;63;396;333
-84;63;3245;333
-86;63;3245;333
+85;63;3245;333
+85;63;3245;333
 87;63;217;333
 88;63;2885;333
 89;63;219;333
@@ -2266,9 +2263,8 @@
 75;64;3129;333
 76;64;301;333
 80;64;3245;333
-83;64;2874;333
-84;64;3245;333
-86;64;3245;333
+83;64;396;333
+85;64;3245;333
 88;64;216;333
 90;64;3247;333
 99;64;3119;333
@@ -2289,13 +2285,14 @@
 80;65;702;333
 80;65;700;333
 80;65;3223;333
-81;65;3244;333
+81;65;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 82;65;3244;333
 83;65;3244;333
-84;65;3223;333
-85;65;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
-86;65;3223;333
-87;65;3244;333
+84;65;3244;333
+85;65;3245;333
+85;65;3244;333
+86;65;3244;333
+87;65;3224;333;descriptionDe=Gasthaus Seeufer;descriptionEn=Inn Lakeshore;doorLock=unlocked
 88;65;3244;333
 89;65;3244;333
 90;65;3222;333
@@ -2315,7 +2312,6 @@
 80;66;3245;333
 83;66;2832;333
 84;66;748;333;descriptionDe=Ritter mit Schwertern und rot-weiﬂen Bannern schlachten einen Drachen ab, der sie mit Flammen einzudecken versucht w‰hrend im Hintergrund blau-grau bekleidete Magier mit einer Schatzkist davon laufen. Unten rechts steht ein Datum: 15 AS.;descriptionEn=Knights with swords and red-white banners are slaughtering a dragon who tries to engulf them with flames, whilst in the background a group of blue-grey dressed mages are running away with a treasure chest. At the bottom right is a date: 15 AS.
-87;66;3278;333
 89;66;2832;333
 90;66;3247;333
 90;66;396;333
