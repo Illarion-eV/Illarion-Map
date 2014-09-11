@@ -10392,7 +10392,8 @@
 417;248;3177;333
 425;248;3083;333;descriptionDe=Galmair;descriptionEn=Galmair
 426;248;396;0
-427;248;3084;333;descriptionDe=Narguns Ebene, Hafen, Dunkellochmine, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Nargun's Plain, Harbour, Dark Hole Mine, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
+427;248;3084;333;descriptionDe=Narguns Ebene, Hafen, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Nargun's Plain, Harbour, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
+430;248;3081;333;descriptionDe=Dunkellochmine;descriptionEn=Dark Hole Mine
 431;248;387;333
 432;248;1817;333
 433;248;308;333
