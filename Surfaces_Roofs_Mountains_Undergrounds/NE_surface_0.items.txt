@@ -15473,6 +15473,7 @@
 488;179;287;1
 0;180;1782;333
 8;180;586;333
+14;180;3084;333;descriptionDe=Rabans Weiher;descriptionEn=Raban's Pond
 15;180;273;333
 20;180;1783;333
 28;180;274;333
@@ -22384,6 +22385,7 @@
 213;231;274;333
 215;231;1783;333
 231;231;911;333
+246;231;3081;333;descriptionEn=Raban's Pond;descriptionDe=Rabans Weiher
 263;231;273;333
 279;231;1783;333
 282;231;273;333
@@ -47422,6 +47424,7 @@
 211;407;628;333
 218;407;1782;1
 220;407;1783;1
+224;407;3084;333;descriptionEn=The Sparkling Fishing Bank;descriptionDe=Das funkelnde Angelufer
 245;407;1804;1
 247;407;1783;1
 252;407;273;1
@@ -50018,6 +50021,7 @@
 267;427;1195;333
 272;427;1804;1
 280;427;274;1
+285;427;3082;333;descriptionDe=Das funkelnde Angelufer;descriptionEn=The Sparkling Fishing Bank
 286;427;301;1
 287;427;301;1
 288;427;301;1

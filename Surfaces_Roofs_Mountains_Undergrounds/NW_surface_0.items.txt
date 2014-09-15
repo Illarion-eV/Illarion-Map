@@ -13857,6 +13857,7 @@
 349;285;287;0
 350;285;287;0
 360;285;1817;0
+377;285;3082;333;descriptionEn=Da Fishin Spot;descriptionDe=De Angelstelle
 379;285;66;0;markerstone=154
 390;285;308;0
 394;285;964;0
@@ -17012,6 +17013,7 @@
 389;342;42;333
 390;342;3265;0
 391;342;274;333
+393;342;3084;333;descriptionDe=De Angelstelle;descriptionEn=Da Fishin Spot
 407;342;615;333
 408;342;615;333
 413;342;1170;333
@@ -32099,6 +32101,7 @@
 171;464;1783;333
 174;464;338;333
 175;464;1782;333
+175;464;3081;333;descriptionEn=Sandy Beach Fishing Hole;descriptionDe=Sandstrand-Angelplatz
 177;464;3262;0
 185;464;338;333
 186;464;1783;333

@@ -16489,6 +16489,7 @@
 159;119;274;333
 160;119;274;333
 174;119;273;333
+180;119;3081;333;descriptionDe=Sandstrand-Angelplatz;descriptionEn=Sandy Beach Fishing Hole
 189;119;1783;333
 191;119;623;333
 192;119;287;333
@@ -19262,6 +19263,7 @@
 200;140;1783;333
 206;140;912;333
 210;140;338;333
+219;140;3082;333;descriptionEn=Clear Streams Fishing , Merry Ole Fishing Spot;descriptionDe=Angeln am klaren Bach, Guter alter Angelplatz
 222;140;1782;333
 244;140;1782;333
 251;140;1783;333
@@ -31765,6 +31767,7 @@
 182;239;338;333
 192;239;915;333
 193;239;1245;333
+200;239;3083;333;descriptionDe=Angeln am klaren Bach, Guter alter Angelplatz;descriptionEn=Clear Streams Fishing , Merry Ole Fishing Spot
 216;239;1276;333
 224;239;1783;333
 250;239;1783;333
@@ -33858,6 +33861,7 @@
 148;259;338;333
 151;259;1810;333
 159;259;1176;0
+162;259;3117;333;descriptionDe=Guter alter Angelplatz;descriptionEn=Merry Ole Fishing Spot
 168;259;273;333
 169;259;1782;333
 184;259;627;333
