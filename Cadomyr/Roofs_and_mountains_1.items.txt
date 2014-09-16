@@ -3244,7 +3244,7 @@
 171;102;878;0
 93;103;3124;333
 93;103;301;333
-95;103;1110;333;descriptionDe=Villa Rosaline - Balkon;descriptionEn=Villa Rosaline - Balcony;doorLock=unlocked
+95;103;1110;333;descriptionDe=Villa Rosaline - Balkon;doorLock=locked;lockId=310;descriptionEn=Villa Rosaline - Balcony
 101;103;2877;333
 102;103;2877;333
 103;103;1102;333
