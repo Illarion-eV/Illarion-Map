@@ -18936,7 +18936,6 @@
 488;205;287;1
 488;205;287;1
 0;206;273;333
-3;206;797;333
 6;206;519;333;descriptionDe=Vom ersten Moment an liebte sie Moshran wie einen Vater. Als sie hörte, dass die Völker ihn nicht einmal beim Namen nannten beschloss sie ihnen den Namen in Erinnerung zu rufen. Sie sollen seinen Name fürchten wie seine Rache selbst;descriptionEn=From the first moment on she loved the Bone Lord like a father. Hearing about the people Moshran saved once now not even saying his name, she decided to make them remember it. They shall fear it as the revenge of Moshran himself
 7;206;1782;333
 8;206;1792;333
@@ -19215,9 +19214,7 @@
 488;207;287;1
 488;207;287;1
 0;208;886;333
-0;208;798;333
 6;208;886;333
-6;208;798;333
 8;208;1161;333
 11;208;1783;333
 12;208;874;333
@@ -20085,9 +20082,7 @@
 487;213;287;1
 488;213;287;1
 1;214;886;333
-1;214;798;333
 5;214;886;333
-5;214;798;333
 8;214;1782;333
 8;214;1161;333
 23;214;1257;333
@@ -44496,7 +44491,6 @@
 94;388;1245;333
 96;388;1161;333
 106;388;886;333
-106;388;798;333
 110;388;623;333
 111;388;287;333
 111;388;287;333
@@ -44701,7 +44695,6 @@
 95;389;1161;333
 98;389;916;333
 102;389;886;333
-102;389;798;333
 108;389;521;333;nameEn=During the first aeon of his imprisonment Moshran studied the eggs his children did steal from Brágon. He talked to them influencing the unborn creatures and shared his gifts and pain with them;descriptionDe=Während des Zeitalters seiner Gefangenschaft untersuchte Moshran die Eier, welche seine Kinder von Brágon erbeutet hatten. Er sprach mit ihnen, beeinflusste die Ungeborenen und teilte mit ihnen seine Gaben und seinen Schmerz
 110;389;596;333
 111;389;287;333
@@ -45255,7 +45248,6 @@
 87;392;1782;333
 94;392;629;333
 95;392;628;333
-109;392;796;333
 110;392;629;333
 111;392;622;333
 112;392;623;333
@@ -45814,7 +45806,6 @@
 95;395;2069;333;descriptionEn=The falg shows a golden eagle sitting on a golden sword on a red backing;descriptionDe=Das Banner trägt einen goldenen Adler auf einem goldenen Schwert auf rotem Grund 
 96;395;1161;333
 102;395;886;333
-102;395;798;333
 107;395;274;333
 110;395;1880;333
 111;395;387;333
@@ -45956,7 +45947,6 @@
 86;396;274;333
 98;396;1161;333
 106;396;886;333
-106;396;798;333
 111;396;623;333
 112;396;287;333
 113;396;287;333

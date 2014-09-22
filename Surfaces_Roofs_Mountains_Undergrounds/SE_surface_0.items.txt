@@ -7425,7 +7425,6 @@
 373;104;916;333
 378;104;519;333;descriptionDe=Er fühlte mit dem gebrochenen, einst so stolzen Krieger und teilte seinen Hass auf die Völker, die Welt und die Götter. Bis zu ihrem Ende sollten sie Leiden oder verstehen wie schlecht sie ihren Retter behandelten;descriptionEn=He felt with the broken once so proud warrior and shared his hate to all the people, the world and the gods. They should suffer for what they've done to Moshran till they die or understand how bad they did threat their saviour
 380;104;886;333
-380;104;798;333
 386;104;627;333
 390;104;623;333
 391;104;287;333
@@ -7557,7 +7556,6 @@
 370;105;3099;333
 373;105;273;333
 375;105;886;333
-375;105;798;333
 384;105;1879;333
 386;105;623;333
 387;105;287;333
@@ -7921,7 +7919,6 @@
 372;108;3099;333
 373;108;220;333
 379;108;3101;333
-383;108;796;333
 384;108;623;333
 385;108;287;333
 386;108;287;333
@@ -8236,7 +8233,6 @@
 370;111;3098;333
 373;111;3101;333
 375;111;886;333
-375;111;798;333
 377;111;916;333
 382;111;623;333
 383;111;287;333
@@ -8331,7 +8327,6 @@
 366;112;274;333
 370;112;3098;333
 380;112;886;333
-380;112;798;333
 382;112;623;333
 383;112;287;333
 384;112;622;333
@@ -12788,7 +12783,6 @@
 270;156;1251;333
 273;156;3101;333
 274;156;2069;333;nameDe=Das Banner trägt einen goldenen Adler auf einem goldenen Schwert auf rotem Grund;nameEn=The falg shows a golden eagle sitting on a golden sword on a red backing
-275;156;797;333
 276;156;3101;333
 278;156;629;333
 279;156;628;333
@@ -13250,12 +13244,10 @@
 269;160;1245;333
 270;160;1254;333
 271;160;886;333
-271;160;798;333
 273;160;3101;333
 276;160;3101;333
 277;160;1783;333
 279;160;886;333
-279;160;798;333
 281;160;1254;333
 282;160;629;333
 283;160;622;333
@@ -13656,10 +13648,8 @@
 267;164;3101;333
 269;164;232;333
 273;164;886;333
-273;164;798;333
 275;164;521;333;descriptionDe=Als Erster der Drachen verließ er Moshrans Kerker wie ein Schatten und trug seines Meisters Wort zur Goldenen Legion;descriptionEn=Like a shadow Panos left Moshran's prison as the first among the dragons carrying his master's word to the Golden Legion
 277;164;886;333
-277;164;798;333
 279;164;582;333
 281;164;232;333
 286;164;913;333

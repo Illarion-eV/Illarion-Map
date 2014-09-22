@@ -23278,7 +23278,6 @@
 244;172;432;333
 245;172;432;333
 246;172;432;333
-246;172;359;333
 247;172;432;333
 248;172;432;333
 249;172;432;333
@@ -23422,11 +23421,9 @@
 242;173;1160;333
 243;173;433;333
 245;173;3083;333;descriptionDe=Westliche Katanbi Wüste, Cadomyr;descriptionEn=Western Katanbi Desert, Cadomyr
-248;173;359;333
 249;173;3081;333;descriptionDe=Blutkreisarena;descriptionEn=Blood Circle Arena
 250;173;2069;333;descriptionDe=Der Stander trägt das Wappen von Cadomyr;descriptionEn=The pennant bears the crest of Cadomyr
 251;173;433;333
-251;173;359;333
 252;173;1161;333
 258;173;631;333
 263;173;2850;333
@@ -23804,7 +23801,6 @@
 237;176;519;333;descriptionDe=Als die goldene Efarel die Schale des Eis zerbrach erwartete Moshran sie und hieß sie als Erster in dieser Welt willkommen.  Auch wenn der Knochen Fürst ein Gefangener war, so war er machtvoller als ein Sterblicher es jemals ein wird;descriptionEn=As the golden Efarel cracked the shell of the egg being her home for a long time, Moshran waited for her and welcomed her as the first one to the world. Even if the Bone lord was a prisoner he still was more powerful than any mortal ever will be
 241;176;3101;333
 243;176;886;333
-243;176;798;333
 248;176;466;333
 252;176;1161;333
 263;176;2850;333
@@ -24039,7 +24035,6 @@
 232;178;1161;333
 234;178;3101;333
 239;178;886;333
-239;178;798;333
 250;178;2069;333;descriptionDe=Der Stander trägt das Wappen von Cadomyr;descriptionEn=The pennant bears the crest of Cadomyr
 252;178;1161;333
 253;178;3084;333;descriptionDe=Königlicher Sklavenmarkt, Wüstenloch, Sternenoase, Schattenland, Grenzberge;descriptionEn=Royal Slave Market, Desert Hole, Oasis of Stars, Shadowland, Border Mountains
@@ -24290,7 +24285,6 @@
 230;180;274;333
 231;180;2926;333
 232;180;1161;333
-247;180;796;333
 251;180;519;333;descriptionDe=Er erzählte Efarel, dass sie die Erste unter ihren Geschwistern sei und so wuchs ihr Stolz und ihre Arroganz. Bald schon akzeptierte sie keinen anderen Anführer als ihren Lehrer;descriptionEn=He shared his thoughts about her being the first among her siblings, with Efarel so pride and arrogance grew in her. The only one she accepted to lead her was her teacher.
 252;180;1161;333
 259;180;273;0
@@ -24559,7 +24553,6 @@
 232;182;1161;333
 236;182;521;333;descriptionDe=Mit seinem Plan der Gefangenschaft zu entrinnen begann er die junge Drachin zu unterrichten. Efarel war von Moshrans Erscheinung, seiner Ausdrucksweise und seinem Charisma fasziniert;descriptionEn=With his plans for the escape in mind he began to teach the young dragon. She was impressed by Moshran's appearance, the way he spoke and his charisma
 239;182;886;333
-239;182;798;333
 252;182;1161;333
 256;182;1208;333
 270;182;387;0
@@ -24709,7 +24702,6 @@
 234;183;1161;333
 242;183;3101;333
 243;183;886;333
-243;183;798;333
 245;183;1160;333
 246;183;1160;333
 247;183;1160;333
