@@ -1162,6 +1162,8 @@
 9;41;622;333
 11;41;276;333
 25;41;276;333
+27;41;320;333
+27;41;3109;333;descriptionEn=Rules: No passing items to prisoners. No starting of riots. No helping prisoners escape. Breaking these rules gets you put on the other side of the railing.;descriptionDe=Regeln: Keine Übergabe von Gegenständen gestattet. Kein Aufruhr darf angezettelt werden. Keine Rettungsversuche. Verstöße gegen diese Regeln werden euch auf die andere Seite der Absperrung bringen.
 31;41;1404;333
 32;41;623;333
 33;41;287;333
@@ -1282,7 +1284,7 @@
 7;45;287;333
 11;45;276;333
 21;45;1395;333
-26;45;3108;333
+26;45;3108;333;staticTeleporter=true
 31;45;1395;333
 32;45;623;333
 33;45;287;333
@@ -1459,6 +1461,7 @@
 15;51;287;333
 16;51;287;333
 17;51;287;333
+17;51;3607;333
 18;51;287;333
 19;51;287;333
 20;51;287;333
