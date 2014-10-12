@@ -13837,7 +13837,6 @@
 130;167;1782;333
 130;167;1783;333
 132;167;1783;333
-133;167;464;333
 133;167;272;333;descriptionDe=Eine blau gekleidete, kräftige, ältere Frau füttert einen ein Hasen während sie einen Wolf streichelt und zwei Vogeln auf ihren Schultern sitzen.;descriptionEn=A stout, elderly woman, dressed in blue, feeds a rabbit whilst she pets a wolf and two birds sit on her shoulders.
 134;167;586;333
 140;167;273;333
@@ -14088,7 +14087,6 @@
 128;171;1782;333
 129;171;274;333
 129;171;274;333
-133;171;464;333
 133;171;272;333;descriptionDe=Eine blau gekleidete, kräftige, ältere Frau  hält einen Korb gefüllt mit Äpfeln und anderen Früchten in ihren Händen.;descriptionEn=A stout, elderly woman, dressed in blue, holds a basket filled with apples and other fruits.
 134;171;586;333
 140;171;273;333
@@ -14405,7 +14403,6 @@
 51;176;1817;333
 115;176;273;333
 132;176;387;333
-132;176;1783;333
 136;176;586;333
 137;176;586;333
 138;176;586;333
