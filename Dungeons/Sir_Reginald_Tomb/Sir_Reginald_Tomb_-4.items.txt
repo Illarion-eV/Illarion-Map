@@ -53,8 +53,6 @@
 5;2;720;333
 5;2;721;333
 6;2;337;333
-7;2;337;333
-7;2;3102;333
 8;2;337;333;descriptionDe=Nach etwas Zeit erkennst du schlieﬂlich eine 18.;descriptionEn=After some time you can recognize an 18.
 9;2;1862;333
 9;2;721;333
