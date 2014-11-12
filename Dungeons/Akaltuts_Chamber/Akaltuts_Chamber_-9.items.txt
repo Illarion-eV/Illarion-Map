@@ -3602,16 +3602,16 @@
 56;94;1126;333
 57;94;1103;0
 57;94;36;0
-57;94;2039;0
+57;94;2039;0;descriptionEn=Skull with Horns;descriptionDe=Schädel mit Hörnern
 58;94;1103;0
 58;94;36;333
-58;94;2039;333
+58;94;2039;333;descriptionDe=Glühender Schädel;descriptionEn=Glowing Skull
 59;94;1103;0
 59;94;36;0
-59;94;2039;0
+59;94;2039;0;descriptionEn=Bleached Skull;descriptionDe=Bleicher Schädel
 60;94;1103;0
 60;94;36;0
-60;94;2039;0
+60;94;2039;0;descriptionDe=Stinkender Schädel;descriptionEn=Stinky Skull
 61;94;1103;0
 61;94;1124;0
 62;94;1103;333
@@ -3752,7 +3752,7 @@
 58;97;3102;0
 60;97;3101;333
 62;97;36;333
-62;97;2038;333
+62;97;2038;333;descriptionEn=Rotting Skull;descriptionDe=Verrottender Schädel
 63;97;1101;333
 64;97;287;333
 65;97;287;333
@@ -3799,7 +3799,7 @@
 56;98;3101;333
 57;98;2937;333
 62;98;36;333
-62;98;2038;333
+62;98;2038;333;descriptionDe=Geschrumpfter Schädel;descriptionEn=Shrunken Skull
 63;98;1101;333
 64;98;287;333
 65;98;287;333
@@ -3848,7 +3848,7 @@
 59;99;3101;0
 61;99;3518;333
 62;99;36;333
-62;99;2038;333
+62;99;2038;333;descriptionEn=Conjoined Skulls;descriptionDe=Verbundene Schädel
 63;99;1101;333
 64;99;287;333
 65;99;287;333
@@ -3902,7 +3902,7 @@
 55;100;2937;0
 58;100;3101;333
 62;100;36;333
-62;100;2038;333
+62;100;2038;333;descriptionEn=Spider covered Skull;descriptionDe=Mit Spinnen bedeckter Schädel
 63;100;1101;333
 64;100;287;333
 65;100;287;333
@@ -3940,7 +3940,7 @@
 60;101;3102;0
 61;101;3101;333
 62;101;36;333
-62;101;2038;333
+62;101;2038;333;descriptionEn=Skull with Hair;descriptionDe=Behaarter Schädel
 63;101;1101;333
 64;101;287;333
 65;101;287;333
