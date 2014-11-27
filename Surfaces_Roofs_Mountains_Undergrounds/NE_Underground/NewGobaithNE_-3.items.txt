@@ -830,7 +830,6 @@
 416;362;3101;0
 419;362;3109;0;descriptionDe=Unsere Siedlung ist zerstört, die Golemarmee ist fort, die Opfer blieben. Ist das Überleben nun Geschenk oder Fluch? Eingetragen am 4. Tanos;descriptionEn=Our settlement is destroyed, the golem army is gone, the victims are remaining. Is the survival a gift or a curse? Recorded at the 4th of Tanos;nameEn=Page of a diary;nameDe=Seite eines Tagebuches
 420;362;3101;333
-420;362;42;333
 425;362;3101;333
 430;362;3109;0;descriptionDe=Es ist kaum zu glauben, eine Armee aus Golems ist in den Morgenstunden des 4. Tanos aus dem Meer gekommen. Sie griffen ohne Vorwarnung die Siedlungen an. Zum Glück gibt es die Zuflucht am Friedhofe, doch wie viel schafften es nicht?;descriptionEn=It is hard to believe but an army of golems came out of the sea in the morning of the 4th Tanos. They attacked the settlements without warning. Luckily, there is the refuge at the cemetery, but how many did not make it?;nameDe=Eine blutige Tagebuchseite;nameEn=A bloody Diarypage
 431;362;8;333
@@ -851,8 +850,6 @@
 242;363;1273;333
 243;363;3101;333
 244;363;394;333
-244;363;42;333
-244;363;42;333
 247;363;1278;333
 248;363;287;333
 249;363;287;333
@@ -938,7 +935,6 @@
 250;365;287;333
 382;365;613;333
 384;365;404;333
-384;365;42;333
 385;365;613;333
 399;365;613;333
 404;365;3101;333
@@ -1076,7 +1072,6 @@
 205;369;287;333
 210;369;1272;333
 211;369;1272;333
-212;369;42;333
 214;369;287;333
 215;369;287;333
 226;369;287;333
@@ -1148,7 +1143,6 @@
 197;371;287;333
 206;371;287;333
 207;371;287;333
-211;371;42;333
 217;371;287;333
 218;371;287;333
 218;371;287;333
@@ -2773,7 +2767,6 @@
 206;408;2907;333
 206;408;514;333
 207;408;394;333
-207;408;42;333
 208;408;513;333
 209;408;2907;333
 215;408;2907;333
@@ -3035,7 +3028,6 @@
 391;414;2038;333
 392;414;613;333
 396;414;404;333
-396;414;42;333
 397;414;613;333
 401;414;2937;0
 404;414;613;333
@@ -3277,7 +3269,6 @@
 205;419;2495;333
 206;419;320;333
 206;419;394;333
-206;419;42;333
 207;419;2850;333
 209;419;292;333
 211;419;634;333
@@ -3480,7 +3471,6 @@
 210;423;1272;333
 211;423;1272;333
 211;423;404;333
-211;423;42;333
 212;423;287;333
 214;423;635;333
 218;423;634;333
@@ -3630,7 +3620,6 @@
 218;427;634;333
 246;427;287;333
 250;427;394;333
-250;427;42;333
 252;427;287;333
 162;428;3087;333
 168;428;60;333
