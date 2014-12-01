@@ -18931,7 +18931,6 @@
 488;205;287;1
 488;205;287;1
 0;206;273;333
-6;206;519;333;descriptionDe=Vom ersten Moment an liebte sie Moshran wie einen Vater. Als sie hörte, dass die Völker ihn nicht einmal beim Namen nannten beschloss sie ihnen den Namen in Erinnerung zu rufen. Sie sollen seinen Name fürchten wie seine Rache selbst;descriptionEn=From the first moment on she loved the Bone Lord like a father. Hearing about the people Moshran saved once now not even saying his name, she decided to make them remember it. They shall fear it as the revenge of Moshran himself
 7;206;1782;333
 8;206;1792;333
 12;206;1796;333
@@ -19208,8 +19207,6 @@
 487;207;287;1
 488;207;287;1
 488;207;287;1
-0;208;886;333
-6;208;886;333
 11;208;1783;333
 12;208;874;333
 12;208;873;333
@@ -19357,7 +19354,6 @@
 488;208;287;1
 488;208;287;1
 4;209;1265;333
-8;209;3097;333
 9;209;1795;333
 12;209;1794;333
 13;209;1246;333
@@ -19502,8 +19498,6 @@
 487;209;287;1
 488;209;287;1
 488;209;287;1
-3;210;361;333
-8;210;3098;333
 9;210;1245;333
 14;210;273;333
 15;210;1783;333
@@ -19642,8 +19636,6 @@
 487;210;287;1
 488;210;287;1
 488;210;287;1
-0;211;520;333;descriptionEn=A dragon covered with scales red as blood escaped the prison of the third egg. Like her siblings Sedusa was welcomed to the world by Moshran. Sedusa was the biggest among her siblings and her roar was able to shake anything near her;descriptionDe=Ein Drache bedeckt mit Schuppen rot wie Blut entkam dem Verließ des dritten Eis. Sedusa ward die größte aus dem Gelege und ihr Brüllen konnte alles und jeden in ihrer Nähe zu erschüttern
-8;211;3100;333
 14;211;1247;333
 16;211;273;333
 17;211;14;333
@@ -19794,7 +19786,6 @@
 487;211;287;1
 488;211;287;1
 488;211;287;1
-8;212;3100;333
 11;212;1272;333
 19;212;274;333
 28;212;36;333
@@ -20082,8 +20073,6 @@
 486;213;629;1
 487;213;287;1
 488;213;287;1
-1;214;886;333
-5;214;886;333
 8;214;1782;333
 23;214;1257;333
 24;214;1782;333
@@ -20479,9 +20468,6 @@
 486;216;1278;1
 487;216;598;1
 488;216;287;1
-2;217;3098;333
-3;217;3099;333
-8;217;3098;333
 19;217;274;333
 25;217;614;0
 26;217;614;0
@@ -20759,7 +20745,6 @@
 486;218;287;1
 487;218;287;1
 488;218;287;1
-2;219;3101;333
 6;219;274;333
 11;219;1804;333
 14;219;273;333
