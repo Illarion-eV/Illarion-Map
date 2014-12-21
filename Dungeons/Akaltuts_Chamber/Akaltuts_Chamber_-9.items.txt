@@ -2517,7 +2517,6 @@
 0;63;287;333
 1;63;1783;333
 1;63;998;333
-2;63;1179;333
 11;63;1196;333
 14;63;914;333
 15;63;1096;333
@@ -2686,6 +2685,7 @@
 23;69;1101;0
 27;69;3101;333
 33;69;1245;333
+34;69;1197;333
 35;69;1196;333
 36;69;998;333
 45;69;3101;333
@@ -4309,7 +4309,6 @@
 7;109;664;333
 7;109;2855;333
 8;109;215;333
-10;109;1123;333
 11;109;1101;0
 24;109;934;333
 26;109;1123;333
@@ -4642,7 +4641,7 @@
 5;114;2745;333;descriptionEn=Page 15. After a fierce battle, we fell onto the food, eating as if we had not fed in days at last slaking our hunger. I feel funny now. I wonder if I ate too much or something strange was used in the making of the items.;descriptionDe=Seite 15. Nach einer erbitterten Schlacht, stürzten uns darauf, als wären wir Tage lang nicht gefüttert worden. Jetzt fühle ich mich komisch. Ich wundere mich, ob ich zu viel gegessen habe oder ob etwas Ungutes bei der Speisen benutzt wurde.
 6;114;215;333
 10;114;665;333
-10;114;163;333
+10;114;2952;333
 11;114;1101;0
 12;114;934;333
 27;114;1101;0
@@ -4702,7 +4701,6 @@
 0;115;287;333
 1;115;1101;333
 5;115;214;333
-10;115;1125;333
 11;115;1101;0
 11;115;1100;0
 11;115;3292;333
@@ -4939,7 +4937,6 @@
 0;119;287;333
 1;119;1101;333
 7;119;214;333
-10;119;1125;333
 11;119;1101;333
 14;119;1161;333
 24;119;2863;333
