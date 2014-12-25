@@ -4715,7 +4715,7 @@
 101;33;628;333
 110;33;232;333
 111;33;3245;333
-138;33;751;0
+138;33;751;0;descriptionDe=Das Gemälde zeigt das Portrait eines reich gekleideten Mannes mit einer Narbe auf der linken Wange. Er hält eine Zeichenfeder in der Hand. Links unten sieht man die Initialen AD;descriptionEn=The picture shows the portrait of a well-dressed man with a scar on his left cheek. He holds a drawing feather. One can see in the left lower corner the initials AD.
 139;33;3245;333
 140;33;287;333
 168;33;287;0
@@ -5119,9 +5119,9 @@
 133;36;3075;333
 135;36;320;333
 135;36;2852;333
-136;36;266;333
-138;36;266;333
-140;36;266;333
+136;36;266;333;book1=cadomyr_on_cadomyr;book2=cadomyr_on_galmair;book3=cadomyr_on_runewick
+138;36;266;333;book1=gods1;book2=gods2;book3=god_malachin;book4=god_sirani;book5=god_zhambra;book6=calendar;book7=fragment_of_the_manrok_chronicles
+140;36;266;333;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=halfling_culture_and_history;book4=dwarven_history_and_culture;book5=lizardmen_history_and_culture;book6=orcish_history_and_culture;book7=about_the_humans_by_thomas_berryard;book8=fairy;book9=about_flame_orks
 141;36;3247;333
 142;36;287;333
 167;36;287;0
@@ -5268,7 +5268,7 @@
 116;37;1813;333
 128;37;66;0;markerstone=331
 130;37;3245;333
-131;37;267;333
+131;37;267;333;book1=a_question_of_honour;book2=speech_rosaline_32_11_05;book3=cadomyr_order1
 141;37;3247;333
 142;37;287;333
 167;37;287;0
@@ -5435,7 +5435,7 @@
 129;38;260;333
 130;38;3245;333
 141;38;3247;333
-141;38;267;0
+141;38;267;0;book1=tihgoracs_book_of_combat;book2=clansmen
 142;38;287;333
 164;38;287;0
 165;38;287;0
@@ -5628,7 +5628,7 @@
 117;39;2079;333
 126;39;2079;333
 130;39;3245;333
-131;39;267;333
+131;39;267;333;book1=a_hermit_on_the_lookout_for_eldan;book2=petition_in_the_name_of_findari;book3=petition_for_zelphia
 135;39;663;0
 138;39;661;0
 141;39;3247;333
@@ -5810,7 +5810,7 @@
 130;40;3245;333
 139;40;218;333
 141;40;3247;333
-141;40;267;0
+141;40;267;0;book1=magic_gems;book2=blud_an_fiar_ork_magik
 142;40;287;333
 164;40;287;0
 165;40;287;333
@@ -5956,7 +5956,7 @@
 125;41;273;333
 126;41;273;333
 130;41;3245;333
-131;41;267;333
+131;41;267;333;book1=alberto_dicker;book2=a_tale_of_brothers;book3=making_candles
 134;41;2877;333
 135;41;2877;333
 136;41;2877;333
@@ -6240,7 +6240,7 @@
 125;43;273;333
 126;43;273;333
 130;43;3245;333
-131;43;267;333
+131;43;267;333;book1=gods1;book2=poems_marina
 134;43;2875;333
 135;43;2875;333
 136;43;2875;333
@@ -11208,7 +11208,7 @@
 137;84;396;0
 138;84;3245;0
 139;84;396;0
-140;84;266;0
+140;84;266;0;book1=slimes;book2=alchemy;book3=gods1
 141;84;1360;0
 143;84;969;0
 144;84;3247;0
@@ -15096,7 +15096,7 @@
 118;111;1783;333
 129;111;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLock=unlocked
 138;111;320;333
-140;111;267;333
+140;111;267;333;book1=cadomyr_on_cadomyr;book2=gods2;book3=magic_gems;book4=speech_rosaline_32_11_05
 141;111;3245;333
 143;111;212;333
 146;111;3247;333
