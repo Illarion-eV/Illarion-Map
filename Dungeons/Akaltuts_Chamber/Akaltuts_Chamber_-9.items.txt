@@ -208,7 +208,6 @@
 64;10;599;0
 75;10;608;0
 93;10;359;0
-97;10;359;0
 98;10;596;0
 99;10;287;0
 52;11;596;0
@@ -975,6 +974,7 @@
 71;28;2855;333
 72;28;1257;333
 73;28;3101;333
+74;28;623;333
 75;28;287;0
 76;28;599;0
 83;28;287;0
@@ -1026,6 +1026,7 @@
 71;29;2745;333;descriptionEn=Page 26. I can not leave, my soul was lost here and so should be my body. I am burying the treasure I found here with my body, hopefully some 'kind' soul will find it. The hole is dug... I just need to crawl in and drink the poison.;descriptionDe=Seite 26. Ich kann nicht gehen. Ich habe hier meine Seele verloren und so sollte es nun auch meinem Körper gehen. Ich werde den Schatz, den ich fand mit in mein Grab nehmen. Hoffentlich findet ihn irgend eine 'freundlich' Seele. Ich muss das Gift trinken.
 72;29;3101;333
 73;29;914;333
+74;29;623;333
 75;29;287;0
 76;29;599;0
 83;29;798;333
@@ -1078,6 +1079,7 @@
 67;30;3101;333
 68;30;3101;333
 72;30;3101;333
+74;30;596;333
 75;30;287;0
 76;30;599;0
 76;30;598;0
@@ -1135,6 +1137,7 @@
 66;31;1257;333
 68;31;914;333
 73;31;1245;333
+74;31;623;333
 75;31;287;0
 76;31;287;0
 76;31;287;0
