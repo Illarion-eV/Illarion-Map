@@ -206,7 +206,7 @@
 48;3;287;333
 49;3;3097;333
 49;3;3097;333
-51;3;797;333
+51;3;798;333
 52;3;442;333
 55;3;629;333
 56;3;622;333
@@ -609,6 +609,7 @@
 79;11;1272;333
 83;11;627;333
 84;11;626;333
+91;11;359;333
 95;11;623;333
 96;11;287;333
 97;11;287;333
@@ -708,7 +709,6 @@
 77;14;3099;333
 78;14;3092;333
 85;14;359;333
-89;14;359;333
 92;14;359;333
 93;14;623;333
 94;14;287;333
@@ -770,6 +770,7 @@
 75;16;3098;333
 76;16;3098;333
 77;16;3098;333
+88;16;359;333
 93;16;623;333
 94;16;287;333
 95;16;287;333
@@ -2476,7 +2477,7 @@
 2;69;287;333
 9;69;1265;333
 12;69;3092;333
-15;69;797;333
+15;69;798;333
 16;69;3100;333
 19;69;1265;333
 21;69;1004;333
@@ -2984,6 +2985,7 @@
 68;84;2745;333;descriptionEn=Page 11. I laid Zzeslia to rest. I miss my lover and friend. As I sit here at the fire and surrounded by lava, I feel cold inside.;descriptionDe=Seite 11: Ich habe Zzeslia zum Ausruhen hingelegt. Ich vermisse meine Liebhaberin und Freundin. Obwohl ich hier umgeben von Lava an einem Feuer sitze, fühle ich mich innen kalt.
 74;84;3099;333
 75;84;3092;333
+77;84;359;333
 86;84;915;333
 87;84;915;333
 97;84;629;333
@@ -3128,7 +3130,6 @@
 65;88;1265;333
 65;88;3100;333
 73;88;1272;333
-77;88;359;333
 83;88;1245;333
 84;88;1272;333
 91;88;2745;333;descriptionEn=Page 12. Horace and I found a small hole and some pick-axes. After we rest, we will start trying to dig our way out.;descriptionDe=Seite 12: Seite 12: Horace und ich fanden eine kleine Nische und einige Spitzhacken. Nach einer Ruhepause wollen wir beginnen, uns einen Weg hinaus zu graben.
@@ -3172,6 +3173,7 @@
 62;90;3092;333
 66;90;3100;333
 67;90;3100;333
+75;90;359;333
 78;90;915;333
 84;90;359;333
 93;90;29;333
@@ -3275,6 +3277,7 @@
 55;95;287;333
 56;95;287;333
 64;95;628;333
+75;95;359;333
 88;95;1272;333
 91;95;2855;333
 95;95;287;333
