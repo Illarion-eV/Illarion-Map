@@ -9560,7 +9560,6 @@
 455;244;506;333
 458;244;1783;333
 462;244;616;333
-468;244;1247;333
 469;244;1783;333
 470;244;232;333
 482;244;300;0
@@ -9869,7 +9868,6 @@
 455;247;287;333
 461;247;617;333
 462;247;617;333
-465;247;1245;333
 467;247;1783;333
 469;247;300;333
 472;247;1782;333
@@ -9985,7 +9983,6 @@
 453;248;287;333
 454;248;287;333
 455;248;287;333
-464;248;233;333
 473;248;3084;333;descriptionDe=Narguns Ebene, Hafen, Dunkellochmine, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Nargun's Plain, Harbour, Dark Hole Mine, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 474;248;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says: 'Protector of the Copperbridge'.
 483;248;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says: 'Protector of the Copperbridge'.
@@ -10079,7 +10076,6 @@
 453;249;287;333
 454;249;287;333
 455;249;287;333
-462;249;1782;333
 474;249;3155;333
 475;249;3135;333
 476;249;3143;333
@@ -10155,7 +10151,6 @@
 455;250;287;333
 456;250;287;333
 460;250;1176;0
-461;250;274;333
 463;250;507;333
 464;250;14;333
 474;250;3157;333
@@ -10235,7 +10230,6 @@
 454;251;287;333
 455;251;287;333
 456;251;287;333
-461;251;1782;333
 472;251;1782;333
 474;251;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says 'Protector of the Copperbridge'.
 483;251;693;333;descriptionDe=Eine Notiz an der Kupferstatue besagt: 'Beschützer der Kupferbrücke'.;descriptionEn=A note on the copper figure says 'Protector of the Copperbridge'.
@@ -11558,7 +11552,6 @@
 448;266;1195;333
 449;266;1276;333
 457;266;1804;333
-460;266;3265;333
 461;266;915;333
 465;266;623;333
 466;266;630;333
