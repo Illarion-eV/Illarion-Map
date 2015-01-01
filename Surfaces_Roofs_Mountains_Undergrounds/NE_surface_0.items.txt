@@ -34357,6 +34357,7 @@
 164;330;274;333
 170;330;3082;333;descriptionDe=Der Todes Sumpf, Igruks Höhle, Elstree Ebene, Elstree Wald, Ostland, Todes Gestank, Frische Sümpfe, Drachenhöhle, Runewick, Narguns Ebene, Galmair, Tempel der Fünf, Ebene der Stille, Nördliche Wälder, Unüberwindbarer Limes, Schulterplatte Insel;descriptionEn=The Death Marsh, Igruk's Cave, Elstree Plain, Elstree Forest, Eastland, Death's Stench, Dewy Swamps, Dragon's Lair, Runewick, Nargun's Plain, Galmair, Temple of the Five, Plains of Silence, Northern Woods, The Insurmountable Limes, Pauldron Isle
 180;330;273;333
+186;330;506;333
 189;330;301;333
 192;330;386;333
 193;330;623;333
@@ -34519,6 +34520,8 @@
 179;331;301;333
 180;331;301;333
 183;331;273;333
+186;331;506;333
+187;331;506;333
 188;331;274;333
 189;331;301;333
 192;331;623;333
@@ -34664,6 +34667,9 @@
 108;332;287;333
 150;332;1782;333
 179;332;1195;333
+184;332;507;333
+186;332;506;333
+187;332;506;333
 188;332;627;333
 190;332;623;333
 191;332;287;333
@@ -34807,6 +34813,8 @@
 180;333;1395;333
 183;333;564;333
 184;333;273;333
+186;333;506;333
+187;333;506;333
 188;333;623;333
 189;333;287;333
 190;333;287;333
