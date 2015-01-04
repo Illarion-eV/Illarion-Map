@@ -13,3 +13,8 @@
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 160;88;783;263;-8
+14;97;639;272;0
+15;97;639;272;0
+164;120;559;260;0
+102;149;756;341;-9
+131;176;734;323;-9
