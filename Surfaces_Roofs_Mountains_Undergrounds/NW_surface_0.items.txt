@@ -10974,7 +10974,7 @@
 401;259;856;0
 403;259;266;0;book1=gods1
 405;259;266;0;book1=slimes;book2=alchemy
-407;259;266;0;book1=calendar;book2=blud_an_fiar_ork_magik;
+407;259;266;0;book1=calendar;book2=blud_an_fiar_ork_magik
 408;259;856;0
 412;259;269;333
 413;259;854;0
