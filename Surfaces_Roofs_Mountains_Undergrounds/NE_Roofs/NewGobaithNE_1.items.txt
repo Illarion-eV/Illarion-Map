@@ -2491,7 +2491,7 @@
 427;126;474;333
 428;126;471;333
 434;126;921;333
-13;127;464;333;descriptionEn=The statue depicts a timeless woman in a flowing light blue dress and long blonde hair.;descriptionDe=Die Statue zeigt eine blonde Frau zeitlosen Alters die ein weites blaues Kleid trägt.
+13;127;464;333;descriptionEn=The statue depicts a timeless woman in a flowing light blue dress and long blonde hair.;descriptionDe=Die Statue zeigt eine blonde Frau zeitlosen Alters die ein weites blaues Kleid trägt.;nameEn=Goddess Findari;nameDe=Göttin Findari
 14;127;629;333
 15;127;623;333
 15;127;622;333
@@ -2673,7 +2673,7 @@
 414;131;347;333
 415;131;473;333
 433;131;921;333
-13;132;464;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein BArt steht in Flammen.;nameEn=God Bragon;nameDe=Gott Bragon
+13;132;464;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein BArt steht in Flammen.;nameDe=Gott Brágon;nameEn=God Brágon
 14;132;623;333
 15;132;287;333
 60;132;623;333
@@ -3530,8 +3530,8 @@
 34;162;272;333;descriptionEn=The statue depicts a mermaid with her tail and scales sparkling in the sun.;descriptionDe=Die Statue zeigt eine Meerjungfrau deren Flosse und Schuppen in der Sonne glitzern.;nameDe=Göttin Tanora;nameEn=Goddess Tanora
 35;162;272;333;descriptionEn=The statue depicts a timeless woman in a flowing light blue dress and long blonde hair.;descriptionDe=Die Statue zeigt eine blonde Frau zeitlosen Alters die ein weites blaues Kleid trägt.;nameEn=Goddess Findari;nameDe=Göttin Findari
 40;162;272;333;descriptionEn=The statue depicts a dark skinned, dark haired young woman in a dress the color of the earth's soil.;descriptionDe=Die Statue zeigt eine dunkelhäutige, dunkelhaarige junge Frau die ein erdfarbenes Kleid trägt.;nameEn=Goddess Ushara;nameDe=Göttin Ushara
-41;162;272;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein BArt steht in Flammen.
-42;162;272;333;descriptionEn=The statue depicts a slim older man, looking almost frail with a staff in one arm and a book in another.;descriptionDe=Die Statue zeigt einen schlanken, älteren Mann. Er wirkt fast zierlich und hält einen Stab in der einen Hand und ein Buch in der anderen.
+41;162;272;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein BArt steht in Flammen.;nameDe=Gott Brágon;nameEn=God Brágon
+42;162;272;333;descriptionEn=The statue depicts a slim older man, looking almost frail with a staff in one arm and a book in another.;descriptionDe=Die Statue zeigt einen schlanken, älteren Mann. Er wirkt fast zierlich und hält einen Stab in der einen Hand und ein Buch in der anderen.;nameDe=Gott Eldan;nameEn=God Eldan
 436;168;287;333
 437;168;287;333
 438;168;287;333
