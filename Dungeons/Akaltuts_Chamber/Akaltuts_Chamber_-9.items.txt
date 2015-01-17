@@ -747,10 +747,12 @@
 4;23;2551;333
 8;23;320;333
 8;23;2552;333
-12;23;320;333
-12;23;2553;333
-16;23;320;333
-16;23;2554;333
+11;23;320;333
+11;23;2553;333
+14;23;320;333
+14;23;2554;333
+17;23;320;333
+17;23;3607;333
 19;23;2745;333;descriptionEn=Page 22. I should feel outraged at what I find in here, yet after what I did to Horace I do not have it in me. I am feeling a strange sort of kinship to the worshippers.;descriptionDe=Seite 22. Ich sollte empört sein, über dass was ich hier finde. Aber nach dem, was ich Horace angetan habe, ist da nichts mehr. Ich fühle eine seltsame Art der Seelenverwandtschaft zu den Götzendienern.
 21;23;1106;0
 34;23;627;0

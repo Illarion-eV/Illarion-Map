@@ -817,7 +817,6 @@
 9;18;359;333
 11;18;609;333
 25;18;609;333
-30;18;2745;333;descriptionEn=Page 3. We make camp not far from where we took down the cultist at a dead end. John seems worse for his wounds I fear for him.;descriptionDe=Seite 3. Wir kampieren nicht weit von der Sackgasse entfernt, in der wir den Kultisten stellten und getötet haben. Johns Wunden sind schlimm, Ich bange um ihn.
 31;18;3099;333
 34;18;1265;333
 35;18;466;333
@@ -873,6 +872,7 @@
 17;20;629;333
 25;20;609;333
 26;20;626;333
+33;20;2745;333;descriptionEn=Page 3. We make camp not far from where we took down the cultist at a dead end. John seems worse for his wounds I fear for him.;descriptionDe=Seite 3. Wir kampieren nicht weit von der Sackgasse entfernt, in der wir den Kultisten stellten und getÃ¶tet haben. Johns Wunden sind schlimm, Ich bange um ihn.
 34;20;1272;333
 36;20;389;333
 36;20;3101;333
@@ -1149,6 +1149,7 @@
 0;29;287;333
 1;29;287;333
 8;29;1265;333
+12;29;2745;333;descriptionEn=Page 5. We backtracked and placed our three fallen comrades in some empty coffins. I have to wonder why they are here.;descriptionDe=Seite 5. Wir sind zurückgezogen und haben unsere drei gefallenen Kameraden in leere Särge gelegt. Ich wundere mich, warum sich jene bereits hier befinden.
 15;29;606;333
 16;29;602;333
 17;29;602;333
@@ -1228,7 +1229,6 @@
 96;30;622;333
 0;31;287;333
 4;31;359;333
-7;31;2745;333;descriptionEn=Page 5. We backtracked and placed our three fallen comrades in some empty coffins. I have to wonder why they are here.;descriptionDe=Seite 5. Wir sind zurückgezogen und haben unsere drei gefallenen Kameraden in leere Särge gelegt. Ich wundere mich, warum sich jene bereits hier befinden.
 8;31;2039;333
 12;31;1783;333
 14;31;1265;333
@@ -2486,7 +2486,6 @@
 27;69;1002;333
 27;69;3098;333
 28;69;3098;333
-29;69;359;333
 31;69;609;333
 35;69;3092;333
 40;69;1273;333
@@ -2833,7 +2832,6 @@
 70;79;1265;333
 70;79;359;333
 78;79;2937;333;descriptionEn=The bones appear to be wrapped in ceremonial clothing.;descriptionDe=Die Knochen scheinen in zeremonielle Kleidung eingewickelt zu sein.
-82;79;1257;333
 83;79;3092;333
 89;79;627;333
 90;79;626;333
@@ -2909,7 +2907,6 @@
 30;82;3101;333
 31;82;3101;333
 32;82;2681;333;nameDe=Eimer mit Blut;nameEn=bucket of blood
-34;82;2745;333;descriptionEn=Page 10. Bodies lay around in various stages of amputation. Parts are in the boxes and some strewn on the table. Weakened by the lack of water, Zzeslia has fallen here in this mess.;descriptionDe=Seite 10: Körper liegen in verschiedenen Stadien der Amputation herum. Einige Körperteile liegen in Kisten, andere liegen auf Tischen verstreut. Geschwächt durch den Mangel an Wasser ist Zzeslia in Apathie verfallen.
 36;82;3265;333
 36;82;2038;333
 37;82;3265;333
@@ -3100,6 +3097,7 @@
 24;88;3101;333
 26;88;498;333
 26;88;498;333
+27;88;2745;333;descriptionEn=Page 10. Bodies lay around in various stages of amputation. Parts are in the boxes and some strewn on the table. Weakened by the lack of water, Zzeslia has fallen here in this mess.;descriptionDe=Seite 10: Körper liegen in verschiedenen Stadien der Amputation herum. Einige Körperteile liegen in Kisten, andere liegen auf Tischen verstreut. Geschwächt durch den Mangel an Wasser ist Zzeslia in Apathie verfallen.
 28;88;498;333
 29;88;498;333
 34;88;606;333
