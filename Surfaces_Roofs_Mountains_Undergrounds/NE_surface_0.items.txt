@@ -5739,11 +5739,12 @@
 304;93;701;333
 304;93;425;333
 305;93;701;333
+305;93;264;333;descriptionDe=Das Gemälde zeigt einen stolzen, farbenprächtigen Hahn. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a proud, colorful rooster. One can see in the left lower corner the initials AD.
 306;93;701;333
 306;93;551;333
 307;93;701;333
 308;93;701;333
-308;93;266;333
+308;93;266;333;book1=gods1;book2=druid_parchment;book3=fragment_of_the_manrok_chronicles;book4=parchment_of_the_priests_of_eldan;book5=calendar
 309;93;719;333
 309;93;424;333
 310;93;308;333
@@ -33132,7 +33133,7 @@
 175;311;934;333
 182;311;396;333
 185;311;3303;333
-186;311;267;333
+186;311;267;333;book1=a_question_of_honour;book2=see_of_life;book3=barhead_kings
 189;311;213;333
 190;311;320;333
 190;311;2852;333
@@ -34364,7 +34365,7 @@
 179;319;1399;333
 184;319;1395;333
 185;319;3303;333
-186;319;267;333
+186;319;267;333;book1=dwarven_poems;book2=poems_marina;book3=celegails_songbook
 188;319;213;333
 189;319;320;333
 190;319;320;333
@@ -34906,7 +34907,7 @@
 182;323;396;333
 184;323;952;0
 185;323;3299;333
-186;323;267;333
+186;323;267;333;book1=dwarven_history_and_culture;book2=art_of_trade;book3=orcish_history_and_culture
 192;323;320;333
 192;323;2852;333
 195;323;320;333
@@ -35221,7 +35222,7 @@
 174;325;506;333
 175;325;934;333
 185;325;3299;333
-186;325;267;333
+186;325;267;333;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3
 187;325;396;333
 188;325;214;333
 189;325;214;333

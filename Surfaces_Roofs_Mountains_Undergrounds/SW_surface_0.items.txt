@@ -11212,7 +11212,7 @@
 141;84;1360;0
 143;84;969;0
 144;84;3247;0
-144;84;1914;0
+144;84;1914;0;descriptionDe=Das Gem‰lde zeigt einen Strauﬂ aus sehr vielen verschiedenen Kr‰utern. Samen liegen auf dem Tisch. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a bouquet of different herbs. Seeds lay on the table. One can see in the left lower corner the initials AD.
 145;84;287;0
 156;84;287;0
 157;84;287;333

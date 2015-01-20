@@ -7020,7 +7020,7 @@
 368;213;871;0
 369;213;875;0
 369;213;320;0
-371;213;748;0
+371;213;748;0;descriptionDe=Das Gemälde zeigt eine Handelskaravane, die sich die letzten Meter zu einem Gasthaus durch einen Schneesturm kämpft. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a caravan of merchants struggling through a snow storm to a safe inn. One can see in the left lower corner the initials AD.
 373;213;663;0
 374;213;854;0
 375;213;287;333
@@ -7849,7 +7849,7 @@
 355;226;695;333
 356;226;856;333
 357;226;267;333;book1=poems_marina;book2=celegails_songbook;book3=dwarven_poems
-359;226;267;0;book1=book_of_jokes;book2=book_of_jokes;book3=book_of_jokes
+359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3
 365;226;854;333

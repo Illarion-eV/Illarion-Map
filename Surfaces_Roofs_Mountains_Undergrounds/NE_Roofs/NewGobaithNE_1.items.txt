@@ -5971,6 +5971,7 @@
 187;310;3307;333
 192;310;1406;333
 193;310;3309;333
+193;310;751;333;descriptionDe=Das Gemälde zeigt einen steinernen Altar im Wald. Die Sonne bricht gerade durch die Bäume. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a stone shrine in the forest. The sun is rising. One can see in the left lower corner the initials AD.
 198;310;212;333
 199;310;3313;333
 200;310;301;333
