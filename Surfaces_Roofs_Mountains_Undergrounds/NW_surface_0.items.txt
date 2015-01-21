@@ -7312,9 +7312,9 @@
 358;217;661;0
 359;217;875;0
 359;217;954;0
-360;217;266;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=halfling_culture_and_history
+360;217;266;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
 362;217;266;0;book1=orcish_history_and_culture;book2=blud_an_fiar_ork_magik;book3=about_flame_orks
-364;217;266;0;book1=festival_relationship;book2=fairy;book3=about_the_humans_by_thomas_berryard
+364;217;266;0;book1=festival_relationship;book2=about_the_humans_by_thomas_berryard
 375;217;267;0;book1=slimes;book2=alchemy;book3=magic_gems
 376;217;854;0
 377;217;287;333
@@ -7380,7 +7380,7 @@
 348;219;854;333
 348;219;221;333
 355;219;856;333
-375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_quartermaster
+375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_quartermaster;book6=a_friend_in_need
 376;219;854;0
 377;219;287;333
 378;219;287;333
@@ -7465,9 +7465,9 @@
 348;221;854;333
 355;221;864;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLock=unlocked
 358;221;955;0
-359;221;266;0;book1=gods1;book2=gods2;book3=god_malachin;book4=god_sirani;book5=god_zhambra
+359;221;266;0;book1=gods1;book2=gods2;book1=glorification_to_irmorom
 361;221;266;0;book1=Calendar;book2=fragment_of_the_manrok_chronicles;book3=galmair_priester
-363;221;266;0;book1=glorification_to_irmorom
+363;221;266;0;book1=abomination_runs_and_hides
 365;221;874;333
 366;221;855;333
 367;221;855;333
@@ -7848,7 +7848,7 @@
 348;226;513;333
 355;226;695;333
 356;226;856;333
-357;226;267;333;book1=poems_marina;book2=celegails_songbook;book3=dwarven_poems
+357;226;267;333;book1=celegails_songbook;book2=dwarven_poems
 359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3

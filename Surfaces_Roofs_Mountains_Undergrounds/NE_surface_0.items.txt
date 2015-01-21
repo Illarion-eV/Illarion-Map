@@ -33133,7 +33133,7 @@
 175;311;934;333
 182;311;396;333
 185;311;3303;333
-186;311;267;333;book1=a_question_of_honour;book2=see_of_life;book3=barhead_kings
+186;311;267;333;book1=a_question_of_honour;book2=see_of_life;book3=barhead_kings;book4=a_friend_in_need
 189;311;213;333
 190;311;320;333
 190;311;2852;333
@@ -34907,7 +34907,7 @@
 182;323;396;333
 184;323;952;0
 185;323;3299;333
-186;323;267;333;book1=dwarven_history_and_culture;book2=art_of_trade;book3=orcish_history_and_culture
+186;323;267;333;book1=dwarven_history_and_culture;book2=art_of_trade;book3=orcish_history_and_culture;book4=fairy
 192;323;320;333
 192;323;2852;333
 195;323;320;333

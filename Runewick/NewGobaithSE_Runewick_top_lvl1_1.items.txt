@@ -31,13 +31,13 @@
 0;2;680;333
 1;2;633;333
 2;2;633;333
-2;2;266;333;book1=orcish_history_and_culture;book2=blud_an_fiar_ork_magik;book3=about_flame_orks
+2;2;266;333;book1=blud_an_fiar_ork_magik
 3;2;637;333
-3;2;266;333;book1=about_the_humans_by_thomas_berryard;book2=cultures_of_the_humans
+3;2;266;333;book1=cultures_of_the_humans
 4;2;633;333
-4;2;266;333;book1=halfling_culture_and_history;book2=elven_history_and_culture;book3=dwarven_history_and_culture
+4;2;266;333;book1=elven_history_and_culture;book2=dwarven_history_and_culture
 5;2;633;333
-5;2;266;333;book1=lizardmen_history_and_culture;book2=lor_angur;book3=fairy
+5;2;266;333;book1=lizardmen_history_and_culture;book2=lor_angur
 6;2;681;333
 55;2;680;333
 56;2;691;333
@@ -51,7 +51,7 @@
 65;2;36;333
 65;2;1061;333
 0;3;634;333
-1;3;267;333;book1=god_malachin;book2=god_sirani;book3=god_zhambra
+1;3;267;333;book1=abomination_runs_and_hides
 6;3;690;333
 6;3;396;333
 6;3;1265;333
@@ -60,7 +60,7 @@
 60;3;2875;0
 65;3;635;333
 0;4;638;333
-1;4;267;333;book1=a_question_of_honour;book2=a_tale_of_brothers;book3=barhead_kings;book4=see_of_life;book5=the_reign_of_akaltut
+1;4;267;333;book1=barhead_kings;book2=see_of_life
 7;4;690;333
 7;4;951;0
 8;4;633;333
@@ -151,7 +151,7 @@
 67;7;75;333
 1;8;682;333
 2;8;689;333
-4;8;267;333;book1=petition_in_the_name_of_findari;book2=parchment_of_the_priests_of_eldan;book3=a_nargun_mass;book4=in_the_name_of_nargun_or_not
+4;8;267;333;book1=petition_in_the_name_of_findari;book2=parchment_of_the_priests_of_eldan
 7;8;663;0
 11;8;213;333
 12;8;2885;333
@@ -225,7 +225,7 @@
 68;9;635;333
 68;9;267;333
 3;10;634;333
-4;10;267;333;book1=making_candles;book1=art_of_trade;book3=craftman_story
+4;10;267;333;book1=making_candles;book2=craftman_story
 6;10;212;333
 15;10;635;333
 15;10;953;0
@@ -454,7 +454,7 @@
 61;21;675;0
 7;22;634;333
 8;22;266;333;book1=poems_marina;book2=celegails_songbook;book3=dwarven_poems
-10;22;266;333;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3
+10;22;266;333;book1=book_of_jokes
 11;22;320;333
 12;22;266;333;book1=magic_gems
 14;22;402;0
