@@ -6041,7 +6041,7 @@
 105;311;1782;0
 106;311;1782;0
 184;311;3585;333
-187;311;3315;333;lockId=401;doorLock=locked;descriptionDe=Troll's Bane;descriptionEn=Troll's Bane
+187;311;3315;333;lockId=401;descriptionDe=Troll's Bane;descriptionEn=Troll's Bane;doorLock=unlocked
 192;311;214;333
 193;311;3305;333
 197;311;213;333
