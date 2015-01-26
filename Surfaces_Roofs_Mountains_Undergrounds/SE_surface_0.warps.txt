@@ -12,7 +12,7 @@
 # 
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
-305;2;817;515;-12
+305;2;838;509;-11
 360;11;870;524;1
 333;23;845;536;1
 380;26;896;537;-3
