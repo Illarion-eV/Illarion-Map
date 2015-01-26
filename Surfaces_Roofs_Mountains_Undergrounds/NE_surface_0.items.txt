@@ -27288,13 +27288,10 @@
 42;258;2805;333
 42;258;360;333
 43;258;629;333
-43;258;629;333
 43;258;42;333
 44;258;622;333
-44;258;624;333
+44;258;624;333;descriptionEn=If you want to leave, crawl out here like a coward.;descriptionDe=Wenn du entkommen möchtest, dann grabbel hier heraus, wie ein Feigling.
 44;258;42;333
-45;258;622;333
-45;258;622;333
 45;258;622;333
 47;258;793;333
 49;258;2805;333
