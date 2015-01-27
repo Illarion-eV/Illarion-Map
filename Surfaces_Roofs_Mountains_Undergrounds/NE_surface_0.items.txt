@@ -27290,7 +27290,7 @@
 43;258;629;333
 43;258;42;333
 44;258;622;333
-44;258;624;333;descriptionEn=If you want to leave, crawl out here like a coward.;descriptionDe=Wenn du entkommen möchtest, dann grabbel hier heraus, wie ein Feigling.
+44;258;624;333
 44;258;42;333
 45;258;622;333
 47;258;793;333
@@ -27487,6 +27487,7 @@
 35;260;627;333
 36;260;623;333
 37;260;287;333
+43;260;3081;333;descriptionEn=If you want to leave, crawl out here like a coward.;descriptionDe=Wenn du entkommen möchtest, dann grabbel hier heraus, wie ein Feigling.
 51;260;2805;333
 51;260;360;333
 52;260;627;333
