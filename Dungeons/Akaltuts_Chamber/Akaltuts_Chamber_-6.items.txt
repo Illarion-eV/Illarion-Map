@@ -2903,7 +2903,7 @@
 18;82;3101;333
 29;82;522;333
 29;82;3101;333
-29;82;173;333
+29;82;173;333;nameEn=Mangled Corpse;nameDe=Verstümmelter Kadaver
 30;82;3101;333
 31;82;3101;333
 32;82;2681;333;nameDe=Eimer mit Blut;nameEn=bucket of blood
@@ -2968,7 +2968,7 @@
 13;84;3101;333
 17;84;3330;333
 21;84;3101;333
-28;84;173;333
+28;84;173;333;nameEn=Mangled Corpse;nameDe=Verstümmelter Kadaver
 29;84;522;333
 29;84;2140;333
 30;84;2681;333;nameDe=Eimer mit Blut;nameEn=bucket of blood
