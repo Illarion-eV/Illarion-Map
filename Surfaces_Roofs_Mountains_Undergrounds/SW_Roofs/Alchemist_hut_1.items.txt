@@ -35,7 +35,7 @@
 5;1;146;333
 6;1;320;333
 6;1;138;333
-7;1;1360;333
+7;1;1360;333;granorsHut=true
 8;1;3299;333
 0;2;1385;333
 1;2;3295;333
@@ -45,12 +45,12 @@
 1;3;3299;333
 2;3;1392;333
 3;3;320;333
-3;3;3642;333
+3;3;3642;333;descriptionDe=In dem Behälter sind klebrige, gelbe Rückstände. Gelegentlich scheinen sie zu zucken.;descriptionEn=There are sticky, yellow remnants in the pot. Sometimes, they seem to twitch.
 4;3;320;333
-4;3;59;333;potionEffectId=44444444
+4;3;59;333;potionEffectId=44444444;filledWith=potion;granorsHut=true
 5;3;129;333
 5;3;320;333
-5;3;166;333;potionEffectId=55545554
+5;3;166;111;potionEffectId=55545554;filledWith=potion;granorsHut=true
 6;3;524;333
 8;3;3303;333
 1;4;3299;333
@@ -62,14 +62,14 @@
 8;5;647;333
 1;6;3303;333
 5;6;36;333
-5;6;115;333
+5;6;115;333;descriptionDe=In dicken, schwarzen Buchstaben steht auf dem Umschlag: 'Finger weg!';descriptionEn=Big, black letters form the words 'Hands off!'.;granorsHut=true
 7;6;523;333
 7;6;394;333
 8;6;3303;333
 1;7;3295;333
 4;7;1383;333
 5;7;36;333
-5;7;1018;333
+5;7;1018;333;descriptionDe=Eine dickflüssige Masse blubbert in dem Kessel.;descriptionEn=A viscous mass is bubbling in the cauldron.;granorsHut=true
 7;7;1384;333
 8;7;3307;333
 1;8;3303;333
@@ -82,7 +82,7 @@
 1;9;3307;333
 1;9;3302;333
 2;9;3306;333
-3;9;3314;333
+3;9;3314;333;descriptionDe=Die alte Tür ist recht ramponiert. Hier und da ist Holz abgesplittert. Sie ist übersäht mit Kratzspuren.;descriptionEn=The old door ist quite battered. Here and there some pieces of wood splintered off. It is covered with claw marks. 
 4;9;3302;333
 5;9;3306;333
 6;9;3310;333
@@ -93,6 +93,6 @@
 1;10;1384;333
 2;10;402;333
 2;10;1273;333
-4;10;891;333
+4;10;891;333;granorsHut=true
 2;11;1196;333
 4;11;1196;333
