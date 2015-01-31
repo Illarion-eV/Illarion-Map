@@ -1568,6 +1568,7 @@
 413;383;613;333
 422;383;613;333
 425;383;3101;333
+425;383;44;333;nameDe=Der Essenzbrecher;nameEn=Essence Crusher
 427;383;2805;333
 428;383;337;333;descriptionEn=Richard Epphurd assassinated by the Stone Golems.;descriptionDe=Richard Epphurd ermordet von den Stein Golems.
 429;383;337;333;descriptionEn=Teresia Epphurd - She found a horrible end at the side of Richard.;descriptionDe=Teresia Epphurd - Sie fand ein grauenhaftes Ende an der Seite von Richard.

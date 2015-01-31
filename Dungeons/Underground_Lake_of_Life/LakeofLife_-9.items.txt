@@ -4477,7 +4477,7 @@
 156;87;525;333
 157;87;3206;333
 158;87;3206;333
-158;87;305;333
+158;87;305;333;nameDe=Erstaunlicher Räucherofen des Lebens;nameEn=Spectacular Smoker of Life
 159;87;3206;333
 160;87;3206;333
 161;87;3206;333
