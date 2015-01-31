@@ -815,7 +815,7 @@
 422;364;613;333
 425;364;613;333
 428;364;2850;0
-429;364;3581;333
+429;364;12;333
 430;364;2850;333
 431;364;522;333
 431;364;1089;333;descriptionDe=Es wird wohl langsam Zeit für mich die Zuflucht zu verlassen, ich höre nun schon eigenartige Geräusche in der Nacht. --10. Tanos;descriptionEn=It is probably time for me to leave the refuge, I´m already hearing strange noises in the night. --10th of Tanos;nameDe=Sven´s Tagebuch;nameEn=Sven´s Diary
@@ -2205,7 +2205,6 @@
 226;396;634;333
 229;396;634;333
 232;396;518;333
-236;396;3581;333
 238;396;635;333
 243;396;287;333
 244;396;2805;333
@@ -2523,7 +2522,7 @@
 208;404;215;333
 211;404;634;333
 215;404;2875;333
-217;404;3581;333
+217;404;12;333
 220;404;635;333
 220;404;695;333
 228;404;2876;333
