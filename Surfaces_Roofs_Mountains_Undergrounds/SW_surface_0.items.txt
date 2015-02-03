@@ -32037,7 +32037,7 @@
 418;245;301;333
 419;245;274;333
 420;245;1783;333
-422;245;2745;333;descriptionDe=Ich höre sie in meinem Kopf und sie liest meine Gedanken.Wir haben eine neue Heimstadt tief im Grenzgebirge gegraben. Wir leben in einer kampfstarken Festung unter dem Schutz ihrer Drow Anhänger. Von hier aus plant sie nach und nach die Gegend zu übernehmen und ihr Gebiet der Dunkelheit auszudehnen über die Sphäre der Sterblichen.;descriptionEn=I hear her in my head and she reads my thoughts. We have made a new base burrowed deep into the Border Mountains. We live in a fortress and strong hold in the depths, with the protection of her drow followers. From here she plans to grow and gradually resume her reign of evil to take over the mortal plane.
+422;245;2745;333;descriptionDe=Ich höre sie in meinem Kopf und sie liest meine Gedanken. Wir leben in einer kampfstarken Festung unter dem Schutz ihrer Drow Anhänger. Von hier aus plant sie nach und nach die Gegend zu übernehmen und ihr Gebiet.;descriptionEn=I hear her in my head and she reads my thoughts. We live in a fortress and strong hold in the depths, with the protection of her drow followers. From here she plans to grow and gradually resume her reign of evil to take over the mortal plane.
 423;245;66;0;markerstone=369
 424;245;1245;333
 433;245;1783;333
