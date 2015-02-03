@@ -310,7 +310,7 @@
 28;23;276;333
 1;24;433;333
 2;24;3218;333
-5;24;1218;333;nameEn=The Mana Pool;descriptionEn=Channelled by the mages of Galmair in the Year 43;nameDe=Die Mana-Pool;descriptionDe=Von den Magiern des Galmair im Jahr 43 Gefasste
+5;24;1218;333;nameEn=The Mana Pool;descriptionEn=Channelled by the mages of Galmair in the Year 43;nameDe=Das Manabecken;descriptionDe=Erschaffen von den Magiern Galmairs im Jahre 43
 7;24;3707;333
 9;24;3671;333
 10;24;3212;333
