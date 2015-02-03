@@ -2794,6 +2794,7 @@
 172;48;273;333
 172;48;3265;333
 172;48;3265;333
+172;48;2745;333;descriptionEn=It is even worse than that. She has been watching closely the events in the Elven family Narnil and their quest for vengeance against the orcs.;descriptionDe=Von Wert zu wissen ist es auch. Dass sie die Ereignisse der Elben des Hauses Narnil und deren Aufgabe der Rache an den Orks, sowie Nachrichten und bezahlte Informationen dazu genauestens beobachtet.
 174;48;233;333
 176;48;14;333
 182;48;301;333
