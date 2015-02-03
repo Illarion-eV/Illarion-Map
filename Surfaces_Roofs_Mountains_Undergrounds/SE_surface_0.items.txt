@@ -2253,6 +2253,7 @@
 25;39;301;333
 209;39;273;0
 214;39;689;333
+215;39;2745;333;descriptionDe=Die Dörfler haben letzte Nacht angegriffen...Sie sagten, sie sei verschwunden. Jene, welche ich heute im Ort traf blickten triumphierend. Ich fühle mich nicht sicher und ich spüre immer noch die Kraft, die sie über mich besitzt.;descriptionEn=The villagers attacked last night. ...They say she is gone. The ones I saw today in town, they look triumphant. I do not feel safe and I still feel her power over me.
 219;39;688;333
 219;39;301;333
 220;39;3265;0

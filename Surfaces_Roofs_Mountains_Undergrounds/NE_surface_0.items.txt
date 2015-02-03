@@ -5250,6 +5250,7 @@
 278;88;3305;333
 278;88;36;333
 278;88;400;333
+278;88;2745;333;descriptionDe=Sie plant Alles und Jeden zu beherrschen. Ich habe ihr bereits geholfen viele wichtige Personen der Gegend zu betören und zu beherrschen. Ich erwarte dass sie sehr bald zur regierenden Anführerin ernannt wird.;descriptionEn=She plans to rule everything and everyone. Already, I have helped her bewitch and take control of many important people in the surrounding areas.
 279;88;308;333
 280;88;308;333
 281;88;308;333
@@ -39378,8 +39379,10 @@
 281;350;267;333
 284;350;396;333
 286;350;3265;333
+286;350;2745;333;descriptionDe=Ein Blutsvertrag, nannte sie es als sie mir das Zeremonienmesser überreichte und mich anwies mir in die Fingerkuppe zu schneiden. Und ich tat es. Ich werde es nicht zulassen dass irgendetwas zwischen meinen Wissensdurst und mich kommt.;descriptionEn=A blood contract, that is what she called it as she handed me a ceremonial knife and asked me to split open my fingertip. Of course I did it, I am letting nothing get between me and learning.
 287;350;3301;333
 287;350;3265;333
+287;350;2745;333;descriptionEn=There was a big difference between ink and blood. The acts I have committed in the past few months, I can not put into words. I have no willpower when she commands me to do something.;descriptionDe=Es bestand ein großer Unterschied zwischen Tinte und Blut. Das Werk zudem ich mich in den letzten Monaten verpflichtet hatte, ich kann es nicht in Worte fassen. Ich habe keinen eigenen Willen, wenn sie mir etwas befiehlt.
 292;350;274;1
 295;350;1783;333
 297;350;1782;1
