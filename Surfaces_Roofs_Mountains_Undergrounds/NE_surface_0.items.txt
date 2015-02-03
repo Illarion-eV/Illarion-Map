@@ -2791,10 +2791,10 @@
 166;48;615;333
 167;48;615;333
 171;48;3265;333
+171;48;2745;333;descriptionEn=It is even worse than that. She has been watching closely the events in the Elven family Narnil and their quest for vengeance against the orcs.;descriptionDe=Von Wert zu wissen ist es auch. Dass sie die Ereignisse der Elben des Hauses Narnil und deren Aufgabe der Rache an den Orks, sowie Nachrichten und bezahlte Informationen dazu genauestens beobachtet.
 172;48;273;333
 172;48;3265;333
 172;48;3265;333
-172;48;2745;333;descriptionEn=It is even worse than that. She has been watching closely the events in the Elven family Narnil and their quest for vengeance against the orcs.;descriptionDe=Von Wert zu wissen ist es auch. Dass sie die Ereignisse der Elben des Hauses Narnil und deren Aufgabe der Rache an den Orks, sowie Nachrichten und bezahlte Informationen dazu genauestens beobachtet.
 174;48;233;333
 176;48;14;333
 182;48;301;333
@@ -5248,10 +5248,8 @@
 268;88;387;333
 273;88;3309;333
 275;88;881;333
+277;88;3305;333
 278;88;3305;333
-278;88;36;333
-278;88;400;333
-278;88;2745;333;descriptionDe=Sie plant Alles und Jeden zu beherrschen. Ich habe ihr bereits geholfen viele wichtige Personen der Gegend zu betören und zu beherrschen. Ich erwarte dass sie sehr bald zur regierenden Anführerin ernannt wird.;descriptionEn=She plans to rule everything and everyone. Already, I have helped her bewitch and take control of many important people in the surrounding areas.
 279;88;308;333
 280;88;308;333
 281;88;308;333
@@ -5349,9 +5347,10 @@
 269;89;2586;333
 272;89;308;333
 273;89;3313;333
-277;89;883;333
 278;89;3305;333
-278;89;1145;333
+278;89;36;333
+278;89;400;333
+278;89;2745;333;descriptionDe=Sie plant Alles und Jeden zu beherrschen. Ich habe ihr bereits geholfen viele wichtige Personen der Gegend zu betören und zu beherrschen. Ich erwarte dass sie sehr bald zur regierenden Anführerin ernannt wird.;descriptionEn=She plans to rule everything and everyone. Already, I have helped her bewitch and take control of many important people in the surrounding areas.
 279;89;308;333
 280;89;308;333
 281;89;308;333
