@@ -5615,20 +5615,22 @@
 127;122;395;333
 127;122;396;333
 127;122;1265;0
-128;122;634;0
+128;122;682;333
 129;122;396;0
+129;122;636;333
+130;122;632;333
+131;122;636;333
+132;122;632;333
+133;122;636;333
+134;122;632;333
+135;122;632;333
+135;122;688;333
 138;122;635;333
 145;122;675;333
 121;123;674;333
-128;123;682;333
-128;123;688;333
-129;123;636;333
-130;123;632;333
-131;123;632;333
-132;123;632;333
-133;123;632;333
-134;123;632;333
-135;123;632;333
+134;123;2046;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall
+135;123;635;333
+135;123;688;333
 136;123;652;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 137;123;656;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 138;123;683;333
@@ -5638,13 +5640,11 @@
 145;123;690;333
 145;123;691;333
 121;124;674;333
-130;124;395;333
-130;124;1265;0
-132;124;3075;333
-134;124;3075;333
-134;124;2046;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall
-135;124;690;333
-135;124;691;333
+129;124;673;333
+130;124;673;333
+131;124;673;333
+132;124;673;333
+133;124;673;333
 135;124;694;333;descriptionDe=Ein stolz und mutig wirkender Mann präsentiert einen verbrannten Zaubererhut und einen zerbrochenen Zauberstab. Auf einer Tafel zu seinen Füssen steht: 'Gedenke, gedenke, des Königs Schwert, dass des bösen Zauberer Mordak al Kharuds Herz entfernte'.;descriptionEn=A proud and brave looking knight presents a burnt wizard hat and broken mage staff. A tablet rests at his legs with the inscription: 'Remember, remember, our king's sword which cut out the heart of the evil sorcerer 'Mordak al Kharud'.
 138;124;691;333
 138;124;694;333;descriptionDe=Ein in Weiß bekleideter Man mit übergezogener roter Kaputze hält einen Bogen. Zu seinen Füssen liegt ein Golem. Der Mann hält in seiner linken Hand den Kopf des Golem.;descriptionEn=A man dressed in white with a red hooded cloak holds a bow. The body of a golem is lying at his feet and the head of the golem rests in the left hand of the man.
@@ -5660,12 +5660,9 @@
 125;125;673;333
 126;125;673;333
 127;125;673;333
+128;125;675;333
 128;125;673;333
-129;125;673;333
-130;125;673;333
-131;125;673;333
-132;125;673;333
-133;125;673;333
+134;125;674;333
 145;125;675;333
 134;126;674;333
 145;126;675;333
