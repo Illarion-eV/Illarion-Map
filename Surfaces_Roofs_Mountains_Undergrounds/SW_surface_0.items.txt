@@ -6707,9 +6707,7 @@
 375;46;274;333
 382;46;621;333
 383;46;620;333
-383;46;2745;333;descriptionEn=She lives, diary, by the gods or against the gods, she lives. My hands are shaking so hard I can barely write. I saw her today, or that which she has become.;descriptionDe=Sie lebt Tagebuch, bei allen Göttern oder trotz aller Götter, sie lebt. Meine Hände zittern so stark, ich kann kaum schreiben. Ich sah sie heute, oder das, was aus ihr geworden ist.
 384;46;619;333
-384;46;2745;333;descriptionDe=Die Spinne scheint mir, war mehr Teil von ihr als offensichtlich war. Obwohl ihre Beine . . .  sie hat derer nun acht . . .jedes dürrer und pelziger als das nächste. ;descriptionEn=The spider, it seems, was more of her familiar than was readily apparent. . . Her torso and eyes are unchanged. The same cold expressions stared at me. Her extremities though. . . she has eight legs now, each as spindly and furry as the next.
 391;46;338;333
 394;46;910;333
 396;46;623;333
@@ -31961,7 +31959,6 @@
 418;244;301;333
 422;244;2850;333
 423;244;36;333
-423;244;2745;333;descriptionDe=Mein Leben ist zur Hölle geworden. Ich bin ihr Spielzeug. Sie hat noch mehr ihrer dunklen Künste an mir angewendet. Ich bin nur noch eine Hülle von dem, was ich einst war. Ich bin mir nicht sicher, dass ich wirklich noch lebe.;descriptionEn=My life has become a living hell. I am her puppet. She practised more of her dark arts on me. I am only a shell of what I was. I am not sure if I am even living either.
 425;244;1783;333
 431;244;1783;333
 436;244;593;333
@@ -32037,7 +32034,6 @@
 418;245;301;333
 419;245;274;333
 420;245;1783;333
-422;245;2745;333;descriptionDe=Ich höre sie in meinem Kopf und sie liest meine Gedanken. Wir leben in einer kampfstarken Festung unter dem Schutz ihrer Drow Anhänger. Von hier aus plant sie nach und nach die Gegend zu übernehmen und ihr Gebiet.;descriptionEn=I hear her in my head and she reads my thoughts. We live in a fortress and strong hold in the depths, with the protection of her drow followers. From here she plans to grow and gradually resume her reign of evil to take over the mortal plane.
 423;245;66;0;markerstone=369
 424;245;1245;333
 433;245;1783;333
