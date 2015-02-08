@@ -5429,7 +5429,7 @@
 129;38;260;333
 130;38;3245;333
 141;38;3247;333
-141;38;267;0;book1=tihgoracs_book_of_combat;book2=clansmen;book3=abomination_runs_hides
+141;38;267;0;book1=tihgoracs_book_of_combat;book2=clansmen;book3=abomination_runs_and_hides
 142;38;287;333
 164;38;287;0
 165;38;287;0

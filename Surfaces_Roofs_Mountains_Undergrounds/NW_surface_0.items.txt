@@ -7465,8 +7465,8 @@
 348;221;854;333
 355;221;864;333;descriptionDe=Bibilothek;descriptionEn=Library;lockId=104;doorLock=unlocked
 358;221;955;0
-359;221;266;0;book1=gods1;book2=gods2;book1=glorification_to_irmorom
-361;221;266;0;book1=Calendar;book2=fragment_of_the_manrok_chronicles;book3=galmair_priester
+359;221;266;0;book2=gods2;book1=glorification_to_irmorom;book3=gods1
+361;221;266;0;book2=fragment_of_the_manrok_chronicles;book3=galmair_priester;book1=calendar
 363;221;266;0;book1=abomination_runs_and_hides
 365;221;874;333
 366;221;855;333
