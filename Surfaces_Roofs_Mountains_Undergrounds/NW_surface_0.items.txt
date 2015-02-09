@@ -5798,7 +5798,6 @@
 496;191;3083;333;descriptionDe=Hafen, Dunkellochmine, Nördliche Inseln;descriptionEn=Harbour, Dark Hole Mine, Northern Islands
 497;191;274;333
 503;191;1783;333
-504;191;1804;333
 0;192;287;0
 69;192;287;333
 70;192;287;333
