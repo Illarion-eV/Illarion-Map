@@ -82,7 +82,7 @@
 13;6;658;0
 16;6;2875;0
 18;6;635;0
-18;6;267;0
+18;6;267;0;book1=constitution_runewick_44;book2=epos_ignis;book3=tihgoracs_book_of_combat
 19;6;689;0
 2;7;674;0
 4;7;213;0
