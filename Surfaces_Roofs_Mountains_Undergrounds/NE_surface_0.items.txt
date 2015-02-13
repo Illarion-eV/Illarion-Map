@@ -27476,7 +27476,6 @@
 37;260;287;333
 43;260;3081;333;descriptionEn=If you want to leave, crawl out here like a coward.;descriptionDe=Wenn du entkommen möchtest, dann grabbel hier heraus, wie ein Feigling.
 51;260;2805;333
-51;260;360;333
 52;260;623;333
 53;260;287;333
 64;260;623;333
