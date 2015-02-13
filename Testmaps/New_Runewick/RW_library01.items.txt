@@ -138,7 +138,7 @@
 10;4;651;0
 10;4;463;0
 14;4;3237;0
-15;4;1098;0
+15;4;1098;0;book1=gods2;book2=diary_of_noira_liv;book3=glorification_to_irmorom;book4=petition_for_zelphia;book5=petition_in_the_name_of_findari
 25;4;2876;0
 26;4;2876;0
 27;4;2876;0
@@ -171,7 +171,7 @@
 1;6;3242;0
 13;6;396;0
 14;6;3245;0
-15;6;1098;0
+15;6;1098;0;book1=alchemy;book2=parchment_of_the_priests_of_eldan;book3=slimes;book4=druid_parchment
 18;6;2876;0
 19;6;550;0
 20;6;36;0
@@ -201,7 +201,7 @@
 6;8;396;0
 6;8;396;0
 14;8;3245;0
-15;8;1098;0
+15;8;1098;0;book1=epos_ignis;book2=abomination_runs_and_hides;book3=festival_relationship;book4=demonologist
 32;8;2875;0
 33;8;688;0
 33;8;3245;0
@@ -210,11 +210,11 @@
 1;9;689;0
 11;9;396;0
 14;9;3245;0
-19;9;1122;0
+19;9;1122;0;book1=celegails_songbook;book2=poems_marina;book3=dwarven_poems;book4=book_of_jokes
 19;9;1120;0
-23;9;1122;0
+23;9;1122;0;book1=chronicle_recording_of_the_blumfussens_family_tree;book2=brewyn_the_liar;book3=baros_bigfoot_and_the_pride;book4=h_evergreen
 23;9;1120;0
-27;9;1122;0
+27;9;1122;0;book1=blud_an_fiar_ork_magik;book2=lor_angur;book3=ritual_waterelemental_wascher;book4=resists_the_stake
 27;9;1120;0
 32;9;396;0
 33;9;688;0
@@ -256,7 +256,7 @@
 26;10;3244;0
 27;10;3244;0
 28;10;3242;0
-29;10;1098;0
+29;10;1098;0;book1=see_of_life;book2=a_travelers_diary;book3=letastos_diary;book4=the_one;book5=journal_of_abbot_elzechiel
 32;10;320;0
 32;10;90;0
 33;10;688;0
@@ -278,7 +278,7 @@
 24;11;396;0
 25;11;1360;0
 26;11;276;0
-26;11;750;0
+26;11;750;0;descriptionDe=Das Gemälde zeigt einen Magier in einem blauen Umhang auf einem Felsvorsprung stehend. Er beschwört einen Drachen, der links auftaucht. Drache und Magier sind in Blitze getaucht. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a mage with a blue coat standing on a rock. He summons a dragon which is appearing on the left side. Dragon and mage are covered in lightning. One can see in the left lower corner the initials AD.
 28;11;3245;0
 32;11;320;0
 32;11;333;0
@@ -315,7 +315,7 @@
 22;13;267;0
 27;13;1222;333
 28;13;3245;0
-29;13;1098;0
+29;13;1098;0;book1=a_hermit_on_the_lookout_for_eldan;book2=findaril_daughter_of_the_wind;book3=dragon_dreams;book4=tales_of_a_traveller;book5=the_read_wolf_and_the_bear;book6=tales_of_a_traveller
 32;13;2832;0
 33;13;3251;0
 33;13;396;0
