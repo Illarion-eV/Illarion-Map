@@ -7052,7 +7052,7 @@
 146;125;1783;333
 151;125;2805;333;descriptionEn=The Mother gives you breath to speak her words and a body to defend her honour.
 151;125;360;333
-162;125;1132;333;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.  ;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig leuchtendem blau.  
+162;125;1132;333;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.  ;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig blau.
 163;125;1135;333
 163;125;3518;333
 164;125;1135;333
@@ -7113,7 +7113,7 @@
 160;126;2805;333;descriptionEn=To breathe in the Mother's waters is a gift given only to the chosen.
 160;126;360;333
 161;126;1783;333
-162;126;1132;333;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig leuchtendem blau.  ;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.  
+162;126;1132;333;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig blau.;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.
 163;126;1135;333
 164;126;1135;333
 165;126;1135;333
@@ -7173,7 +7173,7 @@
 153;127;1148;333
 153;127;3518;333
 157;127;1144;333
-162;127;1132;333;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig leuchtendem blau.  ;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.  
+162;127;1132;333;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig blau.;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.  
 163;127;1135;333
 163;127;3518;333
 164;127;1135;333
