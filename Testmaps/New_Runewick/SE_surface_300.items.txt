@@ -21191,7 +21191,7 @@
 427;277;647;0
 429;277;2876;0
 440;277;3245;0
-444;277;1122;0;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history
+444;277;1122;0;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history;book4=ZzarnKSka
 444;277;1120;0
 449;277;1122;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
 449;277;1120;0
