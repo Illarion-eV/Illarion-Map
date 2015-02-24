@@ -19227,7 +19227,7 @@
 401;297;3265;0
 401;297;1382;333
 402;297;3265;0
-402;297;2745;333;nameEn=Property of the Clan of Barrelbreakers;descriptionEn=We don't plan on moving! ~Foreman Drui
+402;297;2745;333;nameEn=Property of the Clan of Barrelbreakers;descriptionEn=We don't plan on moving! ~Foreman Drui;nameDe=Eigentum vom Klan der Barrelbreakers;descriptionDe=Wir haben nicht vor wegzugehen! ~ Vorarbeiter Drui
 403;297;1783;333
 403;297;914;333
 404;297;273;333
