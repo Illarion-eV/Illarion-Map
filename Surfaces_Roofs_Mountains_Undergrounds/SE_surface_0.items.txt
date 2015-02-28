@@ -13302,6 +13302,7 @@
 133;167;272;333;descriptionDe=Eine blau gekleidete, kräftige, ältere Frau füttert einen ein Hasen während sie einen Wolf streichelt und zwei Vogeln auf ihren Schultern sitzen.;descriptionEn=A stout, elderly woman, dressed in blue, feeds a rabbit whilst she pets a wolf and two birds sit on her shoulders.
 134;167;586;333
 140;167;273;333
+142;167;273;333
 143;167;273;333
 145;167;1862;333
 146;167;586;333
@@ -13353,7 +13354,6 @@
 138;168;273;333
 139;168;273;333
 143;168;273;333
-143;168;301;333
 145;168;273;333
 146;168;586;333
 148;168;1783;333
