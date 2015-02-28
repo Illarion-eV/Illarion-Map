@@ -1095,7 +1095,7 @@
 0;31;287;333
 1;31;1101;333
 4;31;320;333
-4;31;1060;333;descriptionEn=Dissection: How to make your subject live for longer times;descriptionDe=Sektion: Wie Ihr eure Untertanen lang lebender macht.
+4;31;1060;333;descriptionEn=Vivisection: How to make your subject live for longer times;descriptionDe=Sektion: Wie Ihr eure Untertanen lang lebender macht.
 7;31;3101;333
 12;31;3101;333
 16;31;2805;333
