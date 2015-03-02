@@ -27200,7 +27200,7 @@
 37;258;287;333
 38;258;287;333
 41;258;498;333
-42;258;2805;333
+42;258;2805;333;descriptionDe=Da ist nur Mutter, es gibt keine anderen wahren Götter.;descriptionEn=There is only the Mother, no other true god.
 42;258;360;333
 43;258;629;333
 43;258;42;333
@@ -27210,7 +27210,7 @@
 45;258;622;333
 47;258;793;333
 47;258;10;333
-49;258;2805;333
+49;258;2805;333;descriptionDe=Erhebe Dich über die Ungläubigen.;descriptionEn=Rise above the heathens.
 49;258;360;333
 50;258;623;333
 51;258;287;333
@@ -27651,8 +27651,7 @@
 36;263;287;333
 39;263;273;333
 41;263;1783;333
-51;263;273;333
-51;263;2805;333
+51;263;2805;333;descriptionEn=There are believers or there are enemies.;descriptionDe=Es gibt Gläubige und es gibt Feinde.
 51;263;360;333
 52;263;623;333
 52;263;629;333
@@ -28164,6 +28163,7 @@
 118;269;1783;333
 122;269;273;333
 123;269;1783;333
+123;269;2926;333;descriptionEn=Beware the unholy rogue lizards below!;descriptionDe=Nehmt euch vor den gottlosen, schurkischen Echsen dort unten in Acht!
 125;269;273;333
 125;269;338;333
 125;269;338;333
@@ -28852,6 +28852,7 @@
 106;276;273;333
 107;276;338;333
 118;276;273;333
+124;276;2926;333;descriptionEn=A parchment hangs on a post: 'Blessed Mother, these waters are tainted with the filth these lizards bring with their evil ways. Please help guide them.';descriptionDe=Ein Pergament hängt an einem Pfosten: Gelobte Mutter, diese Wasser sind mit dem Dreck, den diese Echsen auf ihrem bösen Weg mitgebracht haben verunreinigt. Bitte hilf ihnen und leite sie.
 125;276;320;333
 125;276;1005;333
 126;276;320;333

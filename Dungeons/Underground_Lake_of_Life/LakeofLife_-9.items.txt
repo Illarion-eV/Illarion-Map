@@ -583,7 +583,7 @@
 142;10;1143;333
 142;10;3518;333
 145;10;1144;333
-150;10;2805;333;descriptionEn=For those unfortunate souls who are not able to swim, use this switch to walk on water.
+150;10;2805;333;descriptionEn=For those unfortunate souls who are not able to swim, use this switch to walk on water.;descriptionDe=Jene unglücklichen Seelen, welche nicht schwimmen können, benutzt den Schalter um auf dem Wasser zu wandeln.
 150;10;360;333
 151;10;1396;333
 152;10;1396;333
@@ -684,9 +684,9 @@
 52;12;3518;333
 52;12;3518;333
 53;12;1133;333
-58;12;2926;333;descriptionEn=Undead ahead, animated and without a master, they wander aimlessly.
+58;12;2926;333;descriptionEn=Undead ahead, animated and without a master, they wander aimlessly.;descriptionDe=Untote voraus! Ohne die Führung ihres Meisters wandern sie planlos umher.
 62;12;1144;333
-69;12;2805;333;descriptionEn=Kill all unbelivers in the name of the Mother.
+69;12;2805;333;descriptionEn=Kill all unbelivers in the name of the Mother.;descriptionDe=Töte die Ungläubigen im Namen der Mutter.
 69;12;360;333
 70;12;1140;333
 71;12;1143;333
@@ -751,7 +751,7 @@
 140;12;3518;333
 149;12;1783;333
 150;12;1144;333
-152;12;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+152;12;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 46;13;1139;333
 47;13;1132;333
 48;13;1135;333
@@ -1485,7 +1485,7 @@
 117;26;1141;333
 118;26;1783;333
 119;26;1783;333
-122;26;2805;333;descriptionEn=Once each day, purify yourself in this water, then apply the Caliginous Powder while performing the Zim'ptz Gha'tzha ritual to the Mother.
+122;26;2805;333;descriptionEn=Once each day, purify yourself in this water, then apply the Caliginous Powder while performing the Zim'ptz Gha'tzha ritual to the Mother.;descriptionDe=Reinige Dich einmal täglich in diesem Wasser. Danach führe das Zim´ptz Gha´tzha Ritual für Mutter durch und verwende das Dunkle Pulver.
 122;26;360;333
 123;26;1132;333
 123;26;3518;333
@@ -1609,7 +1609,7 @@
 115;29;1783;333
 116;29;1144;333
 117;29;1783;333
-119;29;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+119;29;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 121;29;1783;333
 123;29;1132;333
 124;29;1135;333
@@ -2610,7 +2610,7 @@
 20;44;1131;333
 20;44;3518;333
 21;44;1783;333
-22;44;2805;333;descriptionEn=Think of the Mother first in all things.
+22;44;2805;333;descriptionEn=Think of the Mother first in all things.;descriptionDe=Denke bei Allem immer erst an die Mutter.
 22;44;360;333
 23;44;1783;333
 31;44;1140;333
@@ -3071,7 +3071,7 @@
 101;54;1139;333
 101;54;3518;333
 102;54;1141;333
-103;54;2805;333;descriptionEn=Join in a prayer circle, praying to the Mother, twice each day.
+103;54;2805;333;descriptionEn=Join in a prayer circle, praying to the Mother, twice each day.;descriptionDe=Bete zwei mal täglich zur Mutter, zusammen mit Anderen.
 103;54;360;333
 104;54;1783;333
 105;54;1783;333
@@ -3381,7 +3381,7 @@
 30;64;1148;333
 30;64;3518;333
 32;64;1783;333
-35;64;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+35;64;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 37;64;1783;333
 46;64;1144;333
 51;64;1139;333
@@ -3438,7 +3438,7 @@
 96;66;1783;333
 97;66;1783;333
 98;66;1783;333
-99;66;2805;333;descriptionEn=Send the enemy back to the Mother in the Lake of Life, praying to the Mother as each body enters the lake.
+99;66;2805;333;descriptionEn=Send the enemy back to the Mother in the Lake of Life, praying to the Mother as each body enters the lake.;descriptionDe=Sende die Feinde zur Mutter im See des Lebens zurück, sie jedes mal preisend wenn eine Leiche in den See gelangt.
 99;66;360;333
 124;66;1148;333
 124;66;3518;333
@@ -3456,7 +3456,7 @@
 53;67;1783;333
 65;67;1148;333
 65;67;3518;333
-93;67;2924;333;descriptionEn=Across the vast lake can be seen an island, but how to cross?
+93;67;2924;333;descriptionEn=Across the vast lake can be seen an island, but how to cross?;descriptionDe=Inmitten des riesigen Sees ist eine Insel zu erkennen. Aber wie gelangt man dahin?
 95;67;614;333
 96;67;614;333
 107;67;1148;333
@@ -3470,7 +3470,7 @@
 20;68;1133;333
 21;68;1783;333
 22;68;1783;333
-55;68;2805;333;descriptionEn=The Mother gave you life so you must serve her with it.
+55;68;2805;333;descriptionEn=The Mother gave you life so you must serve her with it.;descriptionDe=Die Mutter gab Dir das Leben also musst Du Ihr mit Deinem Leben dienen.
 55;68;360;333
 71;68;1144;333
 86;68;1148;333
@@ -4041,8 +4041,7 @@
 95;83;434;333
 97;83;1783;333
 98;83;1783;333
-99;83;1383;333
-99;83;2805;333;descriptionEn=Every step and every swim should be done in the Mother's name.
+99;83;2805;333;descriptionEn=Every step and every swim should be done in the Mother's name.;descriptionDe=Jeder Schritt und jeder Schwimmzug sollte im Namen der Mutter geschehen.
 99;83;360;333
 100;83;1383;333
 105;83;1140;333
@@ -4330,7 +4329,6 @@
 73;86;1134;333
 73;86;3518;333
 74;86;1143;333
-76;86;1792;333
 79;86;1396;333
 80;86;1396;333
 81;86;1396;333
@@ -4434,7 +4432,6 @@
 73;87;1135;333
 74;87;1133;333
 74;87;3518;333
-76;87;1792;333
 79;87;1862;333
 80;87;2079;333
 84;87;3101;333
@@ -4527,7 +4524,7 @@
 73;88;1135;333
 73;88;3518;333
 74;88;1133;333
-80;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+80;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 82;88;1144;333
 92;88;1783;333
 93;88;1383;333
@@ -4546,7 +4543,7 @@
 121;88;1144;333
 127;88;1783;333
 134;88;1383;333
-138;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+138;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 140;88;1783;333
 143;88;1148;333
 143;88;3518;333
@@ -5263,7 +5260,7 @@
 32;98;1133;333
 32;98;1141;333
 35;98;1144;333
-62;98;2805;333;descriptionEn=Daily devotions to the Mother will keep you warming in her light.
+62;98;2805;333;descriptionEn=Daily devotions to the Mother will keep you warming in her light.;descriptionDe=Tägliche Gebete zur Mutter werden Dich in ihrem Lichte wärmen.
 62;98;360;333
 66;98;1144;333
 68;98;1148;333
@@ -5293,7 +5290,7 @@
 108;98;1131;333
 109;98;1141;333
 109;98;3518;333
-121;98;2805;333;descriptionEn=To defend the Mother's honour, one must be vigilant and loyal.
+121;98;2805;333;descriptionEn=To defend the Mother's honour, one must be vigilant and loyal.;descriptionDe=Um Mutters Ehre zu verteidigen muss man wachsam und treu sein.
 121;98;360;333
 128;98;1783;333
 133;98;1132;333
@@ -5582,7 +5579,7 @@
 14;101;1141;333
 14;101;3518;333
 17;101;1144;333
-19;101;2805;333;descriptionEn=All must honour the Mother. If you do not honour the Mother, then you are the enemy.
+19;101;2805;333;descriptionEn=All must honour the Mother. If you do not honour the Mother, then you are the enemy.;descriptionDe=Alle müssen die Mutter ehren. Wenn du die Mutter nicht ehrst, bist du der Feind.
 19;101;360;333
 24;101;1783;333
 25;101;1132;333
@@ -6055,7 +6052,7 @@
 113;109;1783;333
 120;109;1783;333
 125;109;1383;333
-127;109;2745;333;descriptionEn=The parchment appears to contain lyrics, "Zelphia, Mother of everything. Praise the Mother, giver of life to us all."
+127;109;2745;333;descriptionEn=The parchment appears to contain lyrics, "Zelphia, Mother of everything. Praise the Mother, giver of life to us all.";descriptionDe=Auf dem Pergament scheint einen Liedtext zu stehen: "Zelphia, Mutter von Allem. Lobpreist Mutter, die uns allen das Leben gab."
 131;109;1383;333
 139;109;1140;333
 139;109;3518;333
@@ -6074,7 +6071,7 @@
 144;109;1141;333
 147;109;1783;333
 150;109;1783;333
-152;109;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+152;109;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 158;109;1783;333
 163;109;1148;333
 163;109;3518;333
@@ -6171,7 +6168,7 @@
 151;111;1783;333
 153;111;1783;333
 156;111;614;333
-157;111;2805;333;descriptionEn=Frozen water is the Mother's wrath against evil.
+157;111;2805;333;descriptionEn=Frozen water is the Mother's wrath against evil.;descriptionDe=Gefrorenes Wasser ist Mutters Zorn gegen das Übel.
 157;111;360;333
 158;111;1783;333
 27;112;1148;333
@@ -6186,7 +6183,7 @@
 91;112;1133;333
 94;112;1783;333
 97;112;1783;333
-100;112;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+100;112;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 115;112;1144;333
 118;112;1783;333
 119;112;1383;333
@@ -6376,7 +6373,7 @@
 148;115;1383;333
 152;115;1148;333
 152;115;3518;333
-156;115;615;333;descriptionEn=Something about this ice mountain near you seems different. 
+156;115;615;333
 157;115;1132;333
 157;115;3518;333
 158;115;1135;333
@@ -6713,7 +6710,7 @@
 104;120;1134;333
 104;120;1133;333
 108;120;1383;333
-110;120;2805;333;descriptionEn=To understand the Mother's will, one must look with curious eyes.
+110;120;2805;333;descriptionEn=To understand the Mother's will, one must look with curious eyes.;descriptionDe=Um den Willen der Mutter zu verstehen muss man mit neugierigen Augen in die Welt blicken.
 110;120;360;333
 116;120;1383;333
 117;120;1383;333
@@ -6738,11 +6735,11 @@
 150;120;1148;333
 150;120;3518;333
 153;120;1383;333
-154;120;2805;333;descriptionEn=To feel the blessings of the Mother one must traverse the ice of their soul.
+154;120;2805;333;descriptionEn=To feel the blessings of the Mother one must traverse the ice of their soul.;descriptionDe=Um den Segen der Mutter zu spüren muss man das Eis ihrer Seele überwinden.
 154;120;360;333
 157;120;1148;333
 157;120;3518;333
-160;120;2805;333;descriptionEn=Teach those who listen, train those who follow, dispatch those who scorn.
+160;120;2805;333;descriptionEn=Teach those who listen, train those who follow, dispatch those who scorn.;descriptionDe=Lehre jene die zuhören, bilde jene aus die folgen, beseitige jene die dich verhöhnen.
 160;120;360;333
 164;120;792;333
 164;120;10;333
@@ -6903,7 +6900,7 @@
 147;122;3518;333
 148;122;1783;333
 157;122;36;333
-157;122;1001;333;descriptionEn=The plate is inscribed in various symbols perhaps only known to lizard priests.  It appears to be some form of offering plate.
+157;122;1001;333;descriptionEn=The plate is inscribed in various symbols perhaps only known to lizard priests.  It appears to be some form of offering plate.;descriptionDe=Dieser Teller ist mit verschiedenen Symbolen beschriftet, welche wohl nur Echsenpriestern bekannt sind. Es scheint eine Art Opferteller zu sein.
 158;122;36;333
 158;122;2554;333
 159;122;36;333
@@ -7066,7 +7063,7 @@
 143;125;3518;333
 145;125;1144;333
 146;125;1783;333
-151;125;2805;333;descriptionEn=The Mother gives you breath to speak her words and a body to defend her honour.
+151;125;2805;333;descriptionEn=The Mother gives you breath to speak her words and a body to defend her honour.;descriptionDe=Mutter gab dir den Atem um ihr Wort zu verbreiten und einen Körper um ihre Ehre zu verteidigen.
 151;125;360;333
 162;125;1132;333;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.  ;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig blau.
 163;125;1135;333
@@ -7119,14 +7116,14 @@
 125;126;3518;333
 128;126;1783;333
 135;126;1783;333
-146;126;2805;333
+146;126;2805;333;descriptionEn=All blasphemers shall drown in the Lake of Life, giving their life's energy back to the Mother who gave it to them.;descriptionDe=Alle Gotteslästerer sollen im See des Lebens ertrinken um ihre Energie der Mutter, welche sie ihnen gab zurückzugeben.
 146;126;360;333
 157;126;36;333
 158;126;36;333
 158;126;2554;333
 159;126;36;333
 159;126;2058;333
-160;126;2805;333;descriptionEn=To breathe in the Mother's waters is a gift given only to the chosen.
+160;126;2805;333;descriptionEn=To breathe in the Mother's waters is a gift given only to the chosen.;descriptionDe=Im Mutters Wasser zu verschnaufen ist ein Geschenk welches nur Auserkorenen zukommt.
 160;126;360;333
 161;126;1783;333
 162;126;1132;333;descriptionDe=Mit Anmut und Eleganz sind die schwarz leuchtenden Abbilder von fünf Echsen, welche ein Reinigungsritual an einer der Fontänen durchführen, aus dem Eis herausgearbeitet. Das reine Wasser an der spitze der Fontäne strahlt in einem prächtig blau.;descriptionEn=Carved with grace and elegance into the ice is the black glowing image of five lizards, performing the cleansing ritual at one of the fountains. The pure water on top of the fountain glows a glorious bright blue color.
@@ -7277,13 +7274,13 @@
 123;129;3518;333
 125;129;1783;333
 126;129;1783;333
-134;129;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.
+134;129;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
 137;129;1144;333
 140;129;1783;333
 142;129;1783;333
 152;129;1783;333
 153;129;1783;333
-155;129;2805;333;descriptionEn=The Mother's water is sacred, never sully the reflection of its image.
+155;129;2805;333;descriptionEn=The Mother's water is sacred, never sully the reflection of its image.;descriptionDe=Mutters Wasser ist heilig, nie beschmutze die Spiegelungen im Wasser.
 155;129;360;333
 159;129;1132;333
 159;129;3518;333
@@ -7718,7 +7715,7 @@
 139;148;1144;333
 65;149;1148;333
 65;149;3518;333
-102;149;1184;333;descriptionEn=The boat appears ready to set sail, with oars in the water and ropes untied from the dock.
+102;149;1184;333;descriptionEn=The boat appears ready to set sail, with oars in the water and ropes untied from the dock.;descriptionDe=Das Boot, mit Rudern im Wasser und losen Leinen, scheint bereit zu sein um abzulegen.
 102;149;42;333
 103;149;619;333
 103;149;1783;333
@@ -7954,7 +7951,7 @@
 131;176;1183;333
 131;176;42;333
 115;177;1144;333
-130;177;2937;333
+130;177;2937;333;descriptionEn=The body appears frozen to death.;descriptionDe=Der Körper scheint erfroren zu sein.
 106;178;1148;333
 106;178;3518;333
 122;178;1148;333
