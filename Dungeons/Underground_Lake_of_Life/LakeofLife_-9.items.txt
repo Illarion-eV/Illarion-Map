@@ -3772,7 +3772,7 @@
 47;78;1131;333
 47;78;1141;333
 47;78;1141;333
-77;78;2937;333
+77;78;2937;333;descriptionEn=The body appears frozen to death.;descriptionDe=Der Körper scheint erfroren zu sein.
 86;78;1148;333
 86;78;3518;333
 138;78;1148;333
@@ -4132,12 +4132,12 @@
 39;84;1141;333
 39;84;1141;333
 39;84;1133;333
-61;84;2937;333
+61;84;2937;333;descriptionEn=The body appears frozen to death.;descriptionDe=Der Körper scheint erfroren zu sein.
 72;84;1144;333
 88;84;3101;333
 99;84;1144;333
 102;84;1144;333
-102;84;2937;333
+102;84;2937;333;descriptionDe=Der Körper scheint erfroren zu sein.;descriptionEn=The body appears frozen to death.
 105;84;1132;333
 105;84;3518;333
 106;84;1135;333
@@ -5042,7 +5042,6 @@
 33;95;1131;333
 33;95;3518;333
 34;95;1141;333
-36;95;1206;333
 41;95;1144;333
 46;95;1148;333
 46;95;3518;333
@@ -5730,7 +5729,7 @@
 37;103;1140;333
 38;103;1143;333
 38;103;3518;333
-60;103;2937;333
+60;103;2937;333;descriptionEn=The body appears frozen to death.;descriptionDe=Der Körper scheint erfroren zu sein.
 73;103;1134;333
 74;103;1135;333
 74;103;3518;333
@@ -7345,7 +7344,7 @@
 162;130;1135;333
 163;130;1135;333
 164;130;1133;333
-61;131;2937;333
+61;131;2937;333;descriptionDe=Der Körper scheint erfroren zu sein.;descriptionEn=The body appears frozen to death.
 62;131;1148;333
 62;131;3518;333
 72;131;1783;333
@@ -7606,7 +7605,7 @@
 86;138;1131;333
 89;138;1144;333
 105;138;1144;333
-75;139;2937;333
+75;139;2937;333;descriptionDe=Der Körper scheint erfroren zu sein.;descriptionEn=The body appears frozen to death.
 79;139;1139;333
 80;139;1132;333
 81;139;1135;333
@@ -7763,7 +7762,7 @@
 107;154;1148;333
 107;154;3518;333
 114;154;1144;333
-114;154;2937;333
+114;154;2937;333;descriptionEn=The body appears frozen to death.;descriptionDe=Der Körper scheint erfroren zu sein.
 94;155;1148;333
 94;155;3518;333
 135;155;1783;333
@@ -7946,7 +7945,6 @@
 144;175;1148;333
 144;175;3518;333
 128;176;1783;333
-129;176;3084;333
 130;176;1144;333
 131;176;1183;333
 131;176;42;333
