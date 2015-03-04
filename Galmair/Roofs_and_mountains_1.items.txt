@@ -5195,9 +5195,8 @@
 273;161;3304;333
 273;161;3261;333
 274;161;3308;333
-275;161;3304;333
-275;161;210;333
-276;161;3316;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=114;doorLock=unlocked
+275;161;3316;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=114;doorLock=unlocked
+276;161;3308;333
 277;161;3304;333
 277;161;210;333
 278;161;3308;333
