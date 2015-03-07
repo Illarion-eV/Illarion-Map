@@ -7829,7 +7829,7 @@
 125;159;3518;333
 126;159;1783;333
 126;159;1133;333
-129;159;3081;333;descriptionEn=Use this if you refuse to pray.;descriptionDe=Verwenden Sie dies, wenn Sie sich weigern, zu beten.
+129;159;3081;333;descriptionEn=Use this if you refuse to pray.;descriptionDe=Verwende dies, wenn Du dich weigerst zu beten.
 132;159;1783;333
 133;159;1144;333
 134;159;1783;333
