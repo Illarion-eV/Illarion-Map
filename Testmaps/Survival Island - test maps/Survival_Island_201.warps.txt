@@ -12,7 +12,13 @@
 # 
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
+180;25;380;228;200
+38;52;238;255;200
 116;86;314;290;200
 109;110;308;312;200
 83;113;282;316;200
+44;116;244;319;200
+159;122;359;325;200
+134;170;334;373;200
+181;174;381;377;200
 77;182;277;385;200
