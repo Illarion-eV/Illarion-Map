@@ -657,7 +657,7 @@
 142;11;1141;333
 147;11;1144;333
 151;11;1862;333
-152;11;2079;333
+152;11;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 154;11;1144;333
 155;11;1783;333
 158;11;1148;333
@@ -751,7 +751,7 @@
 140;12;3518;333
 149;12;1783;333
 150;12;1144;333
-152;12;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+152;12;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 46;13;1139;333
 47;13;1132;333
 48;13;1135;333
@@ -1557,7 +1557,7 @@
 115;28;1141;333
 117;28;1783;333
 118;28;1862;333
-119;28;2079;333
+119;28;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 121;28;1783;333
 122;28;1783;333
 123;28;1132;333
@@ -1609,7 +1609,7 @@
 115;29;1783;333
 116;29;1144;333
 117;29;1783;333
-119;29;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+119;29;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 121;29;1783;333
 123;29;1132;333
 124;29;1135;333
@@ -3343,7 +3343,7 @@
 26;63;1783;333
 32;63;1783;333
 34;63;1862;333
-35;63;2079;333
+35;63;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 51;63;1132;333
 51;63;3518;333
 52;63;1135;333
@@ -3381,7 +3381,7 @@
 30;64;1148;333
 30;64;3518;333
 32;64;1783;333
-35;64;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+35;64;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 37;64;1783;333
 46;64;1144;333
 51;64;1139;333
@@ -4433,7 +4433,7 @@
 74;87;1133;333
 74;87;3518;333
 79;87;1862;333
-80;87;2079;333
+80;87;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 84;87;3101;333
 84;87;1144;333
 94;87;3101;333
@@ -4471,7 +4471,7 @@
 131;87;3518;333
 134;87;1783;333
 137;87;1862;333
-138;87;2079;333
+138;87;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 140;87;1783;333
 141;87;1148;333
 141;87;3518;333
@@ -4524,7 +4524,7 @@
 73;88;1135;333
 73;88;3518;333
 74;88;1133;333
-80;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+80;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 82;88;1144;333
 92;88;1783;333
 93;88;1383;333
@@ -4543,7 +4543,7 @@
 121;88;1144;333
 127;88;1783;333
 134;88;1383;333
-138;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+138;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 140;88;1783;333
 143;88;1148;333
 143;88;3518;333
@@ -6029,7 +6029,7 @@
 146;108;1783;333
 149;108;1783;333
 151;108;1862;333
-152;108;2079;333
+152;108;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 160;108;1139;333
 161;108;1131;333
 161;108;3518;333
@@ -6070,7 +6070,7 @@
 144;109;1141;333
 147;109;1783;333
 150;109;1783;333
-152;109;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+152;109;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 158;109;1783;333
 163;109;1148;333
 163;109;3518;333
@@ -6138,7 +6138,7 @@
 96;111;1783;333
 97;111;1783;333
 99;111;1862;333
-100;111;2079;333
+100;111;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 108;111;1383;333
 111;111;1144;333
 114;111;1783;333
@@ -6182,7 +6182,7 @@
 91;112;1133;333
 94;112;1783;333
 97;112;1783;333
-100;112;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+100;112;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 115;112;1144;333
 118;112;1783;333
 119;112;1383;333
@@ -7232,7 +7232,7 @@
 127;128;1783;333
 132;128;1783;333
 133;128;1862;333
-134;128;2079;333
+134;128;2079;333;nameEn=Cleansing Fountain;nameDe=Badebrunnen
 153;128;1383;333
 155;128;1148;333
 155;128;3518;333
@@ -7273,7 +7273,7 @@
 123;129;3518;333
 125;129;1783;333
 126;129;1783;333
-134;129;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.
+134;129;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
 137;129;1144;333
 140;129;1783;333
 142;129;1783;333
