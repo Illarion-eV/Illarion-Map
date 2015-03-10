@@ -4941,8 +4941,8 @@
 217;155;626;0
 265;155;3307;333
 268;155;747;333
-271;155;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=113;doorLock=unlocked
-276;155;3317;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=115;doorLock=unlocked
+271;155;3317;333;lockId=113;doorLock=unlocked;descriptionEn=Lucky Copper;descriptionDe=Glückskupfer
+276;155;3317;333;lockId=115;doorLock=unlocked;descriptionEn=Golden Deal;descriptionDe=Goldener Abschluss
 281;155;2877;333
 283;155;3301;333
 283;155;275;333
@@ -5206,7 +5206,7 @@
 273;161;3304;333
 273;161;3261;333
 274;161;3308;333
-275;161;3316;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=114;doorLock=unlocked
+275;161;3316;333;lockId=114;doorLock=unlocked;descriptionEn=Silver Profit;descriptionDe=Silberner Verdienst
 276;161;3308;333
 276;161;401;333
 277;161;3304;333
