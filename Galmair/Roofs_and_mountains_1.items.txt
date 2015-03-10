@@ -5422,7 +5422,7 @@
 267;166;3310;333
 268;166;675;333
 268;166;3294;333
-269;166;3314;333
+269;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=113;doorLock=locked
 270;166;3306;333
 271;166;3298;333
 271;166;3324;333
@@ -5430,7 +5430,7 @@
 272;166;3298;333
 273;166;3306;333
 274;166;3298;333
-275;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=114;doorLock=unlocked
+275;166;3314;333;descriptionEn=Balkon;descriptionEn=Balcony;lockId=114;doorLock=locked
 276;166;3298;333
 277;166;3306;333
 278;166;3298;333
