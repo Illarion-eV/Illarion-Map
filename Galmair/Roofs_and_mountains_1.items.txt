@@ -4737,7 +4737,7 @@
 278;152;747;333
 281;152;747;333
 283;152;3297;333
-283;152;1915;333
+283;152;1915;333;descriptionEn=The painting shows a woman who covers her body in silk cloth.;descriptionDe=Das Gemälde zeigt eine Frau die ihren Körper mit Seidentüchern verdeckt.
 284;152;287;333
 327;152;915;333
 328;152;1783;333
@@ -5037,7 +5037,7 @@
 271;157;269;333
 275;157;2832;333
 276;157;3309;333
-276;157;265;333
+276;157;265;333;descriptionEn=The painting shows a smeared painting. It appears as if a fairy is placed in the middle of the picture.;descriptionDe=Das Gemälde zeigt ein verlaufenes Bild, es scheint so, als ob eine Fee zentriert im Bild wäre.
 280;157;2876;333
 281;157;2879;333
 281;157;2853;333
@@ -5316,8 +5316,7 @@
 268;163;672;333
 268;163;672;333
 268;163;672;333
-270;163;749;333
-270;163;749;333
+270;163;749;333;descriptionEn=The painting shows a group of musicians on a lively marketplace.;descriptionDe=Das Gemälde zeigt eine Gruppe von Musikern auf einem belebtem Marktplatz.
 271;163;3303;333
 271;163;3303;333
 273;163;743;333
