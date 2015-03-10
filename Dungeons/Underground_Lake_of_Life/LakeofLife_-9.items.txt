@@ -5752,7 +5752,7 @@
 77;103;1144;333
 78;103;1148;333
 78;103;3518;333
-79;103;2927;333;descriptionEn=Holding Pen - Amuse Yourself At Will
+79;103;2927;333;descriptionEn=Holding Pen - Amuse Yourself At Will;descriptionDe=Zwinger - Amüsiere dich wie es beliebt
 80;103;56;333
 82;103;56;333
 84;103;1144;333

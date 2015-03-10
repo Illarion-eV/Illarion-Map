@@ -59,7 +59,7 @@
 9;5;1135;333
 0;6;3088;333
 1;6;232;333
-4;6;2937;333;descriptionEn=The body is old and dried up, looking long forgotten in this place. Pieces of flesh torn off and missing in places.
+4;6;2937;333;descriptionEn=The body is old and dried up, looking long forgotten in this place. Pieces of flesh torn off and missing in places.;descriptionDe=Die Leiche ist alt und vertrocknet, sie scheint hier seit langem vergessen. Fleischfetzen wurden herausgerissen und fehlen an manchen Stellen.
 8;6;1132;333
 9;6;1135;333
 9;6;3518;333
@@ -68,14 +68,13 @@
 4;7;1783;333
 5;7;3101;333
 6;7;1783;333
-7;7;51;333;descriptionEn=Slop Bucket
+7;7;51;333;descriptionEn=Slop Bucket;descriptionDe=Verschlammter Eimer
 8;7;1132;333
 8;7;3518;333
 9;7;1135;333
 0;8;3088;333
 1;8;232;333
 6;8;3101;333
-6;8;1783;333
 8;8;1132;333
 9;8;1135;333
 0;9;3088;333
