@@ -18989,7 +18989,7 @@
 420;292;3301;333
 420;292;42;333
 420;292;2832;333
-420;292;1915;333;descriptionDe=Dies ist das Porträt einer in Galmair wohl bekannten Person. Jeder kann den jungen Don und seinen Vetter Roberto erkennen. Aber wer ist die Zwergin zwischen ihnen?;descriptionEn=This portrait is of a known figure in Galmair, anyone can recognize the younger Don and his cousin Roberto but who is that dwarfess between them?
+420;292;1915;333;descriptionDe=Dies ist das Porträt einer in Galmair wohl bekannten Person. Jeder kann den jungen Don und seinen Cousin Roberto erkennen. Aber wer ist die Zwergin zwischen ihnen?;descriptionEn=This portrait is of a known figure in Galmair, anyone can recognize the younger Don and his cousin Roberto but who is that dwarfess between them?
 421;292;287;333
 422;292;287;333
 423;292;287;333
