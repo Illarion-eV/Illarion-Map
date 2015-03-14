@@ -480,7 +480,7 @@
 0;17;287;333
 1;17;599;333
 23;17;914;333
-28;17;2745;333;descriptionEn=Making the golden goblet takes two ingots of silver and one ingot of gold. First, you fashion the goblet from the silver, then you cover or overlay the entire thing in gold.;descriptionDe=Einen goldenen Kelch zu erstellen braucht der Barren drei, zwei aus Silber und einen aus Gold. Forme den Kelch aus dem Silber und dann beschlage ihn mit dem Gold, poliere ihn bis er so funkelt.
+28;17;2745;333;descriptionEn=This appears to be the title page for the book 'A Question of Honour'.;descriptionDe=Dies scheint die Titelseite des Buchs 'Eine Frage der Ehre' zu sein.
 29;17;3097;333
 39;17;1265;333
 45;17;3095;333
@@ -689,7 +689,7 @@
 18;30;287;333
 19;30;630;333
 20;30;628;333
-22;30;2745;333;descriptionEn=To make a crown, like the Queen wears, you will need to shape it from three silver ingots, adding three gold ingots, then a touch of merinium. Once this is completed then add a sapphire, topaz and diamond.;descriptionDe=Um eine Krone, wie die der Königin, zu erstellen forme sie zuerst aus drei Silber Barren, füge drei Goldene hinzu und einen Hauch von Merinium. Sobald dies erledigt füge die geschliffenen Juwelen ein, von Saphir, Topaz und Diamant je einen.
+22;30;2745;333;descriptionEn=The remnants of this paper contains the official seal of Cadomyr.;descriptionDe=Die Reste dieser Seite zeigen das offizielle Siegel von Cadomyr.
 28;30;1276;333
 34;30;2855;333
 35;30;1245;333
@@ -857,7 +857,7 @@
 3;40;914;333
 9;40;28;333
 11;40;66;333;markerstone=544
-17;40;2745;333;descriptionEn=Fissshing iss besst in da morningsss. Usse bait, found *the rest of the message is lost as the rats have chewed on the parchment*;descriptionDe=Fissssche am besssten morgensss. Den Köder findet man * der Rest des Pergament ist unleserlich und von Ratten zerfressen*
+17;40;2745;333;descriptionEn=The parchment is shredded by the rats beyond anything recognizable.;descriptionDe=Dieses Pergament wurde von Ratten bis zu Unkenntlichkeit zerfetzt.
 20;40;1783;333
 23;40;915;333
 26;40;3097;333
@@ -875,7 +875,7 @@
 17;41;1245;333
 32;41;1783;333
 38;41;1245;333
-39;41;2745;333;descriptionEn=The ring of an Archmage. First craft a ring of two silver ingots, covering it in two gold ingots. Now add a merninum ingot in such a way that it holds the essence of a pure air, pure fire, and pure water.;descriptionDe=Ein Ring des Erzmagiers. Zuerst forme einen Ring aus zwei silbernen Barren, ummantele das ganze mit dem Gold von zwei weiteren. Nun füge das Merinium eines Barrens so hinzu, dass es die Essenz je einer reinen Luft, Erde, Feuer und Wassers enthält.
+39;41;2745;333;descriptionEn=This parchment is the shredded remains of a page from Dagbladden.;descriptionDe=Dieses Pergment ist das zerfetzte Überbleibsel einer Seite des Dagbladden.
 42;41;1254;333
 45;41;623;333
 46;41;287;333
@@ -932,7 +932,7 @@
 5;45;915;333
 13;45;407;333
 15;45;915;333
-21;45;2745;333;descriptionEn=There are some huge salmon found in the waters around Cadomyr. Be prepared to pull one in or have them steal your catch!;descriptionDe=Riesige Lachse schwimmen in den Gewässern um Cadomyr. Sei dir gewahr, dass du einen fangen wirst, oder dass sie dir deinen Fang stehlen.
+21;45;2745;333;descriptionDe=Diese Papierreste riechen nach Tabak.;descriptionEn=The paper fragments smell of tobacco.
 23;45;914;333
 45;45;287;333
 46;45;287;333

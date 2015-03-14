@@ -91,7 +91,7 @@
 0;4;287;333
 3;4;3099;333
 12;4;616;333
-18;4;2745;333;descriptionEn=Making a harp is a daunting task, but you can do it by taking five cherry boards and three spools of thread.;descriptionDe=Eine Harfe herzustellen ist eine beängstigende Arbeit, jedoch kannst du es tun indem du fünf Kirschholzbretter und drei Spulen Faden nimmst. 
+18;4;2745;333;descriptionEn=The parchment is shredded by the rats beyond anything recognizable.;descriptionDe=Dieses Pergament wurde von Ratten bis zu Unkenntlichkeit zerfetzt.
 19;4;2927;333;descriptionEn=Beware rats!;descriptionDe=Vorsicht vor den Ratten!
 23;4;616;333
 0;5;287;333
@@ -137,7 +137,7 @@
 1;10;627;333
 3;10;56;333
 3;10;56;333
-9;10;2745;333;descriptionEn=To make blackberry muffins you need two bags of flour, one honeycomb, five blackberries, and one bucket of water. Mix this all together and bake it in a baking oven. ;descriptionDe=Um Brombeeren-Muffins herzustellen brauchst du zwei Säcke Mehl, eine Honigwabe, fünf Brombeeren und einen Eimer Wasser. Mische alles zusammen und backe es im Backofen.
+9;10;2745;333;descriptionEn=The remnants of this paper contains the official seal of Runewick.;descriptionDe=Die Reste dieser Seite zeigen das offizielle Siegel von Runewick.
 10;10;3093;333
 11;10;627;333
 15;10;3101;333
@@ -148,7 +148,7 @@
 0;11;287;333
 1;11;413;333
 2;11;3098;333
-4;11;2745;333;descriptionEn=To make a fine long bow, you need to start with three fine naldor boards and three applewood boards, combining them together. Add four spools of thread and embellish it with a cut blackstone.;descriptionDe=Um einen Langbogen zu machen, musst du mit drei Naldor-Brettern und drei Apfelholz-Brettern starten, kombiniere diese mit sauberem Schnitt. Gib vier Spuhlen Faden dazu und dekoriere es mit einem geschliffenen Obsidian.
+4;11;2745;333;descriptionDe=Diese Papierreste riechen nach Tabak.;descriptionEn=The paper fragments smell of tobacco.
 6;11;407;333
 11;11;411;333
 11;11;3101;333
@@ -180,7 +180,7 @@
 6;14;614;333
 15;14;3097;333
 18;14;3100;333
-22;14;2745;333;descriptionEn=To make cookies you need one bucket of water, two bags of flour, and one honeycomb. Mix it all together and bake it by the spoonful to make delicious cookies, being careful not to burn them. For an extra special treat, try adding some nuts!;descriptionDe=Um Kekse herzustellen brauchst du einen Eimer Wasser, zwei Säcke Mehl und eine Honigwabe. Mische alles zusammen und backe alles löffelweise. Sei vorsichtig, dass sie nicht verbrennen.
+22;14;2745;333;descriptionEn=This parchment is the shredded remains of a page from Dagbladden.;descriptionDe=Dieses Pergment ist das zerfetzte Überbleibsel einer Seite des Dagbladden.
 23;14;413;333
 24;14;287;333
 0;15;287;333

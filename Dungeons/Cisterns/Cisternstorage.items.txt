@@ -304,7 +304,7 @@
 17;11;3101;333
 20;11;3100;333
 22;11;426;333
-32;11;2745;333;descriptionEn=Ta make one of da most difficult helms, da flame helmet, collect ye resources first: Nine iron ingots, six copper ingots, one gold ingot, one silver ingot, and two merinium ingot. You will also need da pure fire.;descriptionDe=Um einen der kompliziertesten Helme herzustellen sammle zuerst alle Rohstoffe: 9 Eisenbarren, 6 Kupferbarren, 1 Goldbarren, 1 Silberbarren und 2 Meriniumbarren. Außerdem brauchst du ein reines Feuer.
+32;11;2745;333;descriptionEn=This appears to be the title page for the book 'Dwarven Poems'.;descriptionDe=Dies scheint die Titelseite des Buchs 'Zwergisches Liedgut' zu sein.
 39;11;993;333
 0;12;613;333
 4;12;422;333
@@ -313,7 +313,7 @@
 12;12;422;333
 14;12;3100;333
 18;12;426;333
-19;12;2745;333;descriptionEn=Ta brew da bear slayer crush eight apples and add dem to a bucket a water. Add two honeycombs and a finely crushed toadstool. Brew dis all togeder very well, den poor into a small bottle. Be warned, dis be da strong stuff!;descriptionDe=Um Bärentöter zu brauen wirf einfach 8 Äpfel in den Eimer mit Wasser. Dazu noch 2 Honigwaben und schlußendlich einen Giftpilz. Braue das Alles zusammen und fülle es in in kleine Flaschen. Sei gewarnt, das ist ein kräftiger Schnaps.
+19;12;2745;333;descriptionEn=The parchment is shredded by the rats beyond anything recognizable.;descriptionDe=Dieses Pergament wurde von Ratten bis zu Unkenntlichkeit zerfetzt.
 21;12;420;333
 24;12;422;333
 30;12;3100;333
@@ -357,7 +357,7 @@
 3;16;423;333
 7;16;3101;333
 8;16;426;333
-9;16;2745;333;descriptionEn=Dwarven axe, arrrrr! Make dat, aye! Take ye axe handle, six iron ingots, two copper ingots, one gold ingot and ye cut topaz to fancy it up. It be ye beautiful thing it be! Arrrr!;descriptionDe=Zwergenaxt, arrr! Mache sie, aye! Nimm den Axtgriff, sechs Eisenbarren, zwei aus Kupfer und einen aus Gold, ach ja und einen geschliffenen Topas. Es ist eine schöne Waffe. Arrr!
+9;16;2745;333;descriptionEn=This parchment is the shredded remains of a page from Dagbladden.;descriptionDe=Dieses Pergment ist das zerfetzte Überbleibsel einer Seite des Dagbladden.
 10;16;613;333
 12;16;3101;333
 13;16;1783;333
@@ -494,7 +494,7 @@
 39;23;613;333
 0;24;914;333
 3;24;422;333
-6;24;2745;333;descriptionEn=Salkamaerian officer's armour, now dis be difficult. Gader all ye supplies: 20 iron ingots, eight copper ingots, two gold ingots, one merinium ingot, eight pieces of leather, eight pieces of grey cloth, one cut topaz and a pure earth.;descriptionDe=Die Salkamaerische Offiziersrüstung ist kompliziert. Sammle alle Materialien: 20 Eisenbarren, 8 Kupfer, 2 Gold und 1 Meriniumbarren, 8 Lederstücke und 8 Ballen grauer Stoff, ein geschliffener Topas und 1 reine Erde.
+6;24;2745;333;descriptionEn=The remanats of this paper contains the official seal of Galmair.;descriptionDe=Die Reste dieser Seite zeigen das offizielle Siegel von Galmair.
 9;24;2586;333
 10;24;1907;333
 14;24;1783;333
