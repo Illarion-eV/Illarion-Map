@@ -5650,8 +5650,6 @@
 138;124;691;333
 138;124;694;333;descriptionDe=Ein in Weiß bekleideter Man mit übergezogener roter Kaputze hält einen Bogen. Zu seinen Füssen liegt ein Golem. Der Mann hält in seiner linken Hand den Kopf des Golem.;descriptionEn=A man dressed in white with a red hooded cloak holds a bow. The body of a golem is lying at his feet and the head of the golem rests in the left hand of the man.
 145;124;675;333
-107;125;1862;333
-107;125;694;333
 116;125;1862;333
 116;125;694;333
 121;125;678;333
