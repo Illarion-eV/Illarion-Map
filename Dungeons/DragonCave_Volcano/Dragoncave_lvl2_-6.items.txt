@@ -87,7 +87,7 @@
 47;13;1250;333
 54;13;359;333
 15;14;1272;333
-17;14;2926;333;descriptionEn=Nesting Area Ahead. Leave at Once!
+17;14;2926;333;descriptionEn=Nesting Area Ahead. Leave at Once!;descriptionDe=Brutplatz voraus. Verschwinde sofort!
 34;14;359;333
 37;14;1247;333
 41;14;1245;333
@@ -154,7 +154,7 @@
 0;17;359;333
 9;17;1265;333
 14;17;3100;333
-17;17;2926;333;descriptionEn=Nesting Area Ahead. Leave at Once!
+17;17;2926;333;descriptionEn=Nesting Area Ahead. Leave at Once!;descriptionDe=Brutplatz voraus. Verschwinde sofort!
 20;17;359;333
 38;17;3098;333
 42;17;232;333
@@ -454,8 +454,8 @@
 52;45;616;333
 54;45;359;333
 2;46;359;333
-9;46;2927;333;descriptionEn=Nesting Area Ahead. Leave at Once!
-12;46;2927;333;descriptionEn=Nesting Area Ahead. Leave at Once!
+9;46;2927;333;descriptionEn=Nesting Area Ahead. Leave at Once!;descriptionDe=Brutplatz voraus. Verschwinde sofort!
+12;46;2927;333;descriptionEn=Nesting Area Ahead. Leave at Once!;descriptionDe=Brutplatz voraus. Verschwinde sofort!
 31;46;359;333
 37;46;609;333
 38;46;609;333

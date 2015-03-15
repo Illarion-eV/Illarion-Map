@@ -6015,7 +6015,7 @@
 231;94;1177;0
 232;94;1782;333
 235;94;1783;333
-236;94;2926;333
+236;94;2926;333;descriptionEn=Caution Cooling lava! Very hot!;descriptionDe=Vorsicht abkühlende Lava! Sehr heiß!
 239;94;373;333
 244;94;373;333
 336;94;580;333
@@ -10392,7 +10392,7 @@
 275;141;3101;333
 275;141;2586;333
 277;141;2801;333
-277;141;2038;333
+277;141;2038;333;descriptionEn=Appears to be the skull of an elf.;descriptionDe=Dies scheint der Schädel eine Elfen zu sein.
 294;141;623;333
 295;141;287;333
 296;141;287;333
@@ -10931,9 +10931,9 @@
 304;145;287;333
 305;145;622;0
 306;145;628;0
-311;145;2927;0
+311;145;2927;0;descriptionEn=Sacred graveyard below, proceed with reverence.;descriptionEn=Der heilige Friedhof ist unter dir. Fahre fort mit den Ehrerbietungen.
 313;145;29;333
-315;145;2927;0
+315;145;2927;0;descriptionDe=Der heilige Friedhof ist unter dir. Fahre fort mit den Ehrerbietungen.;descriptionEn=Sacred graveyard below, proceed with reverence.
 316;145;1245;0
 320;145;623;0
 321;145;287;333
@@ -11023,9 +11023,9 @@
 275;146;2586;333
 276;146;3101;333
 277;146;2801;333
-277;146;2038;333
+277;146;2038;333;descriptionEn=Appears to be the skull of an orc.;descriptionDe=Dies scheint der Schädel eines Orks zu sein.
 280;146;1102;333
-280;146;211;333
+280;146;211;333;descriptionEn=The horse head has crazy bewitched eyes, that seem to follow you as you move, while blood slowly drips from its nose.;descriptionDe=Der Pferdekopf hat wahnwitzige verzauberte Augen. Sie scheinen Dir zu folgen, wenn Du dich bewegst, während langsam Blut aus seiner Nase tropft.
 280;146;2952;333
 280;146;3101;333
 281;146;998;333
@@ -11694,7 +11694,7 @@
 268;151;402;333
 269;151;690;333
 272;151;691;333
-273;151;3075;333
+273;151;3075;333;descriptionEn=The shield depicts a proud dragon with flames shooting from its mouth.;descriptionDe=Das Schild zeigt einen stolzen Drachen, aus dessen Maul Flammen schießen.
 274;151;690;333
 277;151;691;333
 278;151;3101;333
@@ -13302,7 +13302,7 @@
 151;166;387;333
 154;166;274;333
 238;166;913;333
-254;166;2927;333
+254;166;2927;333;descriptionEn=Caution Cooling lava! Very hot!;descriptionDe=Vorsicht abkühlende Lava! Sehr heiß!
 260;166;1783;333
 279;166;373;333
 283;166;1246;333
@@ -13698,7 +13698,7 @@
 259;173;911;333
 263;173;1782;333
 263;173;2170;333
-270;173;2927;333
+270;173;2927;333;descriptionEn=Caution Cooling lava! Very hot!;descriptionDe=Vorsicht abkühlende Lava! Sehr heiß!
 272;173;2169;333
 299;173;273;333
 302;173;274;333
