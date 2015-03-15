@@ -21023,11 +21023,11 @@
 443;275;1083;0
 444;275;3220;0
 444;275;3223;0
-447;275;1121;0;book1=lizardmen_history_and_culture;book2=marriage_broker
+447;275;1121;0;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
 447;275;1119;0
 449;275;3220;0
 449;275;3223;0
-452;275;1121;0;book1=barhead_kings;book2=see_of_life
+452;275;1121;0;book1=barhead_kings;book2=see_of_life;book3=ZzarnKSka
 452;275;1119;0
 454;275;3220;0
 454;275;3223;0
@@ -21191,12 +21191,12 @@
 427;277;647;0
 429;277;2876;0
 440;277;3245;0
-444;277;1122;0;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history;book4=ZzarnKSka
+444;277;1122;0;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history
 444;277;1120;0
 449;277;1122;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
 449;277;1120;0
 452;277;3104;0
-454;277;1122;0;book1=tihgoracs_book_of_combat;book2=clansmen
+454;277;1122;0;book1=tihgoracs_book_of_combat;book2=clansmen;book3=the_pointy_end
 454;277;1120;0
 458;277;36;0
 458;277;2039;0
@@ -22773,7 +22773,7 @@
 388;297;320;333
 388;297;1060;333
 391;297;635;0
-391;297;267;0;book1=magic_gems
+391;297;267;0;book1=magic_gems;book2=the_pointy_end
 398;297;643;0
 399;297;689;0
 402;297;338;0
