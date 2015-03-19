@@ -10931,7 +10931,7 @@
 304;145;287;333
 305;145;622;0
 306;145;628;0
-311;145;2927;0;descriptionEn=Sacred graveyard below, proceed with reverence.;descriptionEn=Der heilige Friedhof ist unter dir. Fahre fort mit den Ehrerbietungen.
+311;145;2927;0;descriptionEn=Sacred graveyard below, proceed with reverence.;descriptionDe=Der heilige Friedhof ist unter dir. Fahre fort mit den Ehrerbietungen.
 313;145;29;333
 315;145;2927;0;descriptionDe=Der heilige Friedhof ist unter dir. Fahre fort mit den Ehrerbietungen.;descriptionEn=Sacred graveyard below, proceed with reverence.
 316;145;1245;0
@@ -11074,7 +11074,6 @@
 303;146;287;333
 304;146;287;333
 308;146;359;0
-310;146;359;0
 318;146;1278;0
 319;146;627;0
 320;146;623;0
