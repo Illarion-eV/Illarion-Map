@@ -13352,7 +13352,6 @@
 130;167;274;333
 130;167;1782;333
 130;167;1783;333
-132;167;1783;333
 133;167;272;333;descriptionDe=Eine blau gekleidete, kräftige, ältere Frau füttert einen ein Hasen während sie einen Wolf streichelt und zwei Vogeln auf ihren Schultern sitzen.;descriptionEn=A stout, elderly woman, dressed in blue, feeds a rabbit whilst she pets a wolf and two birds sit on her shoulders.
 134;167;586;333
 140;167;273;333
@@ -13397,9 +13396,9 @@
 20;168;274;0
 33;168;628;0
 52;168;1817;333
+125;168;1782;333
 126;168;387;333
 130;168;274;333
-132;168;1783;333
 133;168;273;333
 134;168;273;333
 135;168;273;333
@@ -13452,6 +13451,7 @@
 57;169;1804;333
 60;169;1817;333
 62;169;1808;333
+125;169;1782;333
 127;169;301;333
 128;169;274;333
 129;169;274;333
@@ -13513,6 +13513,7 @@
 138;170;273;333
 139;170;273;333
 143;170;273;333
+144;170;1090;333;descriptionDe=Ein alter Spazierstock lehnt gegen den Altar. Er wurde in die Form einer bösartig schauenden Schlange geschnitzt, die bereit ist zuzubeißen. Das Wort RAWST wurde in die Seite geschnitzt.;descriptionEn=An old walking stick leans against the altar. It is carved into the form of a vicious looking snake about to strike. The word RAWSTY can be seen carved into the side.
 145;170;273;333
 146;170;586;333
 149;170;1804;333
