@@ -484,7 +484,7 @@
 23;19;628;0
 27;19;1254;0
 28;19;3193;0
-32;19;2926;0;descriptionEn=Proceed with caution, home of the Vuzembi Tribe
+32;19;2926;0;descriptionEn=Proceed with caution, home of the Vuzembi Tribe;descriptionDe=Gehe vorsichtig weiter. Heimat des Vuzembi Stammes.
 37;19;3099;0
 38;19;3097;0
 39;19;911;0
