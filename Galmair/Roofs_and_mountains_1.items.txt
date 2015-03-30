@@ -4936,8 +4936,8 @@
 217;155;626;0
 265;155;3307;333
 268;155;747;333
-271;155;3317;333;lockId=113;descriptionEn=Lucky Copper;descriptionDe=Glückskupfer;doorLock=locked
-276;155;3317;333;lockId=115;descriptionEn=Golden Deal;descriptionDe=Goldener Abschluss;doorLock=locked
+271;155;3317;333;lockId=113;descriptionEn=Lucky Copper;descriptionDe=Glückskupfer;doorLock=unlocked
+276;155;3317;333;lockId=115;descriptionEn=Golden Deal;descriptionDe=Goldener Abschluss;doorLock=unlocked
 281;155;2877;333
 283;155;3301;333
 283;155;275;333
@@ -5201,7 +5201,7 @@
 273;161;3304;333
 273;161;3261;333
 274;161;3308;333
-275;161;3316;333;lockId=114;descriptionEn=Silver Profit;descriptionDe=Silberner Verdienst;doorLock=locked
+275;161;3316;333;lockId=114;descriptionEn=Silver Profit;descriptionDe=Silberner Verdienst;doorLock=unlocked
 276;161;3308;333
 276;161;401;333
 277;161;3304;333
@@ -5417,7 +5417,7 @@
 267;166;3310;333
 268;166;675;333
 268;166;3294;333
-269;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=113;doorLock=locked
+269;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=113;doorLock=unlocked
 270;166;3306;333
 271;166;3298;333
 271;166;3324;333
@@ -5425,7 +5425,7 @@
 272;166;3298;333
 273;166;3306;333
 274;166;3298;333
-275;166;3314;333;descriptionEn=Balkon;descriptionEn=Balcony;lockId=114;doorLock=locked
+275;166;3314;333;descriptionEn=Balkon;descriptionEn=Balcony;lockId=114;doorLock=unlocked
 276;166;3298;333
 277;166;3306;333
 278;166;3298;333

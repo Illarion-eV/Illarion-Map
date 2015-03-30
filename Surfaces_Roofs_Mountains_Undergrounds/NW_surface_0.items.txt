@@ -19339,7 +19339,7 @@
 374;295;1276;333
 389;295;396;0
 397;295;273;333
-408;295;3315;333;descriptionEn=Sleepy Bujhaar Inn;descriptionDe=Gasthaus zum Schlafenden Bujhaar;lockId=104;doorLock=locked
+408;295;3315;333;descriptionEn=Sleepy Bujhaar Inn;descriptionDe=Gasthaus zum Schlafenden Bujhaar;lockId=104;doorLock=unlocked
 417;295;396;333
 418;295;396;333
 420;295;3305;333
