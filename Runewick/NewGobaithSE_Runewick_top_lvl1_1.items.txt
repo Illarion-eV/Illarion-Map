@@ -285,7 +285,7 @@
 65;12;321;333;depot=102
 68;12;635;333
 3;13;634;333
-4;13;267;333;book1=constitution_runewick_44;book2=epos_ignis;book3=statute_book_of_runewick;book4=articles_greenbriar
+4;13;267;333;book1=constitution_runewick_44;book2=epos_ignis;book3=statute_book_of_runewick;book4=articles_greenbriar;book5=law_fairyland;book6=rules_galmair;book7=statute_hamlet_greenbriar
 7;13;266;333;book1=demonologist;book2=tihgoracs_book_of_combat;book3=resists_the_stake;book4=clansmen;book5=ZzarnKSka
 9;13;213;333
 10;13;2885;333

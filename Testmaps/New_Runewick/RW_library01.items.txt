@@ -201,7 +201,7 @@
 6;8;396;0
 6;8;396;0
 14;8;3245;0
-15;8;1098;0;book1=epos_ignis;book2=abomination_runs_and_hides;book3=festival_relationship;book4=demonologist
+15;8;1098;0;book1=epos_ignis;book2=abomination_runs_and_hides;book3=festival_relationships;book4=demonologist
 32;8;2875;0
 33;8;688;0
 33;8;3245;0

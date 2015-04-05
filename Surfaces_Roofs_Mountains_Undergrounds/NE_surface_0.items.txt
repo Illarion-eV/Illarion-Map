@@ -5739,7 +5739,7 @@
 306;93;551;333
 307;93;701;333
 308;93;701;333
-308;93;266;333;book1=gods1;book2=druid_parchment;book3=fragment_of_the_manrok_chronicles;book4=parchment_of_the_priests_of_eldan;book5=calendar
+308;93;266;333;book1=gods1;book2=druid_parchment;book3=fragment_of_the_manrok_chronicles;book4=parchment_of_the_priests_of_eldan;book5=calendar;book6=broken_wreath
 309;93;719;333
 309;93;424;333
 310;93;308;333

@@ -1075,7 +1075,7 @@
 228;104;2805;333
 231;104;264;333
 234;104;266;333;book1=alchemy;book2=fragment_of_the_manrok_chronicles;book3=magic_gems;book4=onionball;book5=slimes;book6=tihgoracs_book_of_combat;book7=a_hermit_on_the_lookout_for_eldan;book8=a_tale_of_brothers;book9=baros_bigfoot_and_the_pride
-238;104;266;333;book1=blud_an_fiar_ork_magik;book2=brewyn_the_liar;book3=craftman_story;book4=dragon_dreams;book5=festival_relationship;book6=tales_of_a_traveller;book7=the_read_wolf_and_the_bear;book8=zodiac_sign;book9=a_question_of_honour
+238;104;266;333;book1=blud_an_fiar_ork_magik;book2=brewyn_the_liar;book3=craftman_story;book4=dragon_dreams;book5=festival_relationships;book6=tales_of_a_traveller;book7=the_read_wolf_and_the_bear;book8=zodiac_sign;book9=a_question_of_honour
 240;104;266;333;book1=a_travelers_diary;book2=barhead_kings;book3=chronicle_recording_of_the_blumfussens_family_tree;book4=diary_of_noira_liv;book5=journal_of_abbot_elzechiel;book6=letastos_diary;book7=see_of_life;book8=the_reign_of_akaltut;book9=cadomyr_on_cadomyr
 241;104;264;333
 243;104;266;333;book1=cadomyr_on_galmair;book2=cadomyr_on_runewick;book3=cadomyr_order1;book4=chronicles_of_galmair;book5=chronicles_of_galmair_2;book6=galmair_on_cadomyr;book7=galmair_on_galmair;book8=galmair_on_runewick;book9=history_of_runewick
@@ -11734,7 +11734,7 @@
 359;217;954;0
 360;217;266;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
 362;217;266;0;book1=orcish_history_and_culture;book2=blud_an_fiar_ork_magik;book3=about_flame_orks
-364;217;266;0;book1=festival_relationship;book2=about_the_humans_by_thomas_berryard
+364;217;266;0;book1=festival_relationships;book2=about_the_humans_by_thomas_berryard
 375;217;267;0;book1=slimes;book2=alchemy;book3=magic_gems
 376;217;854;0
 377;217;287;333
