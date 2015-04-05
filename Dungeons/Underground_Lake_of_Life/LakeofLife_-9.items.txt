@@ -751,7 +751,7 @@
 140;12;3518;333
 149;12;1783;333
 150;12;1144;333
-152;12;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+152;12;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 46;13;1139;333
 47;13;1132;333
 48;13;1135;333
@@ -1609,7 +1609,7 @@
 115;29;1783;333
 116;29;1144;333
 117;29;1783;333
-119;29;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+119;29;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 121;29;1783;333
 123;29;1132;333
 124;29;1135;333
@@ -2971,6 +2971,8 @@
 54;52;3518;333
 55;52;1133;333
 55;52;1134;333
+56;52;232;333
+57;52;232;333
 65;52;1144;333
 78;52;1148;333
 78;52;3518;333
@@ -3023,6 +3025,7 @@
 56;53;1133;333
 56;53;1134;333
 57;53;1134;333
+58;53;232;333
 101;53;1140;333
 102;53;1135;333
 102;53;3518;333
@@ -3381,7 +3384,7 @@
 30;64;1148;333
 30;64;3518;333
 32;64;1783;333
-35;64;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+35;64;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 37;64;1783;333
 46;64;1144;333
 51;64;1139;333
@@ -4524,7 +4527,7 @@
 73;88;1135;333
 73;88;3518;333
 74;88;1133;333
-80;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+80;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 82;88;1144;333
 92;88;1783;333
 93;88;1383;333
@@ -4543,7 +4546,7 @@
 121;88;1144;333
 127;88;1783;333
 134;88;1383;333
-138;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+138;88;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 140;88;1783;333
 143;88;1148;333
 143;88;3518;333
@@ -5211,6 +5214,7 @@
 102;97;1135;333
 103;97;1135;333
 103;97;3518;333
+104;97;1135;333
 105;97;1135;333
 105;97;3518;333
 106;97;1135;333
@@ -5674,15 +5678,8 @@
 75;102;1135;333
 75;102;3518;333
 76;102;1131;333
-78;102;1144;333
-79;102;1144;333
 80;102;1148;333
-80;102;3518;333
-80;102;1144;333
 81;102;3101;333
-81;102;1144;333
-82;102;1144;333
-83;102;1144;333
 84;102;1144;333
 93;102;1245;333
 94;102;1245;333
@@ -5749,13 +5746,9 @@
 74;103;3518;333
 75;103;1131;333
 75;103;1131;333
-77;103;1144;333
-78;103;1148;333
-78;103;3518;333
 79;103;2927;333;descriptionEn=Holding Pen - Amuse Yourself At Will;descriptionDe=Zwinger - Amüsiere dich wie es beliebt
 80;103;56;333
 82;103;56;333
-84;103;1144;333
 91;103;1132;333
 91;103;3518;333
 92;103;1135;333
@@ -5811,9 +5804,7 @@
 73;104;1135;333
 73;104;3518;333
 74;104;1131;333
-76;104;1144;333
 77;104;2786;333
-77;104;1144;333
 78;104;56;333
 78;104;2786;333
 79;104;2786;333
@@ -5823,7 +5814,6 @@
 82;104;56;333
 82;104;2786;333
 83;104;2786;333
-84;104;1144;333
 85;104;1148;333
 85;104;3518;333
 88;104;1148;333
@@ -5877,9 +5867,7 @@
 72;105;1139;333
 72;105;3518;333
 73;105;1131;333
-75;105;1144;333
 76;105;56;333
-76;105;1144;333
 78;105;56;333
 80;105;56;333
 82;105;56;333
@@ -5930,7 +5918,6 @@
 27;106;1140;333
 28;106;1143;333
 75;106;2786;333
-75;106;1144;333
 76;106;2786;333
 76;106;56;333
 77;106;2786;333
@@ -6003,12 +5990,10 @@
 69;107;3101;333
 72;107;1383;333
 74;107;1383;333
-75;107;1144;333
 76;107;56;333
 78;107;56;333
 80;107;56;333
 82;107;56;333
-84;107;1144;333
 89;107;1383;333
 91;107;1139;333
 91;107;3518;333
@@ -6055,7 +6040,6 @@
 74;108;1148;333
 74;108;3518;333
 75;108;2786;333
-75;108;1144;333
 76;108;56;333
 76;108;2786;333
 77;108;2786;333
@@ -6069,7 +6053,6 @@
 82;108;56;333
 82;108;2786;333
 83;108;2786;333
-84;108;1144;333
 87;108;1783;333
 92;108;1144;333
 93;108;1148;333
@@ -6111,7 +6094,6 @@
 48;109;1144;333
 54;109;1144;333
 54;109;2039;333
-75;109;1144;333
 76;109;56;333
 78;109;56;333
 80;109;56;333
@@ -6145,7 +6127,7 @@
 144;109;1141;333
 147;109;1783;333
 150;109;1783;333
-152;109;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+152;109;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 158;109;1783;333
 163;109;1148;333
 163;109;3518;333
@@ -6157,7 +6139,6 @@
 43;110;3518;333
 64;110;3101;333
 75;110;2786;333
-75;110;1144;333
 76;110;56;333
 76;110;2786;333
 77;110;2786;333
@@ -6217,11 +6198,9 @@
 71;111;1148;333
 71;111;3518;333
 72;111;1144;333
-75;111;1144;333
 76;111;56;333
 78;111;56;333
 80;111;56;333
-81;111;1144;333
 82;111;1144;333
 87;111;1140;333
 88;111;1134;333
@@ -6265,16 +6244,10 @@
 158;111;1783;333
 27;112;1148;333
 27;112;3518;333
-75;112;1144;333
 76;112;56;333
-76;112;1144;333
-77;112;1144;333
 78;112;56;333
 78;112;1144;333
-79;112;1144;333
 80;112;56;333
-80;112;1144;333
-81;112;1144;333
 87;112;1132;333
 88;112;1135;333
 88;112;3518;333
@@ -6285,7 +6258,7 @@
 91;112;1133;333
 94;112;1783;333
 97;112;1783;333
-100;112;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+100;112;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 115;112;1144;333
 118;112;1783;333
 119;112;1383;333
@@ -7376,7 +7349,7 @@
 123;129;3518;333
 125;129;1783;333
 126;129;1783;333
-134;129;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;descriptionDe=In der Urne befindet sich ein feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren das mit dem Pulver etwas Besonderes ist.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder
+134;129;75;333;descriptionEn=Inside the urn is a very fine black powder that sparkles brightly in the light. You can sense there is something special about this powder.;nameDe=Dunkles Pulver;nameEn=Caliginous Powder;descriptionDe=In der Urne befindet sich sehr feines dunkles Pulver, welches im Licht hell funkelt. Du kannst spüren dass dieses Pulver etwas Besonderes ist.
 137;129;1144;333
 140;129;1783;333
 142;129;1783;333

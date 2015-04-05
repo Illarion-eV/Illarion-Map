@@ -5580,6 +5580,10 @@
 145;119;675;333
 103;120;678;333
 104;120;673;333
+105;120;673;333
+106;120;673;333
+107;120;673;333
+108;120;673;333
 109;120;673;333
 128;120;654;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 132;120;2875;0
@@ -5590,28 +5594,22 @@
 138;120;635;333
 138;120;693;333;descriptionDe=Ein stark wirkender Mann ist als Gladiator gekleidet. Er trägt ein Netz und einen Dreizack. Er scheint verletzt aber sein Gesicht wirkt schmerzlos.;descriptionEn=A strong looking man is dressed as a gladiator. He carries a net and a red trident. He seems wounded but his face shows no pain.
 145;120;675;333
-105;121;1025;333
-106;121;1025;333
-107;121;1025;333
-108;121;1025;333
 110;121;678;333
+111;121;673;333
+112;121;673;333
 113;121;1065;333
+113;121;673;333
+114;121;673;333
+115;121;673;333
+116;121;673;333
+117;121;673;333
+118;121;673;333
 119;121;673;333
 120;121;673;333
 128;121;658;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 137;121;214;333
 138;121;635;333
 145;121;675;333
-111;122;1025;333
-111;122;1025;333
-112;122;1025;333
-112;122;1025;333
-113;122;1025;333
-114;122;1027;333
-115;122;1027;333
-116;122;1027;333
-117;122;1028;333
-118;122;1028;333
 121;122;674;333
 127;122;395;333
 127;122;396;333
@@ -5641,6 +5639,8 @@
 145;123;690;333
 145;123;691;333
 121;124;674;333
+127;124;673;333
+129;124;673;333
 129;124;673;333
 130;124;673;333
 131;124;673;333
@@ -5650,10 +5650,13 @@
 138;124;691;333
 138;124;694;333;descriptionDe=Ein in Weiß bekleideter Man mit übergezogener roter Kaputze hält einen Bogen. Zu seinen Füssen liegt ein Golem. Der Mann hält in seiner linken Hand den Kopf des Golem.;descriptionEn=A man dressed in white with a red hooded cloak holds a bow. The body of a golem is lying at his feet and the head of the golem rests in the left hand of the man.
 145;124;675;333
+108;125;694;333
 116;125;1862;333
 116;125;694;333
 121;125;678;333
 122;125;673;333
+123;125;673;333
+124;125;673;333
 125;125;673;333
 126;125;673;333
 127;125;673;333
@@ -5661,8 +5664,6 @@
 128;125;673;333
 134;125;674;333
 145;125;675;333
-123;126;1025;333
-124;126;1027;333
 134;126;674;333
 145;126;675;333
 164;126;1862;333

@@ -1694,7 +1694,7 @@
 90;41;287;333
 91;41;287;333
 92;41;622;333
-94;41;519;333
+94;41;519;333;descriptionDe=Yishi;descriptionEn=Yishi
 97;41;3095;333
 98;41;622;333
 99;41;622;333
@@ -2507,9 +2507,9 @@
 86;56;287;333
 86;56;287;333
 87;56;622;333
-93;56;519;333
+93;56;519;333;nameDe=Hoodah;descriptionEn=Hoodah
 95;56;3098;333
-109;56;1097;333
+109;56;1097;333;descriptionEn=The pond has an odd colour lining the stones around it, but the water flows crystal clear and the smell is truly amazing.;descriptionDe=Der Teich hat eine seltsame Farbe und färbt die Steine um sich herum ein. Doch das Wasser ist kristalklar und der Geruch ist wahrlich göttlich.
 110;56;51;333
 112;56;623;333
 113;56;287;333
@@ -2647,6 +2647,8 @@
 93;58;3098;333
 94;58;3098;333
 108;58;3099;333
+112;58;220;333
+112;58;2855;333
 113;58;623;333
 114;58;287;333
 115;58;287;333
@@ -2706,7 +2708,7 @@
 107;59;3100;333
 108;59;3099;333
 111;59;885;333
-111;59;1813;333
+111;59;1813;333;nameEn=Sacred Tree of the Vuzembi;nameDe=Heiliger Baum der Vuzembi
 113;59;623;333
 114;59;287;333
 115;59;287;333

@@ -64,7 +64,7 @@
 14;1;402;0
 16;1;3095;333
 17;1;3095;333
-18;1;520;333;nameDe=Lioth ;nameEn=Lioth ;descriptionEn=Firebreath
+18;1;520;333;nameDe=Lioth ;nameEn=Lioth ;descriptionEn=Firebreath;descriptionDe=Feueratem
 20;1;75;333
 21;1;401;333
 21;1;402;0
@@ -77,7 +77,7 @@
 30;1;964;0
 31;1;3095;333
 31;1;964;0
-32;1;520;333;nameDe=Heralth ;nameEn=Heralth ;descriptionEn=The Redeemer
+32;1;520;333;nameDe=Heralth ;nameEn=Heralth ;descriptionEn=The Redeemer;descriptionDe=der Erlöser
 33;1;292;333
 34;1;3095;333
 35;1;401;333
@@ -283,7 +283,6 @@
 31;4;3093;333
 32;4;664;0
 33;4;3094;333
-35;4;298;333
 38;4;3088;0
 50;4;395;333
 50;4;396;0
@@ -321,7 +320,6 @@
 87;4;301;333
 87;4;1783;333
 96;4;221;333
-96;4;295;333
 97;4;3088;333
 98;4;3088;333
 102;4;359;0
@@ -629,7 +627,6 @@
 50;7;396;0
 51;7;3093;333
 52;7;3092;333
-53;7;3085;333
 56;7;3093;333
 57;7;3088;333
 62;7;301;333
@@ -640,7 +637,6 @@
 68;7;301;333
 69;7;301;333
 71;7;1783;333
-71;7;301;333
 73;7;301;333
 74;7;422;0
 75;7;1783;333
@@ -686,7 +682,7 @@
 166;7;3092;333
 167;7;3092;333
 168;7;3092;333
-170;7;520;333;nameDe=Tenelth ;nameEn=Tenelth ;descriptionEn=Lord of Ice
+170;7;520;333;nameDe=Tenelth ;nameEn=Tenelth ;descriptionEn=Lord of Ice;descriptionDe=Herr des Eises
 172;7;2907;333
 172;7;425;333
 173;7;1254;333
@@ -700,7 +696,7 @@
 0;8;3087;333
 5;8;3096;333
 8;8;1360;333
-9;8;2915;333;descriptionEn=As you stare at the throne, its size grows til a grown dragon could sit in it.
+9;8;2915;333;descriptionEn=As you stare at the throne, its size grows til a grown dragon could sit in it.;descriptionDe=Wie du auf den Thron starrst, vergrößert er sich, bis ein ausgewachsener Drache darauf sitzen kann.
 10;8;1360;333
 12;8;3096;333
 15;8;3093;333
@@ -744,7 +740,6 @@
 137;8;3092;333
 138;8;3085;333
 139;8;3100;333
-141;8;295;333
 141;8;1360;333
 142;8;2907;333
 145;8;3092;333
@@ -1469,6 +1464,7 @@
 117;19;234;333
 128;19;3090;333
 129;19;3089;333
+133;19;221;333
 134;19;3092;333
 135;19;3092;333
 136;19;3092;333
@@ -1568,7 +1564,7 @@
 16;21;3093;333
 16;21;404;0
 17;21;3088;333
-27;21;520;333;nameDe=Marganth ;nameEn=Marganth ;descriptionEn=The Magnificent
+27;21;520;333;nameDe=Marganth ;nameEn=Marganth ;descriptionEn=The Magnificent;descriptionDe=der Großartige
 31;21;3093;333
 32;21;3088;333
 36;21;2038;333
@@ -1640,15 +1636,15 @@
 180;21;3092;333
 180;21;3092;333
 0;22;3087;333
-16;22;519;333;descriptionEn=Protector of Life;nameEn=Kayerith;nameDe=Kayerith
+16;22;519;333;descriptionEn=Protector of Life;nameEn=Kayerith;nameDe=Kayerith;descriptionDe=Beschützer des Lebens
 17;22;3088;333
 23;22;3096;333
-28;22;631;333;descriptionEn=The fountain runs red with blood.
+28;22;631;333;descriptionEn=The fountain runs red with blood.;descriptionDe=Der Brunnen sprudelt rot mit Blut.
 31;22;403;333
 31;22;404;0
 32;22;3088;333
 36;22;3101;333
-37;22;519;333;nameDe=Sirath ;nameEn=Sirath ;descriptionEn=Eater of Bunnies
+37;22;519;333;nameDe=Sirath ;nameEn=Sirath ;descriptionEn=Eater of Bunnies;descriptionDe=Hasenfresser
 38;22;613;333
 39;22;3101;333
 40;22;3101;333
@@ -1676,7 +1672,6 @@
 117;22;498;333
 118;22;61;333
 127;22;1247;333
-133;22;221;333
 133;22;1362;333
 134;22;3092;333
 135;22;3092;333
@@ -1716,7 +1711,7 @@
 36;23;3101;333
 37;23;2937;333
 37;23;3101;333
-38;23;520;333;nameDe=Tiemeth ;nameEn=Tiemeth ;descriptionEn=The Evil One
+38;23;520;333;nameDe=Tiemeth ;nameEn=Tiemeth ;descriptionEn=The Evil One;descriptionDe=der Böse
 39;23;2937;333
 39;23;3101;333
 40;23;3101;333
@@ -2011,7 +2006,7 @@
 172;26;3092;333
 173;26;3085;333
 174;26;3095;333
-176;26;520;333;nameDe=Kalurth ;nameEn=Kalurth ;descriptionEn=Lord of the Black
+176;26;520;333;nameDe=Kalurth ;nameEn=Kalurth ;descriptionEn=Lord of the Black;descriptionDe=der schwarze Lord
 176;26;3093;333
 178;26;3085;333
 179;26;3085;333
@@ -2158,7 +2153,6 @@
 125;28;3091;333
 126;28;359;0
 129;28;609;333
-130;28;359;0
 133;28;359;0
 156;28;359;0
 170;28;3100;333
@@ -2227,7 +2221,6 @@
 16;30;3093;333
 17;30;3088;333
 31;30;292;333
-31;30;2906;333
 32;30;3088;333
 43;30;2906;333
 44;30;3088;333
@@ -2291,7 +2284,6 @@
 0;31;3087;333
 16;31;3093;333
 17;31;3088;333
-21;31;3093;333
 21;31;292;333
 22;31;3088;333
 31;31;3093;333
@@ -2573,7 +2565,7 @@
 38;35;2906;333
 39;35;3088;333
 45;35;3101;333
-51;35;519;333;nameDe=Xalanth ;nameEn=Xalanth ;descriptionEn=Lord of the Skies
+51;35;519;333;nameDe=Xalanth ;nameEn=Xalanth ;descriptionEn=Lord of the Skies;descriptionDe=Herr der Lüfte
 52;35;3088;333
 56;35;3093;333
 57;35;3088;333
@@ -2956,10 +2948,10 @@
 46;41;359;0
 49;41;509;333
 51;41;359;0
-53;41;2927;333;descriptionEn=Royal Hall
+53;41;2927;333;descriptionEn=Royal Hall;descriptionDe=Königssaal
 55;41;607;333
 56;41;607;333
-58;41;2927;333;descriptionEn=Royal Hall
+58;41;2927;333;descriptionEn=Royal Hall;descriptionDe=Königssaal
 63;41;509;333
 87;41;611;333
 98;41;3098;333
@@ -2995,8 +2987,8 @@
 159;41;3099;333
 159;41;2907;333
 160;41;3095;333
-161;41;2927;333;descriptionEn=Sacred Ground
-165;41;2927;333;descriptionEn=Sacred Ground
+161;41;2927;333;descriptionEn=Sacred Ground;descriptionDe=Heiliger Boden
+165;41;2927;333;descriptionEn=Sacred Ground;descriptionDe=Heiliger Boden
 166;41;3095;333
 167;41;295;333
 169;41;402;333
@@ -3083,6 +3075,7 @@
 118;43;2038;333
 127;43;63;333
 132;43;233;333
+132;43;221;333
 133;43;3092;333
 134;43;3092;333
 135;43;3092;333
@@ -3116,10 +3109,10 @@
 30;44;3098;333
 31;44;3097;333
 39;44;2937;333
-54;44;2927;333;descriptionEn=Royal Hall
+54;44;2927;333;descriptionEn=Royal Hall;descriptionDe=Königssaal
 55;44;612;333
 56;44;612;333
-57;44;2927;333;descriptionEn=Royal Hall
+57;44;2927;333;descriptionEn=Royal Hall;descriptionDe=Königssaal
 60;44;359;0
 68;44;359;0
 78;44;359;0
@@ -3133,7 +3126,6 @@
 110;44;3089;333
 129;44;3101;333
 131;44;1254;333
-132;44;221;333
 132;44;220;333
 133;44;3092;333
 134;44;3092;333
@@ -3505,13 +3497,19 @@
 157;50;404;333
 158;50;3088;333
 159;50;3087;333
-165;50;2926;333;descriptionEn=Sacred Ground
+165;50;2926;333;descriptionEn=Sacred Ground;descriptionDe=Heiliger Boden
 166;50;680;333
 167;50;633;333
 168;50;633;333
 168;50;402;333
 169;50;633;333
-170;50;681;333
+170;50;633;333
+171;50;633;333
+171;50;402;333
+172;50;633;333
+172;50;220;333
+173;50;681;333
+173;50;513;333
 174;50;3088;333
 175;50;3092;333
 176;50;3092;333
@@ -3555,9 +3553,11 @@
 158;51;3088;333
 159;51;3087;333
 165;51;3100;333
-166;51;3098;333
-170;51;635;333
-173;51;221;333
+166;51;674;333
+166;51;691;333
+172;51;3093;333
+173;51;635;333
+173;51;404;333
 174;51;3088;333
 175;51;3092;333
 176;51;3092;333
@@ -3603,11 +3603,11 @@
 158;52;3101;333
 158;52;3088;333
 159;52;3087;333
-166;52;3099;333
+164;52;66;333;markerstone=186
+166;52;674;333
+167;52;3093;333
 168;52;28;333
-170;52;635;333
-170;52;404;333
-173;52;3099;333
+173;52;635;333
 174;52;3088;333
 175;52;3092;333
 176;52;3092;333
@@ -3658,8 +3658,10 @@
 159;53;3092;333
 160;53;3094;333
 163;53;2937;333
-166;53;3099;333
-170;53;635;333
+165;53;513;333
+166;53;674;333
+172;53;3093;333
+173;53;635;333
 174;53;3088;333
 175;53;3092;333
 176;53;3092;333
@@ -3712,13 +3714,10 @@
 155;54;3087;333
 158;54;402;333
 162;54;3101;333
-165;54;2926;333
-166;54;3099;333
-167;54;688;333
-167;54;3099;333
-168;54;652;333
-169;54;656;333
-170;54;683;333
+164;54;3093;333
+165;54;2926;333;descriptionEn=Sacred Ground;descriptionDe=Heiliger Boden
+166;54;674;333
+173;54;635;333
 173;54;404;333
 174;54;3088;333
 175;54;3092;333
@@ -3770,9 +3769,9 @@
 147;55;3092;333
 154;55;3088;333
 155;55;3087;333
-166;55;3095;333
-166;55;66;333;markerstone=186
-167;55;513;333
+166;55;678;333
+167;55;673;333
+173;55;635;333
 174;55;3088;333
 175;55;3092;333
 176;55;3092;333
@@ -3820,9 +3819,15 @@
 147;56;3092;333
 154;56;3088;333
 155;56;3089;333
-171;56;3099;333
-173;56;8;333
-173;56;2363;333
+164;56;3093;333
+167;56;632;333
+167;56;689;333
+168;56;652;333
+169;56;656;333
+170;56;632;333
+171;56;632;333
+172;56;632;333
+173;56;683;333
 174;56;3088;333
 175;56;3092;333
 176;56;3092;333
@@ -3879,6 +3884,12 @@
 154;57;3092;333
 155;57;3085;333
 159;57;3101;333
+165;57;513;333
+166;57;3095;333
+167;57;3095;333
+170;57;3095;333
+171;57;402;333
+172;57;3095;333
 174;57;3088;333
 175;57;3092;333
 176;57;3092;333
@@ -3908,7 +3919,7 @@
 92;58;359;0
 99;58;3088;333
 116;58;3097;333
-124;58;520;333;nameDe=Cheselth ;nameEn=Cheselth ;descriptionEn=The Gifted
+124;58;520;333;nameDe=Cheselth ;nameEn=Cheselth ;descriptionEn=The Gifted;descriptionDe=der Begabte
 127;58;359;0
 130;58;915;333
 131;58;915;333
@@ -3973,7 +3984,6 @@
 147;59;3092;333
 148;59;3092;333
 157;59;2039;333
-166;59;3097;333
 174;59;3088;333
 175;59;3092;333
 176;59;3092;333
@@ -4032,8 +4042,6 @@
 147;60;3092;333
 148;60;3092;333
 165;60;3093;333
-165;60;513;333
-166;60;3088;333
 167;60;3092;333
 168;60;3092;333
 169;60;3092;333
@@ -4155,7 +4163,7 @@
 120;62;3092;333
 121;62;3092;333
 122;62;3092;333
-137;62;520;333;nameDe=Dennenth ;nameEn=Dennenth ;descriptionEn=The Voiceless One
+137;62;520;333;nameDe=Dennenth ;nameEn=Dennenth ;descriptionEn=The Voiceless One;descriptionDe=der Stumme
 138;62;359;0
 142;62;404;333
 143;62;3092;333
@@ -4363,7 +4371,6 @@
 151;65;3099;333
 164;65;1251;333
 165;65;8;333
-165;65;697;333
 166;65;3088;333
 167;65;3092;333
 168;65;3092;333
@@ -5079,8 +5086,8 @@
 123;77;3091;333
 130;77;1246;333
 137;77;1246;333
-139;77;520;333;nameDe=Stiria ;nameEn=Stiria ;descriptionEn=The Dragonlord
-143;77;519;333;nameDe=Avrae ;nameEn=Avrae ;descriptionEn=Keeper of the Eternal Fire
+139;77;520;333;nameDe=Stiria ;nameEn=Stiria ;descriptionEn=The Dragonlord;descriptionDe=der Drachenlord
+143;77;519;333;nameDe=Avrae ;nameEn=Avrae ;descriptionEn=Keeper of the Eternal Fire;descriptionDe=Wächter des ewigen Feuers
 144;77;3092;333
 145;77;3092;333
 146;77;3092;333
@@ -5141,7 +5148,7 @@
 99;78;3088;333
 102;78;3095;333
 119;78;1245;333
-123;78;520;333;nameDe=Galzra ;nameEn=Galzra ;descriptionEn=The Squeeler
+123;78;520;333;nameDe=Galzra ;nameEn=Galzra ;descriptionEn=The Squeeler;descriptionDe=der Nörgler
 125;78;359;0
 134;78;3090;333
 135;78;3089;333
@@ -5744,7 +5751,7 @@
 4;92;2038;333
 6;92;3101;333
 6;92;2937;333
-8;92;2926;333;descriptionEn=Lava Maze Ahead
+8;92;2926;333;descriptionEn=Lava Maze Ahead;descriptionDe=Lava Labyrinth voraus!
 12;92;402;0
 13;92;3098;333
 21;92;402;0
@@ -5833,7 +5840,7 @@
 4;96;2937;333
 5;96;3101;333
 7;96;3101;333
-8;96;2926;333;descriptionEn=Lava Maze Ahead
+8;96;2926;333;descriptionEn=Lava Maze Ahead;descriptionDe=Lava Labyrinth voraus!
 29;96;3088;333
 33;96;359;0
 36;96;359;0
