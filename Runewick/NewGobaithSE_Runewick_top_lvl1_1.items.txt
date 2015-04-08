@@ -31,9 +31,9 @@
 0;2;680;333
 1;2;633;333
 2;2;633;333
-2;2;266;333;book1=blud_an_fiar_ork_magik
+2;2;266;333;book1=blud_an_fiar_ork_magik;book2=dictionary_orc
 3;2;637;333
-3;2;266;333;book1=cultures_of_the_humans
+3;2;266;333;book1=cultures_of_the_humans;book2=origin_halflings_race
 4;2;633;333
 4;2;266;333;book1=elven_history_and_culture;book2=dwarven_history_and_culture
 5;2;633;333
@@ -90,7 +90,7 @@
 65;5;635;333
 0;6;634;333
 1;6;267;333;book1=baros_bigfoot_and_the_pride;book2=brewyn_the_liar;book3=chronicle_recording_of_the_blumfussens_family_tree;book4=letastos_diary;book5=a_travelers_diary;book6=h_evergreen
-3;6;267;333;book1=journal_of_abbot_elzechiel;book2=a_hermit_on_the_lookout_for_eldan;book3=diary_of_noira_liv;book4=alberto_dicker;book5=the_one
+3;6;267;333;book1=journal_of_abbot_elzechiel;book2=a_hermit_on_the_lookout_for_eldan;book3=diary_of_noira_liv;book4=alberto_dicker;book5=the_one;book6=dragon_bone_lord
 13;6;690;333
 14;6;681;333
 14;6;2041;333
@@ -285,8 +285,8 @@
 65;12;321;333;depot=102
 68;12;635;333
 3;13;634;333
-4;13;267;333;book1=constitution_runewick_44;book2=epos_ignis;book3=statute_book_of_runewick;book4=articles_greenbriar
-7;13;266;333;book1=demonologist;book2=tihgoracs_book_of_combat;book3=resists_the_stake;book4=clansmen
+4;13;267;333;book1=constitution_runewick_44;book2=epos_ignis;book3=statute_book_of_runewick;book4=articles_greenbriar;book5=law_fairyland;book6=rules_galmair;book7=statute_hamlet_greenbriar
+7;13;266;333;book1=demonologist;book2=tihgoracs_book_of_combat;book3=resists_the_stake;book4=clansmen;book5=ZzarnKSka
 9;13;213;333
 10;13;2885;333
 11;13;215;333
@@ -361,7 +361,7 @@
 8;15;682;333
 9;15;689;333
 15;15;635;333
-15;15;267;333;book1=constitution_runewick_44;book2=statute_book_of_runewick;book3=history_of_runewick;book4=ZzarnKSka
+15;15;267;333;book1=constitution_runewick_44;book2=statute_book_of_runewick;book3=history_of_runewick
 21;15;690;333
 22;15;681;333
 50;15;638;333
@@ -456,7 +456,7 @@
 8;22;266;333;book1=poems_marina;book2=celegails_songbook;book3=dwarven_poems
 10;22;266;333;book1=book_of_jokes
 11;22;320;333
-12;22;266;333;book1=magic_gems
+12;22;266;333;book1=magic_gems;book2=the_pointy_end
 14;22;402;0
 14;22;320;0
 16;22;635;333

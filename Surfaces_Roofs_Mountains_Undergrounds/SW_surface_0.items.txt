@@ -5115,7 +5115,7 @@
 135;36;2852;333
 136;36;266;333;book1=cadomyr_on_cadomyr;book2=cadomyr_on_galmair;book3=cadomyr_on_runewick
 138;36;266;333;book1=gods1;book2=gods2;book3=god_malachin;book4=god_sirani;book5=god_zhambra;book6=calendar;book7=fragment_of_the_manrok_chronicles
-140;36;266;333;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=halfling_culture_and_history;book4=dwarven_history_and_culture;book5=lizardmen_history_and_culture;book6=orcish_history_and_culture;book7=ZzarnKSka
+140;36;266;333;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=halfling_culture_and_history;book4=dwarven_history_and_culture;book5=lizardmen_history_and_culture;book6=orcish_history_and_culture;book7=dictionary_orc
 141;36;3247;333
 142;36;287;333
 167;36;287;0
@@ -5324,7 +5324,7 @@
 383;37;525;333
 384;37;1272;333
 385;37;853;333
-385;37;266;333;book1=a_friend_in_need
+385;37;266;333;book1=a_friend_in_need;book2=dragon_bone_lord;book3=the_one
 386;37;857;333
 386;37;3095;333
 386;37;1272;333
@@ -5435,7 +5435,7 @@
 129;38;260;333
 130;38;3245;333
 141;38;3247;333
-141;38;267;0;book1=tihgoracs_book_of_combat;book2=clansmen
+141;38;267;0;book1=tihgoracs_book_of_combat;book2=clansmen;book3=the_pointy_end
 142;38;287;333
 164;38;287;0
 165;38;287;0
@@ -5941,7 +5941,7 @@
 125;41;273;333
 126;41;273;333
 130;41;3245;333
-131;41;267;333;book1=alberto_dicker;book2=a_tale_of_brothers;book3=making_candles
+131;41;267;333;book1=alberto_dicker;book2=a_tale_of_brothers;book3=making_candles;book4=ZzarnKSka
 134;41;2877;333
 135;41;2877;333
 136;41;2877;333
@@ -6216,7 +6216,7 @@
 125;43;273;333
 126;43;273;333
 130;43;3245;333
-131;43;267;333;book1=gods1;book2=poems_marina
+131;43;267;333;book1=gods1;book2=poems_marina;book3=cadoson_letnason
 134;43;2875;333
 135;43;2875;333
 136;43;2875;333
@@ -15172,7 +15172,7 @@
 118;111;1783;333
 129;111;654;333;descriptionDe=Quartiermeisters Laden;descriptionEn=Quartermaster Store;doorLock=unlocked
 138;111;320;333
-140;111;267;333;book1=cadomyr_on_cadomyr;book2=gods2;book3=magic_gems;book4=speech_rosaline_32_11_05
+140;111;267;333;book1=cadomyr_on_cadomyr;book2=gods2;book3=magic_gems;book4=speech_rosaline_32_11_05;book5=the_pointy_end
 141;111;3245;333
 143;111;212;333
 146;111;3247;333
