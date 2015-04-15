@@ -17530,7 +17530,6 @@
 358;272;396;333
 362;272;928;333
 366;272;928;333
-370;272;402;333
 378;272;3315;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLock=unlocked
 383;272;172;0
 387;272;2837;0
