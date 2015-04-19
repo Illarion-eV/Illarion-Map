@@ -2998,7 +2998,7 @@
 163;103;3176;333
 164;103;3176;333
 165;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorLock=unlocked
-166;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorlock=unlocked
+166;103;3164;333;descriptionDe=Tempel des Irmorom;descriptionEn=Temple of Irmorom;lockId=104;doorLock=unlocked
 167;103;3176;333
 168;103;3176;333
 169;103;3176;333
