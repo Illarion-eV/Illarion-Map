@@ -13,7 +13,7 @@
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 V: 2
-L: 197
+L: -35
 X: 200
 Y: 200
 W: 300
