@@ -81,6 +81,7 @@
 12;8;1265;333
 13;8;681;333
 0;9;638;333
+7;9;2588;333
 12;9;2832;333
 13;9;635;333
 0;10;634;333
@@ -96,18 +97,14 @@
 3;11;633;333
 3;11;36;333
 3;11;285;333
-4;11;653;333;descriptionDe=Turm der Erde Appartement 1;descriptionEn=Tower of Earth Apartment 1;lockId=220;doorLock=locked
-5;11;657;333;descriptionDe=Turm der Erde Appartement 1;descriptionEn=Tower of Earth Apartment 1;lockId=220;doorLock=locked
-6;11;633;333
-6;11;276;333
-7;11;633;333
-7;11;75;333
+7;11;1024;333
 8;11;681;333
 8;11;272;333
 13;11;635;333
 0;12;634;333
 1;12;1360;333
 2;12;745;333
+5;12;2588;333
 8;12;690;333
 8;12;396;333
 8;12;1265;333
