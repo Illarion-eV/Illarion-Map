@@ -637,7 +637,7 @@
 10;34;632;333
 11;34;632;333
 12;34;632;333
-13;34;632;333
+13;34;3306;333
 14;34;632;333
 15;34;652;333;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLock=unlocked
 16;34;656;333;descriptionDe=Turm des Feuers;descriptionEn=Tower of Fire;doorLock=unlocked
