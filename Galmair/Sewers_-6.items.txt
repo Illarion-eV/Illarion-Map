@@ -3990,7 +3990,7 @@
 111;95;3206;333
 111;95;976;333
 112;95;976;333
-113;95;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLock=unlocked
+113;95;3201;333;lockId=103;doorLock=unlocked;descriptionDe=Gemmenschacht & Schweinebaue;descriptionEn=Cameo Pit & Hogs Den
 121;95;3331;333
 121;95;3331;333
 121;95;3331;333
@@ -4083,7 +4083,7 @@
 110;96;976;333
 111;96;976;333
 112;96;976;333
-113;96;3201;333;descriptionDe=Schweinebaue;descriptionEn=Hog Dens;lockId=103;doorLock=unlocked
+113;96;3201;333;lockId=103;doorLock=unlocked;descriptionDe=Gemmenschacht & Schweinebaue;descriptionEn=Cameo Pit & Hogs Den
 120;96;3331;333
 120;96;3331;333
 120;96;3331;333
