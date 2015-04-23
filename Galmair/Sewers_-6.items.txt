@@ -906,7 +906,7 @@
 133;49;1247;333
 138;49;3207;333
 138;49;424;333
-138;49;267;0
+138;49;267;0;book1=orcish_history_and_culture;book2=blud_an_fiar_ork_magik;book3=fragment_of_the_manrok_chronicles
 141;49;3330;333
 141;49;513;333
 142;49;3206;333
