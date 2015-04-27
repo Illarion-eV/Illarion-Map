@@ -529,11 +529,11 @@
 109;82;1265;333
 111;82;1245;333
 112;82;1246;333
-113;82;2924;333
+113;82;2924;333;descriptionEn=Stay out of da way of da minin!;descriptionDe=Steh nicht im Weg der Bergmänner!
 114;82;914;333
 115;82;1266;333
 120;82;1272;333
-129;82;1046;333
+129;82;1046;333;descriptionEn=The head of the spear rests in the fire and glows bright red.;descriptionDe=Die Spitze des Speeres ruht im Feuer und glüht leuchtend rot.
 136;82;1245;333
 137;82;629;333
 138;82;622;333
@@ -631,7 +631,7 @@
 116;85;914;333
 127;85;1200;333
 129;85;232;333
-129;85;1153;333
+129;85;1153;333;nameEn=Beer Cake;descriptionEn=This special cake has a strong flavour of Galmairian beer, baked according to an old dwarven recipe.;nameDe=Bierkuchen ;descriptionDe=Dieser spezielle Kuchen hat ein starkes Aroma von Galmarischem Bier, gebacken nach einem alten zwergischen Rezept.
 137;85;627;333
 138;85;623;333
 139;85;287;333
@@ -1335,7 +1335,7 @@
 108;104;287;333
 109;104;1250;333
 110;104;1250;333
-120;104;2926;333
+120;104;2926;333;descriptionEn=Scratched into the sign so roughly it is difficult to read, it may say, '4 shiny thang n nest, fod bak.';descriptionDe=Ein grob eingekratzter, schwer zu lesender Hinweis, welcher möglicherweise besagt, '4 Glanz Dings n Nest, Futtr legen' 
 121;104;1250;333
 122;104;623;333
 123;104;287;333
@@ -1910,7 +1910,7 @@
 64;189;889;333
 69;189;889;333
 71;189;889;333
-76;189;1908;333
+76;189;1908;333;descriptionEn=You see a mug, floating in the water.;descriptionDe=Du siehst einen Bierkrug im Wasser treiben.
 58;190;287;333
 59;190;622;333
 59;190;628;333

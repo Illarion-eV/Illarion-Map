@@ -2991,7 +2991,7 @@
 97;81;419;333
 100;81;232;333
 100;81;17;333
-100;81;2039;333
+100;81;2039;333;descriptionEn=This skull looks to be of importance somehow.;descriptionDe=Der Schädel sieht irgendwie wichtig aus.
 108;81;1245;333
 110;81;1272;333
 112;81;3095;333
@@ -3061,13 +3061,13 @@
 176;82;3644;333
 178;82;3644;333
 179;82;2170;333
-181;82;520;333
+181;82;520;333;nameDe=Koenraad;nameEn=Koenraad
 182;82;3662;333
 183;82;274;333
 185;82;3644;333
 186;82;1809;333
 187;82;3633;333
-187;82;2567;333
+187;82;2567;333;descriptionEn=A shovel appears to be sticking out of a hole in the ground.;descriptionDe=Eine Schaufel scheint in einem Loch im Boden zu stecken.
 188;82;2170;333
 193;82;3644;333
 195;82;3644;333
@@ -3114,10 +3114,10 @@
 174;83;3644;333
 175;83;274;333
 181;83;273;333
-183;83;519;333
-185;83;521;333
+183;83;519;333;nameDe=Rickert;nameEn=Rickert;descriptionDe=viel zu jung;descriptionEn=too young
+185;83;521;333;nameDe=Bahadur;nameEn=Bahadur;descriptionEn=Fighter;descriptionDe=Kämpfer
 186;83;274;333
-189;83;337;333
+189;83;337;333;descriptionEn=This looks crudely hewn from fresh timber.;descriptionDe=Dies sieht aus wie grob aus frischem Holz geschlagen.
 191;83;1178;333
 192;83;3644;333
 201;83;3644;333
@@ -3166,9 +3166,9 @@
 178;84;3644;333
 179;84;2170;333
 180;84;3644;333
-181;84;519;333
+181;84;519;333;nameDe=Aleksander;nameEn=Aleksander
 184;84;273;333
-186;84;519;333
+186;84;519;333;nameDe=Martin;nameEn=Martin
 187;84;890;333
 188;84;2170;333
 194;84;273;333
@@ -3213,8 +3213,8 @@
 172;85;274;333
 175;85;274;333
 181;85;274;333
-182;85;520;333
-184;85;521;333
+182;85;520;333;nameDe=Marcelina;nameEn=Marcelina
+184;85;521;333;nameDe=Edyta;nameEn=Edyta
 185;85;3644;333
 187;85;890;333
 189;85;3661;333
@@ -3268,7 +3268,7 @@
 177;86;273;333
 179;86;2170;333
 183;86;3644;333
-186;86;521;333
+186;86;521;333;nameDe=Gunhilda;nameEn=Gunhilda
 187;86;273;333
 188;86;2170;333
 189;86;3644;333
@@ -3284,7 +3284,7 @@
 91;87;622;333
 92;87;628;333
 105;87;2439;777
-105;87;2937;333
+105;87;2937;333;descriptionEn=Rotting skeleton clutches at a fine shield in death.;descriptionDe=Ein verrottendes Skelett umklammert einen guten Schild
 107;87;1246;333
 111;87;1265;333
 111;87;417;333
@@ -3311,10 +3311,10 @@
 174;87;3661;333
 180;87;521;333
 181;87;273;333
-182;87;519;333
-184;87;519;333
+182;87;519;333;nameDe=Gid'on;nameEn=Gid'on
+184;87;519;333;nameDe=Berdine;nameEn=Berdine
 185;87;274;333
-187;87;520;333
+187;87;520;333;nameDe=Ephraim;nameEn=Ephraim
 190;87;3644;333
 192;87;3644;333
 195;87;3644;333
@@ -3953,15 +3953,15 @@
 126;104;287;333
 134;104;629;333
 135;104;630;333
-184;104;616;333
-185;104;616;333
+184;104;616;333;descriptionDe=Warnung! Dieser Weg führt zu zäheren Monstern. ;descriptionEn=Warning! This way advances to tougher monsters.
+185;104;616;333;descriptionDe=Warnung! Dieser Weg führt zu zäheren Monstern. ;descriptionEn=Warning! This way advances to tougher monsters.
 81;105;623;333
 82;105;287;333
 83;105;287;333
 84;105;622;333
 88;105;1251;333
 92;105;1265;333
-93;105;3081;333
+93;105;3081;333;descriptionEn=Exit Survivilist Island here.;descriptionDe=Hier Ausgang Überlebenskünstler- Insel.
 96;105;1276;333
 97;105;623;333
 98;105;287;333
@@ -5108,7 +5108,7 @@
 140;147;1810;333
 149;147;3262;333
 20;148;1783;333
-22;148;2926;333
+22;148;2926;333;descriptionEn=Proceed with caution, danger ahead.;descriptionDe=Vorsicht beim Weitergehen, Gefahr voraus!
 25;148;1178;333
 27;148;1783;333
 31;148;1176;333
@@ -5714,12 +5714,12 @@
 70;173;3661;333
 72;173;1783;333
 76;173;1783;333
-78;173;2924;333
+78;173;2924;333;descriptionEn=Stay out of our garden! This means you long legs!;descriptionDe=Bleib fern von unserem Garten. Du bist gemeint, Langbeiniger!
 79;173;1783;333
 82;173;3662;333
 85;173;621;333
 86;173;620;333
-87;173;619;333
+87;173;619;333;descriptionEn=Warning! This way advances to tougher monsters.;descriptionDe=Warnung! Dieser Weg führt zu zäheren Monstern. 
 111;173;892;333
 119;173;1810;333
 121;173;892;333
@@ -5752,7 +5752,7 @@
 85;174;621;333
 86;174;620;333
 86;174;1783;333
-87;174;619;333
+87;174;619;333;descriptionEn=Warning! This way advances to tougher monsters.;descriptionDe=Warnung! Dieser Weg führt zu zäheren Monstern. 
 88;174;1184;333
 88;174;42;333
 114;174;893;333
