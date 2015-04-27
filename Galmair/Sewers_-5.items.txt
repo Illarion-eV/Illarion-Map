@@ -550,8 +550,8 @@
 66;117;3206;333
 67;117;3196;333
 67;117;692;333;descriptionEn=A man dressed in black, wearing noble, tasteful clothing, looks at a picklock in his left hand. He grins gleefully as he scratches one of his earrings with his other hand.;descriptionDe=Ein schwarz gekleideter Mann, noble, geschmacksvolle Kleider tragend, blickt auf seinen Dietrich in seiner linken Hand. Er grinst hämisch während er einen seiner Ohrring mit der anderen Hand kratzt.
-68;117;3332;333
 60;118;3205;333
+67;118;3330;333
 68;118;3196;333
 59;119;3197;333
 60;119;3329;333
@@ -609,8 +609,6 @@
 67;126;3204;333
 68;126;3204;333
 69;126;3208;333
-70;126;3195;333
-70;126;3198;333
 70;126;3198;333
 59;127;3219;333
 61;127;402;333
