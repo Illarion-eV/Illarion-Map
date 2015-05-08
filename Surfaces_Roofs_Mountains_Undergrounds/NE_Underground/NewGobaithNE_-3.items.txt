@@ -822,7 +822,7 @@
 89;180;622;333
 90;180;628;333
 96;180;36;333
-96;180;1061;333
+96;180;1061;333;descriptionDe=Einige dahingekritzelte Notizen erscheinen in dem Buch, aber eine Sache ist klar, es scheint, dass für den Erfolg nur zwei Tränke miteinander vermischt werden müssen.;descriptionEn=Some scratchy notes appear in the book, but one thing is clear, it appears just two potions need to be combined for success.
 97;180;629;333
 98;180;622;333
 99;180;287;333
