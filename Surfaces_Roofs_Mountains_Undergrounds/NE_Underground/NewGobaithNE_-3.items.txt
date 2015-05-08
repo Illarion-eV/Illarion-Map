@@ -1379,7 +1379,7 @@
 72;191;1278;333
 72;191;1278;333
 89;191;1245;333
-100;191;1397;333
+100;191;1397;333;descriptionEn=The bottles on these shelves seem to be filled with all sorts of animal parts. Some of a particularly grotesque nature. ;descriptionDe=Die Flaschen auf den Regalen scheinen alle möglichen Körperteile von Tieren zu enthalten. Einige von besonders bizarrer Art.
 101;191;623;333
 102;191;287;333
 103;191;287;333
