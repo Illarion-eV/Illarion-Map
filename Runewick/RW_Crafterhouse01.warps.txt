@@ -12,7 +12,5 @@
 # 
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
-14;23;957;836;0
 15;23;958;836;0
-15;27;959;839;2
 15;28;959;840;2
