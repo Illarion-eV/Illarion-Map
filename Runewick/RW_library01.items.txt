@@ -114,7 +114,7 @@
 8;3;651;0
 8;3;1147;0
 9;3;218;0
-14;3;3233;0
+14;3;3233;0;descriptionDe=Stadtverwaltung-Bibliothek;descriptionEn=City Hall - Library
 25;3;3693;333
 26;3;3693;333
 27;3;3693;333
@@ -135,7 +135,7 @@
 9;4;1060;0
 10;4;651;0
 10;4;463;0
-14;4;3237;0
+14;4;3237;0;descriptionDe=Stadtverwaltung-Bibliothek;descriptionEn=City Hall - Library
 15;4;1098;0;book1=gods2;book2=diary_of_noira_liv;book3=glorification_to_irmorom;book4=petition_for_zelphia;book5=petition_in_the_name_of_findari
 30;4;1862;0
 32;4;651;0

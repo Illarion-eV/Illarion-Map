@@ -21323,7 +21323,7 @@
 437;272;651;599
 437;272;1147;599
 438;272;2878;599
-440;272;3233;599
+440;272;3233;599;descriptionDe=Elarahalle;descriptionEn=Hall of Elara
 444;272;1122;599;book1=gods3
 444;272;1120;599;book1=gods3
 449;272;1122;599;book1=constitution_runewick_44;book2=epos_ignis
@@ -21411,7 +21411,7 @@
 435;273;396;599
 437;273;651;599
 438;273;2878;599
-440;273;3237;599
+440;273;3237;599;descriptionDe=Elarahalle;descriptionEn=Hall of Elara
 444;273;396;599
 457;273;2875;599
 459;273;688;599
@@ -25350,8 +25350,8 @@
 401;318;3478;333;descriptionDe=Plumpsklo;descriptionEn=pit latrine
 402;318;3393;599
 403;318;3393;599
-404;318;3477;599
-405;318;3478;599
+404;318;3477;599;descriptionDe=Umkleideraum;descriptionEn=Changing Room
+405;318;3478;599;descriptionEn=Changing Room;descriptionDe=Umkleideraum
 406;318;3393;599
 407;318;3393;599
 408;318;635;599
