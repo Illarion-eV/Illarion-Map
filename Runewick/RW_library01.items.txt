@@ -352,14 +352,14 @@
 15;16;3244;0
 16;16;3244;0
 17;16;3244;0
-18;16;3224;0;descriptionDe=Professorenbüro 1;descriptionEn=Professor office 1;lockId=201;doorLock=locked
+18;16;3224;0;descriptionDe=Professorenbüro 1;descriptionEn=Professor Office 1;lockId=201;doorLock=locked
 19;16;3248;0
 20;16;3244;0
 21;16;3223;0
 22;16;3244;0
 23;16;3244;0
 24;16;3244;0
-25;16;3224;0;descriptionDe=Professorenbüro 2;descriptionEn=Professors office 2;lockId=202;doorLock=locked
+25;16;3224;0;descriptionDe=Professorenbüro 2;descriptionEn=Professor Office 1;lockId=202;doorLock=locked
 26;16;3248;0
 27;16;3244;0
 28;16;3242;0

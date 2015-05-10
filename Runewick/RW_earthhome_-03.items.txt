@@ -81,7 +81,7 @@
 10;9;36;0
 11;9;2878;0
 14;9;856;0
-17;9;864;0;descriptionEn=Island of Earth Apartment 3;nameDe=Insel der Erde Appartement 3;lockId=233;doorLock=locked
+17;9;864;0;descriptionEn=Island of Earth Apartment 3;descriptionDe=Insel der Erde Appartement 3;lockId=233;doorLock=locked
 21;9;2876;0
 22;9;36;0
 22;9;310;0

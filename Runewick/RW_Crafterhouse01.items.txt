@@ -117,7 +117,7 @@
 12;22;872;0
 12;22;869;0
 13;22;855;333
-14;22;863;333;descriptionDe=Insel der Luft Appartement 2;nameEn=Island of Air Apartment 2;lockId=211;doorLock=locked
+14;22;863;333;descriptionDe=Insel der Luft Appartement 2;descriptionEn=Island of Air Apartment 2;lockId=211;doorLock=locked
 15;22;855;333
 16;22;855;0
 17;22;855;0
@@ -142,7 +142,7 @@
 20;24;36;0
 20;24;2622;0
 12;25;3364;0
-16;25;3479;0;descriptionEn=Island of Air Apartment 1;nameDe=Insel der Luft Appartement 1;lockId=210;doorLock=locked
+16;25;3479;0;descriptionEn=Island of Air Apartment 1;descriptionDe=Insel der Luft Apartment 1;lockId=210;doorLock=locked
 20;25;3366;0
 12;26;3364;0
 13;26;396;0
