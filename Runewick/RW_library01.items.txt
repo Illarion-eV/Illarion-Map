@@ -223,8 +223,8 @@
 5;10;3243;0
 5;10;957;0
 6;10;3244;0
-7;10;3232;0
-8;10;3236;0
+7;10;3232;0;descriptionDe=Stadtverwaltung;descriptionEn=Town Hall
+8;10;3236;0;descriptionDe=Stadtverwaltung;descriptionEn=Town Hall
 9;10;3244;0
 10;10;3221;0
 10;10;3242;0
@@ -352,14 +352,14 @@
 15;16;3244;0
 16;16;3244;0
 17;16;3244;0
-18;16;3224;0
+18;16;3224;0;descriptionDe=Professorenbüro 1;descriptionEn=Professor office 1;lockId=201;doorLock=locked
 19;16;3248;0
 20;16;3244;0
 21;16;3223;0
 22;16;3244;0
 23;16;3244;0
 24;16;3244;0
-25;16;3224;0
+25;16;3224;0;descriptionDe=Professorenbüro 2;descriptionEn=Professors office 2;lockId=202;doorLock=locked
 26;16;3248;0
 27;16;3244;0
 28;16;3242;0
@@ -376,17 +376,19 @@
 9;17;3590;333
 11;17;3593;333
 16;17;275;0
-17;17;1124;0
+16;17;1124;333
+17;17;1082;333;descriptionDe=Dekan Djironnyma;descriptionEn=Dean Djironnyma
 22;17;953;0
-24;17;1124;0
-28;17;3233;0
+23;17;1124;333
+24;17;1082;333;descriptionDe=Professor Vitus;descriptionEn=Professor Vitus
+28;17;3233;0;descriptionDe=Bibliothek;descriptionEn=Library
 32;17;320;0
 32;17;335;0
 32;17;1914;0
 33;17;688;0
 33;17;3245;0
 11;18;3593;333
-28;18;3237;0
+28;18;3237;0;descriptionDe=Bibliothek;descriptionEn=Library
 32;18;396;0
 33;18;688;0
 33;18;3245;0
