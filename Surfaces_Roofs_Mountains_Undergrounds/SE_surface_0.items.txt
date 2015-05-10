@@ -18803,7 +18803,7 @@
 429;245;3316;599;descriptionDe=Plumpsklo;descriptionEn=Pit Latrine
 430;245;3308;599
 431;245;1265;599
-443;245;864;599
+443;245;864;599;descriptionDe=Zu den Apartments 3 und 4;descriptionEn=To the Apartments 3 and 4
 447;245;864;599;descriptionDe=Insel des Feuers Appartment 3;descriptionEn=Island of Fire Appartment 3;lockId=242;doorLock=locked
 450;245;2875;599
 452;245;3651;333
@@ -19415,7 +19415,7 @@
 392;251;1100;599
 393;251;1100;599
 394;251;1100;599
-395;251;1109;599
+395;251;1109;599;descriptionDe=Bibliothek - Labor;descriptionEn=Library - Laboratory
 396;251;1100;599
 397;251;1116;599
 397;251;1100;599
@@ -19528,7 +19528,7 @@
 393;252;665;599
 393;252;1008;599
 394;252;665;599
-397;252;1111;599
+397;252;1111;599;descriptionDe=Labor - Hospital;descriptionEn=Laboratory -  Hospital
 408;252;1102;599
 408;252;515;599
 422;252;1177;599
@@ -20104,6 +20104,7 @@
 419;257;937;599
 420;257;877;599
 423;257;1783;599
+423;257;3083;333;descriptionDe=Westen: Fakultät der Natur und Alchemie, Hospital, Wachhaus, Taverne und Hafen;descriptionEn=West: Faculty of Nature and Alchemy, Hospital, Guardhouse, Tavern and Port
 449;257;471;599
 454;257;470;599
 2;258;911;333
@@ -20303,6 +20304,7 @@
 391;259;890;599
 392;259;273;599
 393;259;1783;599
+393;259;3084;333;descriptionDe=Osten: Insel des Feuers, Stadtverwaltung und Bibliothek;descriptionEn=East: Island of Fire, Town Hall and Library
 399;259;320;333
 399;259;3109;333
 400;259;320;333
@@ -20524,6 +20526,7 @@
 418;261;936;599
 418;261;1783;599
 419;261;396;599
+424;261;3082;333;descriptionDe=Süden: Stadtverwaltung, Fakultät der Magie und Geisteswissenschaften, Marktplatz und Werkstätten;descriptionEn=South: Town Hall, Faculty of Magic and Humanitiesm, Marktplace and Workshop
 425;261;338;599
 430;261;1782;599
 430;261;959;599
@@ -20772,6 +20775,7 @@
 382;264;432;599
 382;264;42;599
 389;264;1783;599
+389;264;3082;333;descriptionDe=Süden: Wachhaus, Taverne und Hafen;descriptionEn=South: Guardhouse, Tavern and Port
 392;264;1783;599
 393;264;1791;599
 394;264;1782;599
@@ -22622,7 +22626,7 @@
 370;287;1178;599
 371;287;889;599
 377;287;301;599
-380;287;3281;599
+380;287;3281;599;descriptionDe=Stadtwache;descriptionEn=Town Guard
 380;287;42;599
 381;287;680;599
 382;287;681;599
@@ -22913,7 +22917,7 @@
 381;290;690;599
 381;290;690;599
 381;290;42;599
-382;290;654;599;descriptionDe=Wachhaus;descriptionEn=Guard House;lockId=220;doorLock=unlock
+382;290;654;599;descriptionDe=Wachhaus;descriptionEn=Guard House;lockId=220;doorLock=unlocked
 386;290;665;599
 386;290;2952;599
 386;290;3051;599
@@ -23318,6 +23322,7 @@
 375;295;1254;599
 376;295;877;599
 377;295;877;599
+379;295;3081;333;descriptionDe=Norden: Fakultät der Natur und Alchemie, Hospital und Insel des Feuers;descriptionEn=North: Faculty of Nature and Alchemy, Hospital and Island of Fire
 381;295;690;599
 382;295;634;599
 385;295;1219;333
@@ -23650,6 +23655,7 @@
 334;300;1783;333
 336;300;301;333
 338;300;1782;333
+345;300;586;333
 354;300;1804;333
 355;300;274;333
 356;300;338;333
@@ -23715,6 +23721,9 @@
 420;300;3154;599
 421;300;3254;333
 421;300;3258;333
+421;300;3081;333;descriptionDe=Norden: Stadtverwaltung, Fakultät der Magie und Geisteswissenschaften und Insel des Feuers;descriptionEn=North: Town Hall, Facultiy of Magic and Humanities ans Island of Fire
+424;300;232;333
+424;300;3084;333;descriptionDe=Norden: Stadtverwaltung, Fa und Insel des Feuers;descriptionEn=East: Marktplace and Workshops
 427;300;1080;599
 428;300;877;599
 429;300;877;599
@@ -23798,8 +23807,8 @@
 372;301;338;599
 376;301;338;599
 377;301;878;599
-381;301;3327;599
-381;301;42;599;nameDe=Stadtwache;nameEn=Town guard
+381;301;3327;599;descriptionDe=Stadtwache;descriptionEn=Town Guard
+381;301;42;599
 383;301;3680;333
 387;301;273;599
 388;301;958;599
@@ -23890,8 +23899,7 @@
 336;302;301;333
 339;302;273;333
 340;302;273;333
-344;302;396;333
-344;302;42;333
+344;302;3081;333;descriptionDe=Friedwald;descriptionEn=Forest graveyard
 345;302;273;333
 346;302;273;333
 348;302;586;333
@@ -23924,6 +23932,7 @@
 377;302;3242;333
 377;302;3258;333
 378;302;953;333
+389;302;3084;333;descriptionDe=Osten: Stadtverwaltung, Fakultät der Magie und Geisteswissenschaften und Insel des Feuers;descriptionEn=East: Town Hall, Faculty of Magic and Humanities, Marktplace and Workshops
 405;302;3156;599
 406;302;3158;599
 407;302;3158;599
@@ -24011,7 +24020,8 @@
 326;303;301;599
 338;303;273;333
 339;303;273;333
-344;303;586;333
+344;303;396;333
+345;303;3084;333;descriptionDe=Akedemie und Stadt Runewick;descriptionEn=Academie and Town Runewick
 355;303;3155;599
 356;303;3143;599
 357;303;3143;599
@@ -24221,6 +24231,7 @@
 386;305;321;333;depot=102
 388;305;1783;599
 388;305;273;599
+389;305;3082;333;descriptionDe=Süden: Taverne und Hafen;descriptionEn=South: Tavern and Port
 390;305;958;599
 390;305;1807;599
 391;305;607;599
@@ -24382,7 +24393,6 @@
 332;307;273;333
 333;307;273;333
 334;307;273;333
-342;307;586;333
 346;307;586;333
 355;307;915;599
 362;307;338;599
@@ -24526,11 +24536,13 @@
 427;308;249;599
 428;308;249;599
 432;308;873;599
-433;308;3265;599
-433;308;3265;599
-433;308;3265;599
-434;308;3265;599
-434;308;3265;599
+433;308;1246;333
+433;308;3265;333
+433;308;3265;333
+433;308;3265;333
+434;308;1246;333
+434;308;3265;333
+434;308;3265;333
 438;308;402;599
 441;308;3362;599
 446;308;1246;599
@@ -24620,6 +24632,7 @@
 338;309;273;333
 339;309;273;333
 341;309;3082;333;descriptionDe=Hölzfällersiedlung, Zwillingsaugeninseln;descriptionEn=Woodcutter's Hut, Twin Eyes Islands
+342;309;586;333
 343;309;387;599
 344;309;387;599
 345;309;274;599
@@ -25698,7 +25711,6 @@
 403;324;432;333
 403;324;3355;599
 406;324;295;599
-406;324;432;333
 407;324;432;333
 407;324;3355;599
 408;324;635;599
@@ -26195,6 +26207,7 @@
 397;333;274;599
 398;333;1783;599
 398;333;273;599
+400;333;3084;333;descriptionDe=Osten: Marktplatz und Werkstätten;descriptionEn=East: Marktplace and Workshop
 403;333;1783;599
 404;333;396;599
 406;333;1178;599
@@ -26210,6 +26223,7 @@
 424;333;436;599;descriptionDe=Der Hebel klemmt.;descriptionEn=The lever is jammed.
 431;333;1177;599
 432;333;301;599
+432;333;3083;333;descriptionDe=Westen: Hafen, Taverne und Stadtwache;descriptionEn=West: Port, Tavern and Town Guard
 436;333;889;599
 443;333;872;599
 443;333;869;599
