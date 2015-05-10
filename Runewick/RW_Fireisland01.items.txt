@@ -65,7 +65,7 @@
 6;4;860;0
 8;4;1360;0
 9;4;1360;0
-10;4;1915;0
+10;4;1915;0;descriptionDe=Bildnis eines jungen Mannes in knapper Kleidung.;descriptionEn=Picture of a young men with few clothes.
 11;4;856;0
 15;4;856;0
 16;4;2876;0
