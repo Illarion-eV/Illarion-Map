@@ -20526,7 +20526,7 @@
 418;261;936;599
 418;261;1783;599
 419;261;396;599
-424;261;3082;333;descriptionDe=Süden: Stadtverwaltung, Fakultät der Magie und Geisteswissenschaften, Marktplatz und Werkstätten;descriptionEn=South: Town Hall, Faculty of Magic and Humanitiesm, Marktplace and Workshop
+424;261;3082;333;descriptionDe=Süden: Stadtverwaltung, Fakultät der Magie und Geisteswissenschaften, Marktplatz und Werkstätten;descriptionEn=South: Town Hall, Faculty of Magic and Humanties, Workshop and Marketplace
 425;261;338;599
 430;261;1782;599
 430;261;959;599
@@ -22554,7 +22554,7 @@
 380;286;612;333
 381;286;938;333
 417;286;962;333
-423;286;3084;599;descriptionDe=Stadtverwaltung und Fakultät der Magie und Geisteswissenschaft;descriptionEn=Town Hall and faculty of magic and humanities
+423;286;3084;599;descriptionDe=Stadtverwaltung und Fakultät der Magie und Geisteswissenschaft;descriptionEn=Town Hall and Faculty of Magic and Humanities
 426;286;964;599
 428;286;1124;599
 432;286;1084;599
@@ -23720,7 +23720,7 @@
 420;300;3154;599
 421;300;3254;333
 421;300;3258;333
-421;300;3081;333;descriptionDe=Norden: Stadtverwaltung, Fakultät der Magie und Geisteswissenschaften und Insel des Feuers;descriptionEn=North: Town Hall, Facultiy of Magic and Humanities ans Island of Fire
+421;300;3081;333;descriptionDe=Norden: Stadtverwaltung, Fakultät der Magie und Geisteswissenschaften und Insel des Feuers;descriptionEn=North: Town Hall, Faculty of Magic and Humanties, and Island of Fire
 424;300;232;333
 424;300;3084;333;descriptionDe=Norden: Stadtverwaltung, Fa und Insel des Feuers;descriptionEn=East: Marktplace and Workshops
 427;300;1080;599
