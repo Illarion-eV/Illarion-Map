@@ -23611,7 +23611,7 @@
 480;299;387;333
 481;299;3381;333
 481;299;647;333
-487;299;3479;333;descriptionDe=Arbeitszimmer des Erzmagiers;descriptionEn=Archmages study
+487;299;3479;333;descriptionDe=Arbeitszimmer des Erzmagiers;descriptionEn=Archmage's Study
 491;299;3396;333
 491;299;396;333
 492;299;301;333
@@ -23754,7 +23754,7 @@
 483;300;36;333
 483;300;2851;333
 484;300;219;333
-487;300;3480;333;descriptionDe=Arbeitszimmer des Erzmagiers;descriptionEn=Archmages study
+487;300;3480;333;descriptionDe=Arbeitszimmer des Erzmagiers;descriptionEn=Archmage's Study
 491;300;3383;333
 492;300;301;333
 72;301;626;333
@@ -24074,8 +24074,8 @@
 481;303;682;333
 481;303;647;333
 482;303;3393;333
-483;303;3477;333;descriptionDe=Villa des Erzmagiers;descriptionEn=Archmages Villa;lockId=200;doorLock=unlocked
-484;303;3478;333;descriptionDe=Villa des Erzmagiers;descriptionEn=Archmages Villa;LockId=200;doorLock=unlocked
+483;303;3477;333;descriptionDe=Villa des Erzmagiers;lockId=200;doorLock=unlocked;descriptionEn=Archmage's Villa
+484;303;3478;333;descriptionDe=Villa des Erzmagiers;LockId=200;doorLock=unlocked;descriptionEn=Archmage's Villa
 485;303;3393;333
 486;303;3393;333
 486;303;646;333
@@ -24169,7 +24169,7 @@
 487;304;3393;333
 488;304;3393;333
 489;304;3393;333
-490;304;3478;333;descriptionDe=Schlafzimmer des Erzmagiers;descriptionEn=Archmages bedroom;lockId=200;doorLock=locked
+490;304;3478;333;descriptionDe=Schlafzimmer des Erzmagiers;lockId=200;doorLock=locked;descriptionEn=Archmage's Bedroom
 491;304;3396;333
 491;304;3393;333
 492;304;301;333
@@ -25335,6 +25335,7 @@
 384;318;1808;599
 385;318;3682;333
 392;318;1123;599
+392;318;433;333
 393;318;682;599
 394;318;3393;599
 395;318;3380;599
@@ -25345,8 +25346,8 @@
 398;318;632;599
 399;318;396;599
 399;318;3393;333
-400;318;3477;333;descriptionDe=Plumpsklo;descriptionEn=pit latrine
-401;318;3478;333;descriptionDe=Plumpsklo;descriptionEn=pit latrine
+400;318;3477;333;descriptionDe=Plumpsklo;descriptionEn=Pit Latrine
+401;318;3478;333;descriptionDe=Plumpsklo;descriptionEn=Pit Latrine
 402;318;3393;599
 403;318;3393;599
 404;318;3477;599;descriptionDe=Umkleideraum;descriptionEn=Changing Room
@@ -25411,9 +25412,13 @@
 383;319;396;599
 388;319;75;599
 392;319;1783;599
+392;319;891;333
 393;319;1124;599
 393;319;273;599
+393;319;432;333
+394;319;432;333
 395;319;1783;599
+395;319;432;333
 396;319;890;599
 397;319;891;599
 398;319;3389;599
@@ -25540,7 +25545,8 @@
 486;321;2079;599
 486;321;10;599
 489;321;361;599;god=3
-491;321;387;599
+491;321;2805;333
+491;321;3607;333
 492;321;301;599
 70;322;627;333
 71;322;629;333
@@ -25710,6 +25716,8 @@
 403;324;432;333
 403;324;3355;599
 406;324;295;599
+406;324;432;333
+406;324;3354;333
 407;324;432;333
 407;324;3355;599
 408;324;635;599
@@ -25837,7 +25845,7 @@
 430;326;645;599
 432;326;320;599
 432;326;311;599
-443;326;3484;599;descriptionDe=Küche;descriptionEn=kitchen
+443;326;3484;599;descriptionDe=Küche;descriptionEn=Kitchen
 447;326;433;599
 448;326;433;599
 448;326;432;599
