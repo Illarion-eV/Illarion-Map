@@ -121,7 +121,7 @@
 28;3;3693;333
 30;3;651;0
 30;3;1061;0
-32;3;464;0;god=7;descriptionDe=Statue Elaras;descriptionEn=Statue of Elara
+32;3;464;0;god=7;elaraStatueRunewick=true
 33;3;688;0
 33;3;3245;0
 1;4;396;0
