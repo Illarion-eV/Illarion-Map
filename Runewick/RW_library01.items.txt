@@ -87,6 +87,7 @@
 11;2;1086;0
 13;2;957;0
 14;2;3245;0
+15;2;1098;0;book1=gods2;book2=diary_of_noira_liv;book3=glorification_to_irmorom;book4=petition_for_zelphia;book5=petition_in_the_name_of_findari
 16;2;396;0
 16;2;264;0
 17;2;320;0
@@ -114,7 +115,7 @@
 8;3;651;0
 8;3;1147;0
 9;3;218;0
-14;3;3233;0
+14;3;3233;0;descriptionDe=Stadtverwaltung-Bibliothek;descriptionEn=City Hall - Library
 25;3;3693;333
 26;3;3693;333
 27;3;3693;333
@@ -135,8 +136,7 @@
 9;4;1060;0
 10;4;651;0
 10;4;463;0
-14;4;3237;0
-15;4;1098;0;book1=gods2;book2=diary_of_noira_liv;book3=glorification_to_irmorom;book4=petition_for_zelphia;book5=petition_in_the_name_of_findari
+14;4;3237;0;descriptionDe=Stadtverwaltung-Bibliothek;descriptionEn=City Hall - Library
 30;4;1862;0
 32;4;651;0
 32;4;116;0
@@ -359,7 +359,7 @@
 22;16;3244;0
 23;16;3244;0
 24;16;3244;0
-25;16;3224;0;descriptionDe=Professorenbüro 2;descriptionEn=Professor Office 1;lockId=202;doorLock=locked
+25;16;3224;0;descriptionDe=Professorenbüro 2;lockId=202;doorLock=locked;descriptionEn=Professor Office 2
 26;16;3248;0
 27;16;3244;0
 28;16;3242;0
