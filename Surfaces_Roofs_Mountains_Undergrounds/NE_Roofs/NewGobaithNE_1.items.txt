@@ -2472,6 +2472,9 @@
 84;126;287;333
 85;126;287;333
 86;126;287;333
+94;126;3184;333
+94;126;512;333
+94;126;3187;333
 411;126;347;333
 412;126;473;333
 417;126;921;333
@@ -2624,6 +2627,9 @@
 82;130;287;333
 83;130;287;333
 84;130;287;333
+101;130;3184;333
+101;130;512;333
+101;130;3187;333
 414;130;342;333
 433;130;921;333
 13;131;464;333;descriptionEn=The statue depicts a dark skinned, dark haired young woman in a dress the color of the earth's soil.;descriptionDe=Die Statue zeigt eine dunkelhäutige, dunkelhaarige junge Frau die ein erdfarbenes Kleid trägt.;nameDe=Göttin Ushara;nameEn=Goddess Ushara
@@ -3014,6 +3020,12 @@
 78;142;287;333
 79;142;287;333
 80;142;287;333
+87;142;3184;333
+87;142;512;333
+87;142;3187;333
+97;142;3184;333
+97;142;512;333
+97;142;3187;333
 13;143;623;333
 13;143;623;333
 14;143;287;333
@@ -3245,6 +3257,12 @@
 73;149;622;333
 74;149;622;333
 75;149;628;333
+84;149;3184;333
+84;149;512;333
+84;149;3187;333
+96;149;3184;333
+96;149;512;333
+96;149;3187;333
 17;150;629;333
 18;150;623;333
 19;150;287;333
@@ -3535,6 +3553,12 @@
 40;162;272;333;descriptionEn=The statue depicts a dark skinned, dark haired young woman in a dress the color of the earth's soil.;descriptionDe=Die Statue zeigt eine dunkelhäutige, dunkelhaarige junge Frau die ein erdfarbenes Kleid trägt.;nameEn=Goddess Ushara;nameDe=Göttin Ushara
 41;162;272;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein BArt steht in Flammen.;nameDe=Gott Brágon;nameEn=God Brágon
 42;162;272;333;descriptionEn=The statue depicts a slim older man, looking almost frail with a staff in one arm and a book in another.;descriptionDe=Die Statue zeigt einen schlanken, älteren Mann. Er wirkt fast zierlich und hält einen Stab in der einen Hand und ein Buch in der anderen.;nameDe=Gott Eldan;nameEn=God Eldan
+82;162;3184;333
+82;162;512;333
+82;162;3187;333
+90;164;3184;333
+90;164;512;333
+90;164;3187;333
 436;168;287;333
 437;168;287;333
 438;168;287;333
@@ -3784,6 +3808,12 @@
 487;174;287;333
 487;174;287;333
 488;174;287;333
+79;175;3184;333
+79;175;512;333
+79;175;3187;333
+88;175;3184;333
+88;175;512;333
+88;175;3187;333
 426;175;627;333
 427;175;627;333
 427;175;629;333
@@ -3909,6 +3939,9 @@
 434;181;287;333
 435;181;287;333
 488;181;287;333
+88;182;3184;333
+88;182;512;333
+88;182;3187;333
 412;182;630;333
 413;182;630;333
 414;182;630;333
@@ -3947,6 +3980,9 @@
 438;183;1251;0
 440;183;338;0
 488;183;287;333
+76;184;3184;333
+76;184;512;333
+76;184;3187;333
 407;184;287;333
 408;184;287;333
 409;184;287;333
@@ -4220,6 +4256,9 @@
 486;192;287;333
 487;192;287;333
 488;192;287;333
+82;193;3184;333
+82;193;512;333
+82;193;3187;333
 402;193;629;333
 403;193;623;333
 404;193;287;333
@@ -4252,6 +4291,9 @@
 479;193;627;333
 480;193;287;333
 488;193;287;333
+73;194;3184;333
+73;194;512;333
+73;194;3187;333
 402;194;273;333
 403;194;626;333
 404;194;287;333
