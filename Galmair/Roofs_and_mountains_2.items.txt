@@ -4545,6 +4545,7 @@
 127;301;173;333
 133;301;3102;333
 135;301;420;333
+164;301;913;333
 170;301;613;333
 178;301;36;333
 178;301;400;333
@@ -5433,6 +5434,7 @@
 164;317;1783;333
 165;317;1266;333
 166;317;1278;333
+167;317;913;333
 169;317;980;333
 170;317;980;333
 171;317;980;333
@@ -5721,7 +5723,7 @@
 166;325;3101;333
 170;325;2937;333;descriptionDe=Dies scheinen die sterblichen Überreste eines Elfen zu sein.;descriptionEn=These seem to be the remains of an elf.
 171;325;3101;333
-172;325;320;333
+172;325;320;333;nameDe=Holzpodest;nameEn=Wooden podium
 172;325;693;333;descriptionDe=Die goldene Statue, die auf einem aufwendig geschnitzten Podest steht, hat die Gestalt eines boshaft aussehenden Dämons.;descriptionEn=The golden statue sitting on a finely crafted wooden podium, portrays an evil looking demon.;nameDe=Dämonenstatue;nameEn=Statue of a demon
 175;325;1385;333;nameDe=Brennende Felsen;nameEn=Burning rocks
 177;325;1254;333
@@ -6115,7 +6117,6 @@
 158;338;3095;333
 158;338;2169;333
 158;338;3101;333
-160;338;2855;333
 161;338;2207;333
 163;338;1783;333
 165;338;2937;333
