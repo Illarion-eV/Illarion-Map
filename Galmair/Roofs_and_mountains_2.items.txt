@@ -5721,7 +5721,7 @@
 140;325;626;333
 142;325;622;333
 166;325;3101;333
-170;325;2937;333;descriptionDe=Dies scheinen die sterblichen Überreste eines Elfen zu sein.;descriptionEn=These seem to be the remains of an elf.
+170;325;2937;333;descriptionEn=These seem to be the remains of an elf.;descriptionDe=Dies scheinen die sterblichen Überreste einer Elfin zu sein.
 171;325;3101;333
 172;325;320;333;nameDe=Holzpodest;nameEn=Wooden podium
 172;325;693;333;descriptionDe=Die goldene Statue, die auf einem aufwendig geschnitzten Podest steht, hat die Gestalt eines boshaft aussehenden Dämons.;descriptionEn=The golden statue sitting on a finely crafted wooden podium, portrays an evil looking demon.;nameDe=Dämonenstatue;nameEn=Statue of a demon
