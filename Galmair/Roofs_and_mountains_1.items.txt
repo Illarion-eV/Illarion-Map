@@ -13647,7 +13647,7 @@
 145;343;1783;0
 147;343;433;0
 147;343;1265;0
-227;343;2926;333;descriptionDe=Dies scheinen die sterblichen Überreste einer Elfin zu sein.;descriptionEn=The post has a skull painted on it in dark red colors that has a disturbing resemblance to blood.
+227;343;2926;333;descriptionEn=The post has a skull painted on it in dark red colors that has a disturbing resemblance to blood.;descriptionDe=Auf den Pfahl ist mit dunkelroter Farbe, die eine beunruhigende Ähnlichkeit mit Blut hat, ein Totenkopf aufgemalt.
 228;343;1797;333
 233;343;623;333
 234;343;287;333
@@ -13742,7 +13742,6 @@
 145;346;3262;0
 147;346;433;0
 226;346;1276;333
-227;346;2926;333
 228;346;1795;333
 229;346;1794;333
 230;346;1783;333
