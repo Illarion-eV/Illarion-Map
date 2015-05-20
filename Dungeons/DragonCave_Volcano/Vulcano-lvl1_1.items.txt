@@ -2508,7 +2508,7 @@
 93;56;519;333;nameDe=Hoodah;descriptionEn=Hoodah
 94;56;1278;333
 95;56;1257;333
-109;56;1097;333;descriptionEn=The pond has an odd colour lining the stones around it, but the water flows crystal clear and the smell is truly amazing.;descriptionDe=Der Teich hat eine seltsame Farbe und färbt die Steine um sich herum ein. Doch das Wasser ist kristalklar und der Geruch ist wahrlich göttlich.
+109;56;1097;333;descriptionEn=The pond has an odd colour lining the stones around it, but the water flows crystal clear and the smell is truly amazing.;descriptionDe=Der Teich hat eine seltsame Farbe und färbt die Steine um sich herum ein. Doch das Wasser ist kristalklar und der Geruch ist wahrlich göttlich.;dragoncaveSpring=true
 110;56;51;333
 112;56;623;333
 113;56;287;333
@@ -2707,7 +2707,7 @@
 107;59;3100;333
 108;59;3099;333
 111;59;885;333
-111;59;1813;333;nameEn=Sacred Tree of the Vuzembi;nameDe=Heiliger Baum der Vuzembi
+111;59;1813;333;nameEn=Sacred Tree of the Vuzembi;nameDe=Heiliger Baum der Vuzembi;dragoncaveBush=true
 113;59;623;333
 114;59;287;333
 115;59;287;333
