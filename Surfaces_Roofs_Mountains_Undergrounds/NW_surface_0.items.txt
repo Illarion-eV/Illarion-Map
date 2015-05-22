@@ -314,7 +314,7 @@
 35;21;396;333
 387;21;301;333
 399;21;301;333
-423;21;3081;333
+423;21;3081;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 424;21;615;333
 424;21;1783;333
 425;21;615;333
@@ -481,7 +481,7 @@
 388;28;441;333
 398;28;441;333
 399;28;301;333
-423;28;3082;333
+423;28;3082;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 424;28;615;333
 424;28;1783;333
 425;28;615;333
@@ -663,8 +663,8 @@
 393;39;619;333
 393;39;1783;333
 51;40;894;333
-386;40;3083;333
-393;40;3084;333
+386;40;3083;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
+393;40;3084;333;descriptionDe=Galmair Hafen, Nördliche Inseln;descriptionEn=Galmair Harbour, Northern Islands
 54;43;273;333
 66;43;273;333
 85;43;338;333
