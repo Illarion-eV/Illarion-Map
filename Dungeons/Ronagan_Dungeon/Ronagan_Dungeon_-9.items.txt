@@ -189,7 +189,7 @@
 14;7;1793;333
 14;7;232;333
 14;7;2039;333
-14;7;2671;788
+14;7;2671;788;descriptionEn=A dagger sticks through the eye and pokes slightly out the other side of the skull.;descriptionDe=Ein Dolch steckt in der Augenhöhle und sticht leicht aus der gegenüberliegenden Seite des Schädels hervor.
 15;7;3101;333
 19;7;1383;333
 21;7;650;333

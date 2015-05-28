@@ -322,7 +322,7 @@
 13;10;402;333
 14;10;1384;333
 15;10;1360;333
-16;10;748;333
+16;10;748;333;descriptionEn=The painting depicts someone hiding in the shadow of a tree, only his eyes can be seen. A troup of soldiers runs by, fleet of foot, but appear not to notice him hidden there.;descriptionDe=Das Bild zeigt jemanden, der sich im Schatten eines Baumes versteckt. Nur seine Augen sind sichtbar. Eine Gruppe Soldaten eilt schnellen Schrittes vorbei, scheint die versteckte Person aber nicht zu entdecken.
 18;10;1360;333
 19;10;402;333
 20;10;1384;333
@@ -370,7 +370,7 @@
 11;12;628;333
 13;12;2805;333
 13;12;61;333
-16;12;1402;333
+16;12;1402;333;descriptionEn=The table is set with candles and offerings.;descriptionDe=Auf dem Tisch stehen Kerzen und Opfergaben.
 18;12;3101;333
 19;12;2805;333
 19;12;2742;333
@@ -412,7 +412,7 @@
 8;14;613;333
 9;14;628;333
 19;14;2937;333
-21;14;464;333
+21;14;464;333;descriptionEn=A crudely carved statue appears as a charming man who is possibly in his thirties. Someone has dressed the statue in a disguise of shabby clothing, false hair, and hat.;descriptionDe=Eine grob gearbeitete Statue mit dem Aussehen eines charmanten Mannes, vielleicht in seinen Dreißigern. Jemand hat die Gestalt mit einem schäbigen Gewand, falschen Haaren und einem Hut verkleidet.
 22;14;613;333
 30;14;613;333
 31;14;287;333
@@ -503,7 +503,7 @@
 8;18;613;333
 13;18;2937;333
 21;18;2801;333
-21;18;48;333
+21;18;48;333;descriptionEn=It looks as if someone has left somethingn behind or is it an offering?;descriptionDe=Es sieht aus, als ob jemand etwas vergessen hätte. Oder handelt es sich vielleicht um eine Opfergabe?
 22;18;613;333
 23;18;287;333
 24;18;287;333
@@ -675,13 +675,13 @@
 7;25;31;333
 7;25;1392;333
 10;25;524;333
-10;25;61;333
+10;25;61;333;descriptionEn=The coins on the table catch your eye as they reflect the firelight.;descriptionDe=Die Münze auf dem Tisch zieht deinen Blick auf sich, als sie den Feuerschein reflektiert.
 12;25;402;333
 15;25;3101;333
 16;25;1383;333
 19;25;402;333
 20;25;524;333
-20;25;61;333
+20;25;61;333;descriptionEn=The coins on the table catch your eye as they reflect the firelight.;descriptionDe=Die Münze auf dem Tisch zieht deinen Blick auf sich, als sie den Feuerschein reflektiert.
 22;25;613;333
 24;25;1383;333
 26;25;651;333

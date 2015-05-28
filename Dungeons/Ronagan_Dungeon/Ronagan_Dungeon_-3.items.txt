@@ -184,7 +184,7 @@
 33;3;242;333
 33;3;242;333
 33;3;36;333
-33;3;2161;333
+33;3;2161;333;descriptionEn=Laying on the table is a rusty old key, which someone has left behind. Might you need it to open something?;descriptionDe=Auf dem Tisch liegt ein rostiger alter Schlüssel, den irgendjemand dort zurückgelassen hat. Vielleicht brauchst du ihn, um irgendetwas zu öffnen?
 34;3;613;333
 35;3;287;333
 36;3;287;333
@@ -468,7 +468,7 @@
 32;13;2952;333
 32;13;2647;333
 33;13;320;333
-33;13;3078;333
+33;13;3078;333;descriptionEn=This looks suspiciously like one of the poisonous coins made by the ratman alchemist.;descriptionDe=Dies sieht verdächtig nach einem der Gifttaler aus, die der Rattenalchemist herstellt.
 34;13;320;333
 34;13;3101;333
 35;13;320;333
@@ -663,12 +663,12 @@
 19;20;1783;333
 20;20;1783;333
 24;20;3101;333
-25;20;1074;333
+25;20;1074;333;descriptionEn=This looks to have been torn right off a wall in Galmair as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Galmair gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.
 26;20;1272;333
-27;20;1082;333
+27;20;1082;333;descriptionEn=This looks to have been torn right off a wall in Runewick as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Runewick gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.
 28;20;411;333
 28;20;1783;333
-29;20;1066;333
+29;20;1066;333;descriptionEn=This looks to have been torn right off a wall in Cadomyr as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Cadomyr gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.
 30;20;1265;333
 35;20;1783;333
 36;20;1783;333
@@ -713,7 +713,7 @@
 28;22;3101;333
 30;22;3101;333
 33;22;1272;333
-36;22;1397;333
+36;22;1397;333;descriptionEn=The shelves appear to be full of miscellaneous items found all over Illarion.;descriptionDe=Die Regale scheinen voll beladen mit allen möglichen Alltagsgegenständen, die man überall in Illarion finden kann.
 37;22;613;333
 38;22;287;333
 39;22;287;333
@@ -753,7 +753,7 @@
 15;24;613;333
 19;24;60;333
 20;24;613;333
-36;24;1397;333
+36;24;1397;333;descriptionEn=The shelves appear to be full of miscellaneous items found all over Illarion.;descriptionDe=Die Regale scheinen voll beladen mit allen möglichen Alltagsgegenständen, die man überall in Illarion finden kann.
 37;24;613;333
 38;24;287;333
 39;24;287;333
