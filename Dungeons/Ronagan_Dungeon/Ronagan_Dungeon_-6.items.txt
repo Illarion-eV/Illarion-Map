@@ -321,9 +321,9 @@
 12;10;628;333
 13;10;402;333
 14;10;1384;333
-15;10;1360;333
+15;10;1360;333;ronaganChest=true
 16;10;748;333;descriptionEn=The painting depicts someone hiding in the shadow of a tree, only his eyes can be seen. A troup of soldiers runs by, fleet of foot, but appear not to notice him hidden there.;descriptionDe=Das Bild zeigt jemanden, der sich im Schatten eines Baumes versteckt. Nur seine Augen sind sichtbar. Eine Gruppe Soldaten eilt schnellen Schrittes vorbei, scheint die versteckte Person aber nicht zu entdecken.
-18;10;1360;333
+18;10;1360;333;ronaganChest=true
 19;10;402;333
 20;10;1384;333
 22;10;613;333
@@ -560,8 +560,8 @@
 23;20;287;333
 24;20;287;333
 27;20;1414;333
-28;20;964;333
-29;20;964;333
+28;20;964;333;ronaganKeg=true
+29;20;964;333;ronaganKeg=true
 30;20;613;333
 31;20;287;333
 32;20;287;333
@@ -627,7 +627,7 @@
 20;23;287;333
 21;23;287;333
 22;23;613;333
-25;23;3581;333
+25;23;2488;333
 29;23;339;333
 30;23;613;333
 31;23;287;333
@@ -718,7 +718,7 @@
 26;27;651;333
 26;27;173;333
 27;27;651;333
-29;27;964;333
+29;27;964;333;ronaganKeg=true
 30;27;613;333
 31;27;287;333
 32;27;287;333
@@ -731,7 +731,7 @@
 13;28;1383;333
 17;28;3101;333
 20;28;3101;333
-21;28;8;333
+21;28;8;333;ronaganChest=true
 22;28;613;333
 25;28;1383;333
 27;28;3101;333
@@ -743,10 +743,10 @@
 0;29;613;333
 1;29;33;333
 7;29;31;333
-21;29;8;333
+21;29;8;333;ronaganChest=true
 22;29;613;333
 28;29;513;333
-29;29;964;333
+29;29;964;333;ronaganKeg=true
 30;29;613;333
 31;29;287;333
 32;29;287;333
@@ -754,7 +754,7 @@
 0;30;613;333
 1;30;33;333
 7;30;31;333
-21;30;8;333
+21;30;8;333;ronaganChest=true
 22;30;613;333
 25;30;513;333
 26;30;513;333
