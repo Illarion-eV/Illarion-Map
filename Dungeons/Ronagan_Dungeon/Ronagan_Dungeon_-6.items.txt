@@ -373,7 +373,7 @@
 16;12;1402;333;descriptionEn=The table is set with candles and offerings.;descriptionDe=Auf dem Tisch stehen Kerzen und Opfergaben.
 18;12;3101;333
 19;12;2805;333
-19;12;2742;333
+19;12;2742;999
 21;12;1383;333
 29;12;1385;333
 30;12;613;333
@@ -503,7 +503,7 @@
 8;18;613;333
 13;18;2937;333
 21;18;2801;333
-21;18;48;333;descriptionEn=It looks as if someone has left somethingn behind or is it an offering?;descriptionDe=Es sieht aus, als ob jemand etwas vergessen hätte. Oder handelt es sich vielleicht um eine Opfergabe?
+21;18;48;999;descriptionEn=It looks as if someone has left somethingn behind or is it an offering?;descriptionDe=Es sieht aus, als ob jemand etwas vergessen hätte. Oder handelt es sich vielleicht um eine Opfergabe?
 22;18;613;333
 23;18;287;333
 24;18;287;333
@@ -527,7 +527,6 @@
 7;19;287;333
 8;19;613;333
 19;19;2937;333
-20;19;627;333
 21;19;623;333
 22;19;613;333
 23;19;613;333
