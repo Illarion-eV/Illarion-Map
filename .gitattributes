@@ -1,0 +1,5 @@
+# Illarion Map Format
+*.annot.txt text eol=lf
+*.items.txt text eol=lf
+*.tiles.txt text eol=lf
+*.warps.txt text eol=lf
