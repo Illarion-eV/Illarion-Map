@@ -182,7 +182,7 @@
 33;3;242;333
 33;3;242;333
 33;3;36;333
-33;3;2161;333;descriptionEn=Laying on the table is a rusty old key, which someone has left behind. Might you need it to open something?;descriptionDe=Auf dem Tisch liegt ein rostiger alter Schlüssel, den irgendjemand dort zurückgelassen hat. Vielleicht brauchst du ihn, um irgendetwas zu öffnen?
+33;3;2161;333;descriptionEn=Laying on the table is a rusty old key, which someone has left behind. Might you need it to open something?;descriptionDe=Auf dem Tisch liegt ein rostiger alter Schlüssel, den irgendjemand dort zurückgelassen hat. Vielleicht brauchst du ihn, um irgendetwas zu öffnen?;ronaganTrap=true
 34;3;613;333
 35;3;287;333
 36;3;287;333
@@ -355,7 +355,7 @@
 32;9;964;333;ronaganKeg=true
 33;9;30;333
 33;9;524;333
-33;9;2689;333
+33;9;2689;833;ronaganTrap=true
 34;9;30;333
 35;9;30;333
 35;9;402;333
@@ -661,12 +661,12 @@
 19;20;1783;333
 20;20;1783;333
 24;20;3101;333
-25;20;1074;333;descriptionEn=This looks to have been torn right off a wall in Galmair as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Galmair gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.
+25;20;1074;333;descriptionEn=This looks to have been torn right off a wall in Galmair as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Galmair gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.;ronaganTrap=true
 26;20;1272;333
-27;20;1082;333;descriptionEn=This looks to have been torn right off a wall in Runewick as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Runewick gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.
+27;20;1082;333;descriptionEn=This looks to have been torn right off a wall in Runewick as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Runewick gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.;ronaganTrap=true
 28;20;411;333
 28;20;1783;333
-29;20;1066;333;descriptionEn=This looks to have been torn right off a wall in Cadomyr as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Cadomyr gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.
+29;20;1066;333;descriptionEn=This looks to have been torn right off a wall in Cadomyr as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Cadomyr gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.;ronaganTrap=true
 30;20;1265;333
 35;20;1783;333
 36;20;1783;333

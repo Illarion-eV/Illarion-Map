@@ -369,7 +369,7 @@
 10;12;622;333
 11;12;628;333
 13;12;2805;333
-13;12;61;333
+13;12;61;333;ronaganTrap=true
 16;12;1402;333;descriptionEn=The table is set with candles and offerings.;descriptionDe=Auf dem Tisch stehen Kerzen und Opfergaben.
 18;12;3101;333
 19;12;2805;333
@@ -626,6 +626,7 @@
 20;23;287;333
 21;23;287;333
 22;23;613;333
+25;23;298;333
 25;23;2488;333
 29;23;339;333
 30;23;613;333
@@ -674,13 +675,13 @@
 7;25;31;333
 7;25;1392;333
 10;25;524;333
-10;25;61;333;descriptionEn=The coins on the table catch your eye as they reflect the firelight.;descriptionDe=Die Münze auf dem Tisch zieht deinen Blick auf sich, als sie den Feuerschein reflektiert.
+10;25;61;333;descriptionEn=The coins on the table catch your eye as they reflect the firelight.;descriptionDe=Die Münze auf dem Tisch zieht deinen Blick auf sich, als sie den Feuerschein reflektiert.;ronaganTrap=true
 12;25;402;333
 15;25;3101;333
 16;25;1383;333
 19;25;402;333
 20;25;524;333
-20;25;61;333;descriptionEn=The coins on the table catch your eye as they reflect the firelight.;descriptionDe=Die Münze auf dem Tisch zieht deinen Blick auf sich, als sie den Feuerschein reflektiert.
+20;25;61;333;descriptionEn=The coins on the table catch your eye as they reflect the firelight.;descriptionDe=Die Münze auf dem Tisch zieht deinen Blick auf sich, als sie den Feuerschein reflektiert.;ronaganTrap=true
 22;25;613;333
 24;25;1383;333
 26;25;651;333
