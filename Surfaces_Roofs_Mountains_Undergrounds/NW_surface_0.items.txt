@@ -1004,6 +1004,7 @@
 212;97;494;333
 213;97;474;333
 214;97;474;333
+214;97;402;333
 215;97;494;333
 216;97;474;333
 216;97;2927;333
@@ -1031,12 +1032,14 @@
 234;97;494;333
 234;97;274;333
 235;97;474;333
+235;97;402;333
 236;97;474;333
 236;97;264;333
 237;97;474;333
 238;97;494;333
 239;97;474;333
 239;97;1783;333
+239;97;402;333
 240;97;494;333
 240;97;1783;0
 241;97;474;333
@@ -1051,10 +1054,13 @@
 246;97;266;333;book1=calendar;book2=god_malachin;book3=god_sirani;book4=god_zhambra;book5=gods1;book6=gods2;book7=gods3;book8=story_of_urubur;book9=about_flame_orks
 247;97;474;333
 248;97;494;333
+248;97;36;333
+248;97;394;333
 249;97;474;333
 249;97;266;333;book1=about_the_humans_by_thomas_berryard;book2=cultures_of_the_humans;book3=dwarven_history_and_culture;book4=elven_history_and_culture;book5=fairy;book6=halfling_culture_and_history;book7=lizardmen_history_and_culture;book8=marriage_broker;book9=orcish_history_and_culture
 250;97;474;333
 251;97;494;333
+251;97;952;333
 252;97;474;333
 253;97;474;333
 254;97;494;333
@@ -1067,6 +1073,8 @@
 259;97;474;333
 259;97;2873;333
 260;97;494;333
+260;97;36;333
+260;97;394;333
 261;97;345;333
 261;97;272;333
 447;97;615;333
@@ -1133,7 +1141,7 @@
 508;99;1783;333
 101;100;274;333
 209;100;918;333
-217;100;1880;333
+217;100;1880;333;nameEn=Almighty Nitram;nameDe=Mächtig Nitram
 218;100;921;333
 218;100;1915;333
 227;100;2937;333
@@ -1176,8 +1184,6 @@
 240;101;1783;333
 243;101;921;333
 243;101;2874;333
-251;101;276;333
-256;101;276;333
 260;101;321;333;depot=103
 261;101;921;333
 447;101;615;333
@@ -1203,11 +1209,16 @@
 242;102;273;333
 243;102;921;333
 243;102;1914;333
+251;102;36;333
+251;102;394;333
 252;102;2877;333
 253;102;2877;333
 254;102;2877;333
 255;102;2877;333
+256;102;36;333
+256;102;394;333
 261;102;921;333
+261;102;952;333
 447;102;615;333
 448;102;615;333
 454;102;615;333
@@ -1261,12 +1272,10 @@
 241;103;340;333
 242;103;340;333
 243;103;346;333
-249;103;276;333
-251;103;275;333
+251;103;952;333
 252;103;2880;333
 254;103;2880;333
 256;103;275;333
-258;103;276;333
 261;103;345;333
 261;103;342;333
 261;103;211;333
@@ -1294,10 +1303,13 @@
 228;104;921;333
 228;104;2805;333
 231;104;264;333
+233;104;402;333
 234;104;266;333;book1=alchemy;book2=fragment_of_the_manrok_chronicles;book3=magic_gems;book4=onionball;book5=slimes;book6=tihgoracs_book_of_combat;book7=a_hermit_on_the_lookout_for_eldan;book8=a_tale_of_brothers;book9=baros_bigfoot_and_the_pride
 238;104;266;333;book1=blud_an_fiar_ork_magik;book2=brewyn_the_liar;book3=craftman_story;book4=dragon_dreams;book5=festival_relationships;book6=tales_of_a_traveller;book7=the_read_wolf_and_the_bear;book8=zodiac_sign;book9=a_question_of_honour
 240;104;266;333;book1=a_travelers_diary;book2=barhead_kings;book3=chronicle_recording_of_the_blumfussens_family_tree;book4=diary_of_noira_liv;book5=journal_of_abbot_elzechiel;book6=letastos_diary;book7=see_of_life;book8=the_reign_of_akaltut;book9=cadomyr_on_cadomyr
 241;104;264;333
+242;104;36;333
+242;104;394;333
 243;104;266;333;book1=cadomyr_on_galmair;book2=cadomyr_on_runewick;book3=cadomyr_order1;book4=chronicles_of_galmair;book5=chronicles_of_galmair_2;book6=galmair_on_cadomyr;book7=galmair_on_galmair;book8=galmair_on_runewick;book9=history_of_runewick
 250;104;2876;333
 257;104;2878;333
@@ -1356,7 +1368,7 @@
 228;106;921;333
 250;106;2876;333
 257;106;2878;333
-260;106;2857;333
+260;106;2857;333;nameEn=Almighty Vilarion;nameDe=Mächtig Vilarion
 261;106;921;333
 439;106;338;333
 447;106;617;333
@@ -1379,6 +1391,7 @@
 507;106;1247;333
 209;107;918;333
 222;107;320;333
+222;107;394;333
 223;107;320;333
 224;107;320;333
 225;107;2038;333
@@ -1413,10 +1426,8 @@
 209;108;342;333
 228;108;921;333
 228;108;2908;333
-249;108;276;333
 251;108;275;333
-256;108;275;333
-258;108;276;333
+256;108;952;333
 261;108;921;333
 261;108;347;333
 261;108;211;333
@@ -1462,6 +1473,7 @@
 223;109;214;333
 224;109;214;333
 228;109;921;333
+228;109;404;333
 234;109;348;333
 235;109;474;333
 235;109;266;333;book1=lecture_runewick_history;book2=runewick_on_cadomyr;book3=runewick_on_galmair;book4=runewick_on_runewick;book5=speech_rosaline_32_11_05;book6=demonologist;book7=druid_parchment;book8=h_evergreen;book9=lor_angur
@@ -1477,9 +1489,15 @@
 242;109;474;333
 243;109;345;333
 243;109;36;333
+243;109;394;333
+251;109;36;333
+251;109;394;333
 252;109;2880;333
 254;109;2880;333
+256;109;36;333
+256;109;394;333
 261;109;921;333
+261;109;952;333
 437;109;338;333
 438;109;860;333
 439;109;513;333
@@ -1515,6 +1533,7 @@
 223;110;214;333
 224;110;214;333
 228;110;921;333
+233;110;404;333
 234;110;342;333
 243;110;921;333
 252;110;2875;333
@@ -1553,8 +1572,6 @@
 241;111;320;333
 243;111;921;333
 243;111;267;333;book1=galmair_priester;book2=galmair_quartermaster;book3=galmair_translator;book4=glorification_to_irmorom;book5=in_the_name_of_nargun_or_not;book6=making_candles;book7=parchment_of_the_priests_of_eldan;book8=petition_for_zelphia;book9=petition_in_the_name_of_findari
-251;111;276;333
-256;111;276;333
 259;111;218;333
 261;111;921;333
 437;111;274;333
@@ -2392,6 +2409,7 @@
 221;127;958;0
 221;127;961;0
 224;127;344;333
+225;127;3190;333
 232;127;907;333
 233;127;491;333
 236;127;958;0
@@ -2442,7 +2460,6 @@
 508;127;338;333
 509;127;338;333
 510;127;301;333
-224;128;475;333
 225;128;343;333
 232;128;492;333
 323;128;1218;333
