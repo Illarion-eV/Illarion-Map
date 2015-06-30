@@ -4558,7 +4558,7 @@
 292;388;3087;333
 301;388;3097;333
 305;388;3097;333
-308;388;3082;333
+308;388;3082;333;descriptionEn=Please only feed the pups meat and one piece for each of the five. Melanie Meadowlark;descriptionDe=Bitte gebt den Jungen nur Fleisch zu fressen und je ein Stück pro Welpe. Melanie Meadowlark
 309;388;233;333
 310;388;3088;333
 311;388;3087;333
@@ -4789,7 +4789,7 @@
 250;392;287;333
 294;392;233;333
 295;392;233;333
-299;392;90;111
+299;392;90;111;descriptionEn=The flute has been chewed in half and pieces lay all about.;descriptionDe=Die Flöte wurde entzwei gekaut und die einzelnen Teile liegen überall verstreut herum.
 301;392;1096;333
 309;392;1196;333
 311;392;3092;333
@@ -4856,7 +4856,7 @@
 293;393;3089;333
 294;393;233;333
 295;393;233;333
-304;393;2952;333
+304;393;2952;333;descriptionEn=The plate looks very clean and you can see as you watch that it is checked often by the pups. ;descriptionDe=Der Teller sieht sehr sauber aus und während du alles beobachtest, bemerkst du, dass die Jungen ihn oft und regelmäßig überprüfen.
 309;393;3098;333
 311;393;3092;333
 312;393;3085;333
@@ -4957,7 +4957,7 @@
 292;395;3087;333
 293;395;233;333
 294;395;233;333
-300;395;2760;333
+300;395;2760;333;descriptionEn=The rope has been shredded in places and strung or wound all around some rocks and other things, creating quite the mess in the fox den.;descriptionDe=Das Seil ist teilweise zerfleddert und wurde um verschiedene Felsen und andere Dinge herumgewickelt, wobei ein ziemliches Chaos in dem Fuchsbau entstanden ist.
 304;395;3099;333
 312;395;3090;333
 313;395;3086;333
@@ -5062,7 +5062,7 @@
 293;397;233;333
 294;397;233;333
 299;397;3101;333
-304;397;498;333
+304;397;498;333;descriptionEn=The bones appear to be ripped apart and chewed.;descriptionDe=Die Knochen scheinen aufgebissen und zerkaut worden zu sein.
 307;397;3098;333
 312;397;3088;333
 313;397;3087;333
@@ -5127,7 +5127,7 @@
 293;398;233;333
 294;398;233;333
 297;398;163;333
-299;398;498;333
+299;398;498;333;descriptionEn=The bones appear to be ripped apart and chewed.;descriptionDe=Die Knochen scheinen aufgebissen und zerkaut worden zu sein.
 300;398;3101;333
 308;398;1096;333
 309;398;233;333
@@ -5195,9 +5195,9 @@
 296;399;1790;333
 298;399;3101;333
 300;399;1096;333
-302;399;498;333
+302;399;498;333;descriptionEn=The bones appear to be ripped apart and chewed.;descriptionDe=Die Knochen scheinen aufgebissen und zerkaut worden zu sein.
 304;399;1196;333
-305;399;2760;333
+305;399;2760;333;descriptionEn=The rope has been shredded in places and strung or wound all around some rocks and other things, creating quite the mess in the fox den.;descriptionDe=Das Seil ist teilweise zerfleddert und wurde um verschiedene Felsen und andere Dinge herumgewickelt, wobei ein ziemliches Chaos in dem Fuchsbau entstanden ist.
 306;399;3100;333
 311;399;3088;333
 312;399;3087;333
@@ -5239,7 +5239,7 @@
 299;400;1790;333
 302;400;3101;333
 303;400;3101;333
-309;400;3633;333
+309;400;3633;333;descriptionEn=A big hole can be seen where mud has been tossed all around. Clearly some pup likes to dig.;descriptionDe=Du siehst ein großes Loch, wo überall Matsch herumgespritzt wurde. Offenbar buddelt eines der Jungen gerne.
 311;400;3088;333
 312;400;3087;333
 377;400;613;333
@@ -5353,7 +5353,7 @@
 293;402;233;333
 294;402;233;333
 298;402;163;333
-302;402;498;333
+302;402;498;333;descriptionEn=The bones appear to be ripped apart and chewed.;descriptionDe=Die Knochen scheinen aufgebissen und zerkaut worden zu sein.
 303;402;3100;333
 306;402;233;333
 310;402;3088;333
