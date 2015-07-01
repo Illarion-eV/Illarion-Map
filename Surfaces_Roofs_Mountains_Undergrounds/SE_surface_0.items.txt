@@ -21311,7 +21311,7 @@
 437;272;1147;599
 438;272;2878;599
 440;272;3233;599;descriptionDe=Elarahalle;descriptionEn=Hall of Elara
-444;272;1122;599;book1=gods3
+444;272;1122;599;book1=gods3;book2=ways_to_cherga
 444;272;1120;599;book1=gods3
 449;272;1122;599;book1=constitution_runewick_44;book2=epos_ignis
 449;272;1120;599;book1=constitution_runewick_44;book2=epos_ignis
@@ -21546,7 +21546,7 @@
 447;275;1119;599;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
 449;275;3220;599
 449;275;3223;599
-452;275;1121;599;book1=barhead_kings;book2=see_of_life;book3=ZzarnKSka
+452;275;1121;599;book1=barhead_kings;book2=see_of_life;book3=ZzarnKSka;book4=vuzembi_sacred_tree
 452;275;1119;599;book1=barhead_kings;book2=see_of_life;book3=ZzarnKSka
 454;275;3220;599
 454;275;3223;599
@@ -22456,7 +22456,7 @@
 448;285;3109;599
 449;285;3220;599
 449;285;3223;599
-452;285;1121;599;book1=making_candles
+452;285;1121;599
 452;285;1119;599;book1=making_candles
 454;285;3220;599
 454;285;3223;599
@@ -23519,10 +23519,10 @@
 487;298;3395;333
 487;298;3394;333
 488;298;3395;333
-488;298;266;333
+488;298;266;333;book1=artifacts
 489;298;3382;333
 490;298;3395;333
-490;298;266;333
+490;298;266;333;book1=daemons
 491;298;681;333
 492;298;301;333
 125;299;629;333
@@ -25417,7 +25417,7 @@
 444;317;2877;599
 445;317;3075;599
 447;317;651;599
-448;317;266;599;book1=glorification_to_irmorom
+448;317;266;599;book1=glorification_to_irmorom;book2=making_candles;book3=banana_receipes
 449;317;3362;599
 477;317;915;599
 479;317;889;333

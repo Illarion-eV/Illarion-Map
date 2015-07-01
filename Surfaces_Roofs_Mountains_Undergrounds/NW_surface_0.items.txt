@@ -12531,7 +12531,7 @@
 358;221;955;0
 359;221;266;0;book2=gods2;book1=glorification_to_irmorom;book3=gods1
 361;221;266;0;book2=fragment_of_the_manrok_chronicles;book3=galmair_priester;book1=calendar;book4=revelations_of_tialdin
-363;221;266;0;book1=abomination_runs_and_hides;book2=ZzarnKSka
+363;221;266;0;book1=abomination_runs_and_hides;book2=ZzarnKSka;book3=vuzembi_sacred_tree
 365;221;874;333
 366;221;855;333
 367;221;855;333
@@ -13244,7 +13244,7 @@
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3
 365;226;854;333
-365;226;267;0;book1=a_question_of_honour;book2=a_tale_of_brothers
+365;226;267;0;book1=a_question_of_honour;book2=a_tale_of_brothers;book3=longbeard
 370;226;855;333
 371;226;855;333
 372;226;855;333
@@ -14112,7 +14112,7 @@
 386;235;266;333;book1=a_question_of_honour;book2=the_pointy_end
 387;235;853;333
 388;235;853;333
-388;235;266;333;book1=galmair_merchants;book2=galmair_quartermaster;book3=galmair_on_galmair
+388;235;266;333;book1=galmair_merchants;book2=galmair_quartermaster;book3=galmair_on_galmair;book4=rules_galmair
 389;235;853;333
 389;235;396;333
 389;235;1265;333

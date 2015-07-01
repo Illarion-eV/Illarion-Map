@@ -34823,7 +34823,7 @@
 179;319;1399;333
 184;319;1395;333
 185;319;3303;333
-186;319;267;333;book1=dwarven_poems;book2=poems_marina;book3=celegails_songbook
+186;319;267;333;book1=dwarven_poems;book2=poems_marina;book3=celegails_songbook;book4=snakehead
 188;319;213;333
 189;319;320;333
 190;319;320;333
@@ -35399,7 +35399,7 @@
 182;323;396;333
 184;323;952;0
 185;323;3299;333
-186;323;267;333;book1=dwarven_history_and_culture;book2=art_of_trade;book3=orcish_history_and_culture;book4=fairy
+186;323;267;333;book1=dwarven_history_and_culture;book2=art_of_trade;book3=orcish_history_and_culture;book4=fairy;book5=ways_to_cherga
 192;323;320;333
 192;323;2852;333
 195;323;320;333
