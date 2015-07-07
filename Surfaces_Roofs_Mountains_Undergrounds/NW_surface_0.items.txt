@@ -1153,7 +1153,7 @@
 241;100;1782;0
 242;100;2170;333
 243;100;921;333
-243;100;267;333
+243;100;267;333;book1=tanoras_secret;book2=daemons;book3=cumunculus;book4=snakehead;book5=longbeard;book6=vuzembi_sacred_tree;book7=ways_to_cherga;book8=artifacts;book9=banana_receipes
 260;100;321;333;depot=102
 261;100;921;333
 261;100;1914;333

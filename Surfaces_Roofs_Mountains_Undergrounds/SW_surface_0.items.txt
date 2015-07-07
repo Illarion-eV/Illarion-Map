@@ -6254,7 +6254,7 @@
 125;43;273;333
 126;43;273;333
 130;43;3245;333
-131;43;267;333;book1=gods1;book2=poems_marina;book3=cadoson_letnason
+131;43;267;333;book1=gods1;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret
 134;43;2875;333
 135;43;2875;333
 136;43;2875;333
