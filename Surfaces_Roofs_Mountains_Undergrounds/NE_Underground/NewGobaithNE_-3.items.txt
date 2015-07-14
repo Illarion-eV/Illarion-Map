@@ -4727,6 +4727,7 @@
 246;391;1272;333
 250;391;287;333
 298;391;3098;333
+302;391;2952;333;descriptionEn=The plate looks very clean and you can see as you watch that it is checked often by the pups. ;descriptionDe=Der Teller sieht sehr sauber aus und während du alles beobachtest, bemerkst du, dass die Jungen ihn oft und regelmäßig überprüfen.
 311;391;3088;333
 312;391;3088;333
 313;391;3087;333
@@ -4856,7 +4857,6 @@
 293;393;3089;333
 294;393;233;333
 295;393;233;333
-304;393;2952;333;descriptionEn=The plate looks very clean and you can see as you watch that it is checked often by the pups. ;descriptionDe=Der Teller sieht sehr sauber aus und während du alles beobachtest, bemerkst du, dass die Jungen ihn oft und regelmäßig überprüfen.
 309;393;3098;333
 311;393;3092;333
 312;393;3085;333
