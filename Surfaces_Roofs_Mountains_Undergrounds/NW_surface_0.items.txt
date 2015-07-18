@@ -12530,7 +12530,7 @@
 358;221;955;0
 359;221;266;0;book2=gods2;book1=glorification_to_irmorom;book3=gods1
 361;221;266;0;book2=fragment_of_the_manrok_chronicles;book3=galmair_priester;book1=calendar;book4=revelations_of_tialdin
-363;221;266;0;book1=abomination_runs_and_hides;book2=ZzarnKSka;book3=vuzembi_sacred_tree
+363;221;266;0;book1=abomination_runs_and_hides;book2=ZzarnKSka;book3=vuzembi_sacred_tree;book4=good_evil
 365;221;874;333
 366;221;855;333
 367;221;855;333
@@ -13238,8 +13238,8 @@
 348;226;513;333
 355;226;695;333
 356;226;856;333
-357;226;267;333;book1=celegails_songbook;book2=dwarven_poems
-359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3
+357;226;267;333;book1=mana_streams
+359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3;book4=celegails_songbook;book5=dwarven_poems
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3
 365;226;854;333
