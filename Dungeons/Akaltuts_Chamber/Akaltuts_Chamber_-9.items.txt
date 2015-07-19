@@ -4096,7 +4096,7 @@
 45;99;213;333
 46;99;2885;333
 47;99;215;333
-52;99;1099;0;book1=the_reign_of_akaltut;book2=a_friend_in_need;book3=art_of_trade
+52;99;1099;0;book1=the_reign_of_akaltut
 53;99;1101;0
 59;99;3101;0
 61;99;3518;333
