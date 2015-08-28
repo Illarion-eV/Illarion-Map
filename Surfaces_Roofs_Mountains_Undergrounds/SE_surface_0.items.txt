@@ -13561,7 +13561,7 @@
 132;169;1782;333
 141;169;1809;333;descriptionDe=Ein sehr alt wirkender Baum, welcher alle Art von Früchten trägt, und dessen Zweige bis zur Sonne reichen.;descriptionEn=A very old looking tree carries all kinds of fruit and leaves and almost reaches the sun with it's branches.
 143;169;273;333
-145;169;361;333;god=1
+145;169;361;333;god=9
 146;169;586;333
 148;169;1783;333
 152;169;387;333
