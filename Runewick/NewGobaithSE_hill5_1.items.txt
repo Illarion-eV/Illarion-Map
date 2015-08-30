@@ -84,7 +84,7 @@
 12;8;273;333
 12;8;301;333
 13;8;1862;333
-13;8;1809;333
+13;8;1809;333;descriptionDe=Nur Ushara leitet mich, die Zweige biegen sich, berühren mich sanft und spenden mir Schatten.;descriptionEn=Alone, the branches bend to caress me and leaves shade me, Ushara guides me.
 14;8;273;333
 14;8;301;333
 15;8;273;333
