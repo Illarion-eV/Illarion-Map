@@ -22864,6 +22864,7 @@
 411;344;875;333
 412;344;853;333
 413;344;857;333
+420;344;2745;333;descriptionEn=*smudged ink* Jahanda;nameEn=Apprentice Report;nameDe=Lehrjungen Bericht;descriptionDe=*Verschmierte Tinte* Jahanda
 425;344;623;333
 426;344;287;333
 511;344;287;333
@@ -22992,6 +22993,7 @@
 410;345;930;333
 411;345;854;333
 411;345;876;333
+422;345;1219;333
 424;345;627;333
 425;345;623;333
 426;345;287;333
@@ -23129,6 +23131,7 @@
 411;346;876;333
 411;346;874;333
 411;346;873;333
+414;346;2745;333;nameEn=Apprentice Report;nameDe=Lehrjungen Bericht
 424;346;623;333
 425;346;287;333
 426;346;287;333
@@ -23262,6 +23265,9 @@
 407;347;615;333
 408;347;615;333
 411;347;853;333
+417;347;2745;333;descriptionDe=Ember Justice Pryler;descriptionEn=Ember Justice Pryler;descriptionEn=Apprentice Report;nameDe=Lehrjungen Bericht
+420;347;463;333;nameDe=Eine Glänzende Schwarze Feder;nameEn=A Shiny Black Feather;rareness=2
+421;347;2745;333;descriptionDe=Branwen Jahanda;descriptionEn=Branwen Jahanda;nameEn=Apprentice Report;nameDe=Lehrjungen Bericht
 424;347;629;333
 425;347;630;333
 426;347;287;333
@@ -23395,6 +23401,7 @@
 404;348;1782;333
 407;348;616;333
 408;348;616;333
+419;348;2745;333;descriptionDe=Teilra Jahanda;descriptionEn=Teilra Jahanda;nameEn=Apprentice Report;nameDe=Lehrjungen Bericht
 425;348;623;333
 426;348;287;333
 427;348;630;333
@@ -23667,6 +23674,7 @@
 394;350;274;333
 398;350;1817;333
 408;350;1783;333
+420;350;2745;333;nameEn=Apprentice Report;nameDe=Lehrjungen Bericht
 427;350;1251;333
 428;350;629;333
 429;350;630;333
