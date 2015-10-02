@@ -13869,7 +13869,7 @@
 362;232;855;333
 363;232;855;333
 364;232;873;333
-370;232;864;333;descriptionDe=Wechselstube + Küche;descriptionEn=Exchange + Kitchen;lockId=104;doorLock=unlocked
+370;232;864;333;descriptionDe=Wechselstube + Küche;lockId=104;doorLock=unlocked;descriptionEn= Coin Exchange
 376;232;964;0
 379;232;3179;333
 380;232;1367;333
@@ -16084,7 +16084,7 @@
 385;254;1782;0
 392;254;274;333
 397;254;1782;333
-398;254;3082;333;descriptionDe=Zensusbüro, Gasthof zum schläfrigen Bujhaar, Werkstatt, Tollloch, Schürfers Club, Malachitmine, Galmair Hochebene, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Census office, Sleepy Bujhaar Inn, Workshop, Sporthole, Miners Club, Malachite Mine, Galmair Plateau, Cadomyr, Katanbi Desert, Shadowland
+398;254;3082;333;descriptionDe=Zensusbüro, Gasthof zum schläfrigen Bujhaar, Werkstatt, Tollloch, Schürfers Club, Malachitmine, Galmair Hochebene, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Census Office, Sleepy Bujhaar Inn, Workshop, Sports Hole, Malachite Creek, Malachite Mine, Galmair Plateau, Cadomyr, Katanbi Desert, Shadowland
 402;254;513;333
 403;254;1273;333
 404;254;1245;333
@@ -23259,7 +23259,7 @@
 373;347;623;0
 374;347;287;0
 385;347;273;0
-387;347;3084;333;descriptionDe=Schürfers Club, Schürfers Quelle, Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Miners' Club, Miner's Spring, Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
+387;347;3084;333;descriptionDe=Schürfers Club, Schürfers Quelle, Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Malachite Creek, Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
 395;347;1782;333
 398;347;274;333
 407;347;615;333

@@ -17782,7 +17782,7 @@
 146;129;690;333
 150;129;1782;333
 168;129;1782;333
-174;129;3084;333;descriptionDe=Katanbi Desert, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, North, Runewick, Southeast
+174;129;3084;333;descriptionDe=Katanbi Desert, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, The North, Runewick, The Southeast
 180;129;915;333
 187;129;1783;333
 200;129;2052;333
@@ -19797,7 +19797,7 @@
 98;147;203;333
 110;147;3083;333;descriptionDe=Kap des Abschieds, Fabers Wache, Entfernte Wohnstätte, Piratenbucht;descriptionEn=Cape Farewell, Faber's Guardhouse, Remote Dwelling, Pirate cove
 112;147;3082;333;descriptionDe=Grundstein der Aufrichtigkeit, Malachíntempel, Rosaline-Kubus, Cadomyr Hafen, Katanbi Delta;descriptionEn=Cornerstone of Candour, Temple of Malachín, Rosaline Cube, Cadomyr Harbour, Katanbi Delta
-114;147;3084;333;descriptionDe=Katanbi Desert, Freiheitsbruch, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Liberty Quarry, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, North, Runewick, Southeast
+114;147;3084;333;descriptionDe=Katanbi Desert, Freiheitsbruch, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Liberty Quarry, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, The North, Runewick, The Southeast
 120;147;203;333
 132;147;1782;333
 138;147;1782;333
@@ -24039,7 +24039,7 @@
 230;179;1782;333
 238;179;1812;333
 244;179;273;333
-251;179;3082;333;descriptionDe=Kapelle der Fünf, Wachwald, Wichtkanal, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Runewick, Southeast
+251;179;3082;333;descriptionDe=Kapelle der Fünf, Wachwald, Wichtkanal, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Runewick, The Southeast
 256;179;1810;333
 275;179;1782;0
 297;179;3264;0
@@ -36760,7 +36760,7 @@
 435;284;274;333
 438;284;1782;333
 461;284;3083;333;descriptionDe=Katanbi Wüste, Westliche Katanbi Wüste, Cadomyr;descriptionEn=Katanbi Desert, Western Katanbi Desert, Cadomyr
-463;284;3084;333;descriptionDe=Wachwald, Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Sentry Forest, Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Three Fingertips, Runewick, Southeast
+463;284;3084;333;descriptionDe=Wachwald, Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Sentry Forest, Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Three Fingertips, Runewick, The Southeast
 468;284;1783;333
 474;284;276;333
 474;284;276;333

@@ -43686,7 +43686,7 @@
 378;376;934;1
 389;376;519;333;descriptionDe=Alma, nie vergessen!;descriptionEn=Alma, never forgotten!
 390;376;273;333
-391;376;521;333;descriptionDe=Franky Demert - Killed by a golden Golem;descriptionDe=Franky Demert - Getï¿½tet von einem goldenen Golem.
+391;376;521;333;descriptionDe=Franky Demert - Getï¿½tet von einem goldenen Golem.;descriptionEn=Killed by a golden golem
 392;376;386;333
 393;376;934;333
 395;376;125;333
@@ -44847,7 +44847,7 @@
 306;383;1783;1
 311;383;300;1
 325;383;1783;1
-327;383;3083;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, West
+327;383;3083;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Westen;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, The West
 328;383;3082;333;descriptionDe=Ostland, Osthafen, Wunderland, Frische Sümpfe, Runewick;descriptionEn=Eastland, Eastport, Wonderland, Dewy Swamps, Runewick
 332;383;1782;1
 334;383;338;1
@@ -45143,7 +45143,7 @@
 90;385;1782;333
 93;385;273;333
 97;385;1247;333
-98;385;3081;333;descriptionDe=Cherass Zitadelle, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Cherass' Citadel, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+98;385;3081;333;descriptionDe=Cherass Zitadelle, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Cherass' Citadel, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 99;385;1783;333
 104;385;405;333
 110;385;273;333
@@ -54142,7 +54142,7 @@
 193;448;2170;333
 195;448;273;333
 197;448;273;333
-217;448;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+217;448;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 218;448;273;1
 219;448;1782;1
 227;448;1783;1
@@ -55059,7 +55059,7 @@
 143;457;274;333
 150;457;273;333
 152;457;2170;333
-166;457;3084;333;descriptionDe=Elstree Ebene, Elstree Wald, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+166;457;3084;333;descriptionDe=Elstree Ebene, Elstree Wald, Wunderland, Ostland, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Wonderland, Eastland, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 188;457;273;333
 188;457;273;333
 202;457;2169;333
@@ -55561,7 +55561,7 @@
 99;462;274;333
 99;462;287;333
 100;462;287;333
-108;462;3084;333;descriptionDe=Igruks Höhle, Elstree Ebene, Elstree Wald, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Dreifingerspitzen, Runewick, Südosten;descriptionEn=Igruk's Cave, Elstree Plain, Elstree Forest, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North, Three Fingertips, Runewick, Southeast
+108;462;3084;333;descriptionDe=Igruks Höhle, Elstree Ebene, Elstree Wald, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Dreifingerspitzen, Runewick, Südosten;descriptionEn=Igruk's Cave, Elstree Plain, Elstree Forest, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Three Fingertips, Runewick, The Southeast
 110;462;627;333
 111;462;626;333
 118;462;3083;333;descriptionDe=Funkelhöhle, Elfenruinen, Todes Schneise, Glühende Wälder, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Glittering Cave, Elven Ruins, Death Swath, Glowing Forest, Wight Canal, Sentry Forest, Katanbi Desert, Cadomyr
@@ -56907,8 +56907,7 @@
 216;479;274;333
 239;479;273;1
 240;479;42;1
-241;479;273;1
-241;479;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+241;479;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 248;479;273;1
 260;479;273;1
 272;479;36;1
@@ -57576,7 +57575,7 @@
 175;488;273;333
 197;488;338;333
 202;488;3083;333;descriptionDe=Igruks Höhle, Schlangenkopfküste, Wichtkanal, Wachwald, Katanbi Wüste, Cadomyr;descriptionEn=Igruk's Cave, Snakehead Coast, Wight Canal, Sentry Forest, Katanbi Desert, Cadomyr
-206;488;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+206;488;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 216;488;338;333
 235;488;274;1
 236;488;273;1
@@ -58220,7 +58219,7 @@
 187;497;1782;333
 198;497;338;333
 203;497;1176;0
-209;497;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+209;497;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 217;497;1808;1
 221;497;586;1
 222;497;387;1
@@ -58581,7 +58580,7 @@
 208;503;617;333
 209;503;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
 217;503;273;1
-222;503;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, North
+222;503;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 223;503;3084;333;descriptionDe=Elstree Wald, Wunderland, Ostland;descriptionEn=Elstree Forest, Wonderland, Eastland
 232;503;1782;1
 238;503;1782;1
