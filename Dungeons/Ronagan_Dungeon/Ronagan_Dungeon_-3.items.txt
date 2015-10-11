@@ -658,8 +658,6 @@
 5;20;1245;333
 6;20;1245;333
 15;20;3101;333
-19;20;3101;333
-19;20;1783;333
 20;20;1783;333
 24;20;3101;333
 25;20;1074;333;descriptionEn=This looks to have been torn right off a wall in Galmair as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Galmair gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.;ronaganTrap=true
@@ -707,7 +705,6 @@
 11;22;1783;333
 12;22;1783;333
 13;22;1790;333
-14;22;1783;333
 19;22;1790;333
 28;22;3101;333
 30;22;3101;333
@@ -724,7 +721,6 @@
 4;23;613;333
 5;23;1245;333
 6;23;1245;333
-14;23;1783;333
 14;23;8;333;ronaganChest=true
 15;23;613;333
 16;23;1246;333
