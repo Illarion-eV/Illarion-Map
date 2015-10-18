@@ -39006,8 +39006,8 @@
 153;346;1782;333
 154;346;911;333
 157;346;273;333
-163;346;2924;333;descriptionDe=Der Todes Sumpf - Trette den Toten bei! Gesponsert von Erzmagier Elvaine Morgan.;descriptionEn=The Death Marsh - Join the dead! Sponsered by Archmage Elvaine Morgan.
-166;346;2924;333;descriptionDe=Der Todes Sumpf - Trette den Toten bei! Gesponsert von Erzmagier Elvaine Morgan.;descriptionEn=The Death Marsh - Join the dead! Sponsered by Archmage Elvaine Morgan.
+163;346;2924;333;descriptionDe=Der Todes Sumpf - Trete den Toten bei! Gesponsert von Erzmagier Elvaine Morgan.;descriptionEn=The Death Marsh - Join the dead! Sponsered by Archmage Elvaine Morgan.
+166;346;2924;333;descriptionDe=Der Todes Sumpf - Trete den Toten bei! Gesponsert von Erzmagier Elvaine Morgan.;descriptionEn=The Death Marsh - Join the dead! Sponsered by Archmage Elvaine Morgan.
 166;346;2926;333;descriptionDe=Hoheitsgebiet des Igruk;descriptionEn=Igruk's territory
 172;346;627;333
 180;346;1176;0
