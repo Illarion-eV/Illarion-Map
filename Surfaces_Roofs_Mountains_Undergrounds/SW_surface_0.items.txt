@@ -4776,7 +4776,7 @@
 108;33;42;333
 109;33;42;333
 110;33;433;333
-138;33;751;0;descriptionDe=Das Gem‰lde zeigt das Portrait eines reich gekleideten Mannes mit einer Narbe auf der linken Wange. Er h‰lt eine Zeichenfeder in der Hand. Links unten sieht man die Initialen AD;descriptionEn=The picture shows the portrait of a well-dressed man with a scar on his left cheek. He holds a drawing feather. One can see in the left lower corner the initials AD.
+138;33;751;0;descriptionDe=Das Gem‰lde zeigt das Portrait eines reich gekleideten Mannes mit einer Narbe auf der linken Wange. Er h‰lt eine Zeichenfeder in der Hand. Links unten sieht man die Initialen AD;descriptionEn=The picture shows the portrait of a well-dressed man with a scar on his left cheek. He holds a drawing feather. One can see in the left lower corner the initials AD.;dickerquest=16
 139;33;3245;333
 140;33;287;333
 168;33;287;0
@@ -11303,7 +11303,7 @@
 141;84;1360;0
 143;84;969;0
 144;84;3247;0
-144;84;1914;0;descriptionDe=Das Gem‰lde zeigt einen Strauﬂ aus sehr vielen verschiedenen Kr‰utern. Samen liegen auf dem Tisch. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a bouquet of different herbs. Seeds lay on the table. One can see in the left lower corner the initials AD.
+144;84;1914;0;descriptionDe=Das Gem‰lde zeigt einen Strauﬂ aus sehr vielen verschiedenen Kr‰utern. Samen liegen auf dem Tisch. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a bouquet of different herbs. Seeds lay on the table. One can see in the left lower corner the initials AD.;dickerquest=8
 145;84;287;0
 155;84;287;333
 156;84;287;333
