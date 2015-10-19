@@ -277,7 +277,7 @@
 28;11;3245;0
 32;11;320;0
 32;11;333;0
-32;11;1915;0
+32;11;1915;0;descriptionDe=Das Gemälde zeigt einen stolzen, farbenprächtigen Hahn. Rechts unten sieht man die Initialen AD.;descriptionEn=The picture shows a proud, colorful rooster. One can see in the right lower corner the initials AD.
 33;11;688;0
 33;11;3245;0
 33;11;1083;0
