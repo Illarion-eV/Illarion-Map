@@ -21308,7 +21308,7 @@
 442;271;1147;599
 446;271;319;599
 447;271;319;599
-451;271;748;599;descriptionDe=Das Gemälde zeigt einen Magier in einem blauen Umhang auf einem Felsvorsprung stehend. Er beschwört einen Drachen, der links auftaucht. Drache und Magier sind in Blitze getaucht. Links unten sieht man die Initialen AD.;nameEn=The picture shows a mage with a blue coat standing on a rock. He summons a dragon which is appearing on the left side. Dragon and mage are covered in lightning. One can see in the left lower corner the initials AD.;dickerquest=1
+451;271;748;599;descriptionDe=Das Gemälde zeigt einen Magier in einem blauen Umhang auf einem Felsvorsprung stehend. Er beschwört einen Drachen, der links auftaucht. Drache und Magier sind in Blitze getaucht. Links unten sieht man die Initialen AD.;dickerquest=1;descriptionEn=The picture shows a mage with a blue coat standing on a rock. He summons a dragon which is appearing on the left side. Dragon and mage are covered in lightning. One can see in the left lower corner the initials AD.
 452;271;396;599
 457;271;2877;599
 457;271;264;599
