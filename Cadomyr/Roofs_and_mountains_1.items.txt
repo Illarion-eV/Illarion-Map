@@ -5575,7 +5575,6 @@
 93;106;301;333
 95;106;1105;333
 103;106;1102;333
-128;106;673;333
 134;106;433;333
 134;106;3593;333
 136;106;3245;333
@@ -5617,6 +5616,7 @@
 103;107;1102;333
 103;107;1100;333
 127;107;675;333
+128;107;672;333
 128;107;695;333;descriptionDe=Ein Ritter mit einer scheinenden goldenen Rüstung schwenkt einen weißen Banner mit beiden Händen während er zu schreien scheint.;descriptionEn=A knight with shiny golden armour waves a white banner with both hands while he seems to yell. The words, 'In friendship and loyalty' are written on the banner.
 129;107;677;0
 130;107;672;0
