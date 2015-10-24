@@ -5032,6 +5032,7 @@
 95;86;1061;333
 138;86;501;0
 139;86;623;0
+139;86;1197;333
 140;86;287;0
 141;86;287;0
 142;86;287;0
@@ -5070,8 +5071,9 @@
 87;87;1101;333
 95;87;1102;333
 95;87;265;333;descriptionDe=Ein Ritter mit erhobenen Schwert und einem rot-weißen Schild beobachtet Arbeiter einen Hafen bauen während blau-graue Schiffe am Horizont verschwinden. Unten rechts steht ein Datum: 10 AS.;descriptionEn=A knight with a raised blade and a red-white shield watches workers building a harbor while blue-grey ships disappear over the horizon. At the bottom right is a date: 10 AS. 
-138;87;501;0
+138;87;503;333
 139;87;623;0
+139;87;1197;333
 140;87;287;0
 141;87;287;0
 142;87;287;0
@@ -5109,7 +5111,8 @@
 93;88;746;333
 95;88;1102;333
 95;88;265;333;descriptionDe=Das Bild zeigt eine kleine Gruppe von rot-weiß gekleideten Rittern, die furchtlos hunderte von Banditen über einen großen Fluss durch die Wüste verfolgen. Unten rechts steht ein Datum: 22 AS.;descriptionEn=The picture shows a small group of red-white dressed knights fearlessly chasing hundreds of bandits over a big river in a desert. At the bottom right is a date: 22 AS.
-138;88;503;0
+137;88;3591;333
+138;88;1196;333
 139;88;623;0
 140;88;287;333
 141;88;287;333
@@ -5142,7 +5145,9 @@
 95;89;1106;333
 95;89;36;333
 95;89;2610;333
-138;89;701;333
+136;89;433;333
+136;89;3593;333
+137;89;432;333
 138;89;3221;333
 139;89;3246;333
 140;89;3246;333
@@ -5179,7 +5184,7 @@
 91;90;2875;333
 95;90;1102;333
 136;90;433;333
-137;90;432;333
+136;90;3593;333
 138;90;3249;333
 144;90;3247;333
 145;90;287;333
@@ -5242,6 +5247,7 @@
 95;92;433;333
 95;92;301;333
 136;92;433;333
+136;92;3593;333
 138;92;3225;333;descriptionDe=Wohnungsquartier - Ehre & Abstammung;descriptionEn=Flat quarter - Honour & Lineage;lockId=322;doorLock=locked
 144;92;3247;333
 145;92;287;333
@@ -5281,6 +5287,7 @@
 95;93;500;333
 95;93;301;333
 136;93;433;333
+136;93;3593;333
 137;93;404;333
 138;93;3223;333
 139;93;3244;333
@@ -5305,6 +5312,8 @@
 174;93;597;333
 175;93;914;333
 136;94;433;333
+136;94;3591;333
+136;94;3593;333
 138;94;3245;333
 140;94;212;333
 141;94;750;333
@@ -5322,6 +5331,7 @@
 173;94;915;333
 174;94;1251;333
 135;95;433;333
+135;95;3593;333
 136;95;432;333
 137;95;702;333
 137;95;3221;333
@@ -5354,6 +5364,7 @@
 166;96;913;0
 170;96;1251;333
 135;97;433;333
+135;97;3593;333
 137;97;3245;333
 144;97;3247;333
 145;97;287;333
@@ -5366,6 +5377,7 @@
 166;97;627;0
 170;97;626;333
 135;98;433;333
+135;98;3593;333
 137;98;3225;333;descriptionDe=Wohnungsquartier - Courage;descriptionEn=Flat quarter - Courage;lockId=324;doorLock=locked
 143;98;3260;333
 144;98;3247;333
@@ -5402,6 +5414,7 @@
 103;99;1116;333
 103;99;276;333
 135;99;433;333
+135;99;3593;333
 136;99;404;333
 137;99;3245;333
 144;99;3247;333
@@ -5424,6 +5437,8 @@
 102;100;2832;333
 103;100;1102;333
 135;100;433;333
+135;100;3591;333
+135;100;3593;333
 137;100;3245;333
 137;100;3244;333
 138;100;3244;333
@@ -5475,6 +5490,7 @@
 103;102;1102;0
 103;102;395;0
 134;102;433;0
+134;102;3593;333
 136;102;3249;333
 140;102;2877;0
 146;102;3247;333
@@ -5497,6 +5513,7 @@
 102;103;2877;333
 103;103;1102;333
 134;103;433;333
+134;103;3593;333
 136;103;3225;333;descriptionDe=Wohnungsquartier - Besitz;descriptionEn=Flat quarter - Property;lockId=326;doorLock=locked
 139;103;2876;0
 140;103;2885;0
@@ -5527,6 +5544,7 @@
 101;104;2880;333
 103;104;1102;333
 134;104;433;333
+134;104;3593;333
 136;104;3245;333
 140;104;2875;0
 146;104;3247;333
@@ -5542,6 +5560,7 @@
 102;105;2875;333
 103;105;1102;333
 134;105;433;333
+134;105;3593;333
 135;105;404;333
 136;105;3245;333
 146;105;3247;333
@@ -5556,7 +5575,9 @@
 93;106;301;333
 95;106;1105;333
 103;106;1102;333
+128;106;673;333
 134;106;433;333
+134;106;3593;333
 136;106;3245;333
 144;106;746;333
 146;106;3247;333
@@ -5595,6 +5616,7 @@
 102;107;1100;333
 103;107;1102;333
 103;107;1100;333
+127;107;675;333
 128;107;695;333;descriptionDe=Ein Ritter mit einer scheinenden goldenen Rüstung schwenkt einen weißen Banner mit beiden Händen während er zu schreien scheint.;descriptionEn=A knight with shiny golden armour waves a white banner with both hands while he seems to yell. The words, 'In friendship and loyalty' are written on the banner.
 129;107;677;0
 130;107;672;0
@@ -5633,6 +5655,7 @@
 99;108;263;333
 101;108;263;333
 103;108;263;333
+127;108;675;333
 129;108;674;0
 129;108;678;0
 130;108;958;0
@@ -5664,6 +5687,7 @@
 85;109;635;333
 85;109;396;333
 85;109;1265;333
+127;109;675;333
 130;109;674;0
 138;109;3245;333
 142;109;2877;0
@@ -5688,6 +5712,7 @@
 84;110;219;333
 85;110;635;333
 85;110;276;333
+127;110;675;333
 128;110;2069;333;descriptionDe=Stadtsaal;descriptionEn=Civic Hall
 129;110;680;0
 130;110;633;0
@@ -5752,6 +5777,7 @@
 103;111;395;333
 103;111;396;333
 103;111;1265;333
+127;111;675;333
 129;111;634;0
 131;111;442;333;descriptionDe=Ein stolzer und mutiger Ritter reitet einen einhörnigen Löwen in einem Angriff. Sein erhobenes, glänzendes Breitschwert spiegelt das Licht.;descriptionEn=A proud and brave knight is riding a single horned lion into an attack. His raised broadsword shines, reflecting the light. The big red-white banner in his other hand seems to be used as a lance.
 133;111;218;0
@@ -5777,6 +5803,8 @@
 104;112;672;333
 105;112;675;333
 105;112;672;333
+127;112;675;333
+128;112;675;333
 129;112;634;0
 133;112;320;0
 134;112;320;0
@@ -5797,6 +5825,7 @@
 84;113;683;333
 106;113;675;333
 106;113;672;333
+127;113;675;333
 129;113;654;0;descriptionDe=Stadtsaal;descriptionEn=Civic Hall;doorLock=unlocked
 138;113;635;333
 139;113;3245;333
@@ -5831,6 +5860,7 @@
 107;114;395;333
 107;114;396;333
 107;114;1265;333
+127;114;675;333
 129;114;658;0;descriptionEn=Civic Hall;descriptionDe=Stadtsaal;doorLock=unlocked
 138;114;635;333
 138;114;693;333;descriptionDe=Ein junger König sitzt auf einen Thron. Sein linker Ellbogen ruht auf seinen Beinen. Seine rechte Hand hält ein Langschwert. Er wirkt ruhelos und gelangweilt.;descriptionEn=A young king is sitting on a throne, his left elbow resting on his legs. His right hand holds a longsword. He seems restless and bored.
@@ -5869,6 +5899,7 @@
 103;116;674;333
 109;116;675;333
 109;116;672;333
+127;116;675;333
 128;116;695;333;descriptionDe=Ein nobel gekleideter Mann sitzt auf einen goldenen Thron. Er trägt eine glänzende Krone auf seinem dunklen langen Haar und eine rot-weiße Robe mit glitzerten Edelsteinen. Er hält eine große goldene Kiste und ein goldenes Schwert in seinen Händen.;descriptionEn=A nobly dressed man is sitting on a golden throne. He wears a bright crown over his long dark hair and wears a red and white robe with several glittering gems. He holds a huge golden box and a golden blade in his hands.
 129;116;634;0
 129;116;396;0
