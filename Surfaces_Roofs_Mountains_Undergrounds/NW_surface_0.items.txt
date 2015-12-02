@@ -11119,7 +11119,6 @@
 353;212;287;333
 354;212;622;333
 355;212;628;333
-358;212;66;0;markerstone=151
 359;212;675;333
 359;212;396;333
 359;212;1265;333
@@ -11824,6 +11823,7 @@
 364;216;853;0
 365;216;875;0
 366;216;663;0
+372;216;66;0;markerstone=151
 376;216;854;0
 377;216;287;333
 377;216;287;333
@@ -19561,6 +19561,7 @@
 396;290;274;333
 401;290;1245;333
 408;290;3307;333
+415;290;66;0;markerstone=114
 416;290;1185;333
 417;290;3682;333
 419;290;3681;333
@@ -20704,7 +20705,7 @@
 385;308;1782;0
 389;308;1783;333
 392;308;1245;333
-406;308;525;333
+406;308;66;333;markerstone=386
 407;308;3099;333
 408;308;520;333;descriptionDe=Folgende Zeilen sind mit roter Farbe geschrieben: '10 Peitschenschläge für den Don belügen. 100 Peitschenschläge für den Don betrügen. 1000 Peitschenschläge für den Don bestehlen!';descriptionEn=With red colour the following words are written: '10 whip lashes for lying to the Don. 100 whip lashes for betraying the Don. 1000 whip lashes for stealing from the Don!'
 409;308;3100;333
