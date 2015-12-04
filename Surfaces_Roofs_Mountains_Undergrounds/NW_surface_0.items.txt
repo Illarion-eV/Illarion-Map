@@ -12248,7 +12248,7 @@
 348;219;854;333
 348;219;221;333
 355;219;856;333
-375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_quartermaster;book6=a_friend_in_need
+375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_quartermaster;book6=a_friend_in_need;book7=weightsandmeasures
 376;219;854;0
 377;219;287;333
 378;219;287;333
@@ -13113,7 +13113,7 @@
 392;225;871;333
 392;225;402;333
 393;225;853;333
-393;225;266;333
+393;225;266;333;book1=banana_receipes
 394;225;853;333
 394;225;514;333
 395;225;853;333

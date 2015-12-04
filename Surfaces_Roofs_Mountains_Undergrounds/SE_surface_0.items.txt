@@ -22518,8 +22518,8 @@
 448;285;3109;599
 449;285;3220;599
 449;285;3223;599
-452;285;1121;599;book1=tanoras_secret
-452;285;1119;599
+452;285;1121;599;book1=tanoras_secret;book2=guardian_dragon
+452;285;1119;599;book2=guardian_dragon;book1=tanoras_secret
 454;285;3220;599
 454;285;3223;599
 454;285;1082;599
@@ -25480,7 +25480,7 @@
 444;317;2877;599
 445;317;3075;599
 447;317;651;599
-448;317;266;599;book1=glorification_to_irmorom;book2=making_candles;book3=banana_receipes
+448;317;266;599;book1=glorification_to_irmorom;book2=making_candles;book3=banana_receipes;book4=weightsandmeasures
 449;317;3362;599
 477;317;915;599
 479;317;889;333
