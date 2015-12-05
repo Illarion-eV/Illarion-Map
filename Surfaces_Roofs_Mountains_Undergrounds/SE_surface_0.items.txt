@@ -3339,7 +3339,6 @@
 322;54;1783;333
 325;54;338;333
 329;54;1782;333
-331;54;519;333;descriptionEn=Here lies Konrad.  He is dead.;descriptionDe=Hier liegt Konrad. Er ist gestorben.
 346;54;273;333
 348;54;301;333
 349;54;387;333
