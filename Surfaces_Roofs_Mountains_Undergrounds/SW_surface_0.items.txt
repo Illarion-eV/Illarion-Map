@@ -4776,6 +4776,7 @@
 108;33;42;333
 109;33;42;333
 110;33;433;333
+138;33;957;333
 138;33;751;0;descriptionDe=Das Gemälde zeigt das Portrait eines reich gekleideten Mannes mit einer Narbe auf der linken Wange. Er hält eine Zeichenfeder in der Hand. Links unten sieht man die Initialen AD;descriptionEn=The picture shows the portrait of a well-dressed man with a scar on his left cheek. He holds a drawing feather. One can see in the left lower corner the initials AD.;dickerquest=16
 139;33;3245;333
 140;33;287;333

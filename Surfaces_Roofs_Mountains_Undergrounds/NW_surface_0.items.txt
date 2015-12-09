@@ -11319,6 +11319,7 @@
 368;213;871;0
 369;213;875;0
 369;213;320;0
+371;213;954;333
 371;213;748;0;descriptionDe=Das Gemälde zeigt eine Handelskaravane, die sich die letzten Meter zu einem Gasthaus durch einen Schneesturm kämpft. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a caravan of merchants struggling through a snow storm to a safe inn. One can see in the left lower corner the initials AD.;dickerquest=4
 373;213;663;0
 374;213;854;0
