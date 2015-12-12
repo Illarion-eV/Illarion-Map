@@ -17746,7 +17746,7 @@
 364;271;320;333
 364;271;321;333;depot=103
 366;271;928;333
-378;271;3307;0
+378;271;3315;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLock=unlocked
 388;271;3305;0
 388;271;513;0
 389;271;1273;0
@@ -18984,11 +18984,10 @@
 380;284;3304;0
 381;284;3296;0
 382;284;3308;0
+382;284;402;333
 383;284;3316;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLock=unlocked
-384;284;3304;0
+384;284;3316;333;descriptionDe=Werkstatt;descriptionEn=Workshop;lockId=104;doorLock=unlocked
 385;284;3308;0
-385;284;402;0
-385;284;1783;0
 386;284;3304;0
 386;284;3280;0
 387;284;3308;0
