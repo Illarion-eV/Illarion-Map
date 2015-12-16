@@ -159,8 +159,8 @@
 14;11;3651;333
 15;11;856;0
 16;11;266;0;book1=epos_ignis
-18;11;266;0;book1=the_read_wolf_and_the_bear;book2=book_of_jokes;book3=baros_bigfoot_and_the_pride;book4=tales_of_a_traveller
-20;11;266;0;book1=poems_marina;book2=celegails_songbook
+18;11;266;0;book1=daemons
+20;11;266;0;book1=history_of_runewick;book2=lecture_runewick_history;book3=runewick_on_runewick
 21;11;854;0
 21;11;649;0
 11;12;3586;333
