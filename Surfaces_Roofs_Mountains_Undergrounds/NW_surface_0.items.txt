@@ -17733,6 +17733,7 @@
 292;271;1250;333
 295;271;3311;333
 301;271;2880;333
+303;271;1915;333;descriptionEn=The painting shows a green, smooth-skinned lizard staring serenely at a pile of gold coins and wearing a pointy red hat.;descriptionDe=Das Gemälde zeigt eine grüne, glatthäutige Echse, die zufrieden auf einen großen Haufen Goldmünzen starrt und einen spitzen roten Hut trägt.
 303;271;215;333
 304;271;3299;333
 307;271;746;333
