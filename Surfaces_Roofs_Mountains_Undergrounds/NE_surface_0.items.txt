@@ -24648,7 +24648,7 @@
 40;234;1783;333
 42;234;301;333
 49;234;274;333
-53;234;1171;333;eggProtectionType=ssigus;nameDe=Ssigus Nest;nameEn=Ssigus Nest
+53;234;1171;333;eggProtectionType=ssigus;nameDe=Ssiguss Nest;nameEn=Ssiguss Nest
 55;234;1808;333
 57;234;338;333
 116;234;387;333
