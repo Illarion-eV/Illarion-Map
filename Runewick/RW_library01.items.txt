@@ -249,7 +249,7 @@
 26;10;3244;0
 27;10;3244;0
 28;10;3242;0
-29;10;1098;0;book1=see_of_life;book2=a_travelers_diary;book3=letastos_diary;book4=the_one;book5=journal_of_abbot_elzechiel;book6=dragon_bone_lord;book7=longbeard
+29;10;1098;0;book1=see_of_life;book2=a_travelers_diary;book3=letastos_diary;book4=the_one;book6=dragon_bone_lord;book7=longbeard
 32;10;320;0
 32;10;90;0
 33;10;688;0
