@@ -44079,7 +44079,6 @@
 384;379;273;333
 385;379;519;333;descriptionDe=Fianna Hamakha - Tränen konnen sie nicht wieder lebendig machen, daher weine ich.;descriptionEn=Fianna Hamakha - Tears cannot restore her, therefore I weep.
 396;379;1783;333
-397;379;404;0
 398;379;30;333
 398;379;33;333
 399;379;30;333
