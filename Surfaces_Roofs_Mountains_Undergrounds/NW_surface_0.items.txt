@@ -24041,8 +24041,8 @@
 412;352;859;333
 413;352;859;333
 414;352;859;333
-415;352;863;333
-416;352;863;333
+415;352;863;333;doorLock=unlocked;lockId=104;descriptionEn=Magic of Malachite;descriptionDe=Magie des Malachit.
+416;352;863;333;lockId=104;doorLock=unlocked;descriptionEn=Magic of Malachite\;descriptionDe=Magie des Malachit
 417;352;859;333
 418;352;859;333
 419;352;855;333
