@@ -5176,7 +5176,7 @@
 135;36;320;333
 135;36;2852;333
 136;36;266;333;book1=cadomyr_on_cadomyr;book2=cadomyr_on_galmair;book3=cadomyr_on_runewick
-138;36;266;333;book1=gods1;book2=gods2;book3=god_malachin;book4=god_sirani;book5=god_zhambra;book6=calendar;book7=fragment_of_the_manrok_chronicles
+138;36;266;333;book1=gods1;book2=gods2;book3=god_malachin;book4=god_sirani;book5=god_zhambra;book6=calendar;book7=fragment_of_the_manrok_chronicles;book8=god_cherga
 140;36;266;333;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=halfling_culture_and_history;book4=dwarven_history_and_culture;book5=lizardmen_history_and_culture;book6=orcish_history_and_culture;book7=dictionary_orc
 141;36;3247;333
 142;36;287;333
@@ -5382,7 +5382,7 @@
 383;37;525;333
 384;37;1272;333
 385;37;853;333
-385;37;266;333;book1=a_friend_in_need;book2=dragon_bone_lord;book3=the_one
+385;37;266;333;book1=a_friend_in_need;book2=dragon_bone_lord;book3=the_one;book4=god_moshran
 386;37;857;333
 386;37;3095;333
 386;37;1272;333
@@ -5847,7 +5847,7 @@
 130;40;3245;333
 139;40;218;333
 141;40;3247;333
-141;40;267;0;book1=magic_gems
+141;40;267;0;book1=magic_gems;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret
 142;40;287;333
 164;40;287;0
 165;40;287;333
@@ -6253,7 +6253,7 @@
 125;43;273;333
 126;43;273;333
 130;43;3245;333
-131;43;267;333;book1=gods1;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret
+131;43;267;333;book1=god_bragon;book2=god_eldan;book3=god_findari;book4=god_tanora;book5=god_ushara
 134;43;2875;333
 135;43;2875;333
 136;43;2875;333

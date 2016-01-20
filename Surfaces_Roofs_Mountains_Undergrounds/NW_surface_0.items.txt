@@ -1026,7 +1026,7 @@
 232;97;494;333
 233;97;474;333
 233;97;273;333
-233;97;266;333
+233;97;266;333;book1=god_ronagan;book2=god_tanora;book3=god_ushara;book4=arcania_basics;book5=god_moshran;book6=zaras_defeated
 234;97;494;333
 234;97;274;333
 235;97;474;333
@@ -1042,7 +1042,7 @@
 240;97;1783;0
 241;97;474;333
 241;97;274;333
-241;97;266;333
+241;97;266;333;book1=god_adron;book2=god_bragon;book3=god_cherga;book4=god_elara;book5=god_eldan;book6=god_findari;book7=god_irmorom;book8=god_nargun;book9=god_oldra
 242;97;494;333
 243;97;345;333
 243;97;1367;333
@@ -11996,8 +11996,8 @@
 358;217;661;0
 359;217;875;0
 359;217;954;0
-360;217;266;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
-362;217;266;0;book1=orcish_history_and_culture;book2=blud_an_fiar_ork_magik;book3=about_flame_orks
+360;217;266;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=orcish_history_and_culture;book5=blud_an_fiar_ork_magik;book6=about_flame_orks
+362;217;266;0;book1=god_bragon;book2=god_eldan;book3=god_findari;book4=god_tanora;book5=god_ushara;book6=god_cherga;book7=god_irmorom;book8=god_nargun;book9=god_ronagan
 364;217;266;0;book1=festival_relationships;book2=about_the_humans_by_thomas_berryard
 375;217;267;0;book1=slimes;book2=alchemy;book3=magic_gems
 376;217;854;0
