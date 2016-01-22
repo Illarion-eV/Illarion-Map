@@ -7666,7 +7666,7 @@
 390;109;613;333
 391;109;613;333
 397;109;514;333
-398;109;266;333
+398;109;266;333;book1=god_ronagan
 399;109;514;333
 400;109;613;333
 401;109;613;333
@@ -19398,7 +19398,7 @@
 383;248;2852;599
 384;248;1101;599
 388;248;1101;599
-393;248;1098;599;book1=gods1;book2=story_of_urubur
+393;248;1098;599;book1=gods1;book2=story_of_urubur;book3=god_bragon;book4=god_eldan;book5=god_findari;book6=god_tanora;book7=god_ushara
 395;248;1098;599;book1=calendar;book2=zodiac_sign;book3=demonologist
 397;248;1102;599
 397;248;1145;599
@@ -21609,7 +21609,7 @@
 437;272;1147;599
 438;272;2878;599
 440;272;3233;599;descriptionDe=Elarahalle;descriptionEn=Hall of Elara
-444;272;1122;599;book1=gods3;book2=ways_to_cherga
+444;272;1122;599;book1=gods3;book2=ways_to_cherga;book3=god_cherga
 444;272;1120;599;book1=gods3
 449;272;1122;599;book1=constitution_runewick_44;book2=epos_ignis
 449;272;1120;599;book1=constitution_runewick_44;book2=epos_ignis
@@ -22303,7 +22303,7 @@
 444;280;3220;599
 444;280;3223;599
 445;280;396;599
-452;280;1121;599;book1=gods1;book2=calendar;book3=fragment_of_the_manrok_chronicles
+452;280;1121;599;book1=gods1;book2=calendar;book3=fragment_of_the_manrok_chronicles;book4=god_adron;book5=god_elara;book6=god_oldra
 452;280;1119;599;book1=gods1;book2=calendar;book3=fragment_of_the_manrok_chronicles
 454;280;3220;599
 454;280;3223;599
@@ -22752,7 +22752,7 @@
 448;285;3109;599
 449;285;3220;599
 449;285;3223;599
-452;285;1121;599;book1=tanoras_secret;book2=guardian_dragon
+452;285;1121;599;book1=tanoras_secret;book2=guardian_dragon;book3=zaras_defeated
 452;285;1119;599;book2=guardian_dragon;book1=tanoras_secret
 454;285;3220;599
 454;285;3223;599
@@ -23815,10 +23815,10 @@
 487;298;3395;333
 487;298;3394;333
 488;298;3395;333
-488;298;266;333;book1=artifacts;book2=mana_streams
+488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons
 489;298;3382;333
 490;298;3395;333
-490;298;266;333;book1=daemons
+490;298;266;333;book1=arcania_basics
 491;298;681;333
 492;298;301;333
 125;299;629;333

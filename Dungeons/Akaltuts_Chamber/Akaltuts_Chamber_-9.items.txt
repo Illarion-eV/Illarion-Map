@@ -4320,7 +4320,7 @@
 42;104;2885;0
 42;104;1862;333
 43;104;215;0
-52;104;1099;0;book1=constitution_runewick_44;book2=galmair_cia;book3=parchment_of_the_priests_of_eldan
+52;104;1099;0;book1=constitution_runewick_44;book2=galmair_cia;book3=parchment_of_the_priests_of_eldan;book4=god_moshran
 53;104;1101;0
 63;104;1101;333
 64;104;287;333
