@@ -22463,7 +22463,7 @@
 447;282;2850;599
 448;282;550;599
 448;282;1146;599
-454;282;1122;599;book1=story_of_urubur;book2=zodiac_sign
+454;282;1122;599;book1=story_of_urubur;book2=zodiac_sign;book3=dubbels
 454;282;1120;599;book1=story_of_urubur;book2=zodiac_sign
 458;282;1003;599
 459;282;3251;599
@@ -23815,10 +23815,10 @@
 487;298;3395;333
 487;298;3394;333
 488;298;3395;333
-488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons
+488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons;book4=dubbels
 489;298;3382;333
 490;298;3395;333
-490;298;266;333;book1=arcania_basics
+490;298;266;333;book1=arcania_basics;book2=arcane_planes
 491;298;681;333
 492;298;301;333
 125;299;629;333
