@@ -25739,7 +25739,7 @@
 444;317;2877;599
 445;317;3075;599
 447;317;651;599
-448;317;266;599;book1=glorification_to_irmorom;book2=making_candles;book3=banana_receipes;book4=weightsandmeasures
+448;317;266;599;book1=glorification_to_irmorom;book2=weightsandmeasures
 449;317;3362;599
 477;317;915;599
 479;317;889;333
@@ -26633,7 +26633,7 @@
 442;332;404;333
 443;332;3360;599
 445;332;266;599;book1=making_candles
-447;332;266;599;book1=constitution_runewick_44
+447;332;266;599;book1=eating_right;book2=banana_receipes
 449;332;266;599;book1=runewick_on_runewick;book2=onionball
 450;332;396;599
 451;332;3362;599
