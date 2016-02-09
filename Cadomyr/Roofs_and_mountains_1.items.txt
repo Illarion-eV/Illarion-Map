@@ -5111,6 +5111,7 @@
 93;88;746;333
 95;88;1102;333
 95;88;265;333;descriptionDe=Das Bild zeigt eine kleine Gruppe von rot-weiß gekleideten Rittern, die furchtlos hunderte von Banditen über einen großen Fluss durch die Wüste verfolgen. Unten rechts steht ein Datum: 22 AS.;descriptionEn=The picture shows a small group of red-white dressed knights fearlessly chasing hundreds of bandits over a big river in a desert. At the bottom right is a date: 22 AS.
+136;88;3599;333
 137;88;3591;333
 138;88;1196;333
 139;88;623;0
@@ -5311,6 +5312,7 @@
 173;93;1246;333
 174;93;597;333
 175;93;914;333
+135;94;3599;333
 136;94;433;333
 136;94;3591;333
 136;94;3593;333
@@ -5436,6 +5438,7 @@
 100;100;1060;333
 102;100;2832;333
 103;100;1102;333
+134;100;3599;333
 135;100;433;333
 135;100;3591;333
 135;100;3593;333
