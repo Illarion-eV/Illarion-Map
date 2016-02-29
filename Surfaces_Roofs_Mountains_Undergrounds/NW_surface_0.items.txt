@@ -1026,7 +1026,7 @@
 232;97;494;333
 233;97;474;333
 233;97;273;333
-233;97;266;333;book1=god_ronagan;book2=god_tanora;book3=god_ushara;book4=arcania_basics;book5=god_moshran;book6=zaras_defeated
+233;97;266;333;book1=god_ronagan;book2=god_tanora;book3=god_ushara;book4=arcania_basics;book5=god_moshran;book6=zaras_defeated;book7=arcane_planes;book8=dubbels
 234;97;494;333
 234;97;274;333
 235;97;474;333
@@ -13112,7 +13112,7 @@
 392;225;871;333
 392;225;402;333
 393;225;853;333
-393;225;266;333;book1=banana_receipes
+393;225;266;333;book1=banana_receipes;book2=eating_right
 394;225;853;333
 394;225;514;333
 395;225;853;333
@@ -13239,7 +13239,7 @@
 348;226;513;333
 355;226;695;333
 356;226;856;333
-357;226;267;333;book1=mana_streams
+357;226;267;333;book1=mana_streams;book2=dubbels
 359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3;book4=celegails_songbook;book5=dwarven_poems
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3

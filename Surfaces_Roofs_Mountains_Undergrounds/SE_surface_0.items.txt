@@ -22471,7 +22471,7 @@
 447;282;2850;599
 448;282;550;599
 448;282;1146;599
-454;282;1122;599;book1=story_of_urubur;book2=zodiac_sign
+454;282;1122;599;book1=story_of_urubur;book2=zodiac_sign;book3=dubbels
 454;282;1120;599;book1=story_of_urubur;book2=zodiac_sign
 458;282;1003;599
 459;282;3251;599
@@ -23827,10 +23827,10 @@
 487;298;3395;333
 487;298;3394;333
 488;298;3395;333
-488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons
+488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons;book4=dubbels
 489;298;3382;333
 490;298;3395;333
-490;298;266;333;book1=arcania_basics
+490;298;266;333;book1=arcania_basics;book2=arcane_planes
 491;298;681;333
 492;298;301;333
 125;299;629;333
@@ -25728,7 +25728,7 @@
 444;317;2877;599
 445;317;3075;599
 447;317;651;599
-448;317;266;599;book1=glorification_to_irmorom;book2=making_candles;book3=banana_receipes;book4=weightsandmeasures
+448;317;266;599;book1=glorification_to_irmorom;book2=weightsandmeasures
 449;317;3362;599
 477;317;915;599
 479;317;889;333
@@ -26622,7 +26622,7 @@
 442;332;404;333
 443;332;3360;599
 445;332;266;599;book1=making_candles
-447;332;266;599;book1=constitution_runewick_44
+447;332;266;599;book1=eating_right;book2=banana_receipes
 449;332;266;599;book1=runewick_on_runewick;book2=onionball
 450;332;396;599
 451;332;3362;599
