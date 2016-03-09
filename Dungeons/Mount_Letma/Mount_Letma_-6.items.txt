@@ -176,7 +176,7 @@
 51;10;3101;333
 53;10;3088;333
 54;10;3087;333
-58;10;2805;333;descriptionDe=R;descriptionEn=R
+58;10;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter R emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe R prangt. 
 58;10;359;333
 66;10;3101;333
 68;10;2908;333
@@ -1020,7 +1020,7 @@
 42;44;3088;333
 43;44;3092;0
 51;44;3098;333
-53;44;2805;333;descriptionDe=A;descriptionEn=A
+53;44;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter A emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe A prangt. 
 53;44;359;333
 54;44;3101;333
 58;44;2937;333
@@ -1151,7 +1151,7 @@
 30;48;2855;333
 31;48;3097;333
 31;48;3101;333
-32;48;2805;333;descriptionDe=C;descriptionEn=C
+32;48;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter C emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe C prangt. 
 32;48;359;333
 33;48;3101;333
 41;48;3099;333
