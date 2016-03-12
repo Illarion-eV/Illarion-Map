@@ -13700,7 +13700,6 @@
 138;170;273;333
 139;170;273;333
 143;170;273;333
-144;170;1090;333;descriptionDe=Ein alter Spazierstock lehnt gegen den Altar. Er wurde in die Form einer bösartig schauenden Schlange geschnitzt, die bereit ist zuzubeißen. Das Wort RAWST wurde in die Seite geschnitzt.;descriptionEn=An old walking stick leans against the altar. It is carved into the form of a vicious looking snake about to strike. The word RAWSTY can be seen carved into the side.
 145;170;273;333
 146;170;586;333
 149;170;1804;333
