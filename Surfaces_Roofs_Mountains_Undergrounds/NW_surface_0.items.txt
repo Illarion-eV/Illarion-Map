@@ -1302,7 +1302,7 @@
 231;104;264;333
 233;104;402;333
 234;104;266;333;book1=alchemy;book2=fragment_of_the_manrok_chronicles;book3=magic_gems;book4=onionball;book5=slimes;book6=tihgoracs_book_of_combat;book7=a_hermit_on_the_lookout_for_eldan;book8=a_tale_of_brothers;book9=baros_bigfoot_and_the_pride
-238;104;266;333;book1=blud_an_fiar_ork_magik;book2=brewyn_the_liar;book3=craftman_story;book4=dragon_dreams;book5=festival_relationships;book6=tales_of_a_traveller;book7=the_read_wolf_and_the_bear;book8=zodiac_sign;book9=a_question_of_honour
+238;104;266;333;book1=blud_an_fiar_ork_magik;book2=brewyn_the_liar;book3=craftman_story;book4=dragon_bone_lord;book5=festival_relationships;book6=tales_of_a_traveller;book7=the_read_wolf_and_the_bear;book8=zodiac_sign;book9=a_question_of_honour
 240;104;266;333;book1=a_travelers_diary;book2=barhead_kings;book3=chronicle_recording_of_the_blumfussens_family_tree;book4=diary_of_noira_liv;book5=journal_of_abbot_elzechiel;book6=letastos_diary;book7=see_of_life;book8=the_reign_of_akaltut;book9=cadomyr_on_cadomyr
 241;104;264;333
 242;104;36;333
