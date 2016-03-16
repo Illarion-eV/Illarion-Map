@@ -4845,7 +4845,9 @@
 300;382;3085;333
 301;382;3085;333
 302;382;3085;333
+303;382;412;333
 304;382;28;333
+305;382;412;333
 306;382;3092;333
 307;382;3085;333
 308;382;3085;333
@@ -5034,6 +5036,7 @@
 293;385;3085;333
 294;385;3085;333
 295;385;3091;333
+296;385;412;333
 299;385;233;333
 310;385;3092;333
 311;385;3088;333
@@ -5186,6 +5189,7 @@
 291;388;3088;333
 292;388;3087;333
 301;388;3097;333
+304;388;409;333
 305;388;3097;333
 308;388;3082;333;descriptionEn=Please only feed the pups meat and one piece for each of the five. Melanie Meadowlark;descriptionDe=Bitte gebt den Jungen nur Fleisch zu fressen und je ein Stück pro Welpe. Melanie Meadowlark
 309;388;233;333
@@ -5358,6 +5362,7 @@
 250;391;287;333
 298;391;3098;333
 302;391;2952;333;descriptionEn=The plate looks very clean and you can see as you watch that it is checked often by the pups. ;descriptionDe=Der Teller sieht sehr sauber aus und während du alles beobachtest, bemerkst du, dass die Jungen ihn oft und regelmäßig überprüfen.
+310;391;409;333
 311;391;3088;333
 312;391;3088;333
 313;391;3087;333
@@ -5421,7 +5426,6 @@
 294;392;233;333
 295;392;233;333
 299;392;90;111;descriptionEn=The flute has been chewed in half and pieces lay all about.;descriptionDe=Die Flöte wurde entzwei gekaut und die einzelnen Teile liegen überall verstreut herum.
-301;392;1096;333
 309;392;1196;333
 311;392;3092;333
 312;392;3088;333
@@ -5588,6 +5592,7 @@
 293;395;233;333
 294;395;233;333
 300;395;2760;333;descriptionEn=The rope has been shredded in places and strung or wound all around some rocks and other things, creating quite the mess in the fox den.;descriptionDe=Das Seil ist teilweise zerfleddert und wurde um verschiedene Felsen und andere Dinge herumgewickelt, wobei ein ziemliches Chaos in dem Fuchsbau entstanden ist.
+303;395;409;333
 304;395;3099;333
 312;395;3090;333
 313;395;3086;333
@@ -5693,6 +5698,7 @@
 294;397;233;333
 299;397;3101;333
 304;397;498;333;descriptionEn=The bones appear to be ripped apart and chewed.;descriptionDe=Die Knochen scheinen aufgebissen und zerkaut worden zu sein.
+306;397;409;333
 307;397;3098;333
 312;397;3088;333
 313;397;3087;333
@@ -5935,6 +5941,7 @@
 292;401;3091;333
 292;401;233;333
 293;401;233;333
+293;401;412;333
 294;401;233;333
 297;401;163;333
 300;401;163;333
