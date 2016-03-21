@@ -1538,7 +1538,7 @@
 254;110;2875;333
 255;110;2875;333
 261;110;921;333
-261;110;267;333;book1=ZzarnKSka
+261;110;267;333;book1=zzarnkska
 438;110;856;333
 442;110;320;333
 443;110;320;333
@@ -1628,7 +1628,7 @@
 228;113;921;333
 234;113;342;333
 243;113;921;333
-243;113;267;333;book1=resists_the_stake;book2=ritual_waterelemental_wascher;book3=statute_book_of_runewick;book4=ZzarnKSka
+243;113;267;333;book1=resists_the_stake;book2=ritual_waterelemental_wascher;book3=statute_book_of_runewick;book4=zzarnkska
 259;113;216;333
 261;113;921;333
 337;113;1278;333
@@ -12525,7 +12525,7 @@
 358;221;955;0
 359;221;266;0;book2=gods2;book1=glorification_to_irmorom;book3=gods1
 361;221;266;0;book2=fragment_of_the_manrok_chronicles;book3=galmair_priester;book1=calendar;book4=revelations_of_tialdin
-363;221;266;0;book1=abomination_runs_and_hides;book2=ZzarnKSka;book3=vuzembi_sacred_tree;book4=good_evil
+363;221;266;0;book1=abomination_runs_and_hides;book2=zzarnkska;book3=vuzembi_sacred_tree;book4=good_evil
 365;221;874;333
 366;221;855;333
 367;221;855;333
@@ -21112,7 +21112,7 @@
 375;315;36;333
 375;315;2855;333
 376;315;1103;333
-376;315;1098;333;book1=ZzarnKSka;book2=see_of_life
+376;315;1098;333;book1=zzarnkska;book2=see_of_life
 377;315;1102;0
 377;315;1103;333
 378;315;301;0

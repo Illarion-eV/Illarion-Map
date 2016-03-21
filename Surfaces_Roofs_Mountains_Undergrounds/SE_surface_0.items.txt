@@ -5598,7 +5598,7 @@
 95;86;42;333
 103;86;42;333
 107;86;36;333
-107;86;129;333;book=ZzarnKSka
+107;86;129;333;book=zzarnkska
 109;86;263;333
 111;86;263;333
 112;86;1862;333
@@ -21850,8 +21850,8 @@
 447;275;1119;599;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
 449;275;3220;599
 449;275;3223;599
-452;275;1121;599;book1=barhead_kings;book2=see_of_life;book3=ZzarnKSka;book4=vuzembi_sacred_tree
-452;275;1119;599;book1=barhead_kings;book2=see_of_life;book3=ZzarnKSka
+452;275;1121;599;book1=barhead_kings;book2=see_of_life;book3=zzarnkska;book4=vuzembi_sacred_tree
+452;275;1119;599;book1=barhead_kings;book2=see_of_life;book3=zzarnkska
 454;275;3220;599
 454;275;3223;599
 459;275;688;599
