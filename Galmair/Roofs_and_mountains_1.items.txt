@@ -6394,7 +6394,7 @@
 257;132;856;333
 264;132;854;333
 265;132;1246;333
-271;132;2832;333
+271;132;3800;333
 276;132;3195;0
 324;132;233;333
 325;132;911;333
@@ -7428,7 +7428,7 @@
 265;157;3307;333
 271;157;3309;333
 271;157;269;333
-275;157;2832;333
+275;157;3793;333
 276;157;3309;333
 276;157;265;333;descriptionEn=The painting shows a smeared painting. It appears as if a fairy is placed in the middle of the picture.;descriptionDe=Das Gemälde zeigt ein verlaufenes Bild, es scheint so, als ob eine Fee zentriert im Bild wäre.
 280;157;2876;333
