@@ -21846,7 +21846,7 @@
 447;275;1119;599;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
 449;275;3220;599
 449;275;3223;599
-452;275;1121;599;book1=barhead_kings;book2=see_of_life;book3=zzarnkska;book4=vuzembi_sacred_tree
+452;275;1121;599;book1=barhead_kings;book2=see_of_life;book3=zzarnkska;book4=vuzembi_sacred_tree;book5=letmasecret
 452;275;1119;599;book1=barhead_kings;book2=see_of_life;book3=zzarnkska
 454;275;3220;599
 454;275;3223;599
@@ -22755,7 +22755,7 @@
 448;285;3109;599
 449;285;3220;599
 449;285;3223;599
-452;285;1121;599;book1=tanoras_secret;book2=guardian_dragon;book3=zaras_defeated
+452;285;1121;599;book1=tanoras_secret;book2=guardian_dragon;book3=zaras_defeated;book4=compositionworld
 452;285;1119;599;book2=guardian_dragon;book1=tanoras_secret
 454;285;3220;599
 454;285;3223;599
@@ -23826,7 +23826,7 @@
 488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons;book4=dubbels
 489;298;3382;333
 490;298;3395;333
-490;298;266;333;book1=arcania_basics;book2=arcane_planes
+490;298;266;333;book1=arcania_basics;book2=arcane_planes;book3=arcania_lizzard
 491;298;681;333
 492;298;301;333
 125;299;629;333

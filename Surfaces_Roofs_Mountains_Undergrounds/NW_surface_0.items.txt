@@ -1538,7 +1538,7 @@
 254;110;2875;333
 255;110;2875;333
 261;110;921;333
-261;110;267;333;book1=zzarnkska
+261;110;267;333;book1=zzarnkska;book2=letmasecret;book3=compositionworld;book4=arcania_lizzard
 438;110;856;333
 442;110;320;333
 443;110;320;333
@@ -12525,7 +12525,7 @@
 358;221;955;0
 359;221;266;0;book2=gods2;book1=glorification_to_irmorom;book3=gods1
 361;221;266;0;book2=fragment_of_the_manrok_chronicles;book3=galmair_priester;book1=calendar;book4=revelations_of_tialdin
-363;221;266;0;book1=abomination_runs_and_hides;book2=zzarnkska;book3=vuzembi_sacred_tree;book4=good_evil
+363;221;266;0;book1=abomination_runs_and_hides;book2=zzarnkska;book3=vuzembi_sacred_tree;book4=good_evil;book5=letmasecret
 365;221;874;333
 366;221;855;333
 367;221;855;333
