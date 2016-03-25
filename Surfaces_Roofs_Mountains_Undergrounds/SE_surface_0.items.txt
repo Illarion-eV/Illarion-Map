@@ -20453,8 +20453,6 @@
 384;258;626;599
 385;258;964;599
 388;258;3272;599;descriptionEn=Faculty of Nature and Alchemy;nameDe=Fakultät der Natur und Alchemie
-388;258;301;599;nameDe=Fakultät der Natur und Alchimie;nameEn=Faculty of nature and alchemy
-389;258;301;599
 390;258;301;599
 391;258;644;599
 391;258;301;599
@@ -20579,7 +20577,6 @@
 384;259;628;599
 388;259;665;599
 388;259;321;599;depot=102
-389;259;301;599
 390;259;301;599
 391;259;890;599
 392;259;273;599
