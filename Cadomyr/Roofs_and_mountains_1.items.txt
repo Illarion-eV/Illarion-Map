@@ -3710,9 +3710,9 @@
 75;66;3129;333
 76;66;301;333
 80;66;3245;333
-83;66;2832;333
+83;66;3800;333
 84;66;748;333;descriptionDe=Ritter mit Schwertern und rot-weiﬂen Bannern schlachten einen Drachen ab, der sie mit Flammen einzudecken versucht w‰hrend im Hintergrund blau-grau bekleidete Magier mit einer Schatzkist davon laufen. Unten rechts steht ein Datum: 15 AS.;descriptionEn=Knights with swords and red-white banners are slaughtering a dragon who tries to engulf them with flames, whilst in the background a group of blue-grey dressed mages are running away with a treasure chest. At the bottom right is a date: 15 AS.
-89;66;2832;333
+89;66;3800;333
 90;66;3247;333
 90;66;396;333
 90;66;1265;333
@@ -3830,7 +3830,7 @@
 145;67;1066;333
 146;67;3246;333
 147;67;3240;333
-148;67;2832;333
+148;67;3798;333
 154;67;1161;333
 165;67;2878;333
 166;67;3518;333
@@ -5026,7 +5026,7 @@
 85;86;301;333
 86;86;404;333
 87;86;1101;333
-88;86;2832;333
+88;86;3800;333
 95;86;1106;333
 95;86;36;333
 95;86;1061;333
@@ -5434,7 +5434,7 @@
 93;100;301;333
 95;100;1105;333
 97;100;217;333
-102;100;2832;333
+102;100;3800;333
 103;100;1102;333
 134;100;3599;333
 135;100;433;333
@@ -5649,7 +5649,7 @@
 161;107;915;333
 162;107;915;333
 78;108;634;333
-81;108;2832;333
+81;108;3800;333
 83;108;690;333
 84;108;633;333
 85;108;681;333
