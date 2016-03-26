@@ -94,8 +94,8 @@
 17;2;2604;0
 18;2;320;0
 18;2;2621;0
-20;2;2832;0
-21;2;2832;0
+20;2;3800;333
+21;2;3800;333
 22;2;396;0
 23;2;320;0
 23;2;66;333;markerstone=255
@@ -249,7 +249,7 @@
 26;10;3244;0
 27;10;3244;0
 28;10;3242;0
-29;10;1098;0;book1=see_of_life;book2=a_travelers_diary;book3=letastos_diary;book4=longbeard
+29;10;1098;0;book1=see_of_life;book2=a_travelers_diary;book3=letastos_diary;book4=the_one;book6=dragon_bone_lord;book7=longbeard
 32;10;320;0
 32;10;90;0
 33;10;688;0
@@ -311,7 +311,7 @@
 27;13;1222;333
 28;13;3245;0
 29;13;1098;0;book1=a_hermit_on_the_lookout_for_eldan;book2=findaril_daughter_of_the_wind;book3=dragon_dreams;book4=tales_of_a_traveller;book5=the_read_wolf_and_the_bear;book6=tales_of_a_traveller
-32;13;2832;0
+32;13;3798;333
 33;13;3251;0
 33;13;396;0
 0;14;3593;333
@@ -326,7 +326,7 @@
 25;14;879;0
 26;14;879;0
 28;14;3245;0
-32;14;2832;0
+32;14;3798;333
 33;14;3251;0
 33;14;464;0
 0;15;3593;333
@@ -393,7 +393,7 @@
 33;18;688;0
 33;18;3245;0
 11;19;3593;333
-13;19;2832;0
+13;19;3798;333
 27;19;1083;0
 28;19;3245;0
 33;19;688;0

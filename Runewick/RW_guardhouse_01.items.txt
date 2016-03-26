@@ -54,7 +54,7 @@
 8;3;52;333
 9;3;1383;333
 9;3;2659;333;nameDe=Schmutzfleck und Bürste;nameEn=dirt and a scrubbing brush
-12;3;2832;0
+12;3;3801;333
 13;3;634;0
 16;3;2877;0
 18;3;635;0
