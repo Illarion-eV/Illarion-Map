@@ -20010,7 +20010,7 @@
 407;297;1391;333
 408;297;3307;333
 410;297;2876;333
-411;297;2885;333
+411;297;2885;333;descriptionDe=Der Tisch ist feucht. Es scheint von der Decke zu tropfen.;descriptionEn=The table is wet. It seems it drops from the roof.
 412;297;2878;333
 413;297;403;333
 414;297;3307;333
@@ -20069,7 +20069,7 @@
 408;298;3307;333
 411;298;2875;333
 414;298;3315;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=112;doorLock=unlocked
-418;298;742;333
+418;298;742;333;descriptionDe=Das Bett ist feucht. Es scheint von der Decke zu tropfen.;descriptionEn=The bed is wet. It seems it drops from the roof.
 420;298;3305;333
 420;298;269;333
 421;298;287;333
