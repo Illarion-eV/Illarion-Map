@@ -7061,9 +7061,10 @@
 277;151;3295;333
 278;151;3296;333
 279;151;3296;333
+279;151;401;333
 280;151;3296;333
 280;151;275;333
-280;151;401;333
+280;151;264;333;descriptionEn=The painting is swirls of various colors in all directions. It is clear the painting was done by little fingers. The name at the lower right corner says 'Ember Pryler'.;descriptionDe=Das Gemälde ist wirbelt in verschiedenen Farben in alle Richtungen. Es ist klar, das Gemälde von kleinen Finger gemacht wurde. Der Name in der unteren rechten Ecke sagt 'Ember Pryler'.
 281;151;3296;333
 282;151;3296;333
 283;151;3326;333
