@@ -2767,7 +2767,7 @@
 107;59;3100;333
 108;59;3099;333
 111;59;885;333
-111;59;1813;333;nameEn=Sacred Tree of the Vuzembi;nameDe=Heiliger Baum der Vuzembi;dragoncaveBush=true
+111;59;3866;333;nameEn=Sacred Tree of the Vuzembi;nameDe=Heiliger Baum der Vuzembi;dragoncaveBush=true
 113;59;623;333
 114;59;287;333
 115;59;287;333

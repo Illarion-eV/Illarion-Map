@@ -20850,7 +20850,7 @@
 372;310;36;333
 372;310;2856;333
 373;310;952;0
-374;310;748;333;descriptionDe=Ein alter Mann und ein elfess teilen einen Apfel, während sie in zwei Schaukelstühlen sitzen.;descriptionEn=An old man and an elfess shares an apple while sitting in two rocking chairs.
+374;310;748;333;descriptionEn=An old man and an elfess sit under a large oak tree in the evening sun and divide an apple.;descriptionDe=Eine Elfe und ein alter Mann sitzen unter einem riesigen uralten Baum im Licht der Abendsonne und teilen sich einen Apfel.
 375;310;433;0
 376;310;401;0
 376;310;42;333
