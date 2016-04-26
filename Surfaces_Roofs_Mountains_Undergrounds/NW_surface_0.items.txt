@@ -1543,7 +1543,7 @@
 254;110;2875;333
 255;110;2875;333
 261;110;921;333
-261;110;267;333;book1=zzarnkska;book2=letmasecret;book3=compositionworld;book4=arcania_lizzard
+261;110;267;333;book1=zzarnkska;book2=letmasecret;book3=compositionworld;book4=arcania_lizzard;book5=singingwell
 438;110;856;333
 442;110;320;333
 443;110;320;333
@@ -20070,8 +20070,10 @@
 407;298;3273;333;descriptionEn=Sleepy Bujhaar Inn;descriptionDe=Gasthaus zum Schlafenden Bujhaar
 408;298;3307;333
 411;298;2875;333
+412;298;52;333;descriptionDe=Wasser tropft von der Decke in den Eimer.;descriptionEn=Water drops from the roof into the bucket.
 414;298;3315;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=112;doorLock=unlocked
-418;298;742;333;descriptionDe=Das Bett ist feucht. Es scheint von der Decke zu tropfen.;descriptionEn=The bed is wet. It seems it drops from the roof.
+417;298;52;333;descriptionDe=Wasser tropft von der Decke in den Eimer.;descriptionEn=Water drops from the roof into the bucket.
+418;298;742;333
 420;298;3305;333
 420;298;269;333
 421;298;287;333
@@ -20126,6 +20128,7 @@
 394;299;1817;0
 402;299;1783;333
 408;299;3311;333
+411;299;52;333;descriptionDe=Wasser tropft von der Decke in den Eimer.;descriptionEn=Water drops from the roof into the bucket.
 413;299;396;333
 414;299;3303;333
 420;299;3309;333

@@ -6245,9 +6245,9 @@
 175;123;622;333
 258;123;860;333
 259;123;266;333;book1=galmair_on_cadomyr;book2=galmair_on_runewick
-261;123;266;333;book1=galmair_on_galmair;book2=glorification_to_irmorom
+261;123;266;333;book1=galmair_on_galmair;book2=glorification_to_irmorom;book3=chronicles_of_galmair_2
 263;123;854;333
-263;123;267;333;book1=chronicles_of_galmair_2;book2=art_of_trade
+263;123;267;333;book2=art_of_trade;book1=singingwell
 264;123;915;333
 265;123;1273;0
 266;123;1246;333
