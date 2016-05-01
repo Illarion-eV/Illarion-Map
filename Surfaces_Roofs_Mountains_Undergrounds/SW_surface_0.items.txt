@@ -18401,7 +18401,10 @@
 206;133;1783;333
 208;133;1810;333
 214;133;338;333
+218;133;1160;333
 219;133;1254;333
+220;133;507;333
+221;133;3292;333
 233;133;1783;333
 234;133;1782;333
 242;133;1783;333
@@ -18514,6 +18517,7 @@
 218;134;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 219;134;1782;333
 219;134;3083;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
+221;134;943;333
 224;134;274;333
 226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
 233;134;1782;333
@@ -18629,6 +18633,7 @@
 218;135;602;333
 219;135;603;333
 220;135;601;333
+221;135;1161;333
 233;135;912;333
 234;135;1782;333
 237;135;1810;333
@@ -18732,6 +18737,7 @@
 218;136;602;333
 219;136;603;333
 220;136;601;333
+221;136;1161;333
 227;136;274;333
 229;136;1782;333
 231;136;1783;333
@@ -18842,6 +18848,7 @@
 195;137;274;333
 213;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 218;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
+221;137;1161;333
 228;137;203;333
 229;137;273;333
 233;137;1782;333
@@ -18956,6 +18963,7 @@
 212;138;1812;333
 215;138;1176;0
 219;138;1782;333
+220;138;3265;333
 221;138;911;333
 231;138;1783;333
 259;138;1782;333
@@ -19047,6 +19055,10 @@
 176;139;1783;333
 191;139;274;333
 200;139;203;333
+219;139;3265;333
+220;139;3265;333
+220;139;3265;333
+221;139;1161;333
 234;139;3264;0
 242;139;1783;333
 244;139;273;333
@@ -19152,7 +19164,11 @@
 200;140;1783;333
 206;140;912;333
 210;140;338;333
+218;140;1160;333
 219;140;3082;333;descriptionEn=Clear Streams Fishing , Merry Ole Fishing Spot;descriptionDe=Angeln am klaren Bach, Guter alter Angelplatz
+220;140;1160;333
+221;140;1161;333
+221;140;1065;333
 222;140;1782;333
 244;140;1782;333
 251;140;1783;333
