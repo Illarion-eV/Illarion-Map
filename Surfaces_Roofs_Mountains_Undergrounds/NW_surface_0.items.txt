@@ -13507,7 +13507,7 @@
 348;228;854;333
 357;228;1074;0
 359;228;402;333
-360;228;748;333;descriptionDe=Ein nicht von Meisterhand gemaltes Kunstwerk. Mit einfachen Pinselstrichen in verschiedenen Grüntönen wird eine Landschaft dargestellt. Man erkennt einige Bäume und ein weißer Fleck deutet schneebedeckte Berge an. In einer Ecke steht in kleiner Schrift 'Sir Guy R M C P Mitchell'.;descriptionEn=A painting of a landscape by someone who knows they are not skilled. It uses simple swipes of colour and varying shades of green to create a landscape. There are some l trees.and a white blotch indicates a snowy mountain. In the corner, there is a signature - 'Sir Guy R M C P Mitchell' in small writing.
+360;228;748;333;descriptionDe=Mit einfachen Pinselstrichen in verschiedenen Grüntönen wird eine Landschaft dargestellt. Man erkennt einige Bäume und ein weißer Fleck deutet schneebedeckte Berge an. - 'Sir Guy R M C P Mitchell';descriptionEn=A painting of a landscape. It uses simple swipes of colour and varying shades of green to create a landscape. There are some trees and a white blotch indicates a snowy mountain. In the corner, there is a signature - 'Sir Guy R M C P Mitchell'
 362;228;402;0
 364;228;1074;0
 369;228;404;333
