@@ -13507,6 +13507,7 @@
 348;228;854;333
 357;228;1074;0
 359;228;402;333
+360;228;748;333;descriptionDe=Ein nicht von Meisterhand gemaltes Kunstwerk. Mit einfachen Pinselstrichen in verschiedenen Grüntönen wird eine Landschaft dargestellt. Man erkennt einige Bäume und ein weißer Fleck deutet schneebedeckte Berge an. In einer Ecke steht in kleiner Schrift 'Sir Guy R M C P Mitchell'.;descriptionEn=A painting of a landscape by someone who knows they are not skilled. It uses simple swipes of colour and varying shades of green to create a landscape. There are some l trees.and a white blotch indicates a snowy mountain. In the corner, there is a signature - 'Sir Guy R M C P Mitchell' in small writing.
 362;228;402;0
 364;228;1074;0
 369;228;404;333
@@ -14404,6 +14405,7 @@
 364;238;404;333
 364;238;2850;333
 365;238;856;333
+369;238;749;333;descriptionDe=Eine rothaarige Frau vertreibt mit weit ausholenden Armbewegungen zwei Hühner aus einem Küchengarten. Um die flatternden Hühner sind Federn zu erkennen. Nur einige hervorgehobene Szenen stechen farbig aus der angedeuteten Kohlezeichnung hervor. 'Tru';descriptionEn=A rough charcoal drawing with accented areas of colorful dye displays a red haired woman chasing two chickens from her lovely vegetable garden. Both arms wave wildly while frightened chickens scatter amongst flying feathers. 'Tru'
 370;238;856;333
 375;238;623;0
 376;238;287;333

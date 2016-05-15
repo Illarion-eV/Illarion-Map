@@ -1769,6 +1769,7 @@
 213;66;853;333
 214;66;853;333
 215;66;853;333
+215;66;748;333;descriptionDe=Spieler würfeln in einer dunklen Taverne während ein angedeuteter Elf einem ärmlich gekleideten Mann Goldmünzen in die Hand drückt. In einer weiteren Szene sieht man wie derselbe Mann in einer dunklen Gasse ausgeraubt wird. 'Fiachra';descriptionEn=In a dark tavern gamblers throw dice as a pointy featured elf towers over a poorly dressed man, pressing gold coins into his palm. A second scene shows the same man being threatened in a dark alley. 'Fiachra'
 216;66;853;333
 217;66;853;333
 217;66;1124;333
@@ -3520,6 +3521,7 @@
 208;82;3741;333
 211;82;3741;333
 213;82;853;333
+213;82;748;333;descriptionDe=Das Gemälde zeigt einen gewöhnlichen Hanfsack mit der Stickerei 'Mehl' vor einem blauen Hintergrund. Es ist zu erkennen, dass der Sack voll Mehl ist. Ganz weit rechts unten steht in geschwungenen Buchstaben, 'Rievira'.;descriptionEn=The painting displays a simple hemp sack with the word 'flour' stitched onto it, against a blue background. The sack in the painting does indeed appear to contain flour, and down in the far right corner a name is written in cursive with ink,'Rievira'
 214;82;854;333
 214;82;853;333
 215;82;287;333
@@ -7065,7 +7067,7 @@
 279;151;401;333
 280;151;3296;333
 280;151;275;333
-280;151;264;333;descriptionEn=The painting is swirls of various colors in all directions. It is clear the painting was done by little fingers. The name at the lower right corner says 'Ember Pryler'.;descriptionDe=Das Gemälde ist wirbelt in verschiedenen Farben in alle Richtungen. Es ist klar, das Gemälde von kleinen Finger gemacht wurde. Der Name in der unteren rechten Ecke sagt 'Ember Pryler'.
+280;151;264;333;descriptionEn=The painting is swirls of various colors in all directions. It is clear the painting was done by little fingers. The name at the lower right corner says 'Ember Pryler'.;descriptionDe=Viele bunte Striche sind wild durcheinander von Kinderhand gemalt. Untern rechts steht 'Ember Pryler'
 281;151;3296;333
 282;151;3296;333
 283;151;3326;333
