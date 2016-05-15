@@ -6183,6 +6183,7 @@
 273;119;3193;333
 275;119;3195;333
 148;120;287;333
+166;120;1391;333;rareness=4;nameEn=Giant barrel of the finest Dwarven ale.;nameDe=Ein riesiges Fass mit bestem Zwergenbier
 167;120;693;333;descriptionDe=Die Statue gleicht einem reich gekleideten Mann mit grauer Haut und Haar, der eine Schürze trägt und seinen großen goldenen Hammer gegen einen Ambos schwingt.;descriptionEn=The statue portrays a richly dressed man with grey skin and hair, who is wearing an apron and swings a big golden hammer at an anvil.
 173;120;623;333
 174;120;630;333
