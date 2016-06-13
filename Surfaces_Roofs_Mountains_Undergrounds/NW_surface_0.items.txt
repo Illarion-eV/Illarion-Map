@@ -15652,7 +15652,7 @@
 379;249;1782;0
 392;249;3081;333;descriptionDe=Wachstube;descriptionEn=Guardroom
 398;249;3081;333;descriptionDe=Dunkle Gasse;descriptionEn=Dark Alley
-417;249;3165;333;descriptionEn=Galmair Towngate;descriptionDe=Galmair Stadttor;lockID=102;doorLock=unlocked
+417;249;3165;333;descriptionEn=Galmair Towngate;descriptionDe=Galmair Stadttor;lockId=102;doorLock=unlocked
 426;249;943;333
 432;249;274;333
 434;249;308;333
@@ -15734,7 +15734,7 @@
 406;250;1782;333
 409;250;767;333
 414;250;767;333
-417;250;3165;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockID=102;doorLock=unlocked
+417;250;3165;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLock=unlocked
 422;250;767;333
 426;250;945;333
 430;250;767;333
