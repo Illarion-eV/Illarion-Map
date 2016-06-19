@@ -634,8 +634,6 @@
 2;32;3098;333
 2;32;3098;333
 3;32;3098;333
-7;32;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter R emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe R prangt. 
-7;32;359;333
 9;32;2937;333
 11;32;3101;333
 12;32;3098;333
