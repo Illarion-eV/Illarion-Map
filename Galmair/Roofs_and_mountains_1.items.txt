@@ -1867,7 +1867,7 @@
 205;67;856;333
 210;67;854;333
 223;67;854;333
-223;67;1120;333
+223;67;1120;333;book1=galmair_on_galmair;book2=chronicles_of_galmair;book3=chronicles_of_galmair_2;book4=rules_galmair
 224;67;287;333
 225;67;287;333
 226;67;287;333
@@ -2056,7 +2056,7 @@
 218;69;320;333
 219;69;2878;333
 223;69;854;333
-223;69;1120;333
+223;69;1120;333;book1=galmair_charge;book2=galmair_cia;book3=galmair_diplomants;book4=galmair_entertainment;book5=galmair_forces;book6=galmair_hangman;book7=galmair_headhunter;book8=galmair_translator;book9=galmair_adjutant
 224;69;287;333
 225;69;287;333
 226;69;287;333

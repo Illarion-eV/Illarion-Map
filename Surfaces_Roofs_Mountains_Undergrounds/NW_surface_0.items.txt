@@ -11663,7 +11663,7 @@
 370;215;320;0
 371;215;320;0
 372;215;320;0
-375;215;267;0;book1=galmair_charge;book2=galmair_cia;book3=galmair_diplomants;book4=galmair_entertainment;book5=galmair_forces;book6=galmair_hangman;book7=galmair_headhunter;book8=galmair_translator;book9=galmair_adjutant
+375;215;267;0;book1=weightsandmeasures
 376;215;854;0
 377;215;287;333
 377;215;287;333
@@ -12253,7 +12253,7 @@
 348;219;854;333
 348;219;221;333
 355;219;856;333
-375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_quartermaster;book6=a_friend_in_need;book7=weightsandmeasures
+375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_quartermaster;book6=a_friend_in_need
 376;219;854;0
 377;219;287;333
 378;219;287;333
