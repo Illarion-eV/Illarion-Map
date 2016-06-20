@@ -170,6 +170,7 @@
 437;14;273;333
 443;14;1177;333
 444;14;1177;333
+455;14;3743;333
 480;14;1276;333
 481;14;627;333
 482;14;623;333
@@ -187,7 +188,7 @@
 438;15;3662;333
 440;15;1783;333
 442;15;1177;333
-450;15;387;333
+450;15;3743;333
 451;15;3659;333
 454;15;1783;333
 455;15;3662;333
@@ -287,7 +288,7 @@
 397;19;443;333
 398;19;2805;333
 399;19;301;333
-437;19;387;333
+437;19;3743;333
 444;19;1097;333
 455;19;12;333
 485;19;158;333
@@ -485,6 +486,7 @@
 424;28;1783;333
 425;28;615;333
 425;28;1783;333
+433;28;3743;333
 434;28;1782;333
 440;28;1177;333
 442;28;1097;333
@@ -511,7 +513,7 @@
 438;29;1097;333
 444;29;1097;333
 446;29;1783;333
-447;29;387;333
+447;29;3743;333
 477;29;1245;333
 478;29;614;333
 478;29;1783;333
@@ -15652,7 +15654,7 @@
 379;249;1782;0
 392;249;3081;333;descriptionDe=Wachstube;descriptionEn=Guardroom
 398;249;3081;333;descriptionDe=Dunkle Gasse;descriptionEn=Dark Alley
-417;249;3165;333;descriptionEn=Galmair Towngate;descriptionDe=Galmair Stadttor;lockID=102;doorLock=unlocked
+417;249;3165;333;descriptionEn=Galmair Towngate;descriptionDe=Galmair Stadttor;lockId=102;doorLock=unlocked
 426;249;943;333
 432;249;274;333
 434;249;308;333
@@ -15734,7 +15736,7 @@
 406;250;1782;333
 409;250;767;333
 414;250;767;333
-417;250;3165;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockID=102;doorLock=unlocked
+417;250;3165;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLock=unlocked
 422;250;767;333
 426;250;945;333
 430;250;767;333
@@ -16446,6 +16448,7 @@
 427;257;1396;333
 428;257;1396;333
 430;257;1783;0
+431;257;1052;333;descriptionDe=Der Hammer scheint tief und fest zu stecken. Auch die Erde herum wirkt wie versteinert.;descriptionEn=The hammer sticks deep and firm. The ground around it also seems like it is fossilised.
 432;257;274;0
 433;257;3581;333
 434;257;2850;0
@@ -16533,11 +16536,6 @@
 421;258;1276;0
 422;258;1276;0
 423;258;273;0
-428;258;498;333
-429;258;498;333
-430;258;498;333
-431;258;498;333
-432;258;498;333
 444;258;767;333
 455;258;1783;333
 459;258;767;333
@@ -16703,8 +16701,6 @@
 422;260;1276;333
 424;260;274;0
 425;260;301;333
-430;260;29;333
-432;260;1052;333;descriptionDe=Der Hammer scheint tief und fest zu stecken. Auch die Erde herum wirkt wie versteinert.;descriptionEn=The hammer sticks deep and firm. The ground around it also seems like it is fossilised.
 435;260;301;0
 436;260;301;0
 453;260;767;333
