@@ -1137,7 +1137,7 @@
 62;53;3097;333
 65;53;1272;333
 66;53;233;333
-68;53;2837;333;nameDe=Esse des ewig währenden Feuers;nameEn=Forge of Everlasting Fire
+68;53;3870;333;nameDe=Rennofen des ewig währenden Feuers;nameEn=Bloomery of Everlasting Fire
 69;53;623;333
 70;53;287;333
 71;53;287;333
