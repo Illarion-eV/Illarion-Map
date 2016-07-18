@@ -20014,7 +20014,7 @@
 407;297;1391;333
 408;297;3307;333
 410;297;2876;333
-411;297;2885;333;descriptionDe=Der Tisch ist feucht. Es scheint von der Decke zu tropfen.;descriptionEn=The table is wet. It seems it drops from the roof.
+411;297;2885;333
 412;297;2878;333
 413;297;403;333
 414;297;3307;333
@@ -20072,9 +20072,7 @@
 407;298;3273;333;descriptionEn=Sleepy Bujhaar Inn;descriptionDe=Gasthaus zum Schlafenden Bujhaar
 408;298;3307;333
 411;298;2875;333
-412;298;52;333;descriptionDe=Wasser tropft von der Decke in den Eimer.;descriptionEn=Water drops from the roof into the bucket.
 414;298;3315;333;descriptionDe=Schlafraum;descriptionEn=Bedroom;lockId=112;doorLock=unlocked
-417;298;52;333;descriptionDe=Wasser tropft von der Decke in den Eimer.;descriptionEn=Water drops from the roof into the bucket.
 418;298;742;333
 420;298;3305;333
 420;298;269;333
@@ -20130,7 +20128,6 @@
 394;299;1817;0
 402;299;1783;333
 408;299;3311;333
-411;299;52;333;descriptionDe=Wasser tropft von der Decke in den Eimer.;descriptionEn=Water drops from the roof into the bucket.
 413;299;396;333
 414;299;3303;333
 420;299;3309;333
