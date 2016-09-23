@@ -10183,6 +10183,7 @@
 230;211;287;0
 268;211;301;333
 269;211;10;333
+269;211;1278;333
 272;211;273;333
 276;211;463;333;nameEn=A Shiny Black Feather;nameDe=Eine Glänzende Schwarze Feder;rareness=2
 278;211;3673;333
