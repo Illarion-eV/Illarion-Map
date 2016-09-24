@@ -87,7 +87,7 @@
 11;2;1086;0
 13;2;957;0
 14;2;3245;0
-15;2;1098;0;book1=gods2;book2=diary_of_noira_liv;book3=glorification_to_irmorom;book4=petition_for_zelphia;book5=petition_in_the_name_of_findari
+15;2;1098;0;book1=gods2;book2=diary_of_noira_liv;book3=glorification_to_irmorom;book4=petition_for_zelphia;book5=petition_in_the_name_of_findari;book6=saint_cornelius;book7=usharas_garden
 16;2;396;0
 16;2;264;0
 17;2;320;0
