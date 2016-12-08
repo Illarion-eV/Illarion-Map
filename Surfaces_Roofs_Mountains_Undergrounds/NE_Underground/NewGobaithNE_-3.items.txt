@@ -2774,7 +2774,7 @@
 243;220;273;333
 244;220;912;333
 240;221;2855;333
-243;221;521;333
+243;221;521;333;descriptionEn=The first to fall in the assault, Grayblossom;descriptionDe=Der Erste der beim Angriff gefallen ist, Grayblossom
 240;222;301;333
 235;223;910;333
 239;223;571;333
@@ -2863,7 +2863,7 @@
 234;235;1782;333
 240;235;3779;333
 241;235;287;333
-246;235;521;333
+246;235;521;333;descriptionEn=The name on this stone has been erroded by time.;descriptionDe=Der Name auf dem Stein ist im Laufe der Zeit verwittert.
 241;236;943;333
 255;236;1783;333
 256;236;912;333
@@ -2872,7 +2872,7 @@
 236;237;1245;333
 238;237;1783;333
 241;237;945;333
-249;237;520;333
+249;237;520;333;descriptionEn=Here lies the holiest Krimshi Chin;descriptionDe=Hier liegt die heilige Krimshi Chin
 252;237;1177;333
 233;238;2169;333
 241;238;301;333
@@ -2893,7 +2893,8 @@
 230;240;42;333
 230;240;42;333
 260;240;573;333
-262;240;3105;333
+262;240;523;333
+262;240;2598;333;book=usharas_garden
 222;241;1783;333
 224;241;3780;333
 230;241;42;333
@@ -2963,7 +2964,7 @@
 272;277;274;333
 280;277;1535;333
 249;278;160;333
-250;278;272;333
+250;278;272;333;descriptionEn=The statue inscription reads :  Every living thing is your brother or sister.;descriptionDe=Die Inschriften der Statue lauten:   Jedes Lebewesen ist deine Schwester oder dein Bruder.
 253;278;301;333
 258;278;160;333
 264;278;273;333
@@ -2988,7 +2989,7 @@
 259;280;301;333
 264;280;273;333
 268;280;161;333
-270;280;464;333
+270;280;464;333;descriptionEn=The statue inscription reads : The land on which you walk is a living thing.;descriptionDe=Die Inschriften der Statue lauten:   Der Boden auf dem du wandelst ist ein Lebewesen.
 274;280;273;333
 274;280;35;333
 247;281;1182;333
@@ -3086,7 +3087,7 @@
 274;286;1783;333
 276;286;3743;333
 277;286;301;333
-278;286;464;333
+278;286;464;333;descriptionEn=The statue inscription reads :  Those doing peaceful actions, live a peaceful life.;descriptionDe=Die Inschriften der Statue lauten:   Jene, welche friedliche Dinge tun, leben ein friedvolles Leben.
 281;286;1533;333
 239;287;273;333
 241;287;1790;333
@@ -3097,13 +3098,13 @@
 257;287;584;333
 260;287;1533;333
 261;287;1782;333
-262;287;464;333
+262;287;464;333;descriptionEn=The statue inscription reads : All races are children of the gods.;descriptionDe=Die Inschriften der Statue lauten:   Alle Völker sind die Kinder der Götter.
 264;287;1791;333
 265;287;3743;333
 267;287;1783;333
 267;287;426;333
 268;287;36;333
-268;287;3109;333
+268;287;3109;333;descriptionEn=With enough faith all is possible.;descriptionDe=Mit ausreichend Glauben ist Alles möglich.
 275;287;1783;333
 276;287;3743;333
 277;287;301;333
@@ -3209,7 +3210,7 @@
 267;295;1807;333
 276;295;3743;333
 277;295;301;333
-279;295;464;333
+279;295;464;333;descriptionEn=The statue inscription reads :  Harm none as you journey through life.;descriptionDe=Die Inschriften der Statue lauten:   Schade niemanden auf deinem Lebensweg.
 280;295;1532;333
 282;295;1783;333
 284;295;1532;333
@@ -3297,7 +3298,7 @@
 264;299;161;333
 266;299;161;333
 267;299;1791;333
-273;299;464;333
+273;299;464;333;descriptionEn=The statue inscription reads :  Live and die and be reborn in nature.;descriptionDe=Die Inschriften der Statue lauten:   Leben, Sterben und Wiedergeburt liegt in der Natur.
 274;299;273;333
 275;299;3518;333
 285;299;1783;333
