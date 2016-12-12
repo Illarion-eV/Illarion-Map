@@ -42,7 +42,7 @@
 10;2;36;0
 10;2;2609;333
 11;2;395;333
-12;2;3730;333
+12;2;3737;333
 13;2;3770;333
 15;2;856;0
 18;2;872;333
@@ -52,6 +52,7 @@
 8;3;747;0
 8;3;466;0
 8;3;2786;0
+12;3;3737;333
 14;3;1915;333;descriptionDe=Bildnis eines jungen Mannes in knapper Kleidung.;nameEn=Picture of a young men with few clothes.
 15;3;856;0
 17;3;2915;0
