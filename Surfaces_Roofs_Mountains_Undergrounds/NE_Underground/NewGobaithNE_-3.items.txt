@@ -2990,7 +2990,8 @@
 268;280;161;333
 270;280;464;333;descriptionEn=The statue inscription reads : The land on which you walk is a living thing.;descriptionDe=Die Inschriften der Statue lauten:   Der Boden auf dem du wandelst ist ein Lebewesen.
 274;280;273;333
-274;280;35;333
+275;280;792;333
+275;280;10;333
 247;281;1182;333
 252;281;1804;333
 256;281;273;333
