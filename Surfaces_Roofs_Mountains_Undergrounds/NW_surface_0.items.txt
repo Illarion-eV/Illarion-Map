@@ -26787,7 +26787,6 @@
 418;371;3082;333;descriptionDe=Cadomyr, Katanbi Wüste, Schattenland - Gefahr!;descriptionEn=Cadomyr, Katanbi Desert, Shadowland - Danger!
 419;371;2927;333
 421;371;158;0
-421;371;401;333
 422;371;1276;333
 428;371;914;333
 434;371;623;333
