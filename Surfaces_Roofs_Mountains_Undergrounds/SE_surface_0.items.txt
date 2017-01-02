@@ -25613,7 +25613,7 @@
 388;314;1783;599
 388;314;890;599
 392;314;3389;599
-392;314;3273;333;descriptionDe=Schlafsaal im Obergeschoss;descriptionEn=Dormitory upstaris
+392;314;3273;333;descriptionDe=Schlafsaal im Obergeschoss;descriptionEn=Dormitory upstairs
 393;314;3394;599
 396;314;2877;599
 397;314;2877;599
