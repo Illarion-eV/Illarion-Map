@@ -8835,7 +8835,7 @@
 151;336;3097;333
 152;336;3097;333
 157;336;3093;333
-157;336;1212;333;descriptionDe=Im Käfig sitzt eine einzelne, völlig abgemagerte Henne. Sie scheint dem Tode nah.;descriptionEn=A single hen is sitting in the cage. She looks very starved and appears to be close to dieing.
+157;336;1212;333;descriptionDe=Im Käfig sitzt eine einzelne, völlig abgemagerte Henne. Sie scheint dem Tode nah.;descriptionEn=A single hen is sitting in the cage. She looks very starved and appears to be close to dying.
 158;336;627;333
 159;336;622;333
 169;336;980;333
