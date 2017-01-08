@@ -6519,11 +6519,12 @@
 193;307;3326;333
 194;307;3300;333
 195;307;3304;333
-195;307;2873;333
 196;307;3300;333
 197;307;3312;333
 198;307;3304;333
+198;307;290;333
 199;307;3326;333
+199;307;272;333;descriptionEn=A statue to Oldra, Patron of Farmers, smiles gracefully to all who love to grow green things.;descriptionDe=Eine Statue Oldras, Schutzpatronin der Landwirte, lächelt anumtig zu allen, die es lieben grüne Dinge anzubauen.
 0;308;287;333
 80;308;287;0
 81;308;287;0
@@ -6533,8 +6534,9 @@
 190;308;740;333
 192;308;740;333
 193;308;3309;333
-197;308;747;333
+195;308;741;333
 199;308;3309;333
+199;308;249;333
 0;309;287;333
 81;309;287;0
 103;309;1783;0
@@ -6545,6 +6547,7 @@
 186;309;1395;333
 187;309;3303;333
 193;309;3305;333
+197;309;212;333
 199;309;3305;333
 0;310;287;333
 48;310;287;333
@@ -6605,7 +6608,9 @@
 192;310;1406;333
 193;310;3309;333
 193;310;751;333;descriptionDe=Das Gemälde zeigt einen steinernen Altar im Wald. Die Sonne bricht gerade durch die Bäume. Links unten sieht man die Initialen AD.;descriptionEn=The picture shows a stone shrine in the forest. The sun is rising. One can see in the left lower corner the initials AD.
-198;310;212;333
+196;310;213;333
+197;310;320;333
+198;310;215;333
 199;310;3313;333
 200;310;301;333
 201;310;301;333
@@ -6677,9 +6682,11 @@
 187;311;3315;333;lockId=401;descriptionDe=Troll's Bane;descriptionEn=Troll's Bane;doorLock=unlocked
 192;311;214;333
 193;311;3305;333
-197;311;213;333
-198;311;36;333
+196;311;213;333
+197;311;320;333
+198;311;215;333
 199;311;3309;333
+199;311;1914;333;descriptionDe=Dieses Gemälde zeigt mehrere Halblinge auf dem Gebiet Lachen und Ernte Getreide an einem sonnigen Tag.;descriptionEn=This painting shows several halflings in the field laughing and harvesting grain on a sunny day.
 203;311;396;333
 204;311;213;333
 205;311;2885;333
@@ -6756,7 +6763,9 @@
 190;312;178;333;descriptionDe=oder Bandage;descriptionEn=Bandages
 193;312;3309;333
 193;312;276;333
-198;312;214;333
+196;312;213;333
+197;312;320;333
+198;312;215;333
 199;312;3305;333
 199;312;396;333
 205;312;214;333
@@ -6790,6 +6799,7 @@
 187;313;3303;333
 192;313;741;333
 193;313;3305;333
+197;313;214;333
 199;313;3309;333
 207;313;301;333
 0;314;287;333
@@ -6848,7 +6858,6 @@
 193;314;3309;333
 193;314;396;333
 199;314;3305;333
-199;314;1914;333
 205;314;212;333
 206;314;396;333
 207;314;301;333
