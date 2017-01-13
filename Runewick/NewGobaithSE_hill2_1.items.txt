@@ -14,7 +14,6 @@
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 0;0;629;333
 1;0;627;333
-0;1;1783;333
 1;1;629;333
 0;2;629;333
 1;2;629;333
