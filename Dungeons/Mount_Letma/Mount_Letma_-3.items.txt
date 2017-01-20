@@ -137,8 +137,8 @@
 12;4;1360;333;letmaChest=true
 13;4;1246;333
 15;4;1272;333
+15;4;2855;333
 16;4;2805;333;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe L prangt. ;descriptionEn=As you stare at the pillar you notice a fiery letter L emblazoned in the stonework. 
-16;4;359;333
 17;4;3095;333
 18;4;233;333
 19;4;75;333
@@ -190,7 +190,6 @@
 32;5;233;333
 33;5;3780;333
 34;5;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter D emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe D prangt. 
-34;5;359;333
 35;5;233;333
 36;5;1367;333;letmaChest=true
 37;5;623;333
@@ -220,6 +219,7 @@
 25;6;287;333
 33;6;1272;333
 35;6;3093;333
+35;6;2855;333
 36;6;8;333;letmaChest=true
 37;6;623;333
 38;6;287;333
@@ -370,9 +370,7 @@
 63;10;1272;333
 66;10;1265;333
 67;10;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter A emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe A prangt. 
-67;10;359;333
 72;10;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter E emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe E prangt. 
-72;10;359;333
 73;10;1254;333
 74;10;1276;333
 75;10;623;333
@@ -408,6 +406,7 @@
 67;11;1272;333
 71;11;1265;333
 72;11;1272;333
+73;11;2855;333
 74;11;1246;333
 75;11;623;333
 76;11;287;333
@@ -1287,8 +1286,8 @@
 44;59;623;333
 45;59;630;333
 48;59;407;333
+48;59;2855;333
 49;59;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter R emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe R prangt. 
-49;59;359;333
 50;59;1254;333
 51;59;629;333
 52;59;622;333
@@ -1387,6 +1386,7 @@
 47;62;1272;333
 48;62;1265;333
 51;62;1266;333
+51;62;2855;333
 52;62;1272;333
 53;62;629;333
 54;62;622;333
@@ -1416,7 +1416,6 @@
 49;63;1265;333
 50;63;1266;333
 52;63;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter E emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe E prangt. 
-52;63;359;333
 53;63;3098;333
 55;63;66;0;markerstone=278
 56;63;233;333
