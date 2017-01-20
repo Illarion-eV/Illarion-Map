@@ -23919,7 +23919,7 @@
 487;298;3395;333
 487;298;3394;333
 488;298;3395;333
-488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons;book4=dubbels
+488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons;book4=dubbels;book5=magie_gift
 489;298;3382;333
 490;298;3395;333
 490;298;266;333;book1=arcania_basics;book2=arcane_planes;book3=arcania_lizzard

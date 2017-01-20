@@ -1559,7 +1559,7 @@
 254;110;2875;333
 255;110;2875;333
 261;110;921;333
-261;110;267;333;book1=zzarnkska;book2=letmasecret;book3=compositionworld;book4=arcania_lizzard;book5=singingwell;book6=sky;book7=usharas_garden;book8=saint_cornelius
+261;110;267;333;book1=zzarnkska;book2=letmasecret;book3=compositionworld;book4=arcania_lizzard;book5=singingwell;book6=sky;book7=usharas_garden;book8=saint_cornelius;book9=magie_gift
 438;110;856;333
 442;110;320;333
 443;110;320;333

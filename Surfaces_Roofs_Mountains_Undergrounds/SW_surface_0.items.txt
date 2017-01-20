@@ -5850,7 +5850,7 @@
 130;40;3245;333
 139;40;218;333
 141;40;3247;333
-141;40;267;0;book1=magic_gems;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret;book5=arcania_lizzard
+141;40;267;0;book1=magic_gems;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret;book5=arcania_lizzard;book6=magie_gift
 142;40;287;333
 164;40;287;0
 165;40;287;333
