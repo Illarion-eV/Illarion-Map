@@ -22515,10 +22515,10 @@
 286;282;884;599
 286;282;1862;599
 286;282;42;599
-287;282;301;333
-288;282;301;599
-289;282;301;599
-290;282;301;599
+287;282;897;333
+288;282;898;333
+289;282;897;333
+290;282;898;333
 291;282;273;333
 325;282;1790;333
 333;282;273;333
@@ -22618,12 +22618,9 @@
 276;283;402;333
 281;283;273;333
 282;283;1791;333
-287;283;691;333
-287;283;249;333
-288;283;691;599
-288;283;249;599
-289;283;691;599
-290;283;301;599
+287;283;3913;333;descriptionEn=Carved on this wooden column is a sprawling landscape of barren hills and fields. Trees sprout up from the ground, their limbs empty of leafs. A seemingly dead world overshadowed by dark and foreboding thunderclouds overhead.;descriptionDe=Geschnitzt in die Oberfläche der hölzernen Säule ist eine ausgedehnte Landschaft aus öden Hügeln und Feldern. Bäume sprießen aus dem Boden, ihr Geäst ist kahl. Eine scheinbar tote Welt, die von dunklen und dichten Gewittern überschattet ist.
+289;283;3913;333;descriptionDe=Geschnitzte geknüpfte Reben ranken sich um die hölzerne Säule und Blumen sprießen aus einer Landschaft wilder Gräser.;descriptionEn=Carved knotted vines twist their way around the wooden column and flowers spring forth amongst a landscape of wild grasses. 
+290;283;897;333
 330;283;274;333
 335;283;568;599
 336;283;1783;333
@@ -22701,8 +22698,7 @@
 265;284;3458;333
 268;284;1783;333
 277;284;274;599
-289;284;691;599
-290;284;301;599
+290;284;898;333
 325;284;274;333
 327;284;586;333
 329;284;273;333
@@ -22789,9 +22785,7 @@
 279;285;1158;599
 282;285;1791;333
 283;285;273;333
-287;285;361;333;god=9
-289;285;691;599
-290;285;301;599
+290;285;361;333;god=9
 323;285;1817;333
 339;285;273;333
 347;285;877;599
@@ -22904,9 +22898,7 @@
 270;286;1782;333
 271;286;3083;333;descriptionDe=Vierbeiniger Roter Vogel, Hafen, Runewick;descriptionEn=Quadruped Red Bird, Harbour, Runewick
 283;286;274;333
-288;286;965;599
-289;286;691;599
-290;286;301;599
+290;286;898;333
 320;286;338;333
 325;286;1782;333
 327;286;275;599
@@ -22983,8 +22975,9 @@
 277;287;2170;333
 279;287;3581;333
 281;287;2170;333
-289;287;691;599
-290;287;301;599
+287;287;3913;333;descriptionDe=In die Holzsäule ist eine belebte Küche geschnitzt. Brot wird gebacken, Eintopf dampft und Fleisch wird über dem Feuer geröstet. Große Platten, gefüllt mit Essen und Trinken werden zu den Tischen getragen. Leute versammeln sich, speisen und lachen.;descriptionEn=On this wooden column is carved a busy kitchen. Bread is being baked, stew is steaming, and meat is being roasted over a fire. Giant platters of food are taken to tables, filled with food and drink. People gather, eating, drinking, and laughing.
+289;287;3913;333;descriptionDe=Sensen tragende Bauern arbeiten um die Holzsäule herum und ernten Korn. Andere pflücken Obst von übervollen Bäumen und legen sie in überquellende Körbe zu ihren Füßen. Gemüse sprießt aus dem fruchtbaren Boden, geerntet und auf Schubkarren abgelegt.;descriptionEn=Peasants carrying scythes work around the wood column, gathering grain. Others pick fruits from bountiful trees, placing them in overflowing baskets at their feet. Vegetables sprout up from the fertile soil, only to be pulled and put in wheelbarrows.
+290;287;897;333
 334;287;1804;333
 335;287;301;599
 336;287;301;333
@@ -23077,13 +23070,10 @@
 286;288;884;599
 286;288;1862;599
 286;288;42;599
-287;288;691;333
-287;288;301;333
-288;288;691;599
-288;288;301;599
-289;288;691;599
-289;288;301;599
-290;288;301;599
+287;288;897;333
+288;288;898;333
+289;288;897;333
+290;288;898;333
 320;288;1782;333
 333;288;3892;333
 334;288;301;599
@@ -26697,6 +26687,7 @@
 450;332;396;599
 451;332;3362;599
 454;332;338;599
+332;333;1862;333
 348;333;1783;333
 380;333;3706;333
 382;333;934;599
@@ -27254,6 +27245,8 @@
 102;345;615;333
 103;345;615;333
 104;345;615;333
+323;345;3913;333;descriptionDe=Oldra - Göttin des Lebens und der Fruchtbarkeit - segne unsere Gärten, Felder und Zuchttiere; neugeborene Kinder, gebärende Frauen, und der Geburt als solches.;descriptionEn=Oldra - Goddess of life and fertility - bless our gardens, fields and farm animals, newborn children, women giving birth, and birth itself.
+324;345;1862;333
 332;345;3743;333
 335;345;3892;333
 337;345;1783;333
@@ -27334,6 +27327,7 @@
 320;347;3892;333
 321;347;3892;333
 322;347;3892;333
+324;347;3581;333
 331;347;1817;333
 334;347;1804;333
 337;347;1783;333
@@ -27369,7 +27363,6 @@
 316;348;627;333
 317;348;626;333
 320;348;274;333
-324;348;3743;333
 328;348;1783;333
 337;348;1807;333
 339;348;1783;333
