@@ -18990,7 +18990,7 @@
 143;338;1272;0
 145;338;433;0
 226;338;3102;333
-227;338;2805;333;descriptionEn=The pillar has a slot in it about the size of a silver coin. Below are the words, "A silver coin donation to the cause and a drop of blood of sacrifice are required to move forward." ((To insert a coin, double click it.)) ;descriptionDe=Die Säule hat einen Schlitz, ungefähr in der Größe einer Silbermünze. Darunter stehen die Worte "Die Spende von einem Silberstück für den Zweck und ein Tropfen Blut als Tribut werden benötigt um voranzuschreiten. ((Um eine Münze einzuwerfen, benutze sie mit Doppelklick.))
+227;338;2805;333;descriptionEn=The pillar has a slot in it about the size of a silver coin. Below are the words, "A silver coin donation to the cause and a drop of blood of sacrifice are required to move forward." ((To insert a coin, double click it.)) ;descriptionDe=Die Säule hat einen Schlitz, ungefähr in der Größe einer Silbermünze. "Die Spende von einem Silberstück für den Zweck und ein Tropfen Blut als Tribut werden benötigt um voranzuschreiten. (Um eine Münze einzuwerfen, benutze sie mit Doppelklick.)
 228;338;623;333
 229;338;287;333
 230;338;287;333
@@ -19437,7 +19437,7 @@
 147;344;433;0
 228;344;1795;333
 231;344;3093;333
-232;344;2805;333;descriptionEn=The pillar has a slot in it about the size of a silver coin. Below are the words, "A silver coin donation to the cause and a drop of blood of sacrifice are required to move forward." ((To insert a coin, double click it.)) ;descriptionDe=Die Säule hat einen Schlitz, ungefähr in der Größe einer Silbermünze. Darunter stehen die Worte "Die Spende von einem Silberstück für den Zweck und ein Tropfen Blut als Tribut werden benötigt um voranzuschreiten. ((Um eine Münze einzuwerfen, benutze sie mit Doppelklick.))
+232;344;2805;333;descriptionEn=The pillar has a slot in it about the size of a silver coin. Below are the words, "A silver coin donation to the cause and a drop of blood of sacrifice are required to move forward." ((To insert a coin, double click it.)) ;descriptionDe=Die Säule hat einen Schlitz, ungefähr in der Größe einer Silbermünze. "Die Spende von einem Silberstück für den Zweck und ein Tropfen Blut als Tribut werden benötigt um voranzuschreiten. (Um eine Münze einzuwerfen, benutze sie mit Doppelklick.)
 233;344;623;333
 234;344;287;333
 235;344;287;333
