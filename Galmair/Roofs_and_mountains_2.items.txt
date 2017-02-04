@@ -8547,7 +8547,7 @@
 170;325;2937;333;descriptionEn=These seem to be the remains of an elf.;descriptionDe=Dies scheinen die sterblichen Überreste einer Elfin zu sein.
 171;325;3101;333
 172;325;320;333;nameDe=Holzpodest;nameEn=Wooden podium
-172;325;693;333;descriptionDe=Die goldene Statue, die auf einem aufwendig geschnitzten Podest steht, hat die Gestalt eines boshaft aussehenden Dämons.;descriptionEn=The golden statue sitting on a finely crafted wooden podium, portrays an evil looking demon.;nameDe=Dämonenstatue;nameEn=Statue of a demon
+172;325;693;333;nameEn=Statue of a Dark Paladin;descriptionEn=The statue depicts a dark paladin holding a dragon egg.;nameDe=Die Statue eines dunklen Paladins;descriptionDe=Die Statue stellt einen dunklen Paladin dar, der ein Drachenei hält.
 175;325;1385;333;nameDe=Brennende Felsen;nameEn=Burning rocks
 177;325;1254;333
 179;325;627;333
