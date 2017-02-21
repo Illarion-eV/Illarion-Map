@@ -23611,7 +23611,7 @@
 417;348;1147;333
 418;348;2878;333
 423;348;854;333
-423;348;1120;333;book1=lor_angur;book2=blud_an_fiar_ork_magik
+423;348;1120;333;book1=lor_angur;book2=blud_an_fiar_ork_magik;book3=arcania_basics
 424;348;1278;333
 425;348;623;333
 426;348;287;333
