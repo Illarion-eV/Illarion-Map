@@ -4130,7 +4130,7 @@
 283;80;896;333
 284;80;857;333
 284;80;896;333
-285;80;861;333;doorLock=unlocked;lockId=133;descriptionEn=Flat Obisidian;descriptionDe=Wohnung Obsidian
+285;80;861;333;lockId=133;descriptionEn=Flat Obisidian;descriptionDe=Wohnung Obsidian;doorLock=locked
 286;80;869;333
 287;80;855;333
 288;80;855;333
@@ -4849,7 +4849,7 @@
 253;86;855;333
 254;86;855;333
 255;86;855;333
-256;86;863;333;doorLock=unlocked;lockId=131;descriptionDe=Wohnung Saphir;descriptionEn=Flat Sapphire
+256;86;863;333;lockId=131;descriptionDe=Wohnung Saphir;descriptionEn=Flat Sapphire;doorLock=locked
 257;86;855;333
 258;86;855;333
 259;86;855;333
@@ -4859,7 +4859,7 @@
 262;86;855;333
 263;86;855;333
 263;86;645;333
-264;86;863;333;doorLock=unlocked;lockId=132;descriptionEn=Flat Diamond;descriptionDe=Wohnung Diamant
+264;86;863;333;lockId=132;descriptionEn=Flat Diamond;descriptionDe=Wohnung Diamant;doorLock=locked
 265;86;855;333
 266;86;855;333
 266;86;855;333
