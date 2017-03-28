@@ -26939,7 +26939,6 @@
 222;252;629;333
 229;252;3706;333
 230;252;519;333;descriptionEn=Those who still believe and follow the path can find what they are looking for.;descriptionDe=Jene, welche glauben und dem Weg folgen, können was sie suchen finden.
-230;252;1247;333
 231;252;421;333
 231;252;911;333
 243;252;1272;333
@@ -27366,7 +27365,6 @@
 99;255;287;333
 139;255;233;333
 147;255;1206;333
-147;255;1245;333
 151;255;627;333
 152;255;629;333
 156;255;2937;333
