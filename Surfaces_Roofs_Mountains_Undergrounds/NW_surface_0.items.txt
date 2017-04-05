@@ -1622,7 +1622,7 @@
 243;112;921;333
 259;112;320;333
 261;112;921;333
-261;112;267;333
+261;112;267;333;book1=origionofmagic;book2=firstaid;book3=historysilverbrand
 335;112;338;333
 438;112;856;333
 442;112;320;333
@@ -12028,7 +12028,7 @@
 359;217;954;0
 360;217;266;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=orcish_history_and_culture;book5=blud_an_fiar_ork_magik;book6=about_flame_orks
 362;217;266;0;book1=god_bragon;book2=god_eldan;book3=god_findari;book4=god_tanora;book5=god_ushara;book6=god_cherga;book7=god_irmorom;book8=god_nargun;book9=god_ronagan
-364;217;266;0;book1=festival_relationships;book2=about_the_humans_by_thomas_berryard
+364;217;266;0;book1=festival_relationships;book2=about_the_humans_by_thomas_berryard;book3=historysilverbrand
 375;217;267;0;book1=slimes;book2=alchemy;book3=magic_gems
 376;217;854;0
 377;217;287;333
@@ -13273,7 +13273,7 @@
 348;226;513;333
 355;226;319;333
 356;226;856;333
-357;226;267;333;book1=mana_streams;book2=dubbels
+357;226;267;333;book1=mana_streams;book2=dubbels;book3=origionofmagic
 359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3;book4=celegails_songbook;book5=dwarven_poems
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3
@@ -19215,7 +19215,7 @@
 415;285;1101;333
 415;285;1101;333
 420;285;3370;333
-420;285;267;333;book1=craftman_story
+420;285;267;333;book1=craftman_story;book2=firstaid
 421;285;287;333
 422;285;287;333
 422;285;1273;0

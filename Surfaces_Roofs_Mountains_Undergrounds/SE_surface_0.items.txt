@@ -20323,7 +20323,7 @@
 399;256;287;599
 400;256;622;599
 401;256;1101;599
-402;256;267;599
+402;256;267;599;book1=firstaid
 406;256;2876;599
 407;256;550;599
 408;256;1102;599
@@ -22093,7 +22093,7 @@
 440;277;3245;599
 444;277;1122;599;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history
 444;277;1120;599;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history
-449;277;1122;599;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
+449;277;1122;599;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=historysilverbrand
 449;277;1120;599;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
 452;277;3104;599
 454;277;1122;599;book1=tihgoracs_book_of_combat;book2=clansmen;book3=the_pointy_end
@@ -23913,7 +23913,7 @@
 488;298;266;333;book1=artifacts;book2=mana_streams;book3=daemons;book4=dubbels;book5=magie_gift
 489;298;3382;333
 490;298;3395;333
-490;298;266;333;book1=arcania_basics;book2=arcane_planes;book3=arcania_lizzard
+490;298;266;333;book1=arcania_basics;book2=arcane_planes;book3=arcania_lizzard;book4=origionofmagic
 491;298;681;333
 492;298;301;333
 125;299;629;333
