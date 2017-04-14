@@ -6950,7 +6950,7 @@
 90;48;1100;333
 91;48;1100;333
 92;48;1100;333
-93;48;1109;333;descriptionDe=Villa Reginald;descriptionEn=Villa Reginald;lockId=312;doorLock=locked
+93;48;1109;333;descriptionDe=Villa Reginald;descriptionEn=Villa Reginald;doorLock=locked;lockId=342
 94;48;1100;333
 95;48;1100;333
 96;48;1100;333
@@ -12551,7 +12551,7 @@
 124;92;320;0
 124;92;2184;333
 127;92;8;0
-138;92;3225;333;descriptionDe=Wohnungsquartier - Glaube & Gehorsam;descriptionEn=Flat quarter - Faith & Obedience;lockId=321;doorLock=locked
+138;92;3225;333;descriptionDe=Wohnungsquartier - Glaube & Gehorsam;descriptionEn=Flat quarter - Faith & Obedience;doorLock=locked;lockId=361
 142;92;742;333
 144;92;3247;333
 144;92;8;333
@@ -12665,8 +12665,8 @@
 87;93;1100;333
 88;93;1100;333
 89;93;1100;333
-90;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLock=locked
-91;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;lockId=311;doorLock=locked
+90;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;doorLock=locked;lockId=341
+91;93;1109;333;descriptionDe=Villa Edward;descriptionEn=Villa Edward;doorLock=locked;lockId=341
 92;93;1100;333
 93;93;1100;333
 94;93;1100;333
@@ -13407,7 +13407,7 @@
 114;98;6;599
 121;98;273;333
 123;98;274;333
-137;98;3225;333;descriptionDe=Wohnungsquartier - Ehrlichkeit & Gerechtigkeit;descriptionEn=Flat quarter - Truth & Justice;lockId=323;doorLock=locked
+137;98;3225;333;descriptionDe=Wohnungsquartier - Ehrlichkeit & Gerechtigkeit;descriptionEn=Flat quarter - Truth & Justice;doorLock=locked;lockId=363
 144;98;3247;333
 145;98;287;333
 154;98;287;333
@@ -13674,7 +13674,7 @@
 67;100;1783;333
 82;100;338;0
 87;100;1783;333
-94;100;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLock=locked
+94;100;1110;333;doorLock=locked;nameDe=Villa Wüstenfuchs;descriptionEn=Villa Desert Fox;lockId=340
 100;100;1101;333
 101;100;319;333
 103;100;3791;333
@@ -13818,13 +13818,13 @@
 63;101;274;333
 83;101;1783;0
 89;101;273;333
-94;101;1110;333;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310;doorLock=locked
+94;101;1110;333;doorLock=locked;lockId=340;descriptionDe=Villa Wüstenfuchs;descriptionEn=Villa Desert Fox
 98;101;213;333
 99;101;550;333
 100;101;1100;333
 100;101;1101;333
 101;101;1100;333
-102;101;1109;333;doorLock=locked;descriptionDe=Villa Rosaline;descriptionEn=Villa Rosaline;lockId=310
+102;101;1109;333;doorLock=locked;lockId=340;descriptionDe=Villa Wüstenfuchs;descriptionEn=Villa Desert Fox
 103;101;1100;333
 103;101;3292;333
 104;101;1102;333
@@ -14075,7 +14075,7 @@
 116;103;220;333
 123;103;36;333
 123;103;253;333
-136;103;3225;333;descriptionDe=Wohnungsquartier - Patriarchat;descriptionEn=Flat quarter - Patriarchy;lockId=325;doorLock=locked
+136;103;3225;333;descriptionDe=Wohnungsquartier - Patriarchat;descriptionEn=Flat quarter - Patriarchy;doorLock=locked;lockId=365
 140;103;214;333
 141;103;214;333
 146;103;3247;333

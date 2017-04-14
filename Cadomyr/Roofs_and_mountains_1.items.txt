@@ -5250,7 +5250,7 @@
 95;92;301;333
 136;92;433;333
 136;92;3593;333
-138;92;3225;333;descriptionDe=Wohnungsquartier - Ehre & Abstammung;descriptionEn=Flat quarter - Honour & Lineage;lockId=322;doorLock=locked
+138;92;3225;333;descriptionDe=Wohnungsquartier - Ehre & Abstammung;descriptionEn=Flat quarter - Honour & Lineage;doorLock=locked;lockId=362
 144;92;3247;333
 145;92;287;333
 149;92;273;0
@@ -5381,7 +5381,7 @@
 170;97;626;333
 135;98;433;333
 135;98;3593;333
-137;98;3225;333;descriptionDe=Wohnungsquartier - Courage;descriptionEn=Flat quarter - Courage;lockId=324;doorLock=locked
+137;98;3225;333;descriptionDe=Wohnungsquartier - Courage;descriptionEn=Flat quarter - Courage;doorLock=locked;lockId=364
 143;98;3260;333
 144;98;3247;333
 145;98;287;333
@@ -5511,11 +5511,11 @@
 171;102;878;0
 93;103;3124;333
 93;103;301;333
-95;103;1110;333;descriptionDe=Villa Rosaline - Balkon;doorLock=locked;lockId=310;descriptionEn=Villa Rosaline - Balcony
+95;103;1110;333;doorLock=locked;descriptionDe=Villa Wüstenfuchs;lockId=340;descriptionEn=Villa Desert Fox
 103;103;1102;333
 134;103;433;333
 134;103;3593;333
-136;103;3225;333;descriptionDe=Wohnungsquartier - Besitz;descriptionEn=Flat quarter - Property;lockId=326;doorLock=locked
+136;103;3225;333;descriptionDe=Wohnungsquartier - Besitz;descriptionEn=Flat quarter - Property;doorLock=locked;lockId=366
 139;103;2876;0
 140;103;2885;0
 140;103;1089;0
@@ -5784,7 +5784,7 @@
 85;112;683;333
 109;112;675;333
 128;112;674;333
-131;112;654;333
+131;112;654;333;descriptionDe=Schlangenturm;descriptionEn=Serpent Tower;lockId=367;doorLock=locked
 139;112;639;333
 146;112;629;333
 147;112;622;333
@@ -5795,7 +5795,7 @@
 84;113;683;333
 109;113;675;333
 128;113;674;333
-131;113;658;333
+131;113;658;333;descriptionDe=Schlangenturm;descriptionEn=Serpent Tower;lockId=367;doorLock=locked
 139;113;635;333
 139;113;403;333
 78;114;682;333
@@ -5841,8 +5841,8 @@
 134;115;632;333
 135;115;632;333
 135;115;3261;333
-136;115;652;333
-137;115;656;333
+136;115;652;333;descriptionDe=Schlangenturm;descriptionEn=Serpent Tower;lockId=367;doorLock=unlocked
+137;115;656;333;descriptionDe=Schlangenturm;descriptionEn=Serpent Tower;lockId=367;doorLock=unlocked
 138;115;632;333
 139;115;639;333
 139;115;632;333
@@ -5883,7 +5883,7 @@
 103;118;674;333
 112;118;675;333
 121;118;674;333
-134;118;654;333
+134;118;654;333;descriptionDe=Schlangenturm;descriptionEn=Serpent Tower;lockId=367;doorLock=locked
 137;118;212;333
 138;118;212;333
 139;118;639;333
@@ -5892,7 +5892,7 @@
 121;119;674;333
 122;119;1278;333
 123;119;1278;333
-134;119;658;333
+134;119;658;333;descriptionDe=Schlangenturm;descriptionEn=Serpent Tower;lockId=367;doorLock=locked
 137;119;665;333
 138;119;665;333
 139;119;635;333
