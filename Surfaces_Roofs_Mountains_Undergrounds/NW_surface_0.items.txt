@@ -1587,6 +1587,7 @@
 237;111;320;333
 238;111;320;333
 240;111;320;333
+240;111;2745;333;bookList=true
 241;111;320;333
 243;111;921;333
 243;111;267;333;book1=galmair_priester;book2=galmair_quartermaster;book3=galmair_translator;book4=glorification_to_irmorom;book5=in_the_name_of_nargun_or_not;book6=making_candles;book7=parchment_of_the_priests_of_eldan;book8=petition_for_zelphia;book9=petition_in_the_name_of_findari
@@ -11685,10 +11686,11 @@
 367;215;875;0
 368;215;396;0
 369;215;320;0
+369;215;2745;333;bookList=true
 370;215;320;0
 371;215;320;0
 372;215;320;0
-375;215;267;0;book1=weightsandmeasures
+375;215;267;0;book1=ritual_waterelemental_wascher;book2=clansmen;book3=artifacts;book4=mana_streams;book5=arcania_basics;book6=arcane_planes;book7=arcania_lizzard;book8=magie_gift
 376;215;854;0
 377;215;287;333
 377;215;287;333
@@ -12029,7 +12031,7 @@
 360;217;266;0;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=orcish_history_and_culture;book5=blud_an_fiar_ork_magik;book6=about_flame_orks
 362;217;266;0;book1=god_bragon;book2=god_eldan;book3=god_findari;book4=god_tanora;book5=god_ushara;book6=god_cherga;book7=god_irmorom;book8=god_nargun;book9=god_ronagan
 364;217;266;0;book1=festival_relationships;book2=about_the_humans_by_thomas_berryard;book3=historysilverbrand
-375;217;267;0;book1=slimes;book2=alchemy;book3=magic_gems
+375;217;267;0;book1=slimes;book2=alchemy;book3=magic_gems;book4=weightsandmeasures
 376;217;854;0
 377;217;287;333
 377;217;287;333
@@ -13273,7 +13275,7 @@
 348;226;513;333
 355;226;319;333
 356;226;856;333
-357;226;267;333;book1=mana_streams;book2=dubbels;book3=origionofmagic
+357;226;267;333;book2=dubbels;book3=origionofmagic;book1=barhead_kings
 359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3;book4=celegails_songbook;book5=dwarven_poems
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3

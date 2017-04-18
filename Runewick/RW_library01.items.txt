@@ -93,14 +93,13 @@
 17;2;320;0
 17;2;2604;0
 18;2;320;0
-18;2;2621;0
+18;2;2745;333;bookList=true
 20;2;3800;333
 21;2;3800;333
 22;2;396;0
 23;2;320;0
 23;2;66;333;markerstone=255
-24;2;320;0
-24;2;505;0
+24;2;1098;333;book1=artifacts;book2=mana_streams;book3=arcania_basics;book4=arcane_planes;book5=arcania_lizzard;book6=magie_gift
 30;2;1862;0
 32;2;651;0
 32;2;131;0
@@ -116,7 +115,6 @@
 8;3;1147;0
 9;3;218;0
 14;3;3233;0;descriptionDe=Stadtverwaltung-Bibliothek;descriptionEn=City Hall - Library
-25;3;3693;333
 26;3;3693;333
 27;3;3693;333
 28;3;3693;333
@@ -276,7 +274,6 @@
 26;11;750;0
 28;11;3245;0
 32;11;320;0
-32;11;333;0
 32;11;1915;0;descriptionDe=Das Gemälde zeigt einen stolzen, farbenprächtigen Hahn. Rechts unten sieht man die Initialen AD.;descriptionEn=The picture shows a proud, colorful rooster. One can see in the right lower corner the initials AD.
 33;11;688;0
 33;11;3245;0

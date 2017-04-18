@@ -5482,7 +5482,7 @@
 129;38;260;333
 130;38;3245;333
 141;38;3247;333
-141;38;267;0;book1=tihgoracs_book_of_combat;book2=clansmen;book3=the_pointy_end
+141;38;267;0;book1=tihgoracs_book_of_combat;book2=clansmen;book3=the_pointy_end;book4=ritual_waterelemental_wascher;book5=artifacts;book6=mana_streams;book7=arcania_basics;book8=arcane_planes
 142;38;287;333
 164;38;287;0
 165;38;287;0
@@ -6119,6 +6119,7 @@
 129;42;260;333
 130;42;3245;333
 134;42;320;333
+134;42;2745;333;bookList=true
 135;42;320;333
 135;42;2852;333
 136;42;320;333
