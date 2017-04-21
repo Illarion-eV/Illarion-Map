@@ -12,3 +12,9 @@
 # 
 # You should have received a copy of the GNU Affero General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
+269;103;0;0;0
+270;103;0;0;0
+271;103;0;0;0
+272;103;0;0;0
+269;104;0;0;0
+270;104;0;0;0
