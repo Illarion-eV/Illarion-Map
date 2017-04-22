@@ -1623,7 +1623,7 @@
 243;112;921;333
 259;112;320;333
 261;112;921;333
-261;112;267;333;book1=origionofmagic;book2=firstaid;book3=historysilverbrand
+261;112;267;333;book1=origionofmagic;book2=firstaid;book3=historysilverbrand;book4=landillarion
 335;112;338;333
 438;112;856;333
 442;112;320;333

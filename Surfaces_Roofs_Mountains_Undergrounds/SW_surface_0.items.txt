@@ -5315,7 +5315,7 @@
 116;37;1813;333
 128;37;66;0;markerstone=331
 130;37;3245;333
-131;37;267;333;book1=abomination_runs_and_hides;book2=speech_rosaline_32_11_05;book3=cadomyr_order1
+131;37;267;333;book1=abomination_runs_and_hides;book2=speech_rosaline_32_11_05;book3=cadomyr_order1;book4=landillarion
 141;37;3247;333
 142;37;287;333
 167;37;287;0
