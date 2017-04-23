@@ -157,7 +157,7 @@
 13;11;215;0
 14;11;3651;333
 15;11;856;0
-16;11;266;0;book1=epos_ignis
+16;11;266;0;book1=epos_ignis;book2=firstaid
 18;11;266;0;book1=daemons;book2=zaras_defeated
 20;11;266;0;book1=arcania_basics;book2=arcane_planes
 21;11;854;0
