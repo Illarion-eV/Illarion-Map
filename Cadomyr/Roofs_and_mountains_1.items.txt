@@ -5945,7 +5945,6 @@
 135;122;396;333
 139;122;635;333
 128;123;674;333
-129;123;2927;333;rareness=4;nameDe=Aufgespießter Kopf;nameEn=Head on a Pike;descriptionEn=A head blackened from tar is hoisted onto a pike, facing the desert with empty eye sockets and grinning teeth to sharp to be exactly human.;descriptionDe=Ein von Teer geschwärzter Kopf auf einer Pike mit leeren, der Wüste zugewandten, Augenhöhlen. Die Zähne des grinsenden Gebisses wirken zu scharf um menschlich zu sein.
 134;123;632;333
 134;123;638;333
 135;123;640;333
