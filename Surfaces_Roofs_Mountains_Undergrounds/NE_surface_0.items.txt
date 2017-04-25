@@ -34995,7 +34995,7 @@
 179;319;1399;333
 184;319;1395;333
 185;319;3303;333
-186;319;267;333;book1=dwarven_poems;book2=poems_marina;book3=celegails_songbook;book4=snakehead;book5=elstree_battle
+186;319;267;333;book1=dwarven_poems;book2=poems_marina;book3=celegails_songbook;book4=snakehead;book5=elstree_battle;book6=landillarion
 188;319;213;333
 189;319;320;333
 190;319;320;333
@@ -39912,7 +39912,7 @@
 265;350;627;333
 279;350;427;333
 280;350;3299;333
-281;350;267;333
+281;350;267;333;book1=ritual_waterelemental_wascher;book2=artifacts
 284;350;396;333
 286;350;3265;333
 287;350;3301;333
@@ -40377,8 +40377,8 @@
 257;353;338;333
 269;353;626;333
 280;353;3303;333
-281;353;267;333
-286;353;266;333
+281;353;267;333;book1=resists_the_stake
+286;353;266;333;book1=journal_of_abbot_elzechiel
 287;353;3297;333
 288;353;301;333
 289;353;301;1

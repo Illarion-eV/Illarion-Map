@@ -99,7 +99,7 @@
 22;2;396;0
 23;2;320;0
 23;2;66;333;markerstone=255
-24;2;1098;333;book1=artifacts;book2=mana_streams;book3=arcania_basics;book4=arcane_planes;book5=arcania_lizzard;book6=magie_gift
+24;2;1098;333;book1=artifacts;book2=mana_streams;book3=arcania_basics;book4=arcane_planes;book5=arcania_lizzard;book6=magie_gift;book7=origionofmagic
 30;2;1862;0
 32;2;651;0
 32;2;131;0

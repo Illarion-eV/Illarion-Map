@@ -1623,7 +1623,7 @@
 243;112;921;333
 259;112;320;333
 261;112;921;333
-261;112;267;333;book1=origionofmagic;book2=firstaid;book3=historysilverbrand
+261;112;267;333;book1=origionofmagic;book2=firstaid;book3=historysilverbrand;book4=landillarion
 335;112;338;333
 438;112;856;333
 442;112;320;333
@@ -11690,7 +11690,7 @@
 370;215;320;0
 371;215;320;0
 372;215;320;0
-375;215;267;0;book1=ritual_waterelemental_wascher;book2=clansmen;book3=artifacts;book4=mana_streams;book5=arcania_basics;book6=arcane_planes;book7=arcania_lizzard;book8=magie_gift
+375;215;267;0;book1=ritual_waterelemental_wascher;book2=origionofmagic;book3=artifacts;book4=mana_streams;book5=arcania_basics;book6=arcane_planes;book7=arcania_lizzard;book8=magie_gift;book9=dubbels
 376;215;854;0
 377;215;287;333
 377;215;287;333
@@ -12279,7 +12279,7 @@
 348;219;854;333
 348;219;221;333
 355;219;856;333
-375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_quartermaster;book6=a_friend_in_need
+375;219;267;0;book1=art_of_trade;book2=craftman_story;book3=alberto_dicker;book4=galmair_merchants;book5=galmair_diplomants
 376;219;854;0
 377;219;287;333
 378;219;287;333
@@ -13275,7 +13275,7 @@
 348;226;513;333
 355;226;319;333
 356;226;856;333
-357;226;267;333;book2=dubbels;book3=origionofmagic;book1=barhead_kings
+357;226;267;333;book1=barhead_kings;book2=a_friend_in_need
 359;226;267;0;book1=book_of_jokes;book2=book_of_jokes2;book3=book_of_jokes3;book4=celegails_songbook;book5=dwarven_poems
 361;226;267;0;book1=galmair_on_cadomyr;book2=galmair_on_runewick
 363;226;267;0;book1=gods3
@@ -14167,7 +14167,7 @@
 386;235;266;333;book1=a_question_of_honour;book2=the_pointy_end
 387;235;853;333
 388;235;853;333
-388;235;266;333;book1=galmair_merchants;book2=galmair_quartermaster;book3=galmair_on_galmair;book4=rules_galmair
+388;235;266;333;book1=galmair_on_galmair;book4=rules_galmair
 389;235;853;333
 389;235;396;333
 389;235;1265;333
@@ -14258,7 +14258,7 @@
 383;236;287;333
 384;236;622;333
 385;236;628;0
-390;236;267;333;book1=galmair_hangman;book2=galmair_headhunter;book3=galmair_on_cadomyr;book4=galmair_on_runewick
+390;236;267;333;book3=galmair_hangman;book2=galmair_headhunter;book1=galmair_on_cadomyr;book2=galmair_on_runewick;book5=galmair_quartermaster;book6=galmair_forces
 391;236;856;333
 396;236;854;333
 396;236;42;333

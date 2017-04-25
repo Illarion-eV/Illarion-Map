@@ -7277,9 +7277,9 @@
 172;125;583;333
 174;125;585;333
 258;125;856;333
-259;125;266;333;book1=galmair_merchants;book2=galmair_translator;book3=galmair_hangman
+259;125;266;333;book1=galmair_merchants;book4=galmair_translator;book3=galmair_charge;book2=galmair_adjutant;book5=galmair_cia;book6=galmair_entertainment
 263;125;858;333
-263;125;267;333;book1=magic_gems;book2=gods2;book3=the_pointy_end
+263;125;267;333;book1=magic_gems;book2=gods2;book3=the_pointy_end;book4=landillarion
 268;125;1272;333
 269;125;1782;0
 270;125;870;0

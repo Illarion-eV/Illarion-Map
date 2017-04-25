@@ -21926,7 +21926,7 @@
 443;275;1083;599
 444;275;3220;599
 444;275;3223;599
-447;275;1121;599;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
+447;275;1121;599;book1=landillarion
 447;275;1119;599;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
 449;275;3220;599
 449;275;3223;599
@@ -22092,7 +22092,7 @@
 440;277;3245;599
 444;277;1122;599;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history
 444;277;1120;599;book1=runewick_on_runewick;book2=history_of_runewick;book3=lecture_runewick_history
-449;277;1122;599;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=historysilverbrand
+449;277;1122;599;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=historysilverbrand;book5=lizardmen_history_and_culture;book6=marriage_broker
 449;277;1120;599;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture
 452;277;3104;599
 454;277;1122;599;book1=tihgoracs_book_of_combat;book2=clansmen;book3=the_pointy_end
@@ -22842,7 +22842,7 @@
 454;285;1082;599
 456;285;396;599
 456;285;396;599
-457;285;1121;599;book1=onionball;book2=eating_right
+457;285;1121;599;book1=onionball;book2=eating_right;book3=dictionary_orc
 457;285;1119;599;book1=onionball;book2=eating_right
 458;285;3252;599
 459;285;688;599
