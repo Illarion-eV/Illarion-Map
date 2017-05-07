@@ -24775,7 +24775,7 @@
 487;306;3394;333
 488;306;747;333
 491;306;3383;333
-491;306;649;333
+491;306;649;333;descriptionDe=Ein dunkles magisches Glühen zeigt, dass die Kiste magisch gesichert ist.;descriptionEn=A dark glowing shows the chest is magically protected.
 492;306;301;333
 225;307;1170;333
 230;307;1170;333
