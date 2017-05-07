@@ -23806,7 +23806,7 @@
 388;297;320;333
 388;297;2752;999
 391;297;635;599
-391;297;267;599;book1=magic_gems;book2=the_pointy_end
+391;297;267;599;book1=magic_gems;book2=the_pointy_end;book3=elstree_battle
 398;297;643;599
 399;297;689;599
 402;297;338;599
