@@ -21926,7 +21926,7 @@
 443;275;1083;599
 444;275;3220;599
 444;275;3223;599
-447;275;1121;599;book1=landillarion
+447;275;1121;599;book1=landillarion;book2=grugmutz
 447;275;1119;599;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
 449;275;3220;599
 449;275;3223;599
