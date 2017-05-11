@@ -21926,7 +21926,7 @@
 443;275;1083;599
 444;275;3220;599
 444;275;3223;599
-447;275;1121;599;book1=landillarion
+447;275;1121;599;book1=landillarion;book2=grugmutz
 447;275;1119;599;book1=lizardmen_history_and_culture;book2=marriage_broker;book3=dictionary_orc
 449;275;3220;599
 449;275;3223;599
@@ -23806,7 +23806,7 @@
 388;297;320;333
 388;297;2752;999
 391;297;635;599
-391;297;267;599;book1=magic_gems;book2=the_pointy_end
+391;297;267;599;book1=magic_gems;book2=the_pointy_end;book3=elstree_battle
 398;297;643;599
 399;297;689;599
 402;297;338;599
@@ -24775,7 +24775,7 @@
 487;306;3394;333
 488;306;747;333
 491;306;3383;333
-491;306;649;333
+491;306;649;333;descriptionDe=Ein dunkles magisches Glühen zeigt, dass die Kiste magisch gesichert ist.;descriptionEn=A dark glowing shows the chest is magically protected.
 492;306;301;333
 225;307;1170;333
 230;307;1170;333
