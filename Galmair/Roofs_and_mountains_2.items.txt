@@ -7600,7 +7600,7 @@
 134;307;3095;333
 152;307;1250;333
 154;307;1276;333
-163;307;693;333;nameDe=Dämonenstatue;nameEn=Statue of a demon
+163;307;693;333;nameDe=Die Statue eines dunklen Paladins;nameEn=Statue of a Dark Paladin
 164;307;613;333
 171;307;3095;333
 179;307;3655;333
@@ -7824,7 +7824,7 @@
 150;310;273;333
 152;310;1161;333
 159;310;1278;333
-163;310;693;333;nameDe=Dämonenstatue;nameEn=Statue of a demon
+163;310;693;333;nameDe=Die Statue eines dunklen Paladins;nameEn=Statue of a Dark Paladin
 164;310;613;333
 167;310;473;333
 171;310;473;333
@@ -8038,8 +8038,8 @@
 170;313;3093;333
 170;313;2805;333
 170;313;2039;333
-171;313;692;333;nameDe=Dämonenstatue;nameEn=Statue of a demon
-174;313;692;333;nameDe=Dämonenstatue;nameEn=Statue of a demon
+171;313;692;333;nameDe=Die Statue eines dunklen Paladins;nameEn=Statue of a Dark Paladin
+174;313;692;333;nameDe=Die Statue eines dunklen Paladins;nameEn=Statue of a Dark Paladin
 175;313;3095;333
 175;313;3095;333
 175;313;2805;333
