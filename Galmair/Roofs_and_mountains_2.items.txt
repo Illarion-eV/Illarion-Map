@@ -8551,7 +8551,8 @@
 140;325;626;333
 142;325;622;333
 166;325;3101;333
-170;325;2937;333;descriptionEn=These seem to be the remains of an elf.;descriptionDe=Dies scheinen die sterblichen Überreste einer Elfin zu sein.
+170;325;3781;333;descriptionEn=These seem to be the remains of an elf.;descriptionDe=Dies scheinen die sterblichen Überreste einer Elfin zu sein.
+170;325;3781;333
 171;325;3101;333
 172;325;320;333;nameDe=Holzpodest;nameEn=Wooden podium
 172;325;693;333;nameEn=Statue of a Dark Paladin;descriptionEn=The statue depicts a dark paladin holding a dragon egg.;nameDe=Die Statue eines dunklen Paladins;descriptionDe=Die Statue stellt einen dunklen Paladin dar, der ein Drachenei hält.
@@ -8904,7 +8905,6 @@
 161;338;2207;333
 163;338;1783;333
 165;338;2937;333
-169;338;3578;333
 182;338;623;333
 183;338;287;333
 184;338;287;333
