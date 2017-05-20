@@ -563,7 +563,7 @@
 65;121;651;333
 66;121;2878;333
 70;121;3207;333
-70;121;2805;333;nameDe=Auf der Spitze der S‰ule starrt ein groﬂer schwarzer Rabe in die Ferne. Der Rabe h‰lt einen Ohrring in seinem Schnabel und der Schatten von Flammen erscheint in seinen Augen.;nameEn=On top of the column, a huge black raven stares into the distance. The raven holds an earring in his beak and the shadows of flames appear in his eyes.
+70;121;2805;333;descriptionEn=At the top of the column a huge black raven peers into distance. The raven holds an earring in his beak and the shade of flames appears in the eyes.;descriptionDe=Auf der Spitze der S‰ule starrt ein groﬂer schwarzer Rabe in die Ferne. Der Rabe h‰lt einen Ohrring in seinem Schnabel und der Schatten von Flammen erscheint in seinen Augen.
 58;122;3197;333
 59;122;3329;333
 62;122;217;333
