@@ -1130,6 +1130,16 @@
 31;21;3092;333
 31;21;3092;333
 36;21;1245;333
+42;21;2805;333;descriptionEn=Instructions for Servitude;descriptionDe=Anweisungen für die Knechtschaft
+42;21;359;333
+44;21;2805;333;descriptionEn=One soul shall be given;descriptionDe=Eine Seele muß gegeben werden.
+44;21;359;333
+46;21;2805;333;descriptionEn=Two lives of sentient minds must be sacrificed.;descriptionDe=Zwei empfindsame Seelen müssen geopfert werden.
+46;21;359;333
+48;21;2805;333;descriptionEn=Three must cross the line to live in demon fire for eternity;descriptionDe=Drei müssen die Linie überqueren um für die Ewigkeit im Dämonenfeuer zu leben.
+48;21;359;333
+50;21;2805;333;descriptionEn=Four earthquakes toll success.;descriptionDe=Vier Erdbeben läuten den Erfolg ein.
+50;21;359;333
 65;21;3287;333
 66;21;972;333
 66;21;3780;333
@@ -1155,6 +1165,10 @@
 31;22;3092;333
 31;22;3092;333
 31;22;3092;333
+42;22;466;333
+45;22;3780;333
+47;22;3780;333
+49;22;3780;333
 82;22;3092;333
 83;22;3092;333
 84;22;3092;333
@@ -1166,6 +1180,8 @@
 30;23;3092;333
 31;23;3092;333
 31;23;3092;333
+46;23;498;333
+48;23;498;333
 75;23;359;333
 82;23;3092;333
 83;23;3092;333
@@ -1182,6 +1198,7 @@
 30;24;3092;333
 31;24;3092;333
 31;24;3092;333
+47;24;2039;333
 82;24;3092;333
 83;24;3092;333
 84;24;3092;333
@@ -1202,7 +1219,6 @@
 32;25;3092;333
 33;25;3092;333
 33;25;3092;333
-79;25;2855;333
 82;25;3092;333
 83;25;3092;333
 84;25;3092;333
