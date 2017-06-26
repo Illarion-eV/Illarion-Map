@@ -104,10 +104,10 @@
 41;4;1276;333
 42;4;295;333
 43;4;3784;333
-43;4;2855;333
+43;4;394;333
 44;4;2805;333;descriptionEn=As you stare at the pillar you notice a fiery letter P emblazoned in the stonework. ;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe P prangt. 
 45;4;2907;333
-45;4;2855;333
+45;4;394;333
 47;4;233;333
 48;4;3784;333
 49;4;1246;333
@@ -117,7 +117,7 @@
 20;5;3087;333
 21;5;3087;333
 22;5;3091;333
-24;5;2855;333
+24;5;394;333
 28;5;2039;333
 38;5;3099;333
 40;5;1276;333
@@ -129,7 +129,7 @@
 51;5;3088;333
 20;6;3087;333
 21;6;3087;333
-23;6;2855;333
+23;6;394;333
 24;6;2805;333;descriptionDe=Als du auf die Säule starrst, bemerkst du, dass auf dem Mauerwerk der feurige Buchstabe H prangt. ;descriptionEn=As you stare at the pillar you notice a fiery letter H emblazoned in the stonework. 
 26;6;173;333
 27;6;337;333;letmaCoffin=true
