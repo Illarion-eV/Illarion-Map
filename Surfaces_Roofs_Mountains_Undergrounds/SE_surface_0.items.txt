@@ -25952,7 +25952,7 @@
 428;319;933;599
 428;319;645;599
 428;319;338;599
-441;319;3483;599;descriptionDe=Geldwechsel und Portalbücher;descriptionEn=Money Change and Portal Books
+441;319;3483;599
 447;319;651;599
 447;319;2752;333
 448;319;2878;599
