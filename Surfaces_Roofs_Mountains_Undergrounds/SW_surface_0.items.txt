@@ -31868,8 +31868,6 @@
 133;239;1176;0
 137;239;274;333
 138;239;3613;333
-144;239;310;333;nameEn=Decorated Mug;nameDe=Verzierter Humpen;descriptionEn=The mug shows the following picture: A halfling puts flour into a bowl. On the table next to him, one can see all kinds of ingredients. There is an engraving beneath the picture: Baking Halfling I;descriptionDe=Der Humpen zeigt folgendes Bild: Ein Halbling schüttet Mehl in eine Schüssel. Auf dem Tisch neben ihm stehen allerlei Zutaten. Unter dem Bild befindet sich eine Gravur: Backender Halbling I
-145;239;310;333;nameEn=Decorated Mug;nameDe=Verzierter Humpen;descriptionDe=Der Humpen zeigt folgendes Bild: Ein Halbling schiebt eine große Backform in einen kleinen, zierlichen Backofen. Unter dem Bild befindet sich eine Gravur: Backender Halbling IV;descriptionEn=The mug shows the following picture: A halfling puts a big cake pan into a small, diminutive baking oven. There is an engraving beneath the picture: Baking Halfling IV
 146;239;396;333
 151;239;338;333
 157;239;359;333
@@ -31957,8 +31955,9 @@
 119;240;615;333
 120;240;615;333
 140;240;3613;333
-143;240;310;333;nameEn=Decorated Mug;nameDe=Verzierter Humpen;descriptionDe=Der Humpen zeigt folgendes Bild: Ein Halbling füllt eine Menge Teig aus einer Schüssel in eine große Backform. Unter dem Bild befindet sich eine Gravur: Backender Halbling III;descriptionEn=The mug shows the following picture: A halfling pours a lot of dough from a bowl into a big cake pan. There is an engraving beneath the picture: Baking Halfling III
-145;240;521;333;descriptionEn=Here lies Rosea Finstersee, who was abandoned and left to die by cruel hands. In memory of the dangerous dangers.;descriptionDe=Hier liegt Rosea Finstersee, die im Stich gelassen durch grausame Hände zu Tode kam. In Erinnerung der gefährlichen Gefahren.;nameDe=Rosea Finstersee;nameEn=Rosea Finstersee
+143;240;767;333
+144;240;767;333
+145;240;521;333;nameDe=Rosea Finstersee;nameEn=Rosea Finstersee;descriptionEn=A serpent crest circled by deeply chiselled word is carved into the gravestone. "Here rests Rosea Finstersee, Novice of the Noble House of the Sea Serpent. Murdered by heretics, avenged through zeal and flame.";descriptionDe=Ein Schlangenwappen umrandet von tief gemeißeltem Wort ist in den Grabstein gearbeitet. "Hier ruht Rosea Finstersee, Novize des edlen Hauses der Seeschlange. Ermordet durch Ketzerhand, gerächt durch Glaube und Flamme."
 146;240;1782;333
 147;240;338;333
 151;240;1817;333
@@ -32066,8 +32065,8 @@
 120;241;616;333
 136;241;1783;333
 138;241;3613;333
-144;241;310;333;nameEn=Decorated Mug;nameDe=Verzierter Humpen;descriptionDe=Der Humpen zeigt folgendes Bild: Ein Halbling rührt energisch mit einem großen Löffel in einer Schüssel. Unter dem Bild befindet sich eine Gravur: Backender Halbling II;descriptionEn=The mug shows the following picture: A halfling energetically stirs with a big spoon in a bowl. There is an engraving beneath the picture: Baking Halfling II
-145;241;310;333;nameEn=Decorated Mug;nameDe=Verzierter Humpen;descriptionDe=Der Humpen zeigt folgendes Bild: Ein Halbling sitzt mit einem breiten Grinsen vor einem Tisch, auf dem ein großer, dampfender Kuchen steht. Unter dem Bild befindet sich eine Gravur: Backender Halbling V;descriptionEn=The mug shows the following picture: A hafling sits with a broad grin on his lips in front of a table with a big, steaming cake on it. There is an engraving beneath the picture: Baking Halfling V
+142;241;388;333;nameDe=Heilige Trauben;nameEn=Holy Grapes;descriptionDe=Die Weintrauben geben einen sehr angenehmen süßlichen Geruch von sich.;descriptionEn=The grapes have a very pleasant, sweet scent.
+145;241;1857;333
 147;241;1783;333
 149;241;1782;333
 151;241;1783;333
