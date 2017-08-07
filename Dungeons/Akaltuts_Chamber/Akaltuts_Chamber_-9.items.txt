@@ -1383,6 +1383,7 @@
 44;35;287;0
 45;35;287;333
 50;35;1245;333
+51;35;2537;333;nameDe=Trittplatte;nameEn=Step plate;lookAtNoPrice=1;lookAtNoWeight=1
 69;35;287;333
 72;35;628;0
 75;35;3101;333
@@ -1418,6 +1419,8 @@
 44;36;287;0
 45;36;287;0
 45;36;287;333
+50;36;2537;333;nameDe=Trittplatte;nameEn=Step plate;lookAtNoPrice=1;lookAtNoWeight=1
+52;36;2537;333;nameDe=Trittplatte;nameEn=Step plate;lookAtNoPrice=1;lookAtNoWeight=1
 68;36;598;333
 68;36;287;333
 69;36;598;333
@@ -1466,6 +1469,7 @@
 43;37;629;0
 44;37;596;0
 45;37;287;0
+51;37;2537;333;nameDe=Trittplatte;nameEn=Step plate;lookAtNoPrice=1;lookAtNoWeight=1
 53;37;626;333
 56;37;914;333
 63;37;623;333
