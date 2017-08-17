@@ -185,7 +185,7 @@
 15;3;628;333
 20;3;3095;333
 23;3;411;333
-24;3;2493;333
+24;3;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=2
 25;3;629;333
 26;3;622;333
 27;3;622;333
@@ -225,13 +225,13 @@
 10;4;622;333
 11;4;622;333
 12;4;628;333
-13;4;2493;333
+13;4;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=9
 20;4;915;333
 23;4;232;333
 27;4;3095;333
 29;4;629;333
 30;4;597;333
-30;4;2493;333
+30;4;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=8
 31;4;629;333
 32;4;630;333
 33;4;287;333
@@ -261,7 +261,7 @@
 7;5;630;333
 8;5;628;333
 8;5;628;333
-9;5;2493;333
+9;5;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=7
 11;5;413;333
 12;5;3095;333
 18;5;1254;333
@@ -570,7 +570,7 @@
 29;24;1254;333
 29;24;1254;333
 30;24;1250;333
-31;24;2493;333
+31;24;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=6
 32;24;627;333
 37;24;1245;333
 43;24;3100;333
@@ -580,6 +580,7 @@
 49;24;287;333
 1;25;599;333
 17;25;3098;333
+23;25;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=5
 24;25;1250;333
 25;25;3093;333
 26;25;629;333
@@ -640,7 +641,6 @@
 21;28;3100;333
 21;28;3100;333
 22;28;1254;333
-22;28;2493;333
 23;28;1254;333
 24;28;1257;333
 29;28;1156;333
@@ -648,14 +648,14 @@
 36;28;3098;333
 42;28;1266;333
 42;28;1266;333
-47;28;2493;333
+47;28;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=4
 48;28;623;333
 49;28;287;333
 49;28;287;333
 0;29;287;333
 1;29;3100;333
 1;29;3100;333
-6;29;2493;333
+7;29;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=3
 9;29;1250;333
 13;29;3093;333
 14;29;627;333
@@ -896,6 +896,7 @@
 49;42;287;333
 0;43;287;333
 1;43;599;333
+7;43;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=1
 10;43;1250;333
 23;43;3099;333
 26;43;1245;333
@@ -908,7 +909,6 @@
 49;43;287;333
 0;44;287;333
 1;44;599;333
-6;44;2493;333
 7;44;3097;333
 17;44;1156;333
 20;44;420;333
