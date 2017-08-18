@@ -63,7 +63,7 @@
 8;1;3265;333
 9;1;3265;333
 9;1;3265;333
-9;1;2493;333
+9;1;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=8
 10;1;613;333
 11;1;513;333
 12;1;513;333
@@ -106,7 +106,7 @@
 25;2;3094;333
 26;2;1250;333
 29;2;3096;333
-29;2;2493;333
+29;2;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=7
 30;2;629;333
 31;2;628;333
 32;2;1790;333
@@ -219,7 +219,7 @@
 13;8;513;333
 14;8;513;333
 21;8;525;333
-23;8;2493;333
+23;8;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=6
 24;8;996;333
 24;8;1202;333
 24;8;3094;333
@@ -288,7 +288,7 @@
 8;10;402;333
 9;10;3095;333
 9;10;1074;333
-9;10;2493;333
+9;10;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=5
 10;10;3095;333
 10;10;613;333
 11;10;3100;333
@@ -436,11 +436,13 @@
 7;21;613;333
 8;21;1036;333
 9;21;1034;333
-9;21;2493;333
+9;21;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=4
 10;21;1031;333
 11;21;998;333
 11;21;1037;333
 12;21;1036;333
+13;21;3289;333
+13;21;3288;333
 13;21;1036;333
 16;21;982;333
 17;21;980;333
@@ -461,11 +463,12 @@
 1;22;915;333
 2;22;1278;333
 5;22;426;333
-7;22;28;333
 8;22;2183;333
 9;22;2586;333
 11;22;3100;333
+13;22;28;333
 14;22;1006;333
+14;22;51;101;descriptionDe=Der Eimer ist kaputt. Der Boden fehlt.;descriptionEn=The bucket id defect. It misses it's bottom.;lookatNoPrice=1
 19;22;980;333
 20;22;980;333
 23;22;396;333
@@ -480,8 +483,7 @@
 8;23;2586;333
 9;23;12;333
 10;23;2586;333
-14;23;426;333
-14;23;1004;333
+14;23;1000;333
 19;23;980;333
 20;23;980;333
 24;23;1257;333
@@ -490,7 +492,7 @@
 29;23;1276;333
 32;23;3099;333
 35;23;3097;333
-38;23;2493;333
+38;23;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=3
 39;23;613;333
 0;24;914;333
 3;24;422;333
@@ -564,6 +566,7 @@
 38;30;404;333
 39;30;613;333
 0;31;613;333
+6;31;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=2
 10;31;1783;333
 14;31;3098;333
 29;31;1783;333
@@ -591,7 +594,7 @@
 23;33;420;333
 24;33;1783;333
 31;33;1088;333
-32;33;2493;333
+32;33;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestGalmair=1
 38;33;3097;333
 39;33;613;333
 0;34;613;333
@@ -621,7 +624,6 @@
 0;36;613;333
 1;36;1250;333
 2;36;1250;333
-3;36;2493;333
 13;36;995;333
 37;36;421;333
 38;36;915;333

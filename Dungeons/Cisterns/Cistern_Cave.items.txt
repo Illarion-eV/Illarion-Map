@@ -824,6 +824,7 @@
 0;38;287;333
 1;38;1245;333
 4;38;407;333
+9;38;1006;333
 26;38;1250;333
 35;38;1245;333
 38;38;3097;333
@@ -836,6 +837,11 @@
 0;39;287;333
 1;39;599;333
 6;39;3099;333
+8;39;51;101;descriptionDe=Der Eimer hat weder Henkel noch Boden;descriptionEn=The bucket is bottomless and without a handle.;lookatNoPrice=1
+9;39;3288;333
+9;39;1034;333
+9;39;1006;333
+10;39;3288;333
 11;39;3100;333
 13;39;1254;333
 17;39;1254;333
@@ -851,6 +857,7 @@
 0;40;287;333
 1;40;599;333
 3;40;914;333
+9;40;980;333
 9;40;28;333
 11;40;66;333;markerstone=544
 17;40;2745;333;descriptionEn=The parchment is shredded by the rats beyond anything recognizable.;descriptionDe=Dieses Pergament wurde von Ratten bis zu Unkenntlichkeit zerfetzt.
@@ -867,6 +874,7 @@
 1;41;599;333
 2;41;726;333
 5;41;1250;333
+9;41;979;333
 16;41;394;333
 17;41;1245;333
 32;41;1783;333
