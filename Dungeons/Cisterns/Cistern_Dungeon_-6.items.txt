@@ -61,7 +61,7 @@
 6;1;622;333
 7;1;622;333
 8;1;628;333
-9;1;2493;333
+9;1;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=10
 10;1;629;333
 11;1;622;333
 12;1;628;333
@@ -126,7 +126,7 @@
 33;2;421;333
 35;2;3095;333
 35;2;3095;333
-37;2;2493;333
+37;2;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=9
 38;2;629;333
 39;2;630;333
 0;3;287;333
@@ -153,7 +153,7 @@
 27;4;629;333
 28;4;629;333
 29;4;629;333
-30;4;2493;333
+30;4;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=8
 31;4;407;333
 33;4;233;333
 36;4;1783;333
@@ -257,12 +257,12 @@
 6;12;915;333
 7;12;3100;333
 8;12;233;333
-9;12;2493;333
+9;12;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=7
 10;12;412;333
 11;12;1254;333
 14;12;1246;333
 15;12;3099;333
-16;12;2493;333
+16;12;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=6
 21;12;1245;333
 22;12;3097;333
 25;12;1783;333
@@ -421,7 +421,7 @@
 23;26;3097;333
 33;26;422;333
 35;26;2745;333
-38;26;2493;333
+38;26;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=5
 39;26;287;333
 0;27;287;333
 7;27;1783;333
@@ -499,7 +499,7 @@
 5;34;1783;333
 16;34;2786;333
 32;34;420;333
-36;34;2493;333
+36;34;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=4
 37;34;623;333
 38;34;287;333
 39;34;287;333
