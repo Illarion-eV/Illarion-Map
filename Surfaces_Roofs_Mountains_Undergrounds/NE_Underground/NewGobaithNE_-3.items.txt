@@ -4797,7 +4797,6 @@
 248;381;1272;333
 248;381;1266;333
 252;381;287;333
-301;381;3092;333
 302;381;3085;333
 303;381;3085;333
 304;381;3085;333
@@ -4840,7 +4839,7 @@
 302;382;3085;333
 304;382;3518;333
 304;382;28;333
-305;382;3082;333;descriptionEn=Please only feed the pups meat and one piece for each of the five. Melanie Meadowlark;descriptionDe=Bitte gebt den Jungen nur Fleisch zu fressen und je ein Stück pro Welpe. Melanie Meadowlark
+305;382;3082;333;descriptionEn=Please only feed the cubs meat and one piece for each of the five. Melanie Meadowlark;descriptionDe=Bitte gebt den Jungen nur Fleisch zu fressen und je ein Stück pro Welpe. Melanie Meadowlark
 306;382;3092;333
 307;382;3085;333
 404;382;613;333
@@ -5058,6 +5057,10 @@
 248;386;1266;333
 249;386;2805;333
 250;386;287;333
+289;386;3092;333
+290;386;3092;333
+291;386;3092;333
+292;386;3092;333
 297;386;3092;333
 298;386;3092;333
 302;386;1096;333
@@ -5104,6 +5107,9 @@
 243;387;287;333
 249;387;1247;333
 250;387;287;333
+289;387;3092;333
+292;387;3092;333
+293;387;3092;333
 296;387;3092;333
 297;387;3085;333
 299;387;1196;333
@@ -5147,6 +5153,9 @@
 248;388;3093;333
 249;388;2805;333
 250;388;287;333
+289;388;3092;333
+293;388;3092;333
+294;388;3092;333
 295;388;3092;333
 296;388;3085;333
 301;388;3097;333
@@ -5197,6 +5206,7 @@
 245;389;1251;333
 249;389;3093;333
 250;389;287;333
+289;389;3092;333
 301;389;3098;333
 302;389;3098;333
 310;389;3088;333
@@ -5243,6 +5253,7 @@
 244;390;2805;333
 249;390;2805;333
 250;390;287;333
+289;390;3092;333
 301;390;409;333
 302;390;3098;333
 303;390;3098;333
@@ -5316,8 +5327,9 @@
 243;391;287;333
 246;391;1272;333
 250;391;287;333
+289;391;3092;333
 298;391;3098;333
-302;391;2952;333;descriptionEn=The plate looks very clean and you can see as you watch that it is checked often by the pups. ;descriptionDe=Der Teller sieht sehr sauber aus und während du alles beobachtest, bemerkst du, dass die Jungen ihn oft und regelmäßig überprüfen.
+302;391;2952;333;descriptionEn=The plate looks very clean and you can see as you watch that it is checked often by the cubs. ;descriptionDe=Der Teller sieht sehr sauber aus und während du alles beobachtest, bemerkst du, dass die Jungen ihn oft und regelmäßig überprüfen.
 304;391;3099;333
 311;391;3088;333
 312;391;3088;333
@@ -5378,6 +5390,9 @@
 244;392;2805;333
 249;392;2805;333
 250;392;287;333
+289;392;3092;333
+290;392;3092;333
+291;392;3092;333
 294;392;233;333
 295;392;233;333
 299;392;90;111;descriptionEn=The flute has been chewed in half and pieces lay all about.;descriptionDe=Die Flöte wurde entzwei gekaut und die einzelnen Teile liegen überall verstreut herum.
@@ -5440,6 +5455,7 @@
 243;393;287;333
 245;393;1266;333
 250;393;287;333
+290;393;3092;333
 291;393;3090;333
 292;393;3086;333
 292;393;3087;333
@@ -5450,6 +5466,10 @@
 311;393;3092;333
 312;393;3085;333
 313;393;3091;333
+313;393;3085;333
+314;393;3085;333
+315;393;3085;333
+316;393;3092;333
 377;393;613;333
 387;393;66;0;markerstone=105
 388;393;404;333
@@ -5493,11 +5513,14 @@
 244;394;2805;333
 249;394;2805;333
 250;394;287;333
+290;394;3092;333
 291;394;3088;333
 292;394;3087;333
 293;394;3091;333
 294;394;233;333
 295;394;233;333
+315;394;3092;333
+316;394;3092;333
 377;394;613;333
 385;394;3101;333
 388;394;221;333
@@ -5551,6 +5574,8 @@
 312;395;3090;333
 313;395;3086;333
 313;395;3087;333
+315;395;3092;333
+316;395;3092;333
 377;395;613;333
 381;395;3101;333
 387;395;3101;333
@@ -5615,6 +5640,8 @@
 311;396;3097;333
 312;396;3088;333
 313;396;3087;333
+314;396;3092;333
+315;396;3092;333
 377;396;613;333
 384;396;2937;333
 388;396;427;333
@@ -5827,7 +5854,7 @@
 299;400;1790;333
 302;400;3101;333
 303;400;3101;333
-309;400;3633;333;descriptionEn=A big hole can be seen where mud has been tossed all around. Clearly some pup likes to dig.;descriptionDe=Du siehst ein großes Loch, wo überall Matsch herumgespritzt wurde. Offenbar buddelt eines der Jungen gerne.
+309;400;3633;333;descriptionEn=A big hole can be seen where mud has been tossed all around. Clearly some cub likes to dig.;descriptionDe=Du siehst ein großes Loch, wo überall Matsch herumgespritzt wurde. Offenbar buddelt eines der Jungen gerne.
 311;400;3088;333
 312;400;3087;333
 377;400;613;333
@@ -6042,7 +6069,6 @@
 308;404;233;333
 309;404;3090;333
 310;404;3088;333
-311;404;3091;333
 382;404;613;333
 385;404;3101;333
 387;404;3093;333
