@@ -21745,8 +21745,8 @@
 440;272;3233;599;descriptionDe=Elarahalle;descriptionEn=Hall of Elara
 444;272;1122;599;book1=gods3;book2=ways_to_cherga;book3=god_cherga
 444;272;1120;599;book1=gods3;book2=ways_to_cherga;book3=god_cherga
-449;272;1122;599;book1=constitution_runewick_44;book2=epos_ignis
-449;272;1120;599;book1=constitution_runewick_44;book2=epos_ignis
+449;272;1122;599;book1=constitution_runewick_44;book2=epos_ignis;book3=goodregent
+449;272;1120;599;book1=constitution_runewick_44;book2=epos_ignis;book3=goodregent
 453;272;1122;599;book1=constitution_runewick_44;book2=statute_book_of_runewick;book3=articles_greenbriar;book4=law_fairyland;book5=rules_galmair;book6=statute_hamlet_greenbriar
 453;272;1120;599;book1=constitution_runewick_44;book2=statute_book_of_runewick;book3=articles_greenbriar;book4=law_fairyland;book5=rules_galmair;book6=statute_hamlet_greenbriar
 456;272;2876;599
