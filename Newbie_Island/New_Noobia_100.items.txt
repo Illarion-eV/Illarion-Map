@@ -1885,7 +1885,7 @@
 47;96;915;333
 48;96;1065;0
 54;96;274;333
-56;96;792;333
+56;96;792;333;nameEn=Portal to Cadomyr, the realm of honour;nameDe= Cadomyr  Posts: 645  Joined: Sat Apr 02, 2011 1:13 pm  Location: Braunschweig  Unread post Wed Jan 10, 2018 7:53 pm Portal nach Runewick, dem Reich der Weisheit Portal nach Cadomyr, dem Reich der Ehre
 22;97;1783;333
 23;97;3892;333
 24;97;1809;333
@@ -1916,7 +1916,7 @@
 50;98;912;333
 51;98;580;333
 19;99;272;333
-20;99;795;333
+20;99;795;333;nameDe=Portal nach Runewick, dem Reich der Weisheit;nameEn=Portal to Runewick, the realm of wisdom
 21;99;272;333
 24;99;274;333
 26;99;405;333
@@ -2020,7 +2020,7 @@
 34;111;338;333
 35;111;1278;333
 36;111;617;333
-40;111;796;333
+40;111;796;333;nameDe=Portal nach Galmair, dem Reich des Wohlstands;nameEn=Portal to Galmair, the realm of prosperity
 32;112;1817;333
 33;112;1265;333
 33;112;507;333
