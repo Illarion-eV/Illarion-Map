@@ -2328,6 +2328,7 @@
 145;75;976;333
 146;75;976;333
 146;75;321;333;depot=103
+146;75;360;333;descriptionDe=Wasser, durch Mana angetrieben, steigt als Dampf auf, nur um dann, nachdem es durch eine eisige Berührung abkühlt, niederzuschlagen. Als es gefriert, umhüllt es das Depot in einem nicht enden wollenden Fluss von Zelphias Segen.;nameDe=Zelphias Segen;nameEn=Zelphia's Blessing;descriptionEn=Water energised by mana rises as steam, only to precipitate as it is cooled by an icy touch. Falling back it enshrouds the depot in a never-ending flow of Zelphia's blessing.
 147;75;976;333
 148;75;976;333
 149;75;976;333
@@ -7181,6 +7182,7 @@
 59;131;3332;333
 59;131;3331;333
 69;131;321;333;depot=103
+69;131;360;333;descriptionEn=Water energised by mana rises as steam, only to precipitate as it is cooled by an icy touch. Falling back it enshrouds the depot in a never-ending flow of Zelphia's blessing.;nameEn=Zelphia's Blessing;nameDe=Zelphias Segen;descriptionDe=Wasser, durch Mana angetrieben, steigt als Dampf auf, nur um dann, nachdem es durch eine eisige Berührung abkühlt, niederzuschlagen. Als es gefriert, umhüllt es das Depot in einem nicht enden wollenden Fluss von Zelphias Segen.
 70;131;3330;333
 70;131;3329;333
 70;131;3329;333

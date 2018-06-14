@@ -5511,7 +5511,7 @@
 171;102;878;0
 93;103;3124;333
 93;103;301;333
-95;103;1110;333;doorLock=locked;descriptionDe=Villa Wüstenfuchs;lockId=340;descriptionEn=Villa Desert Fox
+95;103;1110;333;doorLock=locked;descriptionDe=Villa Annabeth;lockId=340;descriptionEn=Villa Annabeth
 103;103;1102;333
 134;103;433;333
 134;103;3593;333

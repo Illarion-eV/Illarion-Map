@@ -13683,7 +13683,7 @@
 67;100;1783;333
 82;100;338;0
 87;100;1783;333
-94;100;1110;333;doorLock=locked;nameDe=Villa Wüstenfuchs;descriptionEn=Villa Desert Fox;lockId=340
+94;100;1110;333;doorLock=locked;nameDe=Villa Annabeth;descriptionEn=Villa Annabeth;lockId=340
 100;100;1101;333
 101;100;319;333
 103;100;3791;333
@@ -13827,13 +13827,13 @@
 63;101;274;333
 83;101;1783;0
 89;101;273;333
-94;101;1110;333;doorLock=locked;lockId=340;descriptionDe=Villa Wüstenfuchs;descriptionEn=Villa Desert Fox
+94;101;1110;333;doorLock=locked;lockId=340;descriptionDe=Villa Annabeth;descriptionEn=Villa Annabeth
 98;101;213;333
 99;101;550;333
 100;101;1100;333
 100;101;1101;333
 101;101;1100;333
-102;101;1109;333;doorLock=locked;lockId=340;descriptionDe=Villa Wüstenfuchs;descriptionEn=Villa Desert Fox
+102;101;1109;333;doorLock=locked;lockId=340;descriptionDe=Villa Annabeth;descriptionEn=Villa Annabeth
 103;101;1100;333
 103;101;3292;333
 104;101;1102;333
