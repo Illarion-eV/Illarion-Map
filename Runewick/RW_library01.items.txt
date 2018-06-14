@@ -377,7 +377,7 @@
 17;17;1082;333;descriptionDe=Dekan Djironnyma;descriptionEn=Dean Djironnyma
 22;17;953;0
 23;17;1124;333
-24;17;1082;333;descriptionDe=Professor Vitus;descriptionEn=Professor Vitus
+24;17;1082;333;descriptionDe=Professor Grimler;descriptionEn=Professor Grimler
 28;17;3233;0;descriptionDe=Bibliothek;descriptionEn=Library
 32;17;320;0
 32;17;335;0
