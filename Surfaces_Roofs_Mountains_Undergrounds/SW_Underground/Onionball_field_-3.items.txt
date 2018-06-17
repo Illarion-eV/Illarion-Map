@@ -546,6 +546,27 @@
 4;15;634;0
 7;15;396;0
 9;15;213;0
+12;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+12;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+13;15;432;333
+14;15;432;333
+14;15;432;333
+15;15;432;333
+16;15;432;333
+17;15;432;333
+18;15;432;333
+19;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;15;432;333
+20;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+21;15;432;333
+22;15;432;333
+23;15;432;333
+24;15;432;333
+25;15;432;333
+26;15;432;333
+27;15;432;333
+27;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;15;215;0
 33;15;396;0
 34;15;635;0
@@ -562,6 +583,11 @@
 3;16;600;0
 4;16;634;0
 9;16;213;0
+12;16;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+12;16;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;16;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;16;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;16;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;16;215;0
 34;16;635;0
 35;16;600;0
@@ -577,7 +603,13 @@
 3;17;600;0
 4;17;634;0
 9;17;213;0
+12;17;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+12;17;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;17;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 20;17;3518;333
+20;17;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;17;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;17;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;17;215;0
 34;17;635;0
 35;17;600;0
@@ -593,6 +625,10 @@
 3;18;600;0
 4;18;634;0
 9;18;213;0
+12;18;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;18;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;18;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;18;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;18;215;0
 34;18;635;0
 35;18;600;0
@@ -608,6 +644,11 @@
 3;19;600;0
 4;19;634;0
 9;19;213;0
+12;19;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;19;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;19;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;19;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;19;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;19;215;0
 34;19;635;0
 35;19;600;0
@@ -624,9 +665,14 @@
 4;20;634;0
 7;20;396;0
 9;20;213;0
+12;20;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+12;20;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;20;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 20;20;3518;333
 20;20;3518;333
 20;20;3518;333
+20;20;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;20;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;20;215;0
 33;20;396;0
 34;20;635;0
@@ -643,7 +689,12 @@
 3;21;600;0
 4;21;634;0
 9;21;213;0
-12;21;396;0
+12;21;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+12;21;396;333
+19;21;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;21;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;21;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;21;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 28;21;396;0
 31;21;215;0
 34;21;635;0
@@ -660,6 +711,11 @@
 3;22;600;0
 4;22;634;0
 9;22;213;0
+12;22;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;22;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;22;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;22;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;22;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;22;215;0
 34;22;690;0
 35;22;681;0
@@ -676,9 +732,13 @@
 3;23;600;0
 4;23;634;0
 9;23;213;0
+12;23;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;23;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 20;23;3518;333
 20;23;3518;333
 20;23;3518;333
+20;23;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;23;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;23;215;0
 35;23;635;0
 35;23;513;0
@@ -693,6 +753,10 @@
 3;24;600;0
 4;24;634;0
 9;24;213;0
+12;24;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;24;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;24;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;24;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;24;215;0
 35;24;635;0
 36;24;600;0
@@ -707,6 +771,10 @@
 4;25;634;0
 7;25;396;0
 9;25;213;0
+12;25;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;25;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;25;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;25;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 31;25;215;0
 33;25;396;0
 35;25;635;0
@@ -720,6 +788,11 @@
 2;26;600;0
 3;26;600;0
 4;26;634;0
+12;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+19;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+20;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+27;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 35;26;635;0
 36;26;600;0
 37;26;635;0
@@ -732,7 +805,27 @@
 3;27;600;0
 4;27;634;0
 12;27;396;0
+13;27;432;333
+14;27;432;333
+14;27;432;333
+15;27;432;333
+15;27;432;333
+16;27;432;333
+17;27;432;333
+18;27;432;333
+19;27;432;333
+19;27;432;333
 20;27;396;0
+21;27;432;333
+22;27;432;333
+22;27;432;333
+23;27;432;333
+24;27;432;333
+25;27;432;333
+25;27;432;333
+26;27;432;333
+27;27;432;333
+27;27;432;333
 28;27;396;0
 35;27;635;0
 36;27;600;0
