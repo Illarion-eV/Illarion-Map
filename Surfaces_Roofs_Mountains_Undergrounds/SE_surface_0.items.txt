@@ -25236,7 +25236,7 @@
 331;310;3147;333
 334;310;132;333
 336;310;3871;333
-337;310;3644;333;rareness=4;nameEn=Venus Halfling-Trap;descriptionEn=This plant is carnivorous and has a particular fondness for halflings.
+337;310;3644;333;rareness=4;nameEn=Venus Halfling-Trap;descriptionEn=This plant is carnivorous and has a particular fondness for halflings.;descriptionDe=Diese Pflanze frisst Fleisch und hat eine gewisse Vorliebe für Halblinge.;nameDe=Venus Halblings-Falle
 338;310;3879;333
 338;310;498;333
 339;310;3874;333
@@ -25605,7 +25605,7 @@
 344;313;1005;333
 345;313;387;333
 346;313;387;333
-347;313;3644;333;nameEn=Elven Pitcher Plant;descriptionEn=This plant is carnivorous and predates on unsuspecting elves;rareness=4
+347;313;3644;333;nameEn=Elven Pitcher Plant;descriptionEn=This plant is carnivorous and predates on unsuspecting elves;rareness=4;nameDe=Elfen Kannenpflanze;descriptionDe=Diese Pflanze ist Fleischfresser und geht auf ahnungslose Elfen.
 348;313;498;333
 349;313;1187;333
 350;313;387;333
