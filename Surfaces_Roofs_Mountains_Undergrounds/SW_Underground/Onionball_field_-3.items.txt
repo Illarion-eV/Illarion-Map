@@ -401,7 +401,6 @@
 27;8;690;0
 28;8;633;0
 29;8;633;0
-29;8;266;333;book1=onionball
 30;8;681;0
 31;8;600;0
 32;8;600;0
@@ -513,6 +512,8 @@
 2;13;600;0
 3;13;600;0
 4;13;634;0
+20;13;3826;333
+20;13;107;333;book=onionball
 34;13;513;0
 35;13;683;0
 35;13;513;0
@@ -546,6 +547,10 @@
 4;15;634;0
 7;15;396;0
 9;15;213;0
+<<<<<<< HEAD
+13;15;3600;333;nameDe=Markierungsstange;nameEn=Marker Pole;descriptionDe=Der Kopf hat die Form einer Zwiebel.;descriptionEn=The head has the form of an onion.
+27;15;3598;333;nameDe=Markierungsstange;nameEn=Marker Pole;descriptionDe=Der Kopf hat die Form einer Zwiebel.;descriptionEn=The head has the form of an onion.
+=======
 12;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 12;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 13;15;432;333
@@ -567,6 +572,7 @@
 26;15;432;333
 27;15;432;333
 27;15;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+>>>>>>> caa56de8f63d10a3e40b19f739e56c0867985683
 31;15;215;0
 33;15;396;0
 34;15;635;0
@@ -788,11 +794,16 @@
 2;26;600;0
 3;26;600;0
 4;26;634;0
+<<<<<<< HEAD
+13;26;3601;333;nameDe=Markierungsstange;nameEn=Marker Pole;descriptionDe=Der Kopf hat die Form einer Zwiebel.;descriptionEn=The head has the form of an onion.
+27;26;3599;333;nameDe=Markierungsstange;nameEn=Marker Pole;descriptionDe=Der Kopf hat die Form einer Zwiebel.;descriptionEn=The head has the form of an onion.
+=======
 12;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 19;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 19;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 20;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
 27;26;433;333;nameDe=Spielfeldbegrenzung;nameEn=Game field border
+>>>>>>> caa56de8f63d10a3e40b19f739e56c0867985683
 35;26;635;0
 36;26;600;0
 37;26;635;0
