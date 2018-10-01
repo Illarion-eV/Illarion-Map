@@ -68,7 +68,7 @@
 13;5;287;0
 14;5;626;0
 1;6;3584;333
-3;6;1083;0
+3;6;1083;0;descriptionDe=Professor Deanna;descriptionEn=Professor Deanna
 4;6;1101;0
 9;6;1397;333
 10;6;596;0
