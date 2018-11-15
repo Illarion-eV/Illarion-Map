@@ -34136,9 +34136,8 @@
 219;313;216;333
 220;313;216;333
 223;313;964;0
-224;313;66;0;markerstone=44
-225;313;387;333
-226;313;387;333
+224;313;964;0
+225;313;301;333
 310;313;273;333
 318;313;1782;333
 322;313;274;333
@@ -34326,6 +34325,9 @@
 221;314;272;333;descriptionDe=Eine in Braun gekleideter junger, attraktiver Mann singt und tanzt mit einigen Weintrauben und einer Flasche Wein in seinen Händen.;descriptionEn=A young, attractive man dressed in brown sings and dances around with some grapes and a bottle of wine in his hands.
 222;314;464;0
 223;314;301;333
+224;314;301;333
+225;314;387;333
+226;314;338;333
 297;314;421;333
 297;314;910;333
 300;314;274;333
@@ -34464,8 +34466,8 @@
 214;315;274;333
 219;315;1783;333
 223;315;387;333
-225;315;272;333;descriptionDe=Ein alter, betrunkener Mann der zerlumpte Kleider trägt und scheinbar für ein Münzen bettelt während er eine Flasche Wein hinter sich versteckt.;descriptionEn=An old, drunken man wearing ragged clothes begs for some coins whilst hiding a bottle of wine behind his back.
-226;315;464;0
+224;315;387;333
+225;315;274;333
 241;315;975;333
 242;315;975;333
 243;315;975;333
@@ -34617,10 +34619,8 @@
 211;316;629;333
 214;316;338;333
 218;316;273;333
-222;316;396;333
-223;316;218;333
-223;316;218;333
-224;316;218;333
+223;316;273;333
+225;316;14;333
 241;316;971;333
 242;316;971;333
 243;316;971;333
@@ -34772,7 +34772,7 @@
 214;317;387;333
 215;317;1782;333
 220;317;631;333
-226;317;361;333;god=8
+225;317;1782;333
 235;317;627;333
 236;317;626;333
 240;317;627;333
@@ -34930,7 +34930,6 @@
 219;318;301;333
 220;318;301;333
 221;318;301;333
-224;318;216;333
 229;318;627;333
 230;318;629;333
 231;318;628;333
@@ -35091,8 +35090,7 @@
 220;319;387;333
 221;319;387;333
 222;319;338;333
-225;319;272;333;descriptionDe=Eine in Braun gekleideter junger, attraktiver Mann singt und tanzt mit einigen Weintrauben und einer Flasche Wein in seinen Händen.;descriptionEn=A young, attractive man dressed in brown sings and dances around with some grapes and a bottle of wine in his hands.
-226;319;464;0
+225;319;1176;0
 241;319;971;333
 242;319;971;333
 243;319;971;333
@@ -35244,7 +35242,6 @@
 205;320;215;333
 210;320;628;333
 210;320;628;333
-229;320;274;333
 239;320;627;333
 241;320;971;333
 242;320;971;333
@@ -35401,7 +35398,6 @@
 207;321;3322;333
 207;321;3324;333
 207;321;3325;333
-229;321;14;333
 236;321;273;333
 239;321;3197;333
 240;321;3196;333
