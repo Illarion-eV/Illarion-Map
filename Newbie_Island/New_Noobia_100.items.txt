@@ -1885,7 +1885,7 @@
 47;96;915;333
 48;96;1065;0
 54;96;274;333
-56;96;792;333;nameEn=Portal to Cadomyr, the realm of honour;nameDe= Cadomyr  Posts: 645  Joined: Sat Apr 02, 2011 1:13 pm  Location: Braunschweig  Unread post Wed Jan 10, 2018 7:53 pm Portal nach Runewick, dem Reich der Weisheit Portal nach Cadomyr, dem Reich der Ehre
+56;96;792;333;nameDe=Portal nach Cadomyr, dem Reich der Ehre;nameEn=Portal to Cadomyr, the realm of honour
 22;97;1783;333
 23;97;3892;333
 24;97;1809;333
