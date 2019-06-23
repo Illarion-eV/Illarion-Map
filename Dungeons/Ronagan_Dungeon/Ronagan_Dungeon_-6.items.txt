@@ -510,7 +510,7 @@
 8;18;613;333
 13;18;2937;333
 21;18;2801;333
-21;18;48;999;descriptionEn=It looks as if someone has left somethingn behind or is it an offering?;descriptionDe=Es sieht aus, als ob jemand etwas vergessen hätte. Oder handelt es sich vielleicht um eine Opfergabe?
+21;18;48;999;descriptionEn=It looks as if someone has left something behind or is it an offering?;descriptionDe=Es sieht aus, als ob jemand etwas vergessen hätte. Oder handelt es sich vielleicht um eine Opfergabe?
 22;18;613;333
 23;18;287;333
 24;18;287;333
