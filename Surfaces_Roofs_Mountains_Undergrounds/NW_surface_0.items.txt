@@ -18725,7 +18725,10 @@
 454;279;3743;333
 458;279;300;333
 459;279;1782;333
-465;279;1782;333
+463;279;400;333
+464;279;899;333
+464;279;272;333;nameEn=Statue of Ushara;descriptionEn=An elderly woman wrapped in a simple robe looks solemnly towards the mountains, her hands clasped before her.;nameDe=Statue der Ushara;descriptionDe=Eine alte Frau, gekleidet in eine einfache Robe, schaut ruhig den Bergen entgegen. Ihre Hände sind vor ihr verschränkt.
+465;279;896;333
 466;279;629;333
 467;279;630;333
 469;279;1783;333
@@ -18820,8 +18823,10 @@
 456;280;273;333
 458;280;1782;333
 462;280;1782;333
+464;280;884;333
 465;280;424;333
-465;280;915;333
+465;280;899;333
+465;280;464;333;nameEn=Statue of Oldra;descriptionEn=A stout, elderly woman wearing a simple dress gazes fondly towards the fields, a handful of seeds in her palm.;nameDe= Statue der Oldra;descriptionDe=Eine korpulente, ältere Frau, die ein einfaches Kleid trägt sieht wohlwollend zu den Feldern, in ihrer Hand hält sie Saatgut.
 466;280;629;333
 467;280;630;333
 468;280;630;333
@@ -18936,6 +18941,7 @@
 436;281;628;333
 438;281;1807;333
 443;281;911;333
+465;281;400;333
 466;281;629;333
 467;281;622;333
 467;281;624;333
@@ -19020,7 +19026,7 @@
 433;282;287;333
 456;282;1782;333
 459;282;1783;333
-461;282;913;333
+460;282;2170;333
 465;282;338;333
 467;282;338;333
 468;282;914;333
