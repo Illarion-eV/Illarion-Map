@@ -1590,7 +1590,6 @@
 117;10;262;333
 119;10;2876;333
 124;10;2878;333
-126;10;3703;333
 127;10;3246;0
 127;10;3245;0
 127;10;3244;0
@@ -8726,7 +8725,6 @@
 52;62;1782;333
 54;62;1254;333
 76;62;1266;333
-80;62;3703;333
 81;62;3249;333
 86;62;3247;333
 86;62;265;333;descriptionDe=Das Bild zeigt stolze, furchtlose Ritter auf ein rot-weiß verziertes Schiff gehen. Frauen stehen am Ufer und winken mit weißen Tüchern. Auch ein betender Priester ist zu sehen. Unten rechts steht ein Datum: 13 BS.;descriptionEn=The pictures shows proud and fearless knights walking on red-white adorned ships. Women stay at the shore and are waving white towels. There is also a priest in the picture who obviously prays. At the bottom right is a date: 13 BS.
@@ -15355,7 +15353,6 @@
 123;110;673;333
 124;110;673;333
 125;110;3262;333
-128;110;3703;333
 129;110;634;333
 138;110;320;333
 138;110;3109;333
@@ -18135,7 +18132,6 @@
 112;130;3263;333
 113;130;672;333
 115;130;3753;333
-120;130;3702;333
 121;130;1276;333
 122;130;672;333
 123;130;675;333
@@ -30750,7 +30746,6 @@
 151;227;1782;333
 152;227;274;333
 160;227;66;0;markerstone=337
-162;227;3703;333
 163;227;3265;333
 163;227;3265;333
 163;227;3265;333
