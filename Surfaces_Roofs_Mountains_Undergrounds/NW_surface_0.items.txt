@@ -234,7 +234,7 @@
 21;17;727;333
 25;17;3581;333
 28;17;44;333
-393;17;274;333
+392;17;1178;333;descriptionEn=The leaves of this fern are shaped in a way that creates some nice tunes in the wind.;nameEn=Music Fern;nameDe= Musikfarn;descriptionDe=Die Blätter des Farns sind so geformt, dass sie im Wind angenehme Töne verursachen.;rareness=2
 397;17;1809;333
 438;17;1790;333
 439;17;1783;333
