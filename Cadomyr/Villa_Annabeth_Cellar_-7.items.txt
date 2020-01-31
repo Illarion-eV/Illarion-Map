@@ -733,6 +733,7 @@
 20;14;1101;333
 23;14;2877;333
 32;14;1102;333
+32;14;751;333;nameEn=Amanda and Katharina Brightrim;descriptionEn=A portrait of two women wearing fine clothes and jewellery, holding hands as they sit by a cozy looking fireplace. One with fiery red hair, lost in thought as she stares into the fire. The other with brown ponytailed hair, watching her with a smile.;nameDe=Amanda und Katharina Brightrim;descriptionDe=Ein Gemälde von zwei Frauen, die feine Kleidung und Schmuck tragen und vor dem Kamin sitzend Händchen halten. Die mit den roten Haaren schaut gedankenverloren ins Feuer. Die andere mit braunem, zum Pferdeschwanz gebundenen Haar, beobachtet sie lächelnd.
 33;14;3622;333
 34;14;3622;333
 35;14;3622;333
