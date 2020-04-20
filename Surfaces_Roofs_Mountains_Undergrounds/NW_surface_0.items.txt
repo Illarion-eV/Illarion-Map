@@ -16609,7 +16609,6 @@
 426;257;1396;333
 427;257;1396;333
 430;257;1783;0
-431;257;1052;333;descriptionDe=Der Hammer scheint tief und fest zu stecken. Auch die Erde herum wirkt wie versteinert.;descriptionEn=The hammer sticks deep and firm. The ground around it also seems like it is fossilised.
 432;257;274;0
 433;257;3581;333
 437;257;1783;0
