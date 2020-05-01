@@ -43372,6 +43372,7 @@
 377;372;1278;333
 378;372;934;333
 392;372;273;333
+393;372;396;333
 397;372;934;333
 409;372;1783;333
 410;372;273;333
@@ -43645,7 +43646,6 @@
 378;374;934;333
 380;374;273;333
 381;374;2567;333
-392;374;396;0
 393;374;934;333
 404;374;1782;333
 406;374;1782;333
@@ -44413,6 +44413,7 @@
 383;379;519;333;descriptionDe=Disim Andäne war ein Alchemist. Jetzt ist er nicht mehr.;descriptionEn=Disim Andäne was a Alchemist. Now he is no more.
 384;379;273;333
 385;379;519;333;descriptionDe=Fianna Hamakha - Tränen konnen sie nicht wieder lebendig machen, daher weine ich.;descriptionEn=Fianna Hamakha - Tears cannot restore her, therefore I weep.
+393;379;396;333
 396;379;1783;333
 398;379;30;333
 398;379;33;333
@@ -45326,6 +45327,7 @@
 373;384;877;1
 381;384;1807;1
 386;384;396;0
+395;384;396;333
 397;384;912;333
 398;384;934;333
 415;384;1782;333
@@ -45938,7 +45940,6 @@
 389;387;273;333
 390;387;521;333;descriptionDe=Hier liegt Kremub Dudrunt, ein Ork.;descriptionEn=Here lies Kremub Dudrunt, a Orc.
 392;387;1783;333
-394;387;396;0
 397;387;396;0
 398;387;934;333
 400;387;1782;333
