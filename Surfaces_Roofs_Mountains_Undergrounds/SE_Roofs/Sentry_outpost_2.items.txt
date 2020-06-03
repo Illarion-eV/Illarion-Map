@@ -21,7 +21,7 @@
 6;0;676;333
 0;1;674;333
 2;1;2832;333
-5;1;66;0;markerstone=192
+5;1;66;333;markerstone=192
 6;1;512;333;descriptionDe=In schimmernden Rot und Weiﬂ ziert das Wappen von Cadomyr den Banner.;descriptionEn=The crest of Cadomyr adorns the banner in shimmering red and white.
 7;1;676;333
 0;2;674;333

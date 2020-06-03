@@ -947,13 +947,13 @@
 69;46;2937;1
 74;46;360;1
 78;46;1783;1
-79;46;621;0
-80;46;620;0
-81;46;619;0
-82;46;619;0
-83;46;619;0
-84;46;620;0
-85;46;618;0
+79;46;621;333
+80;46;620;333
+81;46;619;333
+82;46;619;333
+83;46;619;333
+84;46;620;333
+85;46;618;333
 99;46;600;1
 0;47;600;1
 4;47;360;1
@@ -1029,7 +1029,7 @@
 20;51;616;1
 30;51;3100;1
 38;51;615;1
-39;51;360;0
+39;51;360;333
 60;51;1783;1
 62;51;1783;1
 70;51;360;1
@@ -1041,7 +1041,7 @@
 25;52;360;1
 36;52;1783;1
 38;52;615;1
-43;52;360;0
+43;52;360;333
 46;52;3100;1
 46;52;2937;1
 48;52;792;1
@@ -1557,7 +1557,7 @@
 39;83;1783;1
 54;83;3099;1
 62;83;360;1
-66;83;360;0
+66;83;360;333
 75;83;3099;1
 76;83;3099;1
 85;83;615;1
@@ -1602,7 +1602,7 @@
 52;85;3099;1
 58;85;3099;1
 60;85;1783;1
-65;85;3109;0;nameDe=Zeichnung;nameEn=Drawing;descriptionDe=Auf diesem Pergament scheinen verschiedene Kreaturen eingezeichnet zu sein. Sie scheinen wie folgt angeordnet zu sein:  Huhn, Schaf, Fuchs, Schwein, Wolf, Mensch, Drache.;descriptionEn=On this parchment there are different creatures drawn. They are orderd like this:  Chicken, sheep, fox, pig, wolf, human, dragon.
+65;85;3109;333;nameDe=Zeichnung;nameEn=Drawing;descriptionDe=Auf diesem Pergament scheinen verschiedene Kreaturen eingezeichnet zu sein. Sie scheinen wie folgt angeordnet zu sein:  Huhn, Schaf, Fuchs, Schwein, Wolf, Mensch, Drache.;descriptionEn=On this parchment there are different creatures drawn. They are orderd like this:  Chicken, sheep, fox, pig, wolf, human, dragon.
 67;85;614;1
 69;85;3099;1
 76;85;360;1

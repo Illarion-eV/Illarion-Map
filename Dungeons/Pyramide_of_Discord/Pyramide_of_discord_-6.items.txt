@@ -116,21 +116,21 @@
 0;1;600;1
 5;1;402;1
 10;1;402;1
-10;1;2039;0
-11;1;2039;0
-12;1;3095;0
+10;1;2039;333
+11;1;2039;333
+12;1;3095;333
 15;1;402;1
 17;1;600;1
 42;1;600;1
-46;1;3098;0
+46;1;3098;333
 47;1;402;1
-50;1;2937;0
+50;1;2937;333
 51;1;402;1
 55;1;402;1
 57;1;600;1
 84;1;600;1
 87;1;402;1
-88;1;3095;0
+88;1;3095;333
 90;1;402;1
 93;1;402;1
 96;1;402;1
@@ -148,16 +148,16 @@
 49;2;797;1;descriptionEn=The number 56 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 56 eingraviert zu sein
 51;2;797;1;descriptionEn=The number 47 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 47 eingraviert zu sein
 53;2;797;1;descriptionEn=The number 1 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 1 eingraviert zu sein
-54;2;2039;0
+54;2;2039;333
 55;2;797;1;descriptionEn=The number 9 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 9 eingraviert zu sein
 57;2;600;1
 84;2;600;1
 88;2;797;1;descriptionEn=The number 1 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 1 eingraviert zu sein
 90;2;797;1;descriptionEn=The number 4 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 4 eingraviert zu sein
 92;2;797;1;descriptionEn=The number 5 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 5 eingraviert zu sein
-93;2;3098;0
+93;2;3098;333
 94;2;797;1;descriptionEn=The number 15 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 15 eingraviert zu sein
-97;2;3100;0
+97;2;3100;333
 99;2;600;1
 0;3;600;1
 17;3;600;1
@@ -165,40 +165,40 @@
 56;3;404;1
 57;3;600;1
 84;3;600;1
-97;3;3101;0
+97;3;3101;333
 98;3;404;1
 99;3;600;1
 0;4;600;1
-3;4;3098;0
-10;4;3098;0
+3;4;3098;333
+10;4;3098;333
 16;4;404;1
 17;4;600;1
 42;4;600;1
-56;4;3097;0
+56;4;3097;333
 57;4;600;1
-88;4;3099;0
+88;4;3099;333
 99;4;600;1
 0;5;600;1
 7;5;797;1;descriptionEn=The number 57 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 57 eingraviert zu sein
 13;5;797;1;descriptionEn=The number 132 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 132 eingraviert zu sein
 17;5;600;1
 42;5;600;1
-45;5;3097;0
+45;5;3097;333
 48;5;797;1;descriptionEn=The number 8 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 8 eingraviert zu sein
 50;5;797;1;descriptionEn=The number 10 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 10 eingraviert zu sein
 52;5;797;1;descriptionEn=The number 6 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 6 eingraviert zu sein
 54;5;797;1;descriptionEn=The number 200 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 200 eingraviert zu sein
 57;5;600;1
-84;5;3099;0
+84;5;3099;333
 88;5;797;1;descriptionEn=The number 7 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 7 eingraviert zu sein
 90;5;797;1;descriptionEn=The number 6 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 6 eingraviert zu sein
 92;5;797;1;descriptionEn=The number 8 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 8 eingraviert zu sein
 94;5;797;1;descriptionEn=The number 125 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 125 eingraviert zu sein
-98;5;3093;0
+98;5;3093;333
 99;5;600;1
 0;6;600;1
-14;6;3099;0
-16;6;3093;0
+14;6;3099;333
+16;6;3093;333
 17;6;600;1
 42;6;600;1
 56;6;404;1
@@ -207,37 +207,37 @@
 0;7;600;1
 17;7;600;1
 42;7;600;1
-45;7;3097;0
+45;7;3097;333
 57;7;600;1
-96;7;3099;0
-96;7;2937;0
-97;7;3101;0
+96;7;3099;333
+96;7;2937;333
+97;7;3101;333
 98;7;404;1
 99;7;600;1
 0;8;600;1
-4;8;3098;0
-4;8;2937;0
-7;8;3099;0
+4;8;3098;333
+4;8;2937;333
+7;8;3099;333
 10;8;797;1;descriptionEn=The number 89 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 89 eingraviert zu sein
-15;8;3098;0
+15;8;3098;333
 16;8;404;1
-16;8;2038;0
+16;8;2038;333
 17;8;600;1
 42;8;600;1
 57;8;600;1
 91;8;797;1;descriptionEn=The number 49 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 49 eingraviert zu sein
-92;8;3097;0
-96;8;3109;0;nameDe=15te Ausgabe des Playorc;nameEn=15th Edition of the playorc;descriptionDe=Auf dem Pergament siehst du weibliche Orks in bestimmten Positionen.;descriptionEn=On the parchment you can see female orcs in specific positions.
+92;8;3097;333
+96;8;3109;333;nameDe=15te Ausgabe des Playorc;nameEn=15th Edition of the playorc;descriptionDe=Auf dem Pergament siehst du weibliche Orks in bestimmten Positionen.;descriptionEn=On the parchment you can see female orcs in specific positions.
 99;8;600;1
 0;9;600;1
 17;9;600;1
 42;9;600;1
 57;9;600;1
-87;9;3099;0
-98;9;3093;0
+87;9;3099;333
+98;9;3093;333
 99;9;600;1
 0;10;600;1
-9;10;3098;0
+9;10;3098;333
 17;10;600;1
 42;10;600;1
 43;10;600;1
@@ -245,7 +245,7 @@
 45;10;600;1
 46;10;600;1
 47;10;600;1
-49;10;2937;0
+49;10;2937;333
 52;10;600;1
 53;10;600;1
 54;10;600;1
@@ -269,7 +269,7 @@
 2;13;600;1
 3;13;600;1
 4;13;600;1
-11;13;3098;0
+11;13;3098;333
 14;13;600;1
 15;13;600;1
 16;13;600;1
@@ -302,31 +302,31 @@
 84;14;600;1
 87;14;402;1
 89;14;402;1
-89;14;3101;0
+89;14;3101;333
 91;14;402;1
 93;14;402;1
-94;14;3097;0
+94;14;3097;333
 95;14;402;1
 97;14;402;1
 99;14;600;1
 0;15;600;1
 84;15;600;1
-87;15;1795;0
-97;15;3102;0
+87;15;1795;333
+97;15;3102;333
 99;15;600;1
 0;16;600;1
 84;16;600;1
-88;16;1797;0
-91;16;3099;0
+88;16;1797;333
+91;16;3099;333
 94;16;796;1;descriptionEn=The number 27 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 27 eingraviert zu sein
 97;16;796;1;descriptionEn=The number 6 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 6 eingraviert zu sein
 98;16;404;1
 99;16;600;1
 0;17;600;1
-84;17;1795;0
-86;17;2937;0
-88;17;1797;0
-89;17;3102;0
+84;17;1795;333
+86;17;2937;333
+88;17;1797;333
+89;17;3102;333
 99;17;600;1
 0;18;600;1
 94;18;796;1;descriptionEn=The number 33 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 33 eingraviert zu sein
@@ -334,14 +334,14 @@
 98;18;404;1
 99;18;600;1
 0;19;600;1
-85;19;3100;0
+85;19;3100;333
 91;19;796;1;descriptionEn=The number 11 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 11 eingraviert zu sein
-94;19;3098;0
+94;19;3098;333
 99;19;600;1
 0;20;600;1
-92;20;3102;0
+92;20;3102;333
 94;20;796;1;descriptionEn=The number 90 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 90 eingraviert zu sein
-96;20;2038;0
+96;20;2038;333
 97;20;796;1;descriptionEn=The number 1 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 1 eingraviert zu sein
 98;20;404;1
 99;20;600;1
@@ -353,17 +353,17 @@
 98;22;404;1
 99;22;600;1
 0;23;600;1
-84;23;1794;0
-84;23;1793;0
-88;23;3097;0
-92;23;3099;0
-95;23;3101;0
-96;23;3099;0
+84;23;1794;333
+84;23;1793;333
+88;23;3097;333
+92;23;3099;333
+95;23;3101;333
+96;23;3099;333
 99;23;600;1
 99;23;600;1
 0;24;600;1
 84;24;600;1
-88;24;3101;0
+88;24;3101;333
 99;24;600;1
 0;25;600;1
 84;25;600;1
@@ -408,7 +408,7 @@
 92;33;600;1
 93;33;600;1
 95;33;402;1
-96;33;3095;0
+96;33;3095;333
 97;33;402;1
 99;33;600;1
 0;34;600;1
@@ -416,7 +416,7 @@
 90;34;600;1
 91;34;600;1
 92;34;600;1
-97;34;3100;0
+97;34;3100;333
 99;34;600;1
 0;35;600;1
 89;35;600;1
@@ -457,8 +457,8 @@
 66;37;600;1
 67;37;600;1
 89;37;600;1
-92;37;3100;0
-92;37;2937;0
+92;37;3100;333
+92;37;2937;333
 94;37;796;1;descriptionEn=The number 35 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 35 eingraviert zu sein
 99;37;600;1
 0;38;600;1
@@ -496,7 +496,7 @@
 65;38;3178;1
 66;38;3160;1
 67;38;600;1
-89;38;3097;0
+89;38;3097;333
 97;38;796;1;descriptionEn=The number 76 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 76 eingraviert zu sein
 99;38;600;1
 0;39;600;1
@@ -514,7 +514,7 @@
 66;39;3179;1
 67;39;600;1
 94;39;796;1;descriptionEn=The number 201 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 201 eingraviert zu sein
-95;39;3099;0
+95;39;3099;333
 99;39;600;1
 0;40;600;1
 39;40;600;1
@@ -533,7 +533,7 @@
 66;41;3179;1
 67;41;600;1
 94;41;796;1;descriptionEn=The number 3 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 3 eingraviert zu sein
-98;41;3093;0
+98;41;3093;333
 99;41;600;1
 0;42;600;1
 39;42;600;1
@@ -563,7 +563,7 @@
 66;43;3179;1
 67;43;600;1
 94;43;796;1;descriptionEn=The number 9 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 9 eingraviert zu sein
-97;43;2039;0
+97;43;2039;333
 99;43;600;1
 0;44;600;1
 39;44;600;1
@@ -573,7 +573,7 @@
 56;44;3193;1
 66;44;3179;1
 67;44;600;1
-89;44;3098;0
+89;44;3098;333
 97;44;796;1;descriptionEn=The number 8 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 8 eingraviert zu sein
 98;44;404;1
 99;44;600;1
@@ -588,8 +588,8 @@
 57;45;3184;1
 66;45;3179;1
 67;45;600;1
-89;45;3096;0
-98;45;3100;0
+89;45;3096;333
+98;45;3100;333
 99;45;600;1
 0;46;600;1
 1;46;600;1
@@ -651,14 +651,14 @@
 0;47;600;1
 6;47;402;1
 9;47;402;1
-9;47;3098;0
+9;47;3098;333
 12;47;402;1
-14;47;3099;0
+14;47;3099;333
 17;47;600;1
 39;47;600;1
 40;47;3177;1
 53;47;3101;1
-55;47;3109;0;nameDe=Karte;nameEn=Map;descriptionDe=Auf dieser Karte scheinen verschiedene kleine Inseln eingezeichnet zu sein. Auf den Inseln sind Symbole die wie ein auf den Kopf gestelltes U aussehen eingezeichnet.;descriptionEn=On this map there are a few islands drawn.  There are symbols on this islands drawn which look like an upside down U.
+55;47;3109;333;nameDe=Karte;nameEn=Map;descriptionDe=Auf dieser Karte scheinen verschiedene kleine Inseln eingezeichnet zu sein. Auf den Inseln sind Symbole die wie ein auf den Kopf gestelltes U aussehen eingezeichnet.;descriptionEn=On this map there are a few islands drawn.  There are symbols on this islands drawn which look like an upside down U.
 66;47;3179;1
 67;47;600;1
 89;47;600;1
@@ -680,7 +680,7 @@
 89;48;600;1
 99;48;600;1
 0;49;600;1
-16;49;2038;0
+16;49;2038;333
 17;49;600;1
 39;49;600;1
 40;49;3177;1
@@ -746,8 +746,8 @@
 67;51;600;1
 99;51;600;1
 0;52;600;1
-3;52;3100;0
-16;52;2937;0
+3;52;3100;333
+16;52;2937;333
 39;52;600;1
 40;52;3177;1
 48;52;3102;1
@@ -760,7 +760,7 @@
 67;52;600;1
 99;52;600;1
 0;53;600;1
-13;53;3099;0
+13;53;3099;333
 17;53;600;1
 39;53;600;1
 40;53;3177;1
@@ -776,8 +776,8 @@
 67;53;600;1
 99;53;600;1
 0;54;600;1
-10;54;3100;0
-10;54;3100;0
+10;54;3100;333
+10;54;3100;333
 16;54;404;1
 17;54;600;1
 39;54;600;1
@@ -902,9 +902,9 @@
 66;60;3176;1
 67;60;600;1
 90;60;600;1
-94;60;3098;0
+94;60;3098;333
 95;60;402;1
-96;60;3095;0
+96;60;3095;333
 99;60;600;1
 0;61;600;1
 39;61;600;1
@@ -945,11 +945,11 @@
 94;62;796;1;descriptionEn=The number 87 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 87 eingraviert zu sein
 99;62;600;1
 0;63;600;1
-90;63;3095;0
+90;63;3095;333
 97;63;796;1;descriptionEn=The number 46 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 46 eingraviert zu sein
 99;63;600;1
 0;64;600;1
-90;64;3098;0
+90;64;3098;333
 94;64;796;1;descriptionEn=The number 5 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 5 eingraviert zu sein
 99;64;600;1
 0;65;600;1
@@ -958,17 +958,17 @@
 99;65;600;1
 0;66;600;1
 94;66;796;1;descriptionEn=The number 19 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 19 eingraviert zu sein
-98;66;3093;0
+98;66;3093;333
 99;66;600;1
 0;67;600;1
 97;67;796;1;descriptionEn=The number 4 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 4 eingraviert zu sein
 99;67;600;1
 0;68;600;1
-90;68;3098;0
+90;68;3098;333
 94;68;796;1;descriptionEn=The number 26 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 26 eingraviert zu sein
 99;68;600;1
 0;69;600;1
-90;69;3096;0
+90;69;3096;333
 97;69;796;1;descriptionEn=The number 666 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 666 eingraviert zu sein
 98;69;404;1
 99;69;600;1
@@ -977,7 +977,7 @@
 99;70;600;1
 0;71;600;1
 90;71;600;1
-98;71;3098;0
+98;71;3098;333
 99;71;600;1
 0;72;600;1
 90;72;600;1
@@ -1018,21 +1018,21 @@
 99;76;600;1
 0;77;600;1
 45;77;600;1
-49;77;3099;0
+49;77;3099;333
 50;77;402;1
-51;77;2039;0
-52;77;2805;0
+51;77;2039;333
+52;77;2805;333
 54;77;402;1
-56;77;2805;0
+56;77;2805;333
 59;77;404;1
 60;77;600;1
 99;77;600;1
 0;78;600;1
 45;78;600;1
 50;78;3109;0;nameDe=Tagebuch eines Abenteurers II;nameEn=Journal of an adventurer II;descriptionDe=--16. S**os 30: Ihr ha**n die Bl**en gef***en und i*h tr***e mich h**te mit i*r. I*h ho**e es l*uft a**es gut!-- --7. Br*s **: Di**es J**r sch**nt es be***ders h**ß zu s**n. Die Was*er*or**te ge*en zu ne*ge!-- ;descriptionEn=--16. S**os 30: S*e l***d the fl**ers a*d I'll m**t her to*ay, I ho*e ever**hing g**s well!-- --7. Br*s **: This y**r it's e**n h****r than l*st year. We a*e run**ng o*t of wa**r.--
-52;78;3095;0
+52;78;3095;333
 54;78;793;1;descriptionEn=A turned 8 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint eine gedrehte 8 eingraviert zu sein
-57;78;3097;0
+57;78;3097;333
 60;78;600;1
 99;78;600;1
 0;79;600;1
@@ -1054,8 +1054,8 @@
 19;79;600;1
 20;79;600;1
 45;79;600;1
-58;79;3093;0
-59;79;2805;0
+58;79;3093;333
+59;79;2805;333
 60;79;600;1
 99;79;600;1
 0;80;600;1
@@ -1065,7 +1065,7 @@
 18;80;402;1
 20;80;600;1
 45;80;600;1
-59;80;3099;0
+59;80;3099;333
 60;80;600;1
 99;80;600;1
 0;81;600;1
@@ -1077,8 +1077,8 @@
 18;81;797;1;descriptionEn=The number 145 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 145 eingraviert zu sein
 20;81;600;1
 45;81;600;1
-49;81;498;0
-50;81;3097;0
+49;81;498;333
+50;81;3097;333
 58;81;796;1;descriptionEn=The number 0 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 0 eingraviert zu sein
 59;81;404;1
 60;81;600;1
@@ -1098,40 +1098,40 @@
 0;82;600;1
 5;82;600;1
 20;82;600;1
-21;82;3099;0
+21;82;3099;333
 45;82;600;1
-59;82;2038;0
+59;82;2038;333
 60;82;600;1
 88;82;600;1
 92;82;402;1
-93;82;2937;0
+93;82;2937;333
 96;82;402;1
-98;82;1793;0
-98;82;1795;0
+98;82;1793;333
+98;82;1795;333
 99;82;600;1
 0;83;600;1
 5;83;600;1
 45;83;600;1
-50;83;1793;0
-54;83;3098;0
-54;83;2937;0
-59;83;2805;0
+50;83;1793;333
+54;83;3098;333
+54;83;2937;333
+59;83;2805;333
 60;83;600;1
 88;83;600;1
-92;83;3097;0
+92;83;3097;333
 99;83;600;1
 0;84;600;1
 5;84;600;1
 10;84;797;1;descriptionEn=The number 1 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 1 eingraviert zu sein
-14;84;2937;0
+14;84;2937;333
 18;84;797;1;descriptionEn=The number 5 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 5 eingraviert zu sein
-19;84;3100;0
+19;84;3100;333
 45;84;600;1
-49;84;3097;0
-51;84;1028;0
-52;84;1026;0
-53;84;1025;0
-59;84;3098;0
+49;84;3097;333
+51;84;1028;333
+52;84;1026;333
+53;84;1025;333
+59;84;3098;333
 60;84;600;1
 88;84;600;1
 97;84;796;1;descriptionEn=The number 17 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 17 eingraviert zu sein
@@ -1139,7 +1139,7 @@
 99;84;600;1
 0;85;600;1
 5;85;600;1
-11;85;3099;0
+11;85;3099;333
 45;85;600;1
 59;85;404;1
 60;85;600;1
@@ -1158,12 +1158,12 @@
 12;87;797;1;descriptionEn=The number 0 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 0 eingraviert zu sein
 16;87;797;1;descriptionEn=The number 10 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 10 eingraviert zu sein
 19;87;404;1
-19;87;3093;0
+19;87;3093;333
 20;87;600;1
 45;87;600;1
 60;87;600;1
-88;87;498;0
-95;87;3099;0
+88;87;498;333
+95;87;3099;333
 99;87;600;1
 0;88;600;1
 5;88;600;1
@@ -1188,10 +1188,10 @@
 99;88;600;1
 0;89;600;1
 5;89;600;1
-13;89;3098;0
+13;89;3098;333
 19;89;600;1
 20;89;600;1
-90;89;3099;0
+90;89;3099;333
 94;89;796;1;descriptionEn=The number 7 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 7 eingraviert zu sein
 98;89;404;1
 99;89;600;1
@@ -1205,7 +1205,7 @@
 5;91;600;1
 18;91;600;1
 19;91;600;1
-90;91;3097;0
+90;91;3097;333
 99;91;600;1
 0;92;600;1
 5;92;600;1
@@ -1223,13 +1223,13 @@
 17;92;600;1
 18;92;600;1
 88;92;600;1
-91;92;2038;0
+91;92;2038;333
 97;92;796;1;descriptionEn=The number 69 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 69 eingraviert zu sein
 99;92;600;1
 0;93;600;1
 88;93;600;1
 94;93;796;1;descriptionEn=The number 96 seems to be engraved into this gate;descriptionDe=Auf diesem Tor scheint die Nummer 69 eingraviert zu sein
-97;93;2038;0
+97;93;2038;333
 99;93;600;1
 0;94;600;1
 88;94;600;1
@@ -1241,8 +1241,8 @@
 99;95;600;1
 0;96;600;1
 88;96;600;1
-92;96;3098;0
-96;96;3098;0
+92;96;3098;333
+96;96;3098;333
 99;96;600;1
 99;96;600;1
 0;97;600;1
