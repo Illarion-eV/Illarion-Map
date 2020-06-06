@@ -24869,6 +24869,7 @@
 414;307;338;599
 415;307;1272;333
 416;307;897;333
+422;307;1080;333;descriptionDe=Der Name des Schneiders ist säuberlich eingestickt am Ende der Flagge: Jakob Maren;descriptionEn=The name of the tailor is neatly stitched at the base of the flag: Jakob Maren
 424;307;1272;599
 425;307;301;599
 426;307;301;599
@@ -25000,6 +25001,7 @@
 419;308;1097;333
 419;308;1176;333
 420;308;1383;333
+421;308;3679;333
 425;308;301;599
 426;308;889;599
 427;308;249;599
@@ -25157,7 +25159,7 @@
 408;309;396;599
 417;309;273;333
 419;309;66;333;markerstone=257
-421;309;956;333
+422;309;1080;333;descriptionDe=Der Name des Schneiders ist säuberlich eingestickt am Ende der Flagge: Jakob Maren;descriptionEn=The name of the tailor is neatly stitched at the base of the flag: Jakob Maren
 425;309;940;599
 425;309;647;599
 426;309;513;599
