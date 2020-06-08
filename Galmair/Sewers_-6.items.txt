@@ -2967,6 +2967,7 @@
 132;85;287;333
 138;85;287;333
 139;85;3205;333
+144;85;3782;333;rareness=2;descriptionDe=Eine Sammlung roter Knochen;descriptionEn=A collection of red bones
 147;85;3207;333
 147;85;403;333
 154;85;3207;333
