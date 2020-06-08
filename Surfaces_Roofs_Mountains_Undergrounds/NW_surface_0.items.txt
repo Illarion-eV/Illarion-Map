@@ -13325,8 +13325,8 @@
 420;226;1276;333
 421;226;622;333
 422;226;628;333
-423;226;692;333;nameDe=Copperhand-Tunnel;nameEn=Copperhand-Tunnel;descriptionEn=Built by Galmairians for Galmairians under the direction of Ufedhin Copperhand in the year 40 after the sorcerer.;descriptionDe=Erbaut von Galmairianer fÃ¼r Galmairianier unter der Leitung von Ufedhin Copperhand im Jahre 40 nach dem Zauberer.
-429;226;692;333;nameDe=Copperhand-Tunnel;nameEn=Copperhand-Tunnel;descriptionEn=Built by Galmairians for Galmairians under the direction of Ufedhin Copperhand in the year 40 after the sorcerer.;descriptionDe=Erbaut von Galmairianer fÃ¼r Galmairianier unter der Leitung von Ufedhin Copperhand im Jahre 40 nach dem Zauberer.
+423;226;692;333;nameDe=Copperhand-Tunnel;nameEn=Copperhand-Tunnel;descriptionEn=Built by Galmairians for Galmairians under the direction of Ufedhin Copperhand in the year 40 after the sorcerer.;descriptionDe=Erbaut von Galmairianer für Galmairianier unter der Leitung von Ufedhin Copperhand im Jahre 40 nach dem Zauberer.
+429;226;692;333;nameDe=Copperhand-Tunnel;nameEn=Copperhand-Tunnel;descriptionEn=Built by Galmairians for Galmairians under the direction of Ufedhin Copperhand in the year 40 after the sorcerer.;descriptionDe=Erbaut von Galmairianer für Galmairianier unter der Leitung von Ufedhin Copperhand im Jahre 40 nach dem Zauberer.
 430;226;928;333
 431;226;273;333
 438;226;274;333
