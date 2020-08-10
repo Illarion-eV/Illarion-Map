@@ -1594,7 +1594,7 @@
 122;63;287;333
 123;63;3205;333
 127;63;3207;333
-127;63;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
+127;63;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und zeigt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 127;63;404;333
 128;63;287;333
 129;63;3205;333
@@ -1720,7 +1720,7 @@
 122;65;3205;333
 122;65;3205;333
 127;65;3207;333
-127;65;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
+127;65;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und zeigt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 127;65;404;333
 128;65;287;333
 129;65;3205;333
@@ -1814,7 +1814,7 @@
 121;67;287;333
 122;67;3205;333
 127;67;3207;333
-127;67;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
+127;67;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und zeigt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 127;67;404;333
 128;67;287;333
 128;67;287;333
@@ -3230,7 +3230,7 @@
 119;88;3205;333
 119;88;3205;333
 125;88;3207;333
-125;88;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
+125;88;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und zeigt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 125;88;404;333
 126;88;287;333
 127;88;3205;333
@@ -3440,7 +3440,7 @@
 116;90;405;333
 117;90;1783;333
 125;90;3207;333
-125;90;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und ziegt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
+125;90;693;333;descriptionDe=Die Statue entspricht dem Abbild des Don und zeigt auf die beiden dunklen Säulen neben ihr.;descriptionEn=The statue portrays the Don pointing to the two dark columns beside him.
 125;90;404;333
 126;90;287;333
 127;90;287;333
