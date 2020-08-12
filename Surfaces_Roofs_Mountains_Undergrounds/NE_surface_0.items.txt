@@ -753,8 +753,8 @@
 160;12;340;333
 161;12;340;333
 162;12;340;333
-163;12;903;333;doorLock=locked
-164;12;905;333;doorlock=locked
+163;12;903;333;doorLock=locked;lockId=500;descriptionEn=West Gate - Insurmountable Limes;descriptionDe=Westtor - Unüberwindbarer Limes
+164;12;905;333;doorlock=locked;lockId=500;descriptionEn=West Gate - Insurmountable Limes;descriptionDe=Westtor - Unüberwindbarer Limes
 165;12;340;333
 166;12;340;333
 167;12;340;333
@@ -12682,7 +12682,7 @@
 412;137;1790;333
 414;137;308;333
 416;137;584;333
-420;137;481;333;doorLock=locked
+420;137;481;333;doorLock=locked;lockId=500;descriptionEn=East Gate - Insurmountable Limes;descriptionDe=Osttor - Unüberwindbarer Limes
 433;137;921;333
 434;137;287;333
 435;137;287;333
@@ -12821,7 +12821,7 @@
 403;138;1782;333
 410;138;1782;333
 413;138;273;333
-420;138;483;333;doorLock=locked
+420;138;483;333;doorLock=locked;lockId=500;descriptionEn=East Gate - Insurmountable Limes;descriptionDe=Osttor - Unüberwindbarer Limes
 431;138;472;333
 432;138;340;333
 433;138;346;333
