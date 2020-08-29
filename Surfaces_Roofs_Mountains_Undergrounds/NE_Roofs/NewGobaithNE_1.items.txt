@@ -1921,7 +1921,7 @@
 21;115;287;333
 22;115;287;333
 23;115;622;333
-24;115;272;333;descriptionEn=The statue depicts a timeless woman in a flowing light blue dress and long blonde hair.;descriptionDe=Die Statue zeigt eine blonde Frau zeitlosen Alters die ein weites blaues Kleid trägt.;nameEn=Goddess Findari;nameDe=Goddess Findari
+24;115;272;333;descriptionEn=The statue depicts a timeless woman in a flowing light blue dress and long blonde hair.;descriptionDe=Die Statue zeigt eine blonde Frau zeitlosen Alters die ein weites blaues Kleid trägt.;nameEn=Goddess Findari;nameDe=Göttin Findari
 25;115;396;333
 26;115;2586;333
 27;115;2586;333
@@ -1938,7 +1938,7 @@
 38;115;2586;333
 39;115;396;333
 40;115;3595;333
-40;115;272;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein BArt steht in Flammen.;nameEn=God Brágon;nameDe=Gott Brágon
+40;115;272;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein Bart steht in Flammen.;nameEn=God Brágon;nameDe=Gott Brágon
 41;115;3590;333
 42;115;3590;333
 43;115;3590;333
@@ -2696,7 +2696,7 @@
 83;132;287;333
 415;132;342;333
 433;132;921;333
-13;133;464;333;descriptionEn=The statue depicts a slim older man, looking almost frail with a staff in one arm and a book in another.;descriptionDe=Die Statue zeigt einen schlanken, älteren Mann. Er wirkt fast zierlich und hält einen Stab in der einen Hand und ein Buch in der anderen.;nameEn=God Eldan;descriptionDe=Gott Eldan
+13;133;464;333;descriptionEn=The statue depicts a slim older man, looking almost frail with a staff in one arm and a book in another.;descriptionDe=Die Statue zeigt einen schlanken, älteren Mann. Er wirkt fast zierlich und hält einen Stab in der einen Hand und ein Buch in der anderen.;nameEn=God Eldan;nameDe=Gott Eldan
 14;133;623;333
 15;133;287;333
 15;133;287;333
@@ -3551,7 +3551,7 @@
 34;162;272;333;descriptionEn=The statue depicts a mermaid with her tail and scales sparkling in the sun.;descriptionDe=Die Statue zeigt eine Meerjungfrau deren Flosse und Schuppen in der Sonne glitzern.;nameDe=Göttin Tanora;nameEn=Goddess Tanora
 35;162;272;333;descriptionEn=The statue depicts a timeless woman in a flowing light blue dress and long blonde hair.;descriptionDe=Die Statue zeigt eine blonde Frau zeitlosen Alters die ein weites blaues Kleid trägt.;nameEn=Goddess Findari;nameDe=Göttin Findari
 40;162;272;333;descriptionEn=The statue depicts a dark skinned, dark haired young woman in a dress the color of the earth's soil.;descriptionDe=Die Statue zeigt eine dunkelhäutige, dunkelhaarige junge Frau die ein erdfarbenes Kleid trägt.;nameEn=Goddess Ushara;nameDe=Göttin Ushara
-41;162;272;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein BArt steht in Flammen.;nameDe=Gott Brágon;nameEn=God Brágon
+41;162;272;333;descriptionEn=The statue depicts a dark haired knight with his armor and beard ablaze.;descriptionDe=Die Statue zeigt einen dunkelhaarigen Ritter in seiner Rüstung und sein Bart steht in Flammen.;nameDe=Gott Brágon;nameEn=God Brágon
 42;162;272;333;descriptionEn=The statue depicts a slim older man, looking almost frail with a staff in one arm and a book in another.;descriptionDe=Die Statue zeigt einen schlanken, älteren Mann. Er wirkt fast zierlich und hält einen Stab in der einen Hand und ein Buch in der anderen.;nameDe=Gott Eldan;nameEn=God Eldan
 82;162;3184;333
 82;162;512;333
