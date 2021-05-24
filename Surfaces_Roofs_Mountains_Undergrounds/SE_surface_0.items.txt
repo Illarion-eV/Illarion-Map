@@ -22942,7 +22942,7 @@
 229;288;473;599
 231;288;1145;333
 234;288;921;599
-234;288;751;333;descriptionEn=The portrait is a landscape overlook of Tol Vanima, the sun setting in the background.;descriptionDe=Das Portait zeigt einen Überblick über die Landschaft Tol Vanimas, im Hintergrund geht die Sonne unter.
+234;288;751;333;descriptionEn=The portrait is a landscape overlook of Toll Vanima, the sun setting in the background.;descriptionDe=Das Portait zeigt einen Überblick über die Landschaft Tol Vanimas, im Hintergrund geht die Sonne unter.
 234;288;217;599
 243;288;921;333
 243;288;464;333
