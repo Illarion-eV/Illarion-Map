@@ -18940,7 +18940,7 @@
 430;244;3305;599
 431;244;1265;599
 431;244;1246;599
-433;244;964;599
+433;244;3773;333
 435;244;1126;599
 435;244;885;599
 435;244;898;599
@@ -18948,6 +18948,7 @@
 437;244;1783;599
 438;244;884;599
 438;244;897;599
+438;244;3773;333
 440;244;1126;599
 440;244;1783;599
 440;244;899;599
@@ -19149,6 +19150,7 @@
 428;246;274;599
 443;246;860;599
 444;246;396;599
+446;246;3772;333
 447;246;856;599
 453;246;854;599
 453;246;2874;599
@@ -22509,6 +22511,7 @@
 264;283;3448;333
 265;283;3446;333
 276;283;402;333
+279;283;3773;333
 281;283;273;333
 282;283;1791;333
 287;283;3913;333;descriptionEn=Carved on this wooden column is a sprawling landscape of barren hills and fields. Trees sprout up from the ground, their limbs empty of leafs. A seemingly dead world overshadowed by dark and foreboding thunderclouds overhead.;descriptionDe=Geschnitzt in die Oberfläche der hölzernen Säule ist eine ausgedehnte Landschaft aus öden Hügeln und Feldern. Bäume sprießen aus dem Boden, ihr Geäst ist kahl. Eine scheinbar tote Welt, die von dunklen und dichten Gewittern überschattet ist.
@@ -23284,6 +23287,7 @@
 226;291;513;333
 227;291;3083;333;descriptionDe=Hafen;descriptionEn=Harbour
 229;291;274;333
+233;291;3773;333
 234;291;295;333
 235;291;402;333
 238;291;402;333
