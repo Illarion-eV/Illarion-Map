@@ -30961,7 +30961,7 @@
 133;290;1783;333
 165;290;338;333
 166;290;1391;333
-167;290;2046;333
+167;290;2046;333;descriptionEn=Troll's Haven Harbour;descriptionDe=Trollshaven Hafen
 168;290;617;333
 169;290;617;333
 170;290;507;333
@@ -33126,7 +33126,7 @@
 158;307;320;333
 159;307;320;333
 160;307;320;333
-173;307;3104;333;staticTeleporter=true
+173;307;3104;333;staticTeleporter=Hemp Necktie Inn
 174;307;301;333
 175;307;935;333
 176;307;931;333
@@ -33867,7 +33867,7 @@
 168;311;396;333
 174;311;396;333
 175;311;934;333
-184;311;3269;333;descriptionEn=Hemp Necktie Inn;descriptionEn=Gasthof zur Hanfschlinge
+184;311;3269;333;descriptionEn=Hemp Necktie Inn;descriptionDe=Gasthof zur Hanfschlinge
 184;311;36;333
 185;311;3303;333
 186;311;267;333;book1=a_question_of_honour;book2=see_of_life;book3=barhead_kings;book4=a_friend_in_need;book5=god_adron;book6=god_nargun;book7=god_ronagan;book8=compositionworld
