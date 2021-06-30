@@ -33914,6 +33914,8 @@
 185;311;3303;333
 186;311;267;333;book1=a_question_of_honour;book2=see_of_life;book3=barhead_kings;book4=a_friend_in_need;book5=god_adron;book6=god_nargun;book7=god_ronagan;book8=compositionworld
 189;311;213;333
+190;311;320;333
+190;311;2852;333
 191;311;215;333
 196;311;2850;333
 197;311;320;333
