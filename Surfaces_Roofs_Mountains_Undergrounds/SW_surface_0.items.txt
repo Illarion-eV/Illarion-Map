@@ -8452,7 +8452,7 @@
 86;60;3247;333
 89;60;741;333
 91;60;3247;333
-91;60;265;333;descriptionDe=Ein umzingelter rot-weiﬂ gekleideter Ritter erhebt sein Schwert um dem Angriff von hunderten schwarz-gelb gekleideten Soldaten zu entgegnen. Andere tausende dieser Soldaten liegen herum. Sie scheinen Tod zu sein. Unten rechts steht ein Datum: 30 AS.;descriptionEn=An outnumbered red-white dressed knight raises his sword to counter an attack of hundred black-yellow dressed soldiers. Another thousand of these soldiers are lying around him, they are probably dead. At the bottom right is a date: 30 AS.
+91;60;265;333;descriptionDe=Ein umzingelter rot-weiﬂ gekleideter Ritter erhebt sein Schwert um dem Angriff von hunderten schwarz-gelb gekleideten Soldaten zu entgegnen. Tausende dieser Soldaten liegen um ihn herum. Sie scheinen tot zu sein. Unten rechts steht ein Datum: 30 AS.;descriptionEn=An outnumbered red-white dressed knight raises his sword to counter an attack of hundred black-yellow dressed soldiers. Another thousand of these soldiers are lying around him, they are probably dead. At the bottom right is a date: 30 AS.
 92;60;263;333
 93;60;301;333
 95;60;1810;333
