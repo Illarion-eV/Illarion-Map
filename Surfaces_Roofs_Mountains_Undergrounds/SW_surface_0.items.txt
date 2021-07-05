@@ -20102,8 +20102,8 @@
 96;147;1783;333
 98;147;203;333
 110;147;3083;333;descriptionDe=Kap des Abschieds, Fabers Wache, Entfernte Wohnstätte, Piratenbucht;descriptionEn=Cape Farewell, Faber's Guardhouse, Remote Dwelling, Pirate cove
-112;147;3082;333;descriptionDe=Grundstein der Aufrichtigkeit, Malachíntempel, Rosaline-Kubus, Cadomyr Hafen, Katanbi Delta;descriptionEn=Cornerstone of Candour, Temple of Malachín, Rosaline Cube, Cadomyr Harbour, Katanbi Delta
-114;147;3084;333;descriptionDe=Katanbi Desert, Freiheitsbruch, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Liberty Quarry, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, The North, Runewick, The Southeast
+112;147;3082;333;descriptionDe=Grundstein der Aufrichtigkeit, Malachíntempel, Rosaline-Kubus, Cadomyr Hafen, Katanbidelta;descriptionEn=Cornerstone of Candour, Temple of Malachín, Rosaline Cube, Cadomyr Harbour, Katanbi Delta
+114;147;3084;333;descriptionDe=Katanbiwüste, Freiheitsbruch, Blutkreisarena, Königliche Akademie der Gladiatoren, Königlicher Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Liberty Quarry, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, The North, Runewick, The Southeast
 120;147;203;333
 132;147;1782;333
 138;147;1782;333
