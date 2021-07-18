@@ -6655,7 +6655,7 @@
 184;307;3585;333
 185;307;1096;333
 185;307;464;333
-186;307;3273;333
+186;307;3273;333;descriptionEn=Hemp Necktie Inn;descriptionDe=Gasthof zur Hanfschlinge
 187;307;3304;333
 187;307;3303;333
 188;307;3300;333
@@ -6791,6 +6791,7 @@
 105;310;1245;333
 106;310;1783;333
 106;310;1245;333
+186;310;3772;333;descriptionEn=Hospital - Please seek the Druids of the Eternal Grove for assistance;descriptionDe=Krankenhaus - Bitte suche die Druiden des ewigen Hains für Unterstützung auf
 187;310;3307;333
 192;310;1406;333
 193;310;3309;333
@@ -7769,7 +7770,7 @@
 184;327;3585;333
 185;327;1096;333
 185;327;464;333
-186;327;3273;333
+186;327;3273;333;descriptionEn=Hemp Necktie Inn;descriptionDe=Gasthof zur Hanfschlinge
 187;327;3302;333
 187;327;3299;333
 188;327;3298;333
