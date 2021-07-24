@@ -11706,6 +11706,8 @@
 94;85;1103;333
 95;85;705;333
 95;85;1107;333
+95;85;36;333
+95;85;1001;333;rareness=3;nameEn=Decorated Plate - Sea Hag;nameDe=Verzierter Teller - Seehexe;descriptionEn=A ghost ship rises from the depths of the Kantabi Delta as a woman plays the Harp of Pain.;descriptionDe=Ein Geisterschiff erhebt sich aus den Tiefen des Kantabi Deltas, während eine Frau die Harfe des Schmerzes spielt.
 96;85;1103;333
 96;85;1102;333
 96;85;1103;333
@@ -13862,7 +13864,7 @@
 67;100;1783;333
 82;100;338;333
 87;100;1783;333
-94;100;1110;333;doorLock=locked;nameDe=Villa Annabeth;descriptionEn=Villa Annabeth;lockId=340
+94;100;1110;333;doorLock=locked;descriptionEn=Villa Annabeth;descriptionDe=Villa Annabeth;lockId=340
 100;100;1101;333
 101;100;319;333
 103;100;3791;333
@@ -18303,17 +18305,17 @@
 123;131;675;333
 123;131;893;333
 124;131;672;333
+124;131;396;333
 125;131;672;333
 126;131;672;333
-126;131;915;333
 127;131;672;333
 128;131;672;333
 129;131;675;333
 129;131;672;333
-129;131;1810;333
-130;131;232;333
-131;131;232;333
-132;131;232;333
+129;131;396;333
+130;131;878;333
+131;131;877;333
+132;131;877;333
 136;131;878;333
 137;131;877;333
 138;131;912;333
@@ -18466,8 +18468,6 @@
 122;132;1208;333
 123;132;1265;333
 123;132;675;333
-126;132;396;333
-126;132;396;333
 129;132;675;333
 131;132;3264;333
 132;132;877;333
@@ -18728,8 +18728,6 @@
 97;134;1783;333
 112;134;1383;333
 112;134;675;333
-124;134;691;333
-124;134;943;333
 129;134;675;333
 154;134;1810;333
 155;134;1276;333
@@ -18841,8 +18839,6 @@
 105;135;1782;333
 112;135;675;333
 117;135;1265;333
-124;135;945;333
-124;135;689;333
 127;135;3106;333;staticTeleporter=true
 129;135;675;333
 134;135;1783;333
@@ -19059,12 +19055,13 @@
 90;137;125;333
 112;137;675;333
 113;137;396;333
+116;137;688;333
 117;137;947;333
-117;137;689;333
-118;137;688;333
 118;137;949;333
+119;137;689;333
 123;137;675;333
 123;137;396;333
+124;137;396;333
 129;137;675;333
 129;137;396;333
 133;137;273;333
@@ -31951,6 +31948,8 @@
 129;238;2169;333
 132;238;1783;333
 136;238;273;333
+141;238;517;333
+142;238;521;333;nameEn=Horace Targatheon;nameDe=Horace Targatheon;descriptionEn=Here lies Horace Targatheon Big Horace, a gentle and kind Druid, murdered by evil hands. May Ushara and Cherga embrace his pure soul.;descriptionDe=Hier liegt Horace Targatheon, Big Horace, Ein sanfter und gütiger Druide, der von bösen Händen ermordet wurde. Mögen Ushara und Cherga seine reine Seele aufnehmen.
 145;238;519;333;nameEn=Xavier Silverbottom;nameDe=Xavier Silverbottom;descriptionEn=Here lies the halfling Xavier Silverbottom. An innocent fell by the hands of a coward, and the righteous shall seek vengeance. May he rest in peace and keep the gods his soul protected from the dark.;descriptionDe=Hier liegt der Halbling Xavier Silverbottom. Ein Unschuldiger getötet von feiger Hand, and die Rechtschaffenen werden ihn rächen. Möge er in Frieden ruhen und mögen die Götter sein Seele vor dem Dunkel bewahren.
 146;238;203;333
 150;238;1810;333
@@ -34436,6 +34435,8 @@
 164;258;1160;333
 165;258;1160;333
 166;258;1160;333
+167;258;1160;333
+168;258;1160;333
 169;258;1160;333
 170;258;1160;333
 171;258;1160;333
