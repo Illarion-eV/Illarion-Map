@@ -35262,7 +35262,7 @@
 175;319;934;333
 184;319;1395;333
 185;319;3303;333
-186;319;267;333;book1=dwarven_poems;book2=poems_marina;book3=celegails_songbook;book4=snakehead;book5=landillarion
+186;319;267;333;book1=dwarven_poems;book2=poems_marina;book3=celegails_songbook;book4=snakehead;book5=landillarion;book6=the_steps_of_alchemy;book7=alchemy
 188;319;213;333
 189;319;320;333
 190;319;320;333

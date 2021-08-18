@@ -19562,7 +19562,7 @@
 389;250;396;599
 389;250;3292;599
 397;250;1102;599;book1=slimes;book2=alchemy;book3=diary_of_noira_liv;book4=druid_parchment
-397;250;1099;599;book1=slimes;book2=alchemy;book3=diary_of_noira_liv;book4=druid_parchment
+397;250;1099;599;book1=slimes;book2=alchemy;book3=diary_of_noira_liv;book4=druid_parchment;book5=the_steps_of_alchemy
 400;250;1360;599
 403;250;1360;599
 406;250;1360;599

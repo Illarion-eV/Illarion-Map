@@ -5842,7 +5842,7 @@
 130;40;3245;333
 139;40;218;333
 141;40;3247;333
-141;40;267;333;book1=magic_gems;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret;book5=grugmutz
+141;40;267;333;book1=magic_gems;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret;book5=grugmutz;book6=the_steps_of_alchemy;book7=alchemy
 142;40;287;333
 164;40;287;333
 165;40;287;333
@@ -11569,7 +11569,7 @@
 137;84;3271;333
 138;84;3245;333
 139;84;396;333
-140;84;266;333;book1=alchemy;book2=gods1;book3=firstaid
+140;84;266;333;book1=alchemy;book2=gods1;book3=firstaid;book4=the_steps_of_alchemy
 141;84;1360;333
 143;84;969;333
 144;84;3247;333
