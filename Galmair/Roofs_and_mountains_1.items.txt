@@ -8261,14 +8261,13 @@
 265;154;3308;333
 265;154;3307;333
 266;154;3308;333
+266;154;264;333;rareness=3;nameEn=Portrait of Sirani;nameDe=Portrait Siranis;descriptionEn=The coal drawing shows a delicate portrait a fair-haired, beautiful, young woman, surrounded by butterflies.;descriptionDe=Die Kohlezeichnung zeigt ein feines Portrait einer hellhaarigen, schönen, jungen Frau, umgeben von Schmetterlingen.
 267;154;3300;333
 268;154;3308;333
 268;154;36;333
-268;154;61;333
 269;154;3312;333
 270;154;3300;333
 270;154;957;333
-270;154;264;333
 271;154;3326;333
 271;154;1127;333
 272;154;3300;333
@@ -8391,6 +8390,7 @@
 279;156;2876;333
 281;156;2878;333
 283;156;3313;333
+283;156;550;333
 322;156;915;333
 323;156;1783;333
 326;156;627;333
@@ -8432,8 +8432,7 @@
 265;157;3307;333
 267;157;212;333
 271;157;3309;333
-271;157;452;333
-271;157;749;333
+271;157;265;333;rareness=3;nameEn=Family Memories;nameDe=Familienerinnerung;descriptionEn=The coal drawing shows the Rotholz family, a farmer and his wife, along with his adult son Peter and his younger sister Amelia.;descriptionDe=Die Kohlezeichnung zeigt die Familie Rotholz, ein Farmer und seine Frau, sein erwachsener Sohn Peter und dessen jüngere Schwester Amelia.
 275;157;3793;333
 276;157;3309;333
 276;157;265;333;descriptionEn=The painting shows a smeared painting. It appears as if a fairy is placed in the middle of the picture.;descriptionDe=Das Gemälde zeigt ein verlaufenes Bild, es scheint so, als ob eine Fee zentriert im Bild wäre.
@@ -8596,8 +8595,6 @@
 225;161;626;333
 226;161;626;333
 265;161;3307;333
-270;161;3821;333
-270;161;2534;333
 271;161;3304;333
 271;161;3303;333
 271;161;3303;333
@@ -8656,7 +8653,8 @@
 227;162;626;333
 228;162;626;333
 265;162;3295;333
-268;162;3771;333
+267;162;3771;333
+270;162;740;333
 271;162;3303;333
 271;162;3303;333
 280;162;433;333
@@ -8707,7 +8705,6 @@
 224;163;1246;333
 226;163;628;333
 227;163;629;333
-265;163;672;333
 265;163;3295;333
 271;163;3303;333
 271;163;3303;333
@@ -8812,7 +8809,6 @@
 265;166;3307;333
 266;166;3298;333
 267;166;3310;333
-268;166;675;333
 268;166;3294;333
 269;166;3314;333;descriptionDe=Balkon;descriptionEn=Balcony;lockId=113;doorLock=locked
 270;166;3306;333
