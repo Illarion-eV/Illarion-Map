@@ -5842,7 +5842,7 @@
 130;40;3245;333
 139;40;218;333
 141;40;3247;333
-141;40;267;333;book1=magic_gems;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret;book5=grugmutz
+141;40;267;333;book1=magic_gems;book2=poems_marina;book3=cadoson_letnason;book4=tanoras_secret;book5=grugmutz;book6=the_steps_of_alchemy;book7=alchemy
 142;40;287;333
 164;40;287;333
 165;40;287;333
@@ -8452,7 +8452,7 @@
 86;60;3247;333
 89;60;741;333
 91;60;3247;333
-91;60;265;333;descriptionDe=Ein umzingelter rot-weiß gekleideter Ritter erhebt sein Schert um dem Angriff von hunderten schwarz-gelb gekleideten Soldaten zu entgegnen. Andere tausende dieser Soldaten liegen herum. Sie scheinen Tod zu sein. Unten rechts steht ein Datum: 30 AS.;descriptionEn=An outnumbered red-white dressed knight raises his sword to counter an attack of hundred black-yellow dressed soldiers. Another thousand of these soldiers are lying around him, they are probably dead. At the bottom right is a date: 30 AS.
+91;60;265;333;descriptionDe=Ein umzingelter rot-weiß gekleideter Ritter erhebt sein Schwert um sich dem Angriff hunderter schwarz-gelb gekleideter Soldaten entgegenzustellen. Unzählige dieser offenbar gefallene Soldaten liegen um ihn herum. Unten rechts steht ein Datum: 30 AS.;descriptionEn=An outnumbered red-white dressed knight raises his sword to counter an attack of hundred black-yellow dressed soldiers. Countless of these soldiers are lying around him, they are probably dead. At the bottom right is a date: 30 AS.
 92;60;263;333
 93;60;301;333
 95;60;1810;333
@@ -11569,7 +11569,7 @@
 137;84;3271;333
 138;84;3245;333
 139;84;396;333
-140;84;266;333;book1=alchemy;book2=gods1;book3=firstaid
+140;84;266;333;book1=alchemy;book2=gods1;book3=firstaid;book4=the_steps_of_alchemy
 141;84;1360;333
 143;84;969;333
 144;84;3247;333
@@ -11706,6 +11706,8 @@
 94;85;1103;333
 95;85;705;333
 95;85;1107;333
+95;85;36;333
+95;85;1001;333;rareness=3;nameEn=Decorated Plate - Sea Hag;nameDe=Verzierter Teller - Seehexe;descriptionEn=A ghost ship rises from the depths of the Kantabi Delta as a woman plays the Harp of Pain.;descriptionDe=Ein Geisterschiff erhebt sich aus den Tiefen des Kantabi Deltas, während eine Frau die Harfe des Schmerzes spielt.
 96;85;1103;333
 96;85;1102;333
 96;85;1103;333
@@ -12294,6 +12296,7 @@
 90;89;315;333
 93;89;217;333
 94;89;2885;333
+94;89;2853;333
 95;89;219;333
 96;89;1102;333
 97;89;915;333
@@ -13861,7 +13864,7 @@
 67;100;1783;333
 82;100;338;333
 87;100;1783;333
-94;100;1110;333;doorLock=locked;nameDe=Villa Annabeth;descriptionEn=Villa Annabeth;lockId=340
+94;100;1110;333;doorLock=locked;descriptionEn=Villa Annabeth;descriptionDe=Villa Annabeth;lockId=340
 100;100;1101;333
 101;100;319;333
 103;100;3791;333
@@ -17720,6 +17723,7 @@
 119;127;675;333
 147;127;1161;333
 148;127;1161;333
+155;127;232;333;descriptionEn=Two lives of sentient minds must be sacrificed.;descriptionDe=Zwei empfindsame Seelen müssen geopfert werden.
 173;127;1783;333
 174;127;3081;333;descriptionDe=Freiheitsbruch, Grugmutzs Höhle, Bach Siedlung, Festung Hammerfall, Einsame Berge;descriptionEn=Liberty Quarry, Grugmutz's cave, Creek Settlement, Fortress Hammerfall, Lonly Mountains
 175;127;1783;333
@@ -18000,8 +18004,9 @@
 120;129;1862;333
 120;129;638;333
 120;129;636;333
-121;129;672;333
 121;129;675;333
+121;129;672;333
+121;129;3262;333
 146;129;1161;333
 168;129;1782;333
 174;129;3084;333;descriptionDe=Katanbi Desert, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, The North, Runewick, The Southeast
@@ -18143,6 +18148,7 @@
 104;130;1160;333
 105;130;1160;333
 112;130;672;333
+112;130;675;333
 112;130;3263;333
 113;130;672;333
 115;130;3753;333
@@ -18151,6 +18157,7 @@
 123;130;675;333
 123;130;672;333
 145;130;913;333
+155;130;232;333;descriptionEn=Two lives of sentient minds must be sacrificed.;descriptionDe=Zwei empfindsame Seelen müssen geopfert werden.
 157;130;203;333
 162;130;301;333
 163;130;301;333
@@ -18295,18 +18302,22 @@
 99;131;232;333
 100;131;1251;333
 101;131;1266;333
+112;131;675;333
 121;131;1783;333
+123;131;675;333
 123;131;893;333
 124;131;672;333
+124;131;396;333
 125;131;672;333
 126;131;672;333
-126;131;915;333
-127;131;877;333
-128;131;877;333
-129;131;3262;333
+127;131;672;333
+128;131;672;333
+129;131;675;333
+129;131;672;333
+129;131;396;333
 130;131;878;333
-131;131;1276;333
-132;131;1276;333
+131;131;877;333
+132;131;877;333
 136;131;878;333
 137;131;877;333
 138;131;912;333
@@ -18454,13 +18465,13 @@
 98;132;1783;333
 106;132;1206;333
 108;132;1783;333
+112;132;675;333
 114;132;1810;333
 122;132;1208;333
 123;132;1265;333
-126;132;396;333
-126;132;396;333
-130;132;878;333
-131;132;232;333
+123;132;675;333
+129;132;675;333
+131;132;3264;333
 132;132;877;333
 133;132;877;333
 134;132;878;333
@@ -18593,10 +18604,9 @@
 97;133;2169;333
 100;133;1810;333
 102;133;1813;333
-124;133;675;333
-125;133;672;333
+112;133;675;333
+123;133;675;333
 129;133;675;333
-129;133;672;333
 132;133;66;333;markerstone=328
 133;133;3867;333
 136;133;1810;333
@@ -18604,6 +18614,7 @@
 151;133;1783;333
 165;133;914;333
 166;133;1276;333
+184;133;232;333;descriptionEn=Four earthquakes toll success.;descriptionDe=Vier Erdbeben läuten den Erfolg ein.
 190;133;402;333
 191;133;513;333
 192;133;507;333
@@ -18622,8 +18633,6 @@
 214;133;338;333
 218;133;1160;333
 219;133;1254;333
-220;133;507;333
-221;133;3292;333
 233;133;1783;333
 234;133;1782;333
 242;133;1783;333
@@ -18719,6 +18728,8 @@
 87;134;581;333
 97;134;1783;333
 112;134;1383;333
+112;134;675;333
+129;134;675;333
 154;134;1810;333
 155;134;1276;333
 165;134;627;333
@@ -18733,7 +18744,7 @@
 218;134;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 219;134;1782;333
 219;134;3083;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
-221;134;943;333
+220;134;232;333;descriptionEn=Three must cross the line to live in demon fire for eternity.;descriptionDe=Drei müssen die Linie überqueren um für die Ewigkeit im Dämonenfeuer zu leben.
 224;134;274;333
 226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
 233;134;1782;333
@@ -18827,8 +18838,10 @@
 101;135;1783;333
 103;135;1246;333
 105;135;1782;333
+112;135;675;333
 117;135;1265;333
 127;135;3106;333;staticTeleporter=true
+129;135;675;333
 134;135;1783;333
 158;135;912;333
 165;135;629;333
@@ -18847,7 +18860,6 @@
 218;135;602;333
 219;135;603;333
 220;135;601;333
-221;135;1161;333
 233;135;912;333
 234;135;1782;333
 237;135;1810;333
@@ -18932,6 +18944,10 @@
 103;136;581;333
 107;136;1783;333
 108;136;1783;333
+112;136;675;333
+112;136;675;333
+123;136;675;333
+129;136;675;333
 138;136;1783;333
 142;136;274;333
 144;136;3262;333
@@ -18949,7 +18965,6 @@
 218;136;602;333
 219;136;603;333
 220;136;601;333
-221;136;1161;333
 227;136;274;333
 229;136;1782;333
 231;136;1783;333
@@ -19037,8 +19052,17 @@
 86;137;1783;333
 89;137;1782;333
 90;137;125;333
-124;137;675;333
+112;137;675;333
+113;137;396;333
+116;137;688;333
+117;137;947;333
+118;137;949;333
+119;137;689;333
+123;137;675;333
+123;137;396;333
+124;137;396;333
 129;137;675;333
+129;137;396;333
 133;137;273;333
 144;137;1782;333
 152;137;1254;333
@@ -19051,13 +19075,14 @@
 169;137;1254;333
 173;137;1783;333
 181;137;1782;333
+184;137;232;333;descriptionEn=Four earthquakes toll success.;descriptionDe=Vier Erdbeben läuten den Erfolg ein.
 187;137;274;333
 188;137;1783;333
 192;137;1782;333
 195;137;274;333
 213;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 218;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
-221;137;1161;333
+220;137;232;333;descriptionEn=Three must cross the line to live in demon fire for eternity.;descriptionDe=Drei müssen die Linie überqueren um für die Ewigkeit im Dämonenfeuer zu leben.
 228;137;203;333
 229;137;273;333
 233;137;1782;333
@@ -19152,7 +19177,22 @@
 98;138;274;333
 101;138;912;333
 103;138;1783;333
+113;138;672;333
+114;138;672;333
+115;138;672;333
+116;138;672;333
+119;138;672;333
 119;138;1810;333
+120;138;672;333
+121;138;672;333
+122;138;672;333
+123;138;672;333
+124;138;672;333
+125;138;672;333
+125;138;672;333
+126;138;672;333
+127;138;672;333
+128;138;672;333
 129;138;672;333
 136;138;1208;333
 139;138;1810;333
@@ -19172,7 +19212,6 @@
 212;138;1812;333
 215;138;1176;333
 219;138;1782;333
-220;138;3265;333
 221;138;911;333
 231;138;1783;333
 259;138;1782;333
@@ -19253,6 +19292,7 @@
 105;139;1783;333
 105;139;1783;333
 129;139;1782;333
+137;139;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 138;139;1782;333
 151;139;273;333
 153;139;301;333
@@ -19264,9 +19304,6 @@
 176;139;1783;333
 191;139;274;333
 200;139;203;333
-219;139;3265;333
-220;139;3265;333
-220;139;3265;333
 221;139;1161;333
 234;139;3264;333
 242;139;1783;333
@@ -19548,11 +19585,13 @@
 97;142;1208;333
 127;142;893;333
 129;142;914;333
+137;142;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 147;142;1810;333
 150;142;627;333
 150;142;1251;333
 151;142;626;333
 153;142;914;333
+155;142;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 157;142;1276;333
 158;142;1783;333
 160;142;1783;333
@@ -19668,7 +19707,7 @@
 150;143;629;333
 151;143;628;333
 152;143;1817;333
-155;143;1783;333
+155;143;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 157;143;627;333
 158;143;1783;333
 158;143;626;333
@@ -19854,6 +19893,7 @@
 150;145;628;333
 151;145;1254;333
 153;145;273;333
+155;145;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 157;145;1783;333
 159;145;1783;333
 164;145;1783;333
@@ -19952,6 +19992,7 @@
 147;146;629;333
 148;146;628;333
 150;146;914;333
+155;146;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 167;146;915;333
 170;146;274;333
 172;146;1810;333
@@ -20059,8 +20100,8 @@
 96;147;1783;333
 98;147;203;333
 110;147;3083;333;descriptionDe=Kap des Abschieds, Fabers Wache, Entfernte Wohnstätte, Piratenbucht;descriptionEn=Cape Farewell, Faber's Guardhouse, Remote Dwelling, Pirate cove
-112;147;3082;333;descriptionDe=Grundstein der Aufrichtigkeit, Malachíntempel, Rosaline-Kubus, Cadomyr Hafen, Katanbi Delta;descriptionEn=Cornerstone of Candour, Temple of Malachín, Rosaline Cube, Cadomyr Harbour, Katanbi Delta
-114;147;3084;333;descriptionDe=Katanbi Desert, Freiheitsbruch, Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Liberty Quarry, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, The North, Runewick, The Southeast
+112;147;3082;333;descriptionDe=Grundstein der Aufrichtigkeit, Malachíntempel, Rosaline-Kubus, Cadomyr Hafen, Katanbidelta;descriptionEn=Cornerstone of Candour, Temple of Malachín, Rosaline Cube, Cadomyr Harbour, Katanbi Delta
+114;147;3084;333;descriptionDe=Katanbiwüste, Freiheitsbruch, Blutkreisarena, Königliche Akademie der Gladiatoren, Königlicher Sklavenmarkt, Kapelle der Fünf, Galmair, Norden, Runewick, Südosten;descriptionEn=Katanbi Desert, Liberty Quarry, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Chapel of the Five, Galmair, The North, Runewick, The Southeast
 120;147;203;333
 132;147;1782;333
 138;147;1782;333
@@ -31908,6 +31949,8 @@
 129;238;2169;333
 132;238;1783;333
 136;238;273;333
+141;238;517;333
+142;238;521;333;nameEn=Horace Targatheon;nameDe=Horace Targatheon;descriptionEn=Here lies Horace Targatheon Big Horace, a gentle and kind Druid, murdered by evil hands. May Ushara and Cherga embrace his pure soul.;descriptionDe=Hier liegt Horace Targatheon, Big Horace, Ein sanfter und gütiger Druide, der von bösen Händen ermordet wurde. Mögen Ushara und Cherga seine reine Seele aufnehmen.
 145;238;519;333;nameEn=Xavier Silverbottom;nameDe=Xavier Silverbottom;descriptionEn=Here lies the halfling Xavier Silverbottom. An innocent fell by the hands of a coward, and the righteous shall seek vengeance. May he rest in peace and keep the gods his soul protected from the dark.;descriptionDe=Hier liegt der Halbling Xavier Silverbottom. Ein Unschuldiger getötet von feiger Hand, and die Rechtschaffenen werden ihn rächen. Möge er in Frieden ruhen und mögen die Götter sein Seele vor dem Dunkel bewahren.
 146;238;203;333
 150;238;1810;333
@@ -34393,6 +34436,8 @@
 164;258;1160;333
 165;258;1160;333
 166;258;1160;333
+167;258;1160;333
+168;258;1160;333
 169;258;1160;333
 170;258;1160;333
 171;258;1160;333

@@ -1629,7 +1629,7 @@
 243;112;921;333
 259;112;320;333
 261;112;921;333
-261;112;267;333;book1=origionofmagic;book2=firstaid;book3=historysilverbrand;book4=landillarion;book5=grugmutz
+261;112;267;333;book1=origionofmagic;book2=firstaid;book3=historysilverbrand;book4=landillarion;book5=grugmutz;book6=the_steps_of_alchemy
 335;112;338;333
 438;112;856;333
 442;112;320;333
@@ -12041,7 +12041,7 @@
 360;217;266;333;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=orcish_history_and_culture;book5=blud_an_fiar_ork_magik;book6=about_flame_orks
 362;217;266;333;book1=god_bragon;book2=god_eldan;book3=god_findari;book4=god_tanora;book5=god_ushara;book6=god_cherga;book7=god_irmorom;book8=god_nargun;book9=god_ronagan
 364;217;266;333;book1=festival_relationships;book2=about_the_humans_by_thomas_berryard;book3=historysilverbrand
-375;217;267;333;book1=slimes;book2=alchemy;book3=magic_gems;book4=weightsandmeasures
+375;217;267;333;book1=slimes;book2=alchemy;book3=magic_gems;book4=weightsandmeasures;book5=the_steps_of_alchemy
 376;217;854;333
 377;217;287;333
 377;217;287;333
@@ -16761,7 +16761,7 @@
 400;259;629;333
 401;259;856;333
 403;259;266;333;book1=gods1
-405;259;266;333;book1=slimes;book2=alchemy
+405;259;266;333;book1=slimes;book2=alchemy;book3=the_steps_of_alchemy
 407;259;266;333;book1=calendar;book2=blud_an_fiar_ork_magik
 408;259;856;333
 412;259;269;333
@@ -18048,6 +18048,7 @@
 335;272;583;333
 337;272;585;333
 340;272;1782;333
+345;272;1817;333
 347;272;3265;333
 357;272;2207;333
 362;272;928;333
@@ -18321,7 +18322,6 @@
 338;275;928;333
 339;275;274;333
 344;275;1782;333
-345;275;1817;333
 347;275;274;333
 348;275;1783;333
 350;275;1395;333

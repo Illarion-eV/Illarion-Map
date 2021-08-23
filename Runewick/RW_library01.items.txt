@@ -162,7 +162,7 @@
 1;6;3242;333
 13;6;396;333
 14;6;3245;333
-15;6;1098;333;book1=alchemy;book2=parchment_of_the_priests_of_eldan;book3=slimes;book4=druid_parchment
+15;6;1098;333;book1=alchemy;book2=parchment_of_the_priests_of_eldan;book3=slimes;book4=druid_parchment;book5=the_steps_of_alchemy
 18;6;2876;333
 19;6;550;333
 20;6;36;333

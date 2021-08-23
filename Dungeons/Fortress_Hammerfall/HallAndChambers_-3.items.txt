@@ -808,7 +808,7 @@
 24;30;287;333
 28;30;3592;333
 29;30;320;333
-29;30;172;333;nameDe=Gesegneter Amboss Irmoroms;nameEn=Iromorom's Blessed Anvil
+29;30;172;333;nameDe=Gesegneter Amboss Irmoroms;nameEn=Irmorom's Blessed Anvil
 35;30;213;333
 36;30;2879;333
 44;30;213;333
