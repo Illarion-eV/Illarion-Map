@@ -17723,7 +17723,6 @@
 119;127;675;333
 147;127;1161;333
 148;127;1161;333
-155;127;232;333;descriptionEn=Two lives of sentient minds must be sacrificed.;descriptionDe=Zwei empfindsame Seelen müssen geopfert werden.
 173;127;1783;333
 174;127;3081;333;descriptionDe=Freiheitsbruch, Grugmutzs Höhle, Bach Siedlung, Festung Hammerfall, Einsame Berge;descriptionEn=Liberty Quarry, Grugmutz's cave, Creek Settlement, Fortress Hammerfall, Lonly Mountains
 175;127;1783;333
@@ -18157,7 +18156,6 @@
 123;130;675;333
 123;130;672;333
 145;130;913;333
-155;130;232;333;descriptionEn=Two lives of sentient minds must be sacrificed.;descriptionDe=Zwei empfindsame Seelen müssen geopfert werden.
 157;130;203;333
 162;130;301;333
 163;130;301;333
@@ -18614,7 +18612,6 @@
 151;133;1783;333
 165;133;914;333
 166;133;1276;333
-184;133;232;333;descriptionEn=Four earthquakes toll success.;descriptionDe=Vier Erdbeben läuten den Erfolg ein.
 190;133;402;333
 191;133;513;333
 192;133;507;333
@@ -18744,7 +18741,6 @@
 218;134;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 219;134;1782;333
 219;134;3083;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
-220;134;232;333;descriptionEn=Three must cross the line to live in demon fire for eternity.;descriptionDe=Drei müssen die Linie überqueren um für die Ewigkeit im Dämonenfeuer zu leben.
 224;134;274;333
 226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
 233;134;1782;333
@@ -19075,14 +19071,12 @@
 169;137;1254;333
 173;137;1783;333
 181;137;1782;333
-184;137;232;333;descriptionEn=Four earthquakes toll success.;descriptionDe=Vier Erdbeben läuten den Erfolg ein.
 187;137;274;333
 188;137;1783;333
 192;137;1782;333
 195;137;274;333
 213;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
 218;137;2069;333;descriptionDe=Katanbi Bridge - Eigentum von Cadomyr;descriptionEn=Katanbi Bridge - Cadomyr property
-220;137;232;333;descriptionEn=Three must cross the line to live in demon fire for eternity.;descriptionDe=Drei müssen die Linie überqueren um für die Ewigkeit im Dämonenfeuer zu leben.
 228;137;203;333
 229;137;273;333
 233;137;1782;333
@@ -19292,7 +19286,6 @@
 105;139;1783;333
 105;139;1783;333
 129;139;1782;333
-137;139;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 138;139;1782;333
 151;139;273;333
 153;139;301;333
@@ -19585,13 +19578,11 @@
 97;142;1208;333
 127;142;893;333
 129;142;914;333
-137;142;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 147;142;1810;333
 150;142;627;333
 150;142;1251;333
 151;142;626;333
 153;142;914;333
-155;142;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 157;142;1276;333
 158;142;1783;333
 160;142;1783;333
@@ -19707,7 +19698,6 @@
 150;143;629;333
 151;143;628;333
 152;143;1817;333
-155;143;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 157;143;627;333
 158;143;1783;333
 158;143;626;333
@@ -19893,7 +19883,6 @@
 150;145;628;333
 151;145;1254;333
 153;145;273;333
-155;145;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 157;145;1783;333
 159;145;1783;333
 164;145;1783;333
@@ -19992,7 +19981,6 @@
 147;146;629;333
 148;146;628;333
 150;146;914;333
-155;146;232;333;descriptionEn=One soul shall be given.;descriptionDe=Eine Seele muß gegeben werden.
 167;146;915;333
 170;146;274;333
 172;146;1810;333
