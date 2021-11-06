@@ -24552,6 +24552,7 @@
 331;305;1804;333
 337;305;897;333
 342;305;1383;333
+342;305;1239;333;nameEn=Dark Obsidian;nameDe=Dunkler Obsidian;descriptionEn=Formed as lava extrudes from fiery depths, this rich volcanic glass reflects the world in many facets.;descriptionDe=Das vulkanische Gestein, geformt von Lava, die aus den feurigen Tiefen emporsteigt, spiegelt die Welt in vielen Facetten.;rareness=3
 343;305;1383;333
 344;305;1383;333
 345;305;1383;333
