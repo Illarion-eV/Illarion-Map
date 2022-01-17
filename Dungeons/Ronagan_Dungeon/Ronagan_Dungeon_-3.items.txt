@@ -715,6 +715,7 @@
 28;22;3101;333
 30;22;3101;333
 33;22;1272;333
+35;22;3110;333
 36;22;1397;333;descriptionEn=The shelves appear to be full of miscellaneous items found all over Illarion.;descriptionDe=Die Regale scheinen voll beladen mit allen möglichen Alltagsgegenständen, die man überall in Illarion finden kann.
 37;22;613;333
 38;22;287;333
