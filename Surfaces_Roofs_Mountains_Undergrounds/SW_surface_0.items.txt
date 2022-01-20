@@ -6404,7 +6404,7 @@
 126;44;273;333
 129;44;260;333
 130;44;3245;333
-132;44;266;333;book1=arcane_planes;book2=arcania_basics;book3=artifacts;book4=dubbels;book5=mana_streams;book6=ritual_waterelemental_wascher;book7=arcania_lizzard;book8=magie_gift;book9=origionofmagic
+132;44;266;333;book1=arcane_planes;book2=arcania_basics;book3=artifacts;book4=dubbels;book5=mana_streams;book6=ritual_waterelemental_wascher;book7=arcania_lizzard;book8=magie_gift;book9=origionofmagic;book10=arcane_runes_encyclopedia
 141;44;3247;333
 142;44;287;333
 143;44;287;333
