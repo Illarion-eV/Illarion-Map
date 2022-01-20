@@ -99,7 +99,7 @@
 22;2;396;333
 23;2;320;333
 23;2;66;333;markerstone=255
-24;2;1098;333;book1=artifacts;book2=mana_streams;book3=arcania_basics;book4=arcane_planes;book5=arcania_lizzard;book6=magie_gift;book7=origionofmagic
+24;2;1098;333;book1=artifacts;book2=mana_streams;book3=arcania_basics;book4=arcane_planes;book5=arcania_lizzard;book6=magie_gift;book7=origionofmagic;book8=arcane_runes_encyclopedia
 30;2;1862;333
 32;2;651;333
 32;2;131;333
@@ -205,8 +205,8 @@
 19;9;1120;333;book1=celegails_songbook;book2=poems_marina;book3=dwarven_poems;book4=book_of_jokes
 23;9;1122;333;book1=chronicle_recording_of_the_blumfussens_family_tree;book2=brewyn_the_liar;book3=baros_bigfoot_and_the_pride;book4=h_evergreen;book5=origin_halflings_race
 23;9;1120;333;book1=chronicle_recording_of_the_blumfussens_family_tree;book2=brewyn_the_liar;book3=baros_bigfoot_and_the_pride;book4=h_evergreen;book5=origin_halflings_race
-27;9;1122;333;book1=blud_an_fiar_ork_magik;book2=lor_angur;book3=ritual_waterelemental_wascher;book4=resists_the_stake
-27;9;1120;333;book1=blud_an_fiar_ork_magik;book2=lor_angur;book3=ritual_waterelemental_wascher;book4=resists_the_stake
+27;9;1122;333;book1=blud_an_fiar_ork_magik;book2=lor_angur;book3=ritual_waterelemental_wascher;book4=resists_the_stake;book4=arcane_runes_encyclopedia
+27;9;1120;333;book1=blud_an_fiar_ork_magik;book2=lor_angur;book3=ritual_waterelemental_wascher;book4=resists_the_stake;book4=arcane_runes_encyclopedia
 32;9;396;333
 33;9;688;333
 33;9;3245;333

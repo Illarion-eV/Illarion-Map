@@ -1053,7 +1053,7 @@
 232;97;494;333
 233;97;474;333
 233;97;273;333
-233;97;266;333;book1=god_ronagan;book2=god_tanora;book3=god_ushara;book4=arcania_basics;book5=god_moshran;book6=zaras_defeated;book7=arcane_planes;book8=dubbels
+233;97;266;333;book1=god_ronagan;book2=god_tanora;book3=god_ushara;book4=arcania_basics;book5=god_moshran;book6=zaras_defeated;book7=arcane_planes;book8=dubbels;book9=arcane_runes_encyclopedia
 234;97;494;333
 234;97;274;333
 235;97;474;333
@@ -11705,7 +11705,7 @@
 370;215;320;333
 371;215;320;333
 372;215;320;333
-375;215;267;333;book1=ritual_waterelemental_wascher;book2=origionofmagic;book3=artifacts;book4=mana_streams;book5=arcania_basics;book6=arcane_planes;book7=arcania_lizzard;book8=magie_gift;book9=dubbels
+375;215;267;333;book1=ritual_waterelemental_wascher;book2=origionofmagic;book3=artifacts;book4=mana_streams;book5=arcania_basics;book6=arcane_planes;book7=arcania_lizzard;book8=magie_gift;book9=dubbels;book10=arcane_runes_encyclopedia
 376;215;854;333
 377;215;287;333
 377;215;287;333
