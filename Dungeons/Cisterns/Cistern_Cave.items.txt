@@ -226,7 +226,7 @@
 11;4;622;333
 13;4;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=9
 20;4;915;333
-23;4;232;333
+23;4;914;333
 27;4;3095;333
 30;4;597;333
 30;4;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestCadomyr=8
@@ -340,7 +340,7 @@
 12;8;1265;333
 16;8;3100;333
 35;8;1276;333
-38;8;232;333
+38;8;914;333
 44;8;623;333
 45;8;287;333
 46;8;287;333
@@ -851,7 +851,7 @@
 11;42;420;333
 12;42;2926;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 14;42;914;333
-20;42;232;333
+20;42;914;333
 21;42;1254;333
 28;42;1276;333
 32;42;421;333
