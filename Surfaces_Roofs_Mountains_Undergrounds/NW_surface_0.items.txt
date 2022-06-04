@@ -2925,6 +2925,8 @@
 353;135;1278;333
 353;135;1278;333
 353;135;599;333
+385;135;829;333
+386;135;521;333;nameDe=Stavros;nameEn=Stavros;descriptionDe=Hier ruht Stavros, ein herausragender Künstler und Hutliebhaber. Wir werden dich nicht vergessen.;descriptionEn=Here lies Stavros, artist extraordinaire and lover of hats. You will not be forgotten.
 387;135;623;333
 388;135;287;333
 389;135;287;333
@@ -3004,6 +3006,7 @@
 353;136;599;333
 377;136;1245;333
 379;136;273;333
+385;136;144;333
 387;136;623;333
 388;136;287;333
 389;136;622;333
@@ -15845,7 +15848,6 @@
 406;250;1782;333
 417;250;3165;333;descriptionDe=Galmair Stadttor;descriptionEn=Galmair Towngate;lockId=102;doorLock=unlocked
 426;250;945;333
-430;250;1237;333;nameEn=Dark Obsidian;nameDe=Dunkler Obsidian;descriptionEn=Formed as lava extrudes from fiery depths, this rich volcanic glass reflects the world in many facets.;descriptionDe=Das vulkanische Gestein, geformt von Lava, die aus den feurigen Tiefen emporsteigt, spiegelt die Welt in vielen Facetten.;rareness=3
 433;250;3892;333
 434;250;3084;333;descriptionDe=Narguns Ebene, Hafen, Spinnen Maul, Gasthof zur Hanfschlinge, Cadomyr, Runewick;descriptionEn=Nargun's Plain, Harbour, Spider's Mouth, Hemp Necktie Inn, Cadomyr, Runewick
 436;250;14;333
