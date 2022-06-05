@@ -344,7 +344,7 @@
 15;15;3099;333
 19;15;2926;333;descriptionEn=On the sign can be seen a crude drawing of a rat with two crossed swords underneath.;descriptionDe=Auf dem Schild ist eine grobe Zeichnung einer Ratte mit zwei gekreuzten Schwertern darunter.
 25;15;915;333
-26;15;232;333
+26;15;914;333
 32;15;3100;333
 38;15;1022;333
 39;15;996;333
