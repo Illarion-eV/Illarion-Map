@@ -14,8 +14,8 @@
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 V: 2
 L: -21
-X: 759
-Y: 96
+X: 96
+Y: 759
 W: 10
 H: 13
 0;0;12;0
