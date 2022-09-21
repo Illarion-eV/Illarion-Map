@@ -11834,7 +11834,7 @@
 94;86;219;333
 96;86;1102;333
 96;86;36;333
-96;86;1001;333
+96;86;1001;333;rareness=3;nameEn=Decorated Plate - The Potter;nameDe=Verzierter Teller - Der Töpfer;descriptionEn=A potter works clay into beautifully glazed plates while a map of Illarion sits to their side marked with twelve crosses.;descriptionDe=Ein Töpfer verarbeitet Lehm zu wunderschönen, beschichteten Tellern. Eine Karte Illarions liegt neben ihm und ist mit zwölf Kreuzen gekennzeichnet.
 97;86;915;333
 98;86;915;333
 99;86;1276;333
