@@ -8368,6 +8368,8 @@
 143;59;3244;333
 144;59;3244;333
 145;59;3245;333
+146;59;36;333
+146;59;4095;333;hospitalBell=true
 152;59;402;333
 155;59;3247;333
 156;59;287;333
@@ -9750,8 +9752,6 @@
 125;69;66;333;markerstone=333
 129;69;2046;333;descriptionDe=Werkstatt;descriptionEn=Workshop
 130;69;396;333
-131;69;320;333
-133;69;212;333
 135;69;3245;333
 138;69;1243;333
 142;69;402;333
@@ -9905,10 +9905,6 @@
 118;70;914;333
 119;70;914;333
 127;70;273;333
-131;70;320;333
-132;70;320;333
-133;70;320;333
-134;70;320;333
 135;70;3245;333
 141;70;2850;333
 143;70;1003;333
@@ -11838,7 +11834,7 @@
 94;86;219;333
 96;86;1102;333
 96;86;36;333
-96;86;1001;333
+96;86;1001;333;rareness=3;nameEn=Decorated Plate - The Potter;nameDe=Verzierter Teller - Der Töpfer;descriptionEn=A potter works clay into beautifully glazed plates while a map of Illarion sits to their side marked with twelve crosses.;descriptionDe=Ein Töpfer verarbeitet Lehm zu wunderschönen, beschichteten Tellern. Eine Karte Illarions liegt neben ihm und ist mit zwölf Kreuzen gekennzeichnet.
 97;86;915;333
 98;86;915;333
 99;86;1276;333
