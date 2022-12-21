@@ -15466,7 +15466,7 @@
 120;111;682;333
 121;111;683;333
 125;111;674;333
-129;111;654;333;descriptionDe=Raum des Wachtmeisters;descriptionEn=Sergeant's Room;doorLock=unlocked
+129;111;654;333;descriptionDe=Stube des Wachtmeisters;descriptionEn=Sergeant's Room;doorLock=unlocked
 138;111;320;333
 140;111;635;333
 140;111;267;333;book1=cadomyr_on_cadomyr;book2=gods2;book3=magic_gems;book4=speech_rosaline_32_11_05;book5=the_pointy_end
@@ -15581,7 +15581,7 @@
 115;112;675;333
 119;112;675;333
 125;112;674;333
-129;112;658;333;descriptionDe=Raum des Wachtmeisters;descriptionEn=Sergeant's Room;doorLock=unlocked
+129;112;658;333;descriptionDe=Stube des Wachtmeisters;descriptionEn=Sergeant's Room;doorLock=unlocked
 138;112;320;333
 140;112;635;333
 140;112;956;333
