@@ -47586,7 +47586,6 @@
 50;395;612;333
 61;395;1783;333
 94;395;273;333
-95;395;2069;333;descriptionEn=The falg shows a golden eagle sitting on a golden sword on a red backing;descriptionDe=Das Banner trägt einen goldenen Adler auf einem goldenen Schwert auf rotem Grund 
 102;395;886;333
 104;395;1790;333
 107;395;274;333
