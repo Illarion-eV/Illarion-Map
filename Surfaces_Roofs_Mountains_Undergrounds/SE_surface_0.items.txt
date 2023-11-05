@@ -25901,7 +25901,7 @@
 438;318;767;599
 439;318;665;599
 439;318;763;333
-440;318;3275;599;nameDe=Geldwechsel und Portalbücher;nameEn=Money Change and Portal Books
+440;318;3275;599;nameDe=Geldwechsler;nameEn=Money Changer
 441;318;3360;599
 441;318;3356;599
 443;318;651;599
@@ -26007,7 +26007,7 @@
 429;320;956;599
 435;320;51;599
 436;320;631;599
-441;320;3484;599;descriptionDe=Geldwechsel und Portalbücher;descriptionEn=Money Change and Portal Books
+441;320;3484;599;descriptionDe=Geldwechsler;descriptionEn=Money Changer
 449;320;3366;599
 479;320;387;599
 481;320;2876;599
