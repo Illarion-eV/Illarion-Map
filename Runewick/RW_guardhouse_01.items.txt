@@ -116,7 +116,7 @@
 13;9;957;333
 13;9;210;333
 16;9;3652;333
-17;9;748;333
+17;9;748;333;descriptionDe=Das riesige Gemälde zeigt eine laszive, nackte Tänzerin im Mondlicht. Bei näherer Betrachtung gibt ihr Schatten die Silhouette einer gehörnten Dämonin preis. ~Zennia Bexley~;descriptionEn=The huge painting shows a lascivious, naked dancer in the moonlight. On a closer look, her shadow reveals the silhouette of a horned demoness. ~Zennia Bexley~;rareness=2
 18;9;635;333
 18;9;395;333
 19;9;689;333

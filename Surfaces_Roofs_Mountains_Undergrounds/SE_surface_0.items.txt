@@ -23901,7 +23901,9 @@
 231;299;614;333
 236;299;514;599
 238;299;66;599;markerstone=221
-243;299;273;333
+241;299;3913;333;descriptionDe=Eine Widmung an diejenigen, die nicht mehr unter uns weilen. ;descriptionEn=A dedication to those who are no longer with us. ;rareness=2
+242;299;359;333
+243;299;3913;333;descriptionDe=Eine Widmung an diejenigen, die noch immer weitermachen.;descriptionEn=A dedication to those who carry on.;rareness=2
 251;299;387;333
 255;299;301;1
 270;299;1783;1
