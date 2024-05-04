@@ -18713,7 +18713,7 @@
 219;134;1782;333
 219;134;3083;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
 224;134;274;333
-226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
+226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachtwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
 233;134;1782;333
 243;134;1817;333
 244;134;386;333
@@ -23577,7 +23577,7 @@
 223;173;912;333
 228;173;273;333
 234;173;273;333
-245;173;3083;333;descriptionDe=Westliche Katanbi Wüste, Cadomyr;descriptionEn=Western Katanbi Desert, Cadomyr
+245;173;3083;333;descriptionDe=Westliche Katanbiwüste, Cadomyr;descriptionEn=Western Katanbi Desert, Cadomyr
 249;173;3081;333;descriptionDe=Blutkreisarena;descriptionEn=Blood Circle Arena
 250;173;2069;333;descriptionDe=Der Stander trägt das Wappen von Cadomyr;descriptionEn=The pennant bears the crest of Cadomyr
 258;173;631;333
@@ -24369,7 +24369,7 @@
 230;179;1782;333
 238;179;1812;333
 244;179;273;333
-251;179;3082;333;descriptionDe=Kapelle der Fünf, Wachwald, Wichtkanal, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Runewick, The Southeast
+251;179;3082;333;descriptionDe=Kapelle der Fünf, Wachtwald, Wichtkanal, Spinnenmund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Runewick, The Southeast
 256;179;1810;333
 275;179;1782;333
 297;179;3264;333
@@ -37210,7 +37210,7 @@
 476;282;635;333
 476;282;396;333
 479;282;273;333
-481;282;3084;333;descriptionDe=Wachstützpunkt\; Leuchtturm\; Galmair\; Runewick;descriptionEn=Sentry Outpost\; Lighthouse\; Galmair\; Runewick
+481;282;3084;333;descriptionDe=Wachstützpunkt\; Katanbiwüste\; Galmair\; Runewick;descriptionEn=Sentry Outpost\; Lighthouse\; Galmair\; Runewick
 485;282;273;333
 487;282;1783;333
 489;282;1783;333
@@ -37362,8 +37362,8 @@
 433;284;1817;333
 435;284;274;333
 438;284;1782;333
-461;284;3083;333;descriptionDe=Katanbi Wüste, Westliche Katanbi Wüste, Cadomyr;descriptionEn=Katanbi Desert, Western Katanbi Desert, Cadomyr
-463;284;3084;333;descriptionDe=Wachwald, Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Sentry Forest, Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Three Fingertips, Runewick, The Southeast
+461;284;3083;333;descriptionDe=Katanbiwüste, Westliche Katanbiwüste, Cadomyr;descriptionEn=Katanbi Desert, Western Katanbi Desert, Cadomyr
+463;284;3084;333;descriptionDe=Wachtwald, Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elsbaumebene, Spinnenmund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Sentry Forest, Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Three Fingertips, Runewick, The Southeast
 468;284;1783;333
 474;284;276;333
 474;284;276;333

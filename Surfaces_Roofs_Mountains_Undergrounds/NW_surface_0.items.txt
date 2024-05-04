@@ -16288,7 +16288,7 @@
 391;254;3874;333
 392;254;274;333
 397;254;1782;333
-398;254;3082;333;descriptionDe=Zensusbüro, Gasthof zum schläfrigen Bujhaar, Werkstatt, Tollloch, Schürfers Club, Malachitmine, Galmair Hochebene, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Census Office, Sleepy Bujhaar Inn, Workshop, Sports Hole, Malachite Creek, Malachite Mine, Galmair Plateau, Cadomyr, Katanbi Desert, Shadowland
+398;254;3082;333;descriptionDe=Zensusbüro, Gasthof zum schläfrigen Bujhaar, Werkstatt, Tollloch, Schürfers Club, Malachitmine, Galmair Hochebene, Cadomyr, Katanbiwüste, Schattenland;descriptionEn=Census Office, Sleepy Bujhaar Inn, Workshop, Sports Hole, Malachite Creek, Malachite Mine, Galmair Plateau, Cadomyr, Katanbi Desert, Shadowland
 402;254;513;333
 403;254;1273;333
 404;254;1245;333
@@ -23567,7 +23567,7 @@
 376;347;1278;333
 377;347;1278;333
 385;347;273;333
-387;347;3084;333;descriptionDe=Schürfers Club, Schürfers Quelle, Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Malachite Creek, Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
+387;347;3084;333;descriptionDe=Schürfers Club, Schürfers Quelle, Malachitmine, Cadomyr, Katanbiwüste, Schattenland;descriptionEn=Malachite Creek, Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
 395;347;1782;333
 398;347;274;333
 407;347;615;333
@@ -25090,7 +25090,7 @@
 414;358;396;333
 419;358;1783;333
 419;358;3081;333;descriptionEn=Magic of Malachite;descriptionDe=Magie des Malachit
-420;358;3084;333;descriptionDe=Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
+420;358;3084;333;descriptionDe=Malachitmine, Cadomyr, Katanbiwüste, Schattenland;descriptionEn=Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
 424;358;1783;333
 425;358;273;333
 426;358;914;333
@@ -27033,7 +27033,7 @@
 409;371;232;333
 412;371;1783;333
 418;371;914;333
-418;371;3082;333;descriptionDe=Cadomyr, Katanbi Wüste, Schattenland - Gefahr!;descriptionEn=Cadomyr, Katanbi Desert, Shadowland - Danger!
+418;371;3082;333;descriptionDe=Cadomyr, Katanbiwüste, Schattenland - Gefahr!;descriptionEn=Cadomyr, Katanbi Desert, Shadowland - Danger!
 419;371;2927;333
 421;371;158;333
 422;371;232;333
