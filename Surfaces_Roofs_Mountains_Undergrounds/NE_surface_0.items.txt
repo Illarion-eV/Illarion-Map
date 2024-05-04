@@ -55807,7 +55807,7 @@
 136;458;628;333
 137;458;14;333
 147;458;1195;333
-166;458;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
+166;458;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthil Brook, Yewdale, Runewick
 170;458;300;333
 183;458;274;333
 191;458;1782;333
@@ -55924,7 +55924,7 @@
 195;459;273;333
 198;459;1783;333
 202;459;1782;333
-217;459;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
+217;459;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthil Brook, Yewdale, Runewick
 238;459;308;1
 240;459;891;1
 257;459;308;1
@@ -57790,7 +57790,7 @@
 225;482;338;1
 239;482;338;1
 240;482;584;1
-241;482;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
+241;482;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthil Brook, Yewdale, Runewick
 249;482;1251;1
 260;482;1782;1
 273;482;308;1
@@ -59166,7 +59166,7 @@
 191;503;273;333
 207;503;617;333
 208;503;617;333
-209;503;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
+209;503;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthil Brook, Yewdale, Runewick
 217;503;273;1
 222;503;3081;333;descriptionDe=Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 223;503;3084;333;descriptionDe=Elstree Wald, Wunderland, Ostland;descriptionEn=Elstree Forest, Wonderland, Eastland
@@ -59209,7 +59209,7 @@
 200;504;273;333
 201;504;1782;333
 222;504;3083;333;descriptionDe=Schlangenkopfbucht, Westen, Cadomyr;descriptionEn=Snakehead Coast, West, Cadomyr
-223;504;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick
+223;504;3082;333;descriptionDe=Dreifingerspitzen, Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Three Fingertips, Death's Strench, Dragon's Lair, Anthil Brook, Yewdale, Runewick
 226;504;273;1
 228;504;273;1
 235;504;273;1

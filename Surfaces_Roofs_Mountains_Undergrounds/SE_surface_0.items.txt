@@ -1101,7 +1101,7 @@
 208;18;338;333
 210;18;273;333
 211;18;1790;333
-213;18;3082;333;descriptionDe=Dreifingerspitzen, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Three Fingertips, Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
+213;18;3082;333;descriptionDe=Dreifingerspitzen, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Three Fingertips, Dragon's Lair, Anthil Brook, Yewdale, Runewick, Wonderland, Eastland
 214;18;3084;333;descriptionDe=Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 216;18;274;333
 218;18;387;599
@@ -1155,7 +1155,7 @@
 209;19;338;333
 209;19;1159;599
 214;19;273;333
-230;19;3082;333;descriptionDe=Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Death's Strench, Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
+230;19;3082;333;descriptionDe=Todes Gestank, Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Death's Strench, Dragon's Lair, Anthil Brook, Yewdale, Runewick, Wonderland, Eastland
 230;19;3082;599;nameDe=Drachenhöhle;nameEn=Dragon Cave
 231;19;308;333
 236;19;308;333
@@ -2799,7 +2799,7 @@
 123;47;42;333
 124;47;42;333
 208;47;1184;599
-213;47;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
+213;47;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthil Brook, Yewdale, Runewick, Wonderland, Eastland
 214;47;273;333
 215;47;614;333
 218;47;1817;333
@@ -4751,7 +4751,7 @@
 239;74;3083;333;descriptionDe=Elstree Ebene, Elstree Wald, Schlangenkopfbucht, Westen, Cadomyr, Der Todes Sumpf, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden;descriptionEn=Elstree Plain, Elstree Forest, Snakehead Coast, West, Cadomyr, The Death Marsh, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North
 240;74;338;333
 240;74;3082;333;descriptionDe=Dreifingerspitzen;descriptionEn=Three Fingertips
-241;74;3084;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
+241;74;3084;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthil Brook, Yewdale, Runewick, Wonderland, Eastland
 242;74;274;333
 248;74;338;333
 249;74;338;333
@@ -4816,7 +4816,7 @@
 208;75;586;333
 209;75;301;333
 212;75;300;333
-216;75;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
+216;75;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthil Brook, Yewdale, Runewick, Wonderland, Eastland
 217;75;615;333
 217;75;1782;599
 224;75;161;599
@@ -4983,7 +4983,7 @@
 335;77;274;333
 339;77;1783;333
 347;77;1783;333
-354;77;3083;333;descriptionDe=Todes Gestank, Westen, Drachenhöhle, Bärenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Death's Stench, West, Dragon's Lair, Bear Cave, Anthill Brook, Yewdale, Runewick
+354;77;3083;333;descriptionDe=Todes Gestank, Westen, Drachenhöhle, Bärenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Death's Stench, West, Dragon's Lair, Bear Cave, Anthil Brook, Yewdale, Runewick
 355;77;3082;333;descriptionDe=Frische Sümpfe, Nördlicher Außenposten, Eibental, Runewick;descriptionEn=Dewy Swamps, Northern Outpost, Yewdale, Runewick
 357;77;301;333
 362;77;1783;333
@@ -5704,7 +5704,7 @@
 218;88;338;333
 230;88;338;333
 232;88;1177;599
-233;88;3084;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick, Wonderland, Eastland
+233;88;3084;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick, Wunderland, Ostland;descriptionEn=Dragon's Lair, Anthil Brook, Yewdale, Runewick, Wonderland, Eastland
 235;88;274;333
 237;88;1783;333
 239;88;1796;333
@@ -6362,7 +6362,7 @@
 317;100;287;333
 318;100;287;333
 342;100;273;333
-347;100;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick
+347;100;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Dragon's Lair, Anthil Brook, Yewdale, Runewick
 348;100;623;333
 349;100;287;333
 350;100;287;333
@@ -14198,7 +14198,7 @@
 284;177;622;333
 284;177;630;333
 285;177;287;333
-295;177;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Dragon's Lair, Anthill Brook, Yewdale, Runewick
+295;177;3082;333;descriptionDe=Drachenhöhle, Ameisenhügelbach, Eibental, Runewick;descriptionEn=Dragon's Lair, Anthil Brook, Yewdale, Runewick
 309;177;1176;599
 324;177;1176;599
 352;177;1176;599
