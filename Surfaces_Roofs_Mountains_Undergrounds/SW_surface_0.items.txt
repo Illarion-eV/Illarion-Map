@@ -8977,7 +8977,7 @@
 93;64;878;333
 93;64;1276;333
 93;64;301;333
-100;64;3225;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLock=unlocked
+100;64;3225;333;descriptionDe=Taverne 'Einhörniger Löwe';descriptionEn=Tavern 'Unicorn Lion';doorLock=unlocked
 104;64;214;333
 105;64;214;333
 106;64;214;333
@@ -10475,7 +10475,7 @@
 110;74;3248;333
 111;74;3244;333
 112;74;3244;333
-113;74;3224;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLock=unlocked
+113;74;3224;333;descriptionDe=Taverne 'Einhörniger Löwe';descriptionEn=Tavern 'Unicorn Lion';doorLock=unlocked
 114;74;3244;333
 115;74;3244;333
 116;74;3244;333

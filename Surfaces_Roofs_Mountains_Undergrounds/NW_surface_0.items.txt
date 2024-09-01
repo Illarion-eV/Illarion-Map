@@ -15624,7 +15624,7 @@
 350;248;287;333
 351;248;855;333
 352;248;855;333
-353;248;863;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
+353;248;863;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Tavern;lockId=103;doorLock=unlocked
 354;248;855;333
 355;248;855;333
 356;248;854;333

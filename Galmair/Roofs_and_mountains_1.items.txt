@@ -1875,7 +1875,7 @@
 213;66;853;333
 214;66;853;333
 215;66;853;333
-215;66;748;333;descriptionDe=Spieler würfeln in einer dunklen Taverne während ein angedeuteter Elf einem ärmlich gekleideten Mann Goldmünzen in die Hand drückt. In einer weiteren Szene sieht man wie derselbe Mann in einer dunklen Gasse ausgeraubt wird. 'Fiachra';descriptionEn=In a dark tavern gamblers throw dice as a pointy featured elf towers over a poorly dressed man, pressing gold coins into his palm. A second scene shows the same man being threatened in a dark alley. 'Fiachra'
+215;66;748;333;descriptionDe=Spieler würfeln in einer dunklen Taverne während ein schlacksiger Elf einem ärmlich gekleideten Mann Goldmünzen in die Hand drückt. In einer weiteren Szene sieht man wie derselbe Mann in einer dunklen Gasse ausgeraubt wird. 'Fiachra';descriptionEn=In a dark tavern gamblers throw dice as a pointy featured elf towers over a poorly dressed man, pressing gold coins into his palm. A second scene shows the same man being threatened in a dark alley. 'Fiachra'
 216;66;853;333
 217;66;853;333
 217;66;1124;333
