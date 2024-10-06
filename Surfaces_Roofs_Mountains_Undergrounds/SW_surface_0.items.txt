@@ -6893,7 +6893,6 @@
 389;47;1176;333
 390;47;1272;333
 392;47;1783;333
-394;47;1171;333;chickenNest=true
 396;47;623;333
 397;47;287;333
 398;47;287;333
@@ -8978,7 +8977,7 @@
 93;64;878;333
 93;64;1276;333
 93;64;301;333
-100;64;3225;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLock=unlocked
+100;64;3225;333;descriptionDe=Taverne 'Einhörniger Löwe';descriptionEn=Tavern 'Unicorn Lion';doorLock=unlocked
 104;64;214;333
 105;64;214;333
 106;64;214;333
@@ -10476,7 +10475,7 @@
 110;74;3248;333
 111;74;3244;333
 112;74;3244;333
-113;74;3224;333;descriptionDe=Taverne Einhörniger Löwe;descriptionEn=Tavern Unicorn Lion;doorLock=unlocked
+113;74;3224;333;descriptionDe=Taverne 'Einhörniger Löwe';descriptionEn=Tavern 'Unicorn Lion';doorLock=unlocked
 114;74;3244;333
 115;74;3244;333
 116;74;3244;333
@@ -17602,7 +17601,6 @@
 308;126;875;333
 309;126;875;333
 309;126;274;333
-310;126;1171;333;chickenNest=true
 312;126;876;333
 312;126;1782;333
 312;126;1783;333
@@ -18713,7 +18711,7 @@
 219;134;1782;333
 219;134;3083;333;descriptionDe=Cadomyr;descriptionEn=Cadomyr
 224;134;274;333
-226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
+226;134;3082;333;descriptionDe=Blurtkreisarena, Königliche Akademie der Gladiatoren, Königliche Sklavenmarkt, Katanbi Delta, Berg Letma, Schattenland, Grenzberge, Kapelle der Fünf, Wachtwald, Wichtkanal, Gasthof zur Hanfschlinge, Galmair, Runewick;descriptionEn=Katanbi Desert, Blood Circle Arena, Royal Academy of Gladiators, Royal Slave Market, Katanbi Delta, Mount Letma, Shadowland, Border Mountains, Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, The Hemp Necktie Inn, Galmair, Runewick
 233;134;1782;333
 243;134;1817;333
 244;134;386;333
@@ -23103,7 +23101,6 @@
 160;170;1254;333
 174;170;1782;333
 179;170;1783;333
-191;170;1171;333;chickenNest=true
 205;170;273;333
 209;170;212;333
 210;170;212;333
@@ -23577,7 +23574,7 @@
 223;173;912;333
 228;173;273;333
 234;173;273;333
-245;173;3083;333;descriptionDe=Westliche Katanbi Wüste, Cadomyr;descriptionEn=Western Katanbi Desert, Cadomyr
+245;173;3083;333;descriptionDe=Westliche Katanbiwüste, Cadomyr;descriptionEn=Western Katanbi Desert, Cadomyr
 249;173;3081;333;descriptionDe=Blutkreisarena;descriptionEn=Blood Circle Arena
 250;173;2069;333;descriptionDe=Der Stander trägt das Wappen von Cadomyr;descriptionEn=The pennant bears the crest of Cadomyr
 258;173;631;333
@@ -24369,7 +24366,7 @@
 230;179;1782;333
 238;179;1812;333
 244;179;273;333
-251;179;3082;333;descriptionDe=Kapelle der Fünf, Wachwald, Wichtkanal, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Runewick, The Southeast
+251;179;3082;333;descriptionDe=Kapelle der Fünf, Wachtwald, Wichtkanal, Spinnenmund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Chapel of the Five, Sentry Forest, Wight Canal, Mount Snakehead, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Runewick, The Southeast
 256;179;1810;333
 275;179;1782;333
 297;179;3264;333
@@ -25952,6 +25949,7 @@
 487;189;287;333
 488;189;629;333
 489;189;622;333
+495;189;4310;333
 496;189;627;333
 497;189;623;333
 498;189;287;333
@@ -26099,6 +26097,7 @@
 498;190;287;333
 498;190;287;333
 502;190;1246;333
+503;190;4310;333
 504;190;553;333
 505;190;1254;333
 506;190;623;333
@@ -27013,6 +27012,7 @@
 484;196;1790;333
 485;196;1251;333
 486;196;1254;333
+487;196;4310;333
 488;196;415;333
 489;196;623;333
 490;196;287;333
@@ -29345,6 +29345,7 @@
 495;213;622;333
 496;213;622;333
 497;213;628;333
+499;213;4310;333
 500;213;418;333
 502;213;623;333
 503;213;287;333
@@ -33399,7 +33400,6 @@
 87;251;274;333
 93;251;274;333
 94;251;14;333
-100;251;1171;333;chickenNest=true
 108;251;301;333
 119;251;387;333
 127;251;273;333
@@ -37082,7 +37082,6 @@
 118;281;338;333
 128;281;1782;333
 137;281;1817;333
-142;281;1171;333;chickenNest=true
 144;281;1782;333
 149;281;1783;333
 152;281;1246;333
@@ -37210,7 +37209,7 @@
 476;282;635;333
 476;282;396;333
 479;282;273;333
-481;282;3084;333;descriptionDe=Wachstützpunkt\; Leuchtturm\; Galmair\; Runewick;descriptionEn=Sentry Outpost\; Lighthouse\; Galmair\; Runewick
+481;282;3084;333;descriptionDe=Wachstützpunkt\; Katanbiwüste\; Galmair\; Runewick;descriptionEn=Sentry Outpost\; Lighthouse\; Galmair\; Runewick
 485;282;273;333
 487;282;1783;333
 489;282;1783;333
@@ -37362,8 +37361,8 @@
 433;284;1817;333
 435;284;274;333
 438;284;1782;333
-461;284;3083;333;descriptionDe=Katanbi Wüste, Westliche Katanbi Wüste, Cadomyr;descriptionEn=Katanbi Desert, Western Katanbi Desert, Cadomyr
-463;284;3084;333;descriptionDe=Wachwald, Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elstree Ebene, Spinnen Mund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Sentry Forest, Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Three Fingertips, Runewick, The Southeast
+461;284;3083;333;descriptionDe=Katanbiwüste, Westliche Katanbiwüste, Cadomyr;descriptionEn=Katanbi Desert, Western Katanbi Desert, Cadomyr
+463;284;3084;333;descriptionDe=Wachtwald, Leuchttrum, Feuerlimes, Wichtkanal, Schlangenkopfberg, Elsbaumebene, Spinnenmund, Gasthof zur Hanfschlinge, Galmair, Norden, Runewick, Südosten;descriptionEn=Sentry Forest, Lighthouse, Firelimes, Wight Canal, Mount Snakehead, Elstree Plain, Spider's Mouth, The Hemp Necktie Inn, Galmair, The North, Three Fingertips, Runewick, The Southeast
 468;284;1783;333
 474;284;276;333
 474;284;276;333
@@ -39370,7 +39369,6 @@
 286;318;627;333
 287;318;626;333
 288;318;1246;333
-294;318;1171;333;chickenNest=true
 295;318;627;333
 296;318;626;333
 297;318;1783;333
@@ -39662,7 +39660,6 @@
 116;325;261;333
 117;325;1792;333
 151;325;1810;333
-152;325;1171;333;chickenNest=true
 156;325;1245;333
 157;325;12;333
 158;325;1276;333
@@ -39859,6 +39856,7 @@
 157;332;274;333
 239;332;1176;333
 247;332;910;333
+245;333;4312;333
 256;333;1176;333
 259;333;598;333
 158;334;338;333
@@ -39869,6 +39867,7 @@
 246;335;338;333
 254;335;338;333
 259;335;597;333
+261;335;4312;333
 247;336;1810;333
 251;336;912;333
 243;337;1783;333
@@ -39886,6 +39885,7 @@
 252;339;301;333
 253;339;3262;333
 256;339;338;333
+245;340;4312;333
 246;340;301;333
 252;340;301;333
 253;340;3264;333
@@ -39903,6 +39903,7 @@
 254;342;628;333
 242;343;627;333
 243;343;626;333
+253;343;4312;333
 254;343;301;333
 256;343;1783;333
 241;344;3262;333
@@ -39943,6 +39944,7 @@
 355;349;1360;333
 356;349;3326;333
 356;349;1360;333
+248;350;4312;333
 249;350;301;333
 250;350;301;333
 253;350;338;333

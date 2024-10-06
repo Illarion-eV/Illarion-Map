@@ -3642,7 +3642,6 @@
 479;145;1783;333
 482;145;585;333
 497;145;1782;333
-499;145;1171;333;chickenNest=true
 510;145;338;333
 0;146;287;333
 46;146;287;333
@@ -14045,12 +14044,14 @@
 437;233;2586;333
 438;233;3743;333
 440;233;1790;333
+444;233;1171;333
 446;233;629;333
 447;233;628;333
 453;233;273;333
 454;233;1782;333
 455;233;928;333
 457;233;1176;333
+460;233;1171;333
 477;233;274;333
 478;233;301;333
 484;233;629;333
@@ -14140,6 +14141,7 @@
 439;234;1817;333
 442;234;1783;333
 442;234;14;333
+446;234;1171;333
 451;234;1783;333
 457;234;1783;333
 459;234;273;333
@@ -15622,7 +15624,7 @@
 350;248;287;333
 351;248;855;333
 352;248;855;333
-353;248;863;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
+353;248;863;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Tavern;lockId=103;doorLock=unlocked
 354;248;855;333
 355;248;855;333
 356;248;854;333
@@ -16288,7 +16290,7 @@
 391;254;3874;333
 392;254;274;333
 397;254;1782;333
-398;254;3082;333;descriptionDe=Zensusbüro, Gasthof zum schläfrigen Bujhaar, Werkstatt, Tollloch, Schürfers Club, Malachitmine, Galmair Hochebene, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Census Office, Sleepy Bujhaar Inn, Workshop, Sports Hole, Malachite Creek, Malachite Mine, Galmair Plateau, Cadomyr, Katanbi Desert, Shadowland
+398;254;3082;333;descriptionDe=Zensusbüro, Gasthof zum schläfrigen Bujhaar, Werkstatt, Tollloch, Schürfers Club, Malachitmine, Galmair Hochebene, Cadomyr, Katanbiwüste, Schattenland;descriptionEn=Census Office, Sleepy Bujhaar Inn, Workshop, Sports Hole, Malachite Creek, Malachite Mine, Galmair Plateau, Cadomyr, Katanbi Desert, Shadowland
 402;254;513;333
 403;254;1273;333
 404;254;1245;333
@@ -20720,6 +20722,7 @@
 422;305;1276;333
 423;305;628;333
 425;305;338;333
+430;305;1171;333
 441;305;586;333
 455;305;301;333
 456;305;623;333
@@ -23567,7 +23570,7 @@
 376;347;1278;333
 377;347;1278;333
 385;347;273;333
-387;347;3084;333;descriptionDe=Schürfers Club, Schürfers Quelle, Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Malachite Creek, Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
+387;347;3084;333;descriptionDe=Schürfers Club, Schürfers Quelle, Malachitmine, Cadomyr, Katanbiwüste, Schattenland;descriptionEn=Malachite Creek, Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
 395;347;1782;333
 398;347;274;333
 407;347;615;333
@@ -25090,7 +25093,7 @@
 414;358;396;333
 419;358;1783;333
 419;358;3081;333;descriptionEn=Magic of Malachite;descriptionDe=Magie des Malachit
-420;358;3084;333;descriptionDe=Malachitmine, Cadomyr, Katanbi Wüste, Schattenland;descriptionEn=Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
+420;358;3084;333;descriptionDe=Malachitmine, Cadomyr, Katanbiwüste, Schattenland;descriptionEn=Malachite Mine, Cadomyr, Katanbi Desert, Shadowland
 424;358;1783;333
 425;358;273;333
 426;358;914;333
@@ -27033,7 +27036,7 @@
 409;371;232;333
 412;371;1783;333
 418;371;914;333
-418;371;3082;333;descriptionDe=Cadomyr, Katanbi Wüste, Schattenland - Gefahr!;descriptionEn=Cadomyr, Katanbi Desert, Shadowland - Danger!
+418;371;3082;333;descriptionDe=Cadomyr, Katanbiwüste, Schattenland - Gefahr!;descriptionEn=Cadomyr, Katanbi Desert, Shadowland - Danger!
 419;371;2927;333
 421;371;158;333
 422;371;232;333
@@ -34931,7 +34934,6 @@
 478;433;387;333
 479;433;387;333
 482;433;1804;333
-502;433;1171;333;chickenNest=true
 503;433;161;333
 504;433;3743;333
 505;433;1783;333
@@ -42074,8 +42076,10 @@
 225;500;1782;333
 230;500;911;333
 231;500;274;333
+231;500;4315;333
 232;500;1247;333
 238;500;1782;333
+243;500;4315;333
 244;500;1810;333
 254;500;1245;333
 255;500;1247;333
@@ -42302,6 +42306,7 @@
 227;502;627;333
 228;502;626;333
 229;502;1782;333
+230;502;4315;333
 231;502;1247;333
 254;502;1782;333
 258;502;1783;333
@@ -42708,6 +42713,7 @@
 222;506;1782;333
 230;506;386;333
 236;506;1793;333
+236;506;4315;333
 239;506;273;333
 246;506;913;333
 254;506;274;333
@@ -42884,6 +42890,7 @@
 231;508;274;333
 234;508;1783;333
 236;508;1792;333
+238;508;4315;333
 239;508;1792;333
 247;508;1782;333
 270;508;274;333
@@ -42965,6 +42972,7 @@
 221;509;1782;333
 224;509;273;333
 231;509;1810;333
+235;509;4315;333
 236;509;1792;333
 239;509;911;333
 240;509;301;333
@@ -43356,6 +43364,7 @@
 236;511;1794;333
 237;511;1795;333
 238;511;1794;333
+239;511;4315;333
 264;511;1783;333
 267;511;914;333
 268;511;1783;333

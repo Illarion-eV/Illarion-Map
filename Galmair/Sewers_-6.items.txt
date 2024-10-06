@@ -4908,7 +4908,7 @@
 106;105;976;333
 107;105;976;333
 108;105;976;333
-108;105;3082;333;descriptionDe=Tempel des Ronagan and Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan and Winged Sow Taverne
+108;105;3082;333;descriptionDe=Tempel des Ronagan und Taverne zur Geflügelten Sau;descriptionEn=Temple of Ronagan and Winged Sow Tavern
 109;105;976;333
 109;105;692;333
 110;105;976;333
@@ -5367,8 +5367,8 @@
 110;110;3204;333
 111;110;3174;333
 111;110;3204;333
-112;110;3200;333;lockId=103;doorLock=unlocked;descriptionEn=Temple of Ronagan and Winged Sow Taverne;descriptionDe=Tempel des Ronagan and Taverne zur Geflügelten Sau
-113;110;3200;333;lockId=103;doorLock=unlocked;descriptionEn=Temple of Ronagan and Winged Sow Taverne;descriptionDe=Tempel des Ronagan and Taverne zur Geflügelten Sau
+112;110;3200;333;lockId=103;doorLock=unlocked;descriptionEn=Temple of Ronagan and Winged Sow Tavern;descriptionDe=Tempel des Ronagan und Taverne zur Geflügelten Sau
+113;110;3200;333;lockId=103;doorLock=unlocked;descriptionEn=Temple of Ronagan and Winged Sow Tavern;descriptionDe=Tempel des Ronagan und Taverne zur Geflügelten Sau
 114;110;3207;333
 114;110;3204;333
 115;110;513;333
@@ -8903,8 +8903,8 @@
 113;159;287;333
 135;159;287;333
 136;159;287;333
-137;159;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
-138;159;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Taverne;lockId=103;doorLock=unlocked
+137;159;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Tavern;lockId=103;doorLock=unlocked
+138;159;3200;333;descriptionDe=Taverne zur Geflügelten Sau;descriptionEn=Winged Sow Tavern;lockId=103;doorLock=unlocked
 139;159;287;333
 140;159;287;333
 141;159;287;333
