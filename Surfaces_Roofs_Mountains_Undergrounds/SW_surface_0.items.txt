@@ -5679,7 +5679,7 @@
 126;39;2079;333
 130;39;3245;333
 131;39;267;333;book1=a_hermit_on_the_lookout_for_eldan;book2=petition_in_the_name_of_findari;book3=petition_for_zelphia;book4=usharas_garden;book5=saint_cornelius
-135;39;663;333
+135;39;3503;333
 138;39;661;333
 141;39;3247;333
 142;39;287;333
