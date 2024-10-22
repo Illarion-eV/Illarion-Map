@@ -3043,7 +3043,7 @@
 132;86;287;333
 138;86;287;333
 139;86;3205;333
-146;86;3502;333;rareness=3;nameDe=Sarangerels Notizen;nameEn=Sarangerel's Notes
+146;86;3502;333;rareness=3;nameDe=Sarangerels Notizen;nameEn=Sarangerel's Notes;decorative=true
 147;86;3207;333
 154;86;3283;333;descriptionDe=Wohnung Adron;descriptionEn=Flat Adron;lockId=122;doorLock=locked
 163;86;276;333
