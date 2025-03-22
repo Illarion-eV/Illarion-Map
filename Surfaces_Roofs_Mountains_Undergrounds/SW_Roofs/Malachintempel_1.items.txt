@@ -125,7 +125,7 @@
 8;11;952;333
 10;11;1862;333
 13;11;3654;333
-16;11;3753;333
+16;11;3753;333;descriptionEn=The temple of Malachin was rebuilt by Countess Annabeth of House Desert Fox in the year 48.;descriptionDe=Der Tempel von Malachin wurde im Jahr 48 von Gräfin Annabeth aus dem Haus Desert Fox wiederaufgebaut.
 19;11;952;333
 20;11;689;333
 20;11;691;333

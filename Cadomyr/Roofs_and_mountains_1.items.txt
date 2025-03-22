@@ -3462,7 +3462,7 @@
 146;61;287;333
 147;61;3245;333
 148;61;295;333
-150;61;3753;333
+150;61;3753;333;descriptionEn=The training hall of Cadomyr, built by Countess Annabeth of house Desert Fox in the year 44.;descriptionDe=Die Trainingshalle von Cadomyr, erbaut im Jahr 44 von Gräfin Annabeth aus dem Haus Desert Fox.
 160;61;396;333
 167;61;3247;333
 167;61;1069;333

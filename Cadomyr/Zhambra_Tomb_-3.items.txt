@@ -272,6 +272,7 @@
 43;57;694;333
 45;57;1102;333
 45;57;396;333
+45;57;3753;333;descriptionEn=The noble tomb of Cadomyr was built by Countess Katharina Brightrim of house Desert Fox in the year 60.;descriptionDe=Das edle Grabmal von Cadomyr wurde im Jahr 60 von Gräfin Katharina Brightrim aus dem Haus Desert Fox erbaut.
 38;58;1101;333
 45;58;1102;333
 38;59;1101;333
