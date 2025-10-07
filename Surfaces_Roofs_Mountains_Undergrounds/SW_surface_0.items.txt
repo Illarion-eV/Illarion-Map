@@ -5186,7 +5186,7 @@
 135;36;2852;333
 136;36;266;333;book1=cadomyr_on_cadomyr;book2=cadomyr_on_galmair;book3=cadomyr_on_runewick
 138;36;266;333;book1=gods1;book2=gods2;book3=god_malachin;book4=god_sirani;book5=god_zhambra;book6=calendar;book7=fragment_of_the_manrok_chronicles;book8=god_cherga
-140;36;266;333;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=halfling_culture_and_history;book4=dwarven_history_and_culture;book5=lizardmen_history_and_culture;book6=orcish_history_and_culture;book7=dictionary_orc
+140;36;266;333;book1=the_history_of_illarion;book2=the_history_of_the_gods;book3=the_history_of_the_mortals;book4=cultures_of_the_humans;book5=elven_history_and_culture;book6=halfling_culture_and_history;book7=dwarven_history_and_culture;book8=lizardmen_history_and_culture;book9=orcish_history_and_culture;book10=dictionary_orc
 141;36;3247;333
 142;36;287;333
 167;36;287;333

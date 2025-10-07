@@ -35967,7 +35967,7 @@
 182;323;320;333
 184;323;952;333
 185;323;3299;333
-186;323;267;333;book1=dwarven_history_and_culture;book2=art_of_trade;book3=orcish_history_and_culture;book4=fairy;book5=ways_to_cherga;book6=arcane_runes_encyclopedia
+186;323;267;333;book1=dwarven_history_and_culture;book2=art_of_trade;book3=orcish_history_and_culture;book4=fairy;book5=ways_to_cherga;book6=arcane_runes_encyclopedia;book7=the_history_of_illarion;book8=the_history_of_the_gods;book9=the_history_of_the_mortals
 192;323;320;333
 192;323;2852;333
 195;323;320;333

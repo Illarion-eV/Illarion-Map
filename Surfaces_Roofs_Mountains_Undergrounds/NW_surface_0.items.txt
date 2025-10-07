@@ -12064,7 +12064,7 @@
 358;217;661;333
 359;217;875;333
 359;217;954;333
-360;217;266;333;book1=cultures_of_the_humans;book2=elven_history_and_culture;book3=dwarven_history_and_culture;book4=orcish_history_and_culture;book5=blud_an_fiar_ork_magik;book6=about_flame_orks
+360;217;266;333;;book1=the_history_of_illarion;book2=the_history_of_the_gods;book3=the_history_of_the_mortals;book4=cultures_of_the_humans;book5=elven_history_and_culture;book6=dwarven_history_and_culture;book7=orcish_history_and_culture;book8=blud_an_fiar_ork_magik;book9=about_flame_orks
 362;217;266;333;book1=god_bragon;book2=god_eldan;book3=god_findari;book4=god_tanora;book5=god_ushara;book6=god_cherga;book7=god_irmorom;book8=god_nargun;book9=god_ronagan
 364;217;266;333;book1=festival_relationships;book2=about_the_humans_by_thomas_berryard;book3=historysilverbrand
 375;217;267;333;book1=slimes;book2=alchemy;book3=magic_gems;book4=weightsandmeasures;book5=the_steps_of_alchemy
