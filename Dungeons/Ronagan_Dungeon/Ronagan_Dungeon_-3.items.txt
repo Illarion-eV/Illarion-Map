@@ -267,7 +267,6 @@
 4;6;613;333
 5;6;1245;333
 6;6;1245;333
-11;6;411;333
 12;6;2039;333
 13;6;3101;333
 16;6;35;333
@@ -436,7 +435,6 @@
 14;12;1783;333
 15;12;1783;333
 16;12;1783;333
-17;12;417;333
 18;12;623;333
 19;12;287;333
 20;12;613;333
@@ -667,7 +665,6 @@
 25;20;1074;333;descriptionEn=This looks to have been torn right off a wall in Galmair as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Galmair gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.;ronaganTrap=true
 26;20;1272;333
 27;20;1082;333;descriptionEn=This looks to have been torn right off a wall in Runewick as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Runewick gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.;ronaganTrap=true
-28;20;411;333
 28;20;1783;333
 29;20;1066;333;descriptionEn=This looks to have been torn right off a wall in Cadomyr as bits of old wall are proudly displayed along with the shield.;descriptionDe=Dies scheint direkt von einer Wand in Cadomyr gerissen worden zu sein. Teile der alten Wand werden stolz zusammen mit dem Schild zur Schau gestellt.;ronaganTrap=true
 30;20;1265;333
@@ -727,7 +724,6 @@
 15;23;613;333
 16;23;1246;333
 18;23;1246;333
-19;23;408;333
 20;23;613;333
 25;23;3101;333
 30;23;2039;333

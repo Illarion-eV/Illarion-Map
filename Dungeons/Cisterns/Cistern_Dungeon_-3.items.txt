@@ -43,7 +43,6 @@
 3;1;622;333
 4;1;622;333
 5;1;622;333
-6;1;411;333
 6;1;622;333
 7;1;622;333
 8;1;622;333
@@ -62,7 +61,6 @@
 19;1;622;333
 20;1;622;333
 21;1;622;333
-22;1;411;333
 23;1;622;333
 24;1;287;333
 0;2;287;333
@@ -70,7 +68,6 @@
 9;2;3101;333
 14;2;619;333
 15;2;619;333
-16;2;411;333
 17;2;3098;333
 21;2;498;333
 23;2;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=3
@@ -148,11 +145,9 @@
 23;10;623;333
 24;10;287;333
 0;11;287;333
-1;11;411;333
 2;11;3098;333
 4;11;2745;333;descriptionDe=Diese Papierreste riechen nach Tabak.;descriptionEn=The paper fragments smell of tobacco.
 6;11;407;333
-11;11;411;333
 11;11;3101;333
 13;11;420;333
 14;11;66;333;markerstone=543
@@ -166,7 +161,6 @@
 12;12;3098;333
 17;12;617;333
 18;12;56;333
-19;12;411;333
 21;12;421;333
 23;12;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=1
 24;12;287;333
@@ -182,7 +176,6 @@
 15;14;3097;333
 18;14;3100;333
 22;14;2745;333;descriptionEn=This parchment is the shredded remains of a page from Dagbladden.;descriptionDe=Dieses Pergment ist das zerfetzte Überbleibsel einer Seite des Dagbladden.
-23;14;411;333
 24;14;287;333
 0;15;287;333
 3;15;421;333
@@ -244,7 +237,6 @@
 21;22;915;333
 0;23;287;333
 0;23;287;333
-4;23;411;333
 6;23;3101;333
 10;23;3099;333
 0;24;287;333
