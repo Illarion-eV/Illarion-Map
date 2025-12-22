@@ -504,7 +504,7 @@
 1;21;599;333
 2;21;1783;333
 43;21;12;333
-45;21;2170;333;descriptionEn=The word "BARTIMAEUS" has been carved into the log.;descriptionDe=In den Holzscheit ist das wort "BARTMAEUS" eingeritzt.
+45;21;1157;333;descriptionEn=The word "BARTIMAEUS" has been carved into the log.;descriptionDe=In den Holzscheit ist das wort "BARTMAEUS" eingeritzt.
 47;21;630;333
 48;21;287;333
 49;21;287;333
