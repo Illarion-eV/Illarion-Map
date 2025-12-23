@@ -119,7 +119,6 @@
 29;2;630;333
 30;2;628;333
 32;2;1273;333
-33;2;421;333
 35;2;3095;333
 35;2;3095;333
 37;2;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=9
@@ -221,7 +220,6 @@
 20;10;2786;333
 21;10;1250;333
 22;10;3098;333
-24;10;421;333
 32;10;422;333
 39;10;287;333
 0;11;287;333
@@ -310,7 +308,6 @@
 2;17;628;333
 10;17;3101;333
 12;17;56;333
-18;17;421;333
 20;17;1197;333
 31;17;3097;333
 33;17;56;333
@@ -343,7 +340,6 @@
 6;20;3097;333
 9;20;2745;333;descriptionEn=This appears to be the title page for the book 'Brewyn the Liar'.;descriptionDe=Dies scheint die Titelseite des Buchs 'Brewyn der Lügner' zu sein.
 25;20;3098;333
-26;20;421;333
 36;20;623;333
 36;20;625;333
 37;20;287;333
@@ -435,7 +431,6 @@
 18;29;1783;333
 23;29;2745;333;descriptionEn=This appears to be the title page for the book 'Making Candles'.;descriptionDe=Dies scheint die Titelseite des Buchs 'Kerzenherstellung' zu sein.
 25;29;3099;333
-27;29;421;333
 30;29;1783;333
 35;29;726;333
 39;29;287;333
@@ -472,7 +467,6 @@
 38;32;623;333
 39;32;287;333
 0;33;287;333
-11;33;421;333
 19;33;1783;333
 32;33;3098;333
 34;33;3097;333

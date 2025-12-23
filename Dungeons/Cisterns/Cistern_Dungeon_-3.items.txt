@@ -100,10 +100,8 @@
 12;5;615;333
 15;5;3099;333
 17;5;3101;333
-19;5;421;333
 23;5;616;333
 24;5;1278;333
-7;6;421;333
 12;6;616;333
 16;6;407;333
 23;6;617;333
@@ -161,7 +159,6 @@
 12;12;3098;333
 17;12;617;333
 18;12;56;333
-21;12;421;333
 23;12;2493;333;nameDe=vergiftete Möhren;nameEn=poisoned carrots;lookatNoPrice=1;lookatNoWeight=1;RatQuestRunewick=1
 24;12;287;333
 0;13;287;333
@@ -178,7 +175,6 @@
 22;14;2745;333;descriptionEn=This parchment is the shredded remains of a page from Dagbladden.;descriptionDe=Dieses Pergment ist das zerfetzte Überbleibsel einer Seite des Dagbladden.
 24;14;287;333
 0;15;287;333
-3;15;421;333
 6;15;616;333
 11;15;621;333
 12;15;620;333
@@ -193,7 +189,6 @@
 7;16;498;333
 8;16;3100;333
 11;16;407;333
-16;16;421;333
 20;16;420;333
 21;16;3101;333
 23;16;623;333
