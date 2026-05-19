@@ -19843,6 +19843,7 @@
 449;292;4242;333
 450;292;4242;333
 462;292;1782;333
+449;291;1808;333;nameDe=Der Wurstbaum;nameEn=The Sausage Tree;descriptionDe=Ein mysteriöser, gesegneter Baum, der von Zeit zu Zeit Würste anstelle von Früchten zu tragen scheint.;descriptionEn=A mysterious, blessed tree that seems to bear sausages instead of fruits, from time to time.;rareness=3
 463;292;623;333
 464;292;287;333
 465;292;287;333
