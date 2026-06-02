@@ -23232,7 +23232,7 @@
 375;294;889;599
 376;294;899;599
 376;294;301;599
-377;294;273;599
+377;294;3081;333;descriptionDe=Norden: Fakultät der Natur und Alchemie, Hospital und Insel des Feuers;descriptionEn=North: Faculty of Nature and Alchemy, Hospital and Island of Fire
 381;294;690;599
 382;294;642;599
 384;294;880;333
@@ -23300,7 +23300,6 @@
 375;295;1254;599
 376;295;877;599
 377;295;877;599
-379;295;3081;333;descriptionDe=Norden: Fakultät der Natur und Alchemie, Hospital und Insel des Feuers;descriptionEn=North: Faculty of Nature and Alchemy, Hospital and Island of Fire
 381;295;690;599
 382;295;634;599
 385;295;1219;333
@@ -23932,8 +23931,6 @@
 298;302;1096;599
 309;302;1783;599
 310;302;626;599
-322;302;301;599
-326;302;301;599
 339;302;273;333
 340;302;273;333
 344;302;3081;333;descriptionDe=Friedwald;descriptionEn=Forest graveyard
@@ -24050,10 +24047,6 @@
 319;303;66;599;markerstone=225
 320;303;273;599
 321;303;338;333
-322;303;301;599
-323;303;301;599
-325;303;301;599
-326;303;301;599
 338;303;273;333
 339;303;273;333
 344;303;396;333
