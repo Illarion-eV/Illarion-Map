@@ -23832,6 +23832,7 @@
 324;301;3107;599;staticTeleporter=true
 328;301;274;599
 338;301;150;333
+344;301;3081;333;descriptionDe=Friedwald;descriptionEn=Forest graveyard
 345;301;273;333
 347;301;273;333
 350;301;960;333
@@ -23933,7 +23934,8 @@
 310;302;626;599
 339;302;273;333
 340;302;273;333
-344;302;3081;333;descriptionDe=Friedwald;descriptionEn=Forest graveyard
+344;302;396;333
+345;302;3084;333;descriptionDe=Akedemie und Stadt Runewick;descriptionEn=Academy and Town of Runewick
 354;302;1080;599
 355;302;3254;599
 355;302;396;599
@@ -24049,8 +24051,6 @@
 321;303;338;333
 338;303;273;333
 339;303;273;333
-344;303;396;333
-345;303;3084;333;descriptionDe=Akedemie und Stadt Runewick;descriptionEn=Academy and Town of Runewick
 355;303;3155;599
 356;303;3143;599
 357;303;3143;599
