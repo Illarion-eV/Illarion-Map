@@ -7329,7 +7329,6 @@
 395;184;854;333
 395;184;404;333
 396;184;287;333
-396;184;287;333
 397;184;287;333
 397;184;287;333
 398;184;287;333
@@ -19778,6 +19777,7 @@
 431;291;1783;333
 438;291;338;333
 448;291;4242;333
+449;291;1808;333;nameDe=Der Wurstbaum;nameEn=The Sausage Tree;descriptionDe=Ein mysteriöser, gesegneter Baum, der von Zeit zu Zeit Würste anstelle von Früchten zu tragen scheint.;descriptionEn=A mysterious, blessed tree that seems to bear sausages instead of fruits, from time to time.;rareness=3
 450;291;4242;333
 463;291;627;333
 464;291;623;333
@@ -19843,7 +19843,6 @@
 449;292;4242;333
 450;292;4242;333
 462;292;1782;333
-449;291;1808;333;nameDe=Der Wurstbaum;nameEn=The Sausage Tree;descriptionDe=Ein mysteriöser, gesegneter Baum, der von Zeit zu Zeit Würste anstelle von Früchten zu tragen scheint.;descriptionEn=A mysterious, blessed tree that seems to bear sausages instead of fruits, from time to time.;rareness=3
 463;292;623;333
 464;292;287;333
 465;292;287;333
