@@ -4546,6 +4546,7 @@
 197;80;874;333
 197;80;873;333
 198;80;856;333
+210;80;876;333
 210;80;2850;333
 211;80;853;333
 211;80;551;333
@@ -4850,6 +4851,7 @@
 207;82;3911;333
 208;82;3911;333
 211;82;3911;333
+212;82;876;333
 212;82;3911;333
 213;82;853;333
 213;82;748;333;descriptionDe=Das Gemälde zeigt einen gewöhnlichen Hanfsack mit der Stickerei 'Mehl' vor einem blauen Hintergrund. Es ist zu erkennen, dass der Sack voll Mehl ist. Ganz weit rechts unten steht in geschwungenen Buchstaben, 'Rievira'.;descriptionEn=The painting displays a simple hemp sack with the word 'flour' stitched onto it, against a blue background. The sack in the painting does indeed appear to contain flour, and down in the far right corner a name is written in cursive with ink,'Rievira'
@@ -6775,6 +6777,7 @@
 236;102;3179;333
 243;102;1254;333
 248;102;856;333
+253;102;854;333
 262;102;864;333
 263;102;606;333
 264;102;603;333
@@ -7477,6 +7480,7 @@
 251;112;855;333
 252;112;855;333
 253;112;856;333
+253;112;873;333
 273;112;3193;333
 275;112;3195;333
 275;112;3194;333
@@ -7851,7 +7855,9 @@
 151;131;628;333
 152;131;273;333
 256;131;1276;333
-257;131;870;333
+257;131;876;333
+257;131;853;333
+257;131;856;333
 264;131;858;333
 265;131;1245;333
 266;131;1246;333
@@ -11180,6 +11186,7 @@
 167;217;2876;333
 169;217;2878;333
 170;217;856;333
+170;217;873;333
 175;217;856;333
 177;217;220;333
 177;217;2851;333
